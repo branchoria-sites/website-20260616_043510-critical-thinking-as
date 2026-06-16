@@ -1,0 +1,52 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 175,
+    "max_level": 3,
+    "deep_report_count": 149,
+    "level_1_count": 1,
+    "level_counts": {
+      "1": 1,
+      "2": 25,
+      "3": 149
+    },
+    "max_children_any_node": 25,
+    "p90_children": 6,
+    "p90_topic_children": 25,
+    "avg_children": 6.69,
+    "primary_branch_count": 25,
+    "visible_nodes_depth_2": 26,
+    "visible_nodes_depth_3": 175,
+    "max_depth": 2,
+    "max_breadth": 149,
+    "breadth_by_depth": {
+      "0": 1,
+      "1": 25,
+      "2": 149
+    },
+    "p90_title_length": 16,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 1
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": true,
+    "topic_labels": [
+      "Can You Trust What Found You Online?"
+    ]
+  },
+  "selected": {
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "hybrid",
+    "palette": "north-atlantic",
+    "motif": "constellation"
+  },
+  "candidates": []
+}

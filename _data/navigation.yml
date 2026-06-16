@@ -1,0 +1,552 @@
+sidebar_generated:
+- title: Think Before Sharing
+  title_full: Can You Trust What Found You Online?
+  url: /critical-thinking-in-the-age-of-social/
+  children:
+  - title: Accuracy Nudge
+    title_full: Can One Pause Stop a False Share?
+    url: /accuracy-nudge/
+    children:
+    - title: Backfire Risk
+      title_full: When More Attention Does Not Mean Better Judgement
+      url: /backfire-risk/
+    - title: Best Timing
+      title_full: The Best Moment to Slow a Viral Claim
+      url: /best-timing/
+    - title: Evidence
+      title_full: How Much Do Accuracy Prompts Actually Help?
+      url: /evidence/
+    - title: Notes Timing
+      title_full: What Community Notes Teach About Acting Early
+      url: /notes-timing/
+    - title: Nudge Design
+      title_full: How to Ask About Accuracy Without Scolding
+      url: /nudge-design/
+    - title: Sharing Gap
+      title_full: Why We Share Claims We Doubt
+      url: /sharing-gap/
+  - title: AI Tutors
+    title_full: Should You Trust a Chatbot Tutor?
+    url: /ai-tutors/
+    children:
+    - title: Citation Checks
+      title_full: Do AI Citations Prove Anything?
+      url: /citation-checks-5afce1/
+    - title: False Confidence
+      title_full: Why Wrong AI Answers Sound Right
+      url: /false-confidence/
+    - title: Grounded AI
+      title_full: Can Grounded AI Still Be Wrong?
+      url: /grounded-ai/
+    - title: Overreliance
+      title_full: When AI Tutoring Becomes a Shortcut
+      url: /overreliance/
+    - title: Source First
+      title_full: When Should You Search Instead?
+      url: /source-first/
+    - title: Tutor Help
+      title_full: When Do Chatbot Tutors Actually Help?
+      url: /tutor-help/
+  - title: AI Virality
+    title_full: Why AI Misinformation Travels So Easily
+    url: /ai-virality/
+    children:
+    - title: AI Detectors
+      title_full: Why AI detection keeps getting harder
+      url: /ai-detectors/
+    - title: Funny Fakes
+      title_full: Why funny AI fakes travel so fast
+      url: /funny-fakes/
+    - title: Notes Data
+      title_full: What Community Notes can and cannot prove
+      url: /notes-data/
+    - title: Pope Puffer
+      title_full: The fake puffer jacket that tested everyone
+      url: /pope-puffer-6a4060/
+    - title: Small Accounts
+      title_full: Why small accounts can make big fakes
+      url: /small-accounts/
+    - title: Spread vs Belief
+      title_full: Viral does not mean believed
+      url: /spread-vs-belief/
+  - title: Community Notes
+    title_full: Can the Crowd Correct the Feed?
+    url: /community-notes/
+    children:
+    - title: AI Scale
+      title_full: Can human notes keep up with AI fakes?
+      url: /ai-scale/
+    - title: Bridging
+      title_full: Can disagreement make notes more trustworthy?
+      url: /bridging/
+    - title: Fact Checks
+      title_full: Can crowd notes replace fact checkers?
+      url: /fact-checks/
+    - title: Late Notes
+      title_full: Why corrections often arrive after the damage
+      url: /late-notes/
+    - title: No Note
+      title_full: Why silence under a post proves nothing
+      url: /no-note/
+    - title: Source Check
+      title_full: How to read the source behind a note
+      url: /source-check/
+  - title: Corroboration
+    title_full: Who Else Can Confirm This Claim?
+    url: /corroboration/
+    children:
+    - title: Crisis Rules
+      title_full: Can platforms slow rumours in a crisis?
+      url: /crisis-rules/
+    - title: False Echoes
+      title_full: Why many posts can mean one source
+      url: /false-echoes/
+    - title: Risk Triggers
+      title_full: When one source is not enough
+      url: /risk-triggers/
+    - title: Safety Claims
+      title_full: Checking danger before sharing warnings
+      url: /safety-claims/
+    - title: Source Trail
+      title_full: Who really started the claim?
+      url: /source-trail/
+    - title: Southport Case
+      title_full: When false identity claims become dangerous
+      url: /southport-case/
+  - title: Deepfakes
+    title_full: How to Check a Voice or Video Claim
+    url: /deepfakes/
+    children:
+    - title: Biden Robocall
+      title_full: What the Biden Robocall Case Teaches
+      url: /biden-robocall/
+    - title: Credentials
+      title_full: What Provenance Labels Really Prove
+      url: /credentials/
+    - title: Detector Scores
+      title_full: Why AI Detectors Are Not Verdicts
+      url: /detector-scores/
+    - title: First Upload
+      title_full: Where Did That Deepfake Clip Start?
+      url: /first-upload/
+    - title: Video Fraud
+      title_full: Seeing Them on a Call Is Not Enough
+      url: /video-fraud/
+    - title: Voice Scams
+      title_full: When a Loved One's Voice Is Not Proof
+      url: /voice-scams/
+  - title: Emotional Posts
+    title_full: Why Outrage Is Not Evidence
+    url: /emotional-posts/
+    children:
+    - title: AI polish
+      title_full: Why polished AI fakes feel more credible
+      url: /ai-polish/
+    - title: Fear urgency
+      title_full: When fear turns speed into a trap
+      url: /fear-urgency/
+    - title: Moral pressure
+      title_full: When checking facts feels socially risky
+      url: /moral-pressure/
+    - title: Outrage
+      title_full: Why outrage feels like proof online
+      url: /outrage/
+    - title: Pride claims
+      title_full: The flattering posts that bypass doubt
+      url: /pride-claims/
+    - title: Social rewards
+      title_full: How platforms reward louder moral posts
+      url: /social-rewards/
+  - title: Evidence Types
+    title_full: Not All Evidence Deserves Equal Weight
+    url: /evidence-types/
+    children:
+    - title: Community Notes
+      title_full: Can crowdsourced context be trusted?
+      url: /community-notes-cd6cad/
+    - title: Data Voids
+      title_full: When search results go empty
+      url: /data-voids/
+    - title: Eyewitness Posts
+      title_full: The first clip is not the full story
+      url: /eyewitness-posts/
+    - title: Official Records
+      title_full: When screenshots are not enough
+      url: /official-records/
+    - title: Regulator Notices
+      title_full: What a warning letter really proves
+      url: /regulator-notices/
+    - title: Viral Charts
+      title_full: Before you trust the chart
+      url: /viral-charts/
+  - title: Fake Authority
+    title_full: When Official Looking Posts Are Not Official
+    url: /fake-authority/
+    children:
+    - title: Correction Lag
+      title_full: Why Local Corrections Arrive Too Late
+      url: /correction-lag/
+    - title: Fake Notices
+      title_full: When a Council Notice Is Not Real
+      url: /fake-notices/
+    - title: Parking Scams
+      title_full: When a Fine Message Borrows Authority
+      url: /parking-scams/
+    - title: Quote Cards
+      title_full: Did They Really Say That Locally?
+      url: /quote-cards/
+    - title: Safety Warnings
+      title_full: Pause Before Sharing Emergency Screenshots
+      url: /safety-warnings/
+    - title: Screenshots
+      title_full: Why Screenshots Make Rumours Look Official
+      url: /screenshots-241b2f/
+  - title: Hallucinations
+    title_full: Why Fluent AI Answers Still Need Checking
+    url: /hallucinations/
+    children:
+    - title: Bad Citations
+      title_full: When AI Citations Look Real but Fail
+      url: /bad-citations/
+    - title: Fake References
+      title_full: What Fake AI References Do to Research
+      url: /fake-references/
+    - title: Fluency Check
+      title_full: Do Not Mistake Fluency for Evidence
+      url: /fluency-check/
+    - title: Legal Cases
+      title_full: When Fake AI Case Law Reaches Court
+      url: /legal-cases/
+    - title: Search Summaries
+      title_full: How Search AI Turns Snippets Into Certainty
+      url: /search-summaries/
+    - title: Specialist Tools
+      title_full: Why Expert AI Still Gets Things Wrong
+      url: /specialist-tools/
+  - title: Health Claims
+    title_full: How to Slow Down Health Claims
+    url: /health-claims/
+    children:
+    - title: Accuracy Checks
+      title_full: The pause that stops false health posts
+      url: /accuracy-checks/
+    - title: AI Doctor Deepfakes
+      title_full: When fake doctors sell health certainty
+      url: /ai-doctor-deepfakes/
+    - title: Cancer Claims
+      title_full: When alternative cancer cures replace care
+      url: /cancer-claims/
+    - title: Hidden Cures
+      title_full: Why hidden cures need stronger evidence
+      url: /hidden-cures/
+    - title: Natural Risks
+      title_full: Why natural does not mean safe
+      url: /natural-risks/
+  - title: Influencers
+    title_full: When Trust in People Replaces Evidence
+    url: /influencers/
+    children:
+    - title: AI Impersonation
+      title_full: Can AI Fake Trustworthy Messengers?
+      url: /ai-impersonation/
+    - title: Local Groups
+      title_full: When Local Trust Replaces Local Reporting
+      url: /local-groups-23e450/
+    - title: News Influencers
+      title_full: When Personalities Become the News Source
+      url: /news-influencers/
+    - title: Parasocial Trust
+      title_full: Why Familiar Creators Feel So Trustworthy
+      url: /parasocial-trust/
+    - title: Shared Identity
+      title_full: When 'People Like US' Becomes Proof
+      url: /shared-identity/
+    - title: Social Proof
+      title_full: Why Popular Posts Can Feel True
+      url: /social-proof/
+  - title: Lateral Reading
+    title_full: Why Better Readers Leave the Page
+    url: /lateral-reading/
+    children:
+    - title: Fact Checker Study
+      title_full: Why Fact Checkers Read Less First
+      url: /fact-checker-study/
+    - title: Real Source
+      title_full: Who Actually Made This Claim?
+      url: /real-source/
+    - title: SIFT Routine
+      title_full: A Four Move Check Before You Share
+      url: /sift-routine/
+    - title: Sponsored Content
+      title_full: Can You Tell News From Sponsored Content?
+      url: /sponsored-content/
+    - title: Surface Trust
+      title_full: When a Website Looks More Reliable Than It Is
+      url: /surface-trust/
+    - title: Video Checks
+      title_full: Is This Viral Video From Here and Now?
+      url: /video-checks/
+  - title: Missing Context
+    title_full: What Did the Post Leave Out?
+    url: /missing-context/
+    children:
+    - title: AI Caveats
+      title_full: Why Fluent AI Summaries Still Need Dates
+      url: /ai-caveats/
+    - title: Baselines
+      title_full: What 'Up' Leaves Out of the Story
+      url: /baselines/
+    - title: Denominators
+      title_full: The Missing Number Behind Viral Percentages
+      url: /denominators/
+    - title: Inner City
+      title_full: How One Baseline Bent a Gun Violence Claim
+      url: /inner-city/
+    - title: Old Footage
+      title_full: When Old Footage Pretends to Be Breaking News
+      url: /old-footage/
+    - title: Pension Claim
+      title_full: When a Bad Definition Drives the Whole Claim
+      url: /pension-claim/
+  - title: Mixed Feeds
+    title_full: Why News Feels Harder to Sort
+    url: /mixed-feeds/
+    children:
+    - title: Influencers
+      title_full: When influencers become accidental news sources
+      url: /influencers-8c81b7/
+    - title: News or opinion
+      title_full: Is this reporting or just a reaction?
+      url: /news-or-opinion/
+    - title: Platform cues
+      title_full: Why popularity can look like proof
+      url: /platform-cues/
+    - title: Source memory
+      title_full: Why you forget where a story came from
+      url: /source-memory/
+    - title: Sponsored posts
+      title_full: When an ad does not look like an ad
+      url: /sponsored-posts/
+    - title: Synthetic media
+      title_full: Can you trust what looks real?
+      url: /synthetic-media/
+  - title: Name Claim
+    title_full: What Exactly Is Being Claimed?
+    url: /name-claim/
+    children:
+    - title: AI Claims
+      title_full: Why fluent AI answers still need claim naming
+      url: /ai-claims/
+    - title: Fact Checkers
+      title_full: How fact checkers decide what to test
+      url: /fact-checkers/
+    - title: False Causes
+      title_full: When true numbers point to false causes
+      url: /false-causes/
+    - title: Photos Videos
+      title_full: What exactly does this image claim?
+      url: /photos-videos/
+    - title: Search Wording
+      title_full: Why the first fact check search fails
+      url: /search-wording/
+    - title: Vague Posts
+      title_full: How vague posts become checkable claims
+      url: /vague-posts/
+  - title: News Deserts
+    title_full: When Local Feeds Replace Local News
+    url: /news-deserts/
+    children:
+    - title: Council Checks
+      title_full: How To Check A Council Rumor
+      url: /council-checks/
+    - title: Election Rumors
+      title_full: Why Local Election Rumors Spread Fast
+      url: /election-rumors/
+    - title: Fake Authority
+      title_full: When A Local Warning Looks Official
+      url: /fake-authority-8611c1/
+    - title: Local Groups
+      title_full: Why Local Rumors Feel So Believable
+      url: /local-groups/
+    - title: Search Gaps
+      title_full: When Searching Does Not Settle It
+      url: /search-gaps/
+    - title: SMF Dataset
+      title_full: The Local Misinformation Numbers That Matter
+      url: /smf-dataset/
+  - title: Not Cynicism
+    title_full: Sceptical Without Becoming Cynical
+    url: /not-cynicism/
+    children:
+    - title: Blanket distrust
+      title_full: When distrust becomes its own trap
+      url: /blanket-distrust/
+    - title: Corrections
+      title_full: When updates look like cover ups
+      url: /corrections/
+    - title: Deepfake doubt
+      title_full: When fake images make real ones suspect
+      url: /deepfake-doubt/
+    - title: Popularity cues
+      title_full: Why viral numbers are not evidence
+      url: /popularity-cues/
+    - title: Repetition
+      title_full: When familiar claims start feeling true
+      url: /repetition/
+    - title: Trust calibration
+      title_full: Trust less is not enough
+      url: /trust-calibration/
+  - title: Own Research
+    title_full: When Research Becomes Cherry Picking
+    url: /own-research/
+    children:
+    - title: AI Citations
+      title_full: Can You Trust the AI Footnotes?
+      url: /ai-citations/
+    - title: Data Voids
+      title_full: Why the First Results Can Mislead
+      url: /data-voids-6b437f/
+    - title: Lateral Reading
+      title_full: Check the Source Before the Story
+      url: /lateral-reading-59059a/
+    - title: Loaded Search
+      title_full: Are Your Search Terms Choosing the Answer?
+      url: /loaded-search/
+    - title: Opposing Evidence
+      title_full: What Would Make This Claim Weaker?
+      url: /opposing-evidence/
+    - title: Search Backfire
+      title_full: When Googling a Claim Makes It Stick
+      url: /search-backfire/
+  - title: Platform Incentives
+    title_full: How Feeds Reward Reaction Before Reflection
+    url: /platform-incentives/
+    children:
+    - title: Accuracy Prompts
+      title_full: Can one prompt make sharing more careful?
+      url: /accuracy-prompts/
+    - title: Fast Formats
+      title_full: Why screenshots outrun the source
+      url: /fast-formats/
+    - title: Late Corrections
+      title_full: Can corrections catch a viral post?
+      url: /late-corrections/
+    - title: Like Counts
+      title_full: When popularity starts to look like proof
+      url: /like-counts/
+    - title: Outrage Ranking
+      title_full: Why angry posts keep climbing feeds
+      url: /outrage-ranking/
+    - title: Truth Rewards
+      title_full: What if platforms rewarded accuracy instead?
+      url: /truth-rewards/
+  - title: Primary Sources
+    title_full: When Should You Go to the Source?
+    url: /primary-sources/
+    children:
+    - title: Archived Pages
+      title_full: What Did The Page Say Before?
+      url: /archived-pages/
+    - title: Court Records
+      title_full: Did The Court Really Rule That?
+      url: /court-records/
+    - title: Public Numbers
+      title_full: Where Did That Government Number Come From?
+      url: /public-numbers/
+    - title: Regulator Status
+      title_full: Was It Banned Or Just Proposed?
+      url: /regulator-status/
+    - title: Robocall Trail
+      title_full: How An AI Robocall Became An Evidence Trail
+      url: /robocall-trail/
+    - title: VAERS Claims
+      title_full: What VAERS Can And Cannot Prove
+      url: /vaers-claims/
+  - title: Ranking
+    title_full: Why Did This Claim Find You?
+    url: /ranking/
+    children:
+    - title: Claim Route
+      title_full: How Did This Claim Reach You?
+      url: /claim-route/
+    - title: Feed Controls
+      title_full: Can You Really Train Your Feed?
+      url: /feed-controls/
+    - title: Feeds vs Search
+      title_full: Why Your Feed Is Not a Search Result
+      url: /feeds-vs-search/
+    - title: Outrage Signals
+      title_full: When Outrage Looks Like Interest
+      url: /outrage-signals/
+    - title: Similar Users
+      title_full: When People Like You Shape Your Feed
+      url: /similar-users/
+    - title: Viral Proof
+      title_full: Viral Does Not Mean Verified
+      url: /viral-proof/
+  - title: Screenshots
+    title_full: Why Screenshots Make Claims Harder to Trust
+    url: /screenshots/
+    children:
+    - title: Fake Authority
+      title_full: When Screenshots Borrow Official Authority
+      url: /fake-authority-3f88c7/
+    - title: Fake Posts
+      title_full: Did They Really Post That?
+      url: /fake-posts/
+    - title: Late Notes
+      title_full: What Corrections Cannot Catch in Time
+      url: /late-notes-34de48/
+    - title: Local Groups
+      title_full: Why Local Screenshots Feel So Trustworthy
+      url: /local-groups-51a489/
+    - title: Lost Satire
+      title_full: When Satire Screenshots Stop Looking Funny
+      url: /lost-satire/
+    - title: Old Images
+      title_full: When Real Images Get New Stories
+      url: /old-images/
+  - title: Source Tracing
+    title_full: Can the AI Answer Be Traced?
+    url: /source-tracing/
+    children:
+    - title: Academic References
+      title_full: When scholarly looking references are fake
+      url: /academic-references/
+    - title: Citation checks
+      title_full: Does the cited source actually exist?
+      url: /citation-checks/
+    - title: Court cases
+      title_full: Why fake AI citations reached the courtroom
+      url: /court-cases/
+    - title: Link overload
+      title_full: Can more AI citations make answers worse?
+      url: /link-overload/
+    - title: News checks
+      title_full: Why AI news answers need a date check
+      url: /news-checks/
+    - title: Wrong support
+      title_full: When a real source does not prove the claim
+      url: /wrong-support/
+  - title: Synthetic Images
+    title_full: When Seeing Is No Longer Enough
+    url: /synthetic-images/
+    children:
+    - title: Inspection Limits
+      title_full: Why spotting weird hands is not enough
+      url: /inspection-limits/
+    - title: Pentagon Fake
+      title_full: How one fake explosion image moved attention fast
+      url: /pentagon-fake/
+    - title: Pope Puffer
+      title_full: Why the Pope puffer fooled so many people
+      url: /pope-puffer/
+    - title: Realism Trap
+      title_full: Why fake images feel true at first glance
+      url: /realism-trap/
+    - title: Reverse Search
+      title_full: When reverse image search helps and fails
+      url: /reverse-search/
+    - title: Source Chain
+      title_full: What proves a viral image came from reality
+      url: /source-chain/

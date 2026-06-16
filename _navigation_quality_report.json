@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-16T03:31:04.171310Z",
+  "summary": {
+    "total_pages_with_permalink": 201,
+    "visible_pages": 175,
+    "hidden_pages": 26,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1142,
+    "inline_internal_target_page_count": 175,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 175,
+    "average_inline_inbound_links_per_visible_page": 6.53,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_accuracy_prompt_evid_f68a7e",
+        "title": "Evidence",
+        "permalink": "/evidence/",
+        "inline_inbound_count": 171
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952",
+        "title": "Can You Trust What Found You Online?",
+        "permalink": "/critical-thinking-in-the-age-of-social/",
+        "inline_inbound_count": 136
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_corrections_coverups_8b0782",
+        "title": "Corrections",
+        "permalink": "/corrections/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_claim_naming_ad2b46_fact_checkers_choose_504d56",
+        "title": "Fact Checkers",
+        "permalink": "/fact-checkers/",
+        "inline_inbound_count": 55
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "title": "Deepfakes",
+        "permalink": "/deepfakes/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_emotional_posts_486178_outrage_shareability_0bdc66",
+        "title": "Outrage",
+        "permalink": "/outrage/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_community_notes_936e27_notes_vs_fact_checke_1b429e",
+        "title": "Fact Checks",
+        "permalink": "/fact-checks/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "title": "Corroboration",
+        "permalink": "/corroboration/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "title": "Hallucinations",
+        "permalink": "/hallucinations/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_repetition_familiari_926617",
+        "title": "Repetition",
+        "permalink": "/repetition/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "title": "Missing Context",
+        "permalink": "/missing-context/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "title": "Ranking",
+        "permalink": "/ranking/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "title": "News Deserts",
+        "permalink": "/news-deserts/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f",
+        "title": "Synthetic media",
+        "permalink": "/synthetic-media/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "title": "Accuracy Nudge",
+        "permalink": "/accuracy-nudge/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "title": "Synthetic Images",
+        "permalink": "/synthetic-images/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "title": "Primary Sources",
+        "permalink": "/primary-sources/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "title": "Source Tracing",
+        "permalink": "/source-tracing/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_official_records_vs_f091a1",
+        "title": "Official Records",
+        "permalink": "/official-records/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_platform_incentives_ba0010_accuracy_prompts_sha_1e2681",
+        "title": "Accuracy Prompts",
+        "permalink": "/accuracy-prompts/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841",
+        "title": "Credentials",
+        "permalink": "/credentials/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_likes_reposts_credib_2b1dc0",
+        "title": "Social Proof",
+        "permalink": "/social-proof/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_independent_corrobor_64b600_breaking_claim_sourc_d09543",
+        "title": "Source Trail",
+        "permalink": "/source-trail/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_lateral_reading_afeebc_real_source_viral_cl_407858",
+        "title": "Real Source",
+        "permalink": "/real-source/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "title": "Mixed Feeds",
+        "permalink": "/mixed-feeds/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd",
+        "title": "Court Records",
+        "permalink": "/court-records/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "title": "AI Virality",
+        "permalink": "/ai-virality/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "title": "Evidence Types",
+        "permalink": "/evidence-types/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "title": "Platform Incentives",
+        "permalink": "/platform-incentives/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_academic_fake_refere_0d8d45",
+        "title": "Fake References",
+        "permalink": "/fake-references/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "title": "Own Research",
+        "permalink": "/own-research/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_community_notes_936e27_bridging_ratings_1f0b35",
+        "title": "Bridging",
+        "permalink": "/bridging/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "title": "Name Claim",
+        "permalink": "/name-claim/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_claim_naming_ad2b46_ai_explainers_fuzzy_13a12a",
+        "title": "AI Claims",
+        "permalink": "/ai-claims/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "title": "Emotional Posts",
+        "permalink": "/emotional-posts/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_emotional_posts_486178_social_rewards_outra_9d20f3",
+        "title": "Social rewards",
+        "permalink": "/social-rewards/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_synthetic_images_fee95d_visual_inspection_li_28e4f6",
+        "title": "Inspection Limits",
+        "permalink": "/inspection-limits/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337",
+        "title": "Search Summaries",
+        "permalink": "/search-summaries/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_community_notes_936e27_note_source_check_2715f8",
+        "title": "Source Check",
+        "permalink": "/source-check/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "title": "Not Cynicism",
+        "permalink": "/not-cynicism/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_ai_explainers_fuzzy_13a12a",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_claim_wording_search_5477db",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_fact_checkers_choose_504d56",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_true_stats_false_cau_2cc950",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46_vague_posts_checkabl_fc3aeb",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "ancestor"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_council_claim_checks_517290",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_fake_authority_local_c9e89d",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_election_rumor_694261",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_groups_rumor_t_78a909",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100_smf_local_misinfo_da_106c52",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "ancestor"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_citation_existence_c_b03f94",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_citation_overload_dd1b08",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_fake_academic_refere_27060c",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_legal_ai_citation_ri_624ef3",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027_wrong_claim_support_ab1b8f",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "ancestor"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_accuracy_prompt_evid_f68a7e",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_attention_label_back_615fe6",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_community_notes_timi_48d5c0",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_sharing_accuracy_gap_991bf4",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_usable_accuracy_nudg_209902",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "ancestor"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_emotional_posts_486178",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_missing_context_df29ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_chatbot_false_confid_335833",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_chatbot_tutor_learni_4d4c35",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounded_chatbot_lim_ca6e54",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_index",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_source_first_search_5cf2fc",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_student_ai_overrelia_f20303",
+        "type": "child"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "ancestor"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952",
+        "type": "parent"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+        "type": "sibling"
+      },
+      {
+        "from": "Critical_thinking_in_3dc952_community_notes_936e27",
+        "to": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+        "type": "sibling"
+      }
+    ]
+  }
+}

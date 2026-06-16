@@ -1,0 +1,2748 @@
+{
+  "version": 1,
+  "page_count": 175,
+  "total_page_seconds": 25705.3497,
+  "average_page_seconds": 146.8877,
+  "phase_totals_seconds": {
+    "preparation": 25472.0049,
+    "youtube": 85.734,
+    "media_svg": 64.5112,
+    "content_assembly": 54.9003,
+    "monetization": 22.2952,
+    "quality_write": 5.9029
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 339.8423,
+      "phases": {
+        "preparation": 339.2447,
+        "media_svg": 0.0666,
+        "youtube": 0.0093,
+        "content_assembly": 0.4139,
+        "monetization": 0.0599,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 304.4541,
+      "phases": {
+        "preparation": 289.5419,
+        "media_svg": 0.1382,
+        "youtube": 12.4451,
+        "content_assembly": 0.4052,
+        "monetization": 1.8783,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 295.2082,
+      "phases": {
+        "preparation": 294.5693,
+        "media_svg": 0.0931,
+        "youtube": 0.0153,
+        "content_assembly": 0.4179,
+        "monetization": 0.0669,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 292.5844,
+      "phases": {
+        "preparation": 291.9883,
+        "media_svg": 0.076,
+        "youtube": 0.0098,
+        "content_assembly": 0.4059,
+        "monetization": 0.0617,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_feeds_not_search_4dd6c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 290.3164,
+      "phases": {
+        "preparation": 289.5737,
+        "media_svg": 0.2538,
+        "youtube": 0.0463,
+        "content_assembly": 0.3412,
+        "monetization": 0.0605,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 266.556,
+      "phases": {
+        "preparation": 265.9494,
+        "media_svg": 0.0655,
+        "youtube": 0.0162,
+        "content_assembly": 0.4195,
+        "monetization": 0.0604,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 259.0564,
+      "phases": {
+        "preparation": 258.4429,
+        "media_svg": 0.1162,
+        "youtube": 0.0151,
+        "content_assembly": 0.3978,
+        "monetization": 0.04,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 254.621,
+      "phases": {
+        "preparation": 253.9795,
+        "media_svg": 0.0903,
+        "youtube": 0.0175,
+        "content_assembly": 0.431,
+        "monetization": 0.0579,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 243.3616,
+      "phases": {
+        "preparation": 242.7606,
+        "media_svg": 0.0744,
+        "youtube": 0.0139,
+        "content_assembly": 0.4118,
+        "monetization": 0.0578,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 226.3899,
+      "phases": {
+        "preparation": 225.791,
+        "media_svg": 0.0762,
+        "youtube": 0.0122,
+        "content_assembly": 0.4111,
+        "monetization": 0.0578,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 226.0226,
+      "phases": {
+        "preparation": 225.4122,
+        "media_svg": 0.1072,
+        "youtube": 0.0157,
+        "content_assembly": 0.3866,
+        "monetization": 0.0573,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 219.8504,
+      "phases": {
+        "preparation": 219.2278,
+        "media_svg": 0.1111,
+        "youtube": 0.014,
+        "content_assembly": 0.4054,
+        "monetization": 0.0498,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 216.6282,
+      "phases": {
+        "preparation": 216.0336,
+        "media_svg": 0.0811,
+        "youtube": 0.0143,
+        "content_assembly": 0.3975,
+        "monetization": 0.0596,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 215.4833,
+      "phases": {
+        "preparation": 214.8932,
+        "media_svg": 0.0695,
+        "youtube": 0.0126,
+        "content_assembly": 0.3992,
+        "monetization": 0.0684,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 214.2038,
+      "phases": {
+        "preparation": 213.6412,
+        "media_svg": 0.0644,
+        "youtube": 0.0187,
+        "content_assembly": 0.3959,
+        "monetization": 0.0415,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_feed_control_limits_1d7779",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 210.7637,
+      "phases": {
+        "preparation": 208.8674,
+        "media_svg": 0.6988,
+        "youtube": 0.7819,
+        "content_assembly": 0.3237,
+        "monetization": 0.0552,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 206.8842,
+      "phases": {
+        "preparation": 206.2743,
+        "media_svg": 0.1005,
+        "youtube": 0.0101,
+        "content_assembly": 0.3927,
+        "monetization": 0.0642,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_likes_reposts_credib_2b1dc0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 200.3157,
+      "phases": {
+        "preparation": 198.8169,
+        "media_svg": 0.3309,
+        "youtube": 0.7515,
+        "content_assembly": 0.3244,
+        "monetization": 0.0559,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_claim_route_check_5ed9dd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8813,
+      "phases": {
+        "preparation": 197.1142,
+        "media_svg": 0.6607,
+        "youtube": 0.7348,
+        "content_assembly": 0.2975,
+        "monetization": 0.04,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 198.0039,
+      "phases": {
+        "preparation": 197.393,
+        "media_svg": 0.1066,
+        "youtube": 0.0092,
+        "content_assembly": 0.3869,
+        "monetization": 0.0667,
+        "quality_write": 0.0414
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Critical_thinking_in_3dc952",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 304.4541,
+      "phases": {
+        "preparation": 289.5419,
+        "media_svg": 0.1382,
+        "youtube": 12.4451,
+        "content_assembly": 0.4052,
+        "monetization": 1.8783,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 198.0039,
+      "phases": {
+        "preparation": 197.393,
+        "media_svg": 0.1066,
+        "youtube": 0.0092,
+        "content_assembly": 0.3869,
+        "monetization": 0.0667,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 206.8842,
+      "phases": {
+        "preparation": 206.2743,
+        "media_svg": 0.1005,
+        "youtube": 0.0101,
+        "content_assembly": 0.3927,
+        "monetization": 0.0642,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 122.1525,
+      "phases": {
+        "preparation": 121.6241,
+        "media_svg": 0.0692,
+        "youtube": 0.0132,
+        "content_assembly": 0.35,
+        "monetization": 0.0568,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 77.3637,
+      "phases": {
+        "preparation": 76.8171,
+        "media_svg": 0.0976,
+        "youtube": 0.0155,
+        "content_assembly": 0.3403,
+        "monetization": 0.057,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 295.2082,
+      "phases": {
+        "preparation": 294.5693,
+        "media_svg": 0.0931,
+        "youtube": 0.0153,
+        "content_assembly": 0.4179,
+        "monetization": 0.0669,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 185.1513,
+      "phases": {
+        "preparation": 184.5936,
+        "media_svg": 0.0758,
+        "youtube": 0.0149,
+        "content_assembly": 0.3736,
+        "monetization": 0.0546,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 197.4528,
+      "phases": {
+        "preparation": 196.8268,
+        "media_svg": 0.1079,
+        "youtube": 0.0143,
+        "content_assembly": 0.399,
+        "monetization": 0.0658,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 159.1953,
+      "phases": {
+        "preparation": 158.6672,
+        "media_svg": 0.0658,
+        "youtube": 0.0105,
+        "content_assembly": 0.3733,
+        "monetization": 0.0396,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 226.0226,
+      "phases": {
+        "preparation": 225.4122,
+        "media_svg": 0.1072,
+        "youtube": 0.0157,
+        "content_assembly": 0.3866,
+        "monetization": 0.0573,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 162.1029,
+      "phases": {
+        "preparation": 161.5531,
+        "media_svg": 0.0632,
+        "youtube": 0.0096,
+        "content_assembly": 0.3815,
+        "monetization": 0.0568,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 254.621,
+      "phases": {
+        "preparation": 253.9795,
+        "media_svg": 0.0903,
+        "youtube": 0.0175,
+        "content_assembly": 0.431,
+        "monetization": 0.0579,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 191.5896,
+      "phases": {
+        "preparation": 190.9718,
+        "media_svg": 0.1084,
+        "youtube": 0.0139,
+        "content_assembly": 0.3973,
+        "monetization": 0.0566,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 219.8504,
+      "phases": {
+        "preparation": 219.2278,
+        "media_svg": 0.1111,
+        "youtube": 0.014,
+        "content_assembly": 0.4054,
+        "monetization": 0.0498,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 226.3899,
+      "phases": {
+        "preparation": 225.791,
+        "media_svg": 0.0762,
+        "youtube": 0.0122,
+        "content_assembly": 0.4111,
+        "monetization": 0.0578,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 266.556,
+      "phases": {
+        "preparation": 265.9494,
+        "media_svg": 0.0655,
+        "youtube": 0.0162,
+        "content_assembly": 0.4195,
+        "monetization": 0.0604,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 259.0564,
+      "phases": {
+        "preparation": 258.4429,
+        "media_svg": 0.1162,
+        "youtube": 0.0151,
+        "content_assembly": 0.3978,
+        "monetization": 0.04,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 214.2038,
+      "phases": {
+        "preparation": 213.6412,
+        "media_svg": 0.0644,
+        "youtube": 0.0187,
+        "content_assembly": 0.3959,
+        "monetization": 0.0415,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 243.3616,
+      "phases": {
+        "preparation": 242.7606,
+        "media_svg": 0.0744,
+        "youtube": 0.0139,
+        "content_assembly": 0.4118,
+        "monetization": 0.0578,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 160.6167,
+      "phases": {
+        "preparation": 160.0478,
+        "media_svg": 0.111,
+        "youtube": 0.011,
+        "content_assembly": 0.3679,
+        "monetization": 0.0401,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 292.5844,
+      "phases": {
+        "preparation": 291.9883,
+        "media_svg": 0.076,
+        "youtube": 0.0098,
+        "content_assembly": 0.4059,
+        "monetization": 0.0617,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 148.0651,
+      "phases": {
+        "preparation": 147.5126,
+        "media_svg": 0.0696,
+        "youtube": 0.0125,
+        "content_assembly": 0.373,
+        "monetization": 0.0581,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 339.8423,
+      "phases": {
+        "preparation": 339.2447,
+        "media_svg": 0.0666,
+        "youtube": 0.0093,
+        "content_assembly": 0.4139,
+        "monetization": 0.0599,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 216.6282,
+      "phases": {
+        "preparation": 216.0336,
+        "media_svg": 0.0811,
+        "youtube": 0.0143,
+        "content_assembly": 0.3975,
+        "monetization": 0.0596,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 215.4833,
+      "phases": {
+        "preparation": 214.8932,
+        "media_svg": 0.0695,
+        "youtube": 0.0126,
+        "content_assembly": 0.3992,
+        "monetization": 0.0684,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 175.0052,
+      "phases": {
+        "preparation": 174.4478,
+        "media_svg": 0.068,
+        "youtube": 0.0112,
+        "content_assembly": 0.3799,
+        "monetization": 0.0578,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_ai_scale_notes_75de95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.1183,
+      "phases": {
+        "preparation": 152.439,
+        "media_svg": 0.272,
+        "youtube": 0.016,
+        "content_assembly": 0.2997,
+        "monetization": 0.0579,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.7742,
+      "phases": {
+        "preparation": 128.1126,
+        "media_svg": 0.2703,
+        "youtube": 0.0119,
+        "content_assembly": 0.2928,
+        "monetization": 0.0551,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 86.3438,
+      "phases": {
+        "preparation": 85.6847,
+        "media_svg": 0.2715,
+        "youtube": 0.0145,
+        "content_assembly": 0.2867,
+        "monetization": 0.0555,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_ai_explainers_fuzzy_13a12a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 182.7164,
+      "phases": {
+        "preparation": 182.0492,
+        "media_svg": 0.2723,
+        "youtube": 0.0106,
+        "content_assembly": 0.3116,
+        "monetization": 0.0405,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_bridging_ratings_1f0b35",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 107.5935,
+      "phases": {
+        "preparation": 106.9395,
+        "media_svg": 0.2676,
+        "youtube": 0.0127,
+        "content_assembly": 0.2846,
+        "monetization": 0.0563,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_no_note_not_true_660806",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.7694,
+      "phases": {
+        "preparation": 117.1186,
+        "media_svg": 0.2661,
+        "youtube": 0.0103,
+        "content_assembly": 0.2885,
+        "monetization": 0.0544,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_citation_overload_dd1b08",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 96.6937,
+      "phases": {
+        "preparation": 96.0562,
+        "media_svg": 0.2755,
+        "youtube": 0.0104,
+        "content_assembly": 0.2836,
+        "monetization": 0.0391,
+        "quality_write": 0.0288
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_claim_wording_search_5477db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 144.134,
+      "phases": {
+        "preparation": 143.4824,
+        "media_svg": 0.266,
+        "youtube": 0.0122,
+        "content_assembly": 0.3012,
+        "monetization": 0.0401,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_fact_checkers_choose_504d56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 130.832,
+      "phases": {
+        "preparation": 130.1779,
+        "media_svg": 0.2757,
+        "youtube": 0.0077,
+        "content_assembly": 0.297,
+        "monetization": 0.0407,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.0442,
+      "phases": {
+        "preparation": 171.3878,
+        "media_svg": 0.2635,
+        "youtube": 0.0128,
+        "content_assembly": 0.3043,
+        "monetization": 0.0413,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_true_stats_false_cau_2cc950",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.7272,
+      "phases": {
+        "preparation": 129.0466,
+        "media_svg": 0.2741,
+        "youtube": 0.0093,
+        "content_assembly": 0.3089,
+        "monetization": 0.0562,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_claim_naming_ad2b46_vague_posts_checkabl_fc3aeb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.2324,
+      "phases": {
+        "preparation": 116.5722,
+        "media_svg": 0.2752,
+        "youtube": 0.0111,
+        "content_assembly": 0.2878,
+        "monetization": 0.0562,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_note_source_check_2715f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.3841,
+      "phases": {
+        "preparation": 138.72,
+        "media_svg": 0.2751,
+        "youtube": 0.0125,
+        "content_assembly": 0.2928,
+        "monetization": 0.053,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_council_claim_checks_517290",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.8717,
+      "phases": {
+        "preparation": 151.1969,
+        "media_svg": 0.2671,
+        "youtube": 0.0123,
+        "content_assembly": 0.2941,
+        "monetization": 0.0691,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_fake_authority_local_c9e89d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 144.0522,
+      "phases": {
+        "preparation": 143.375,
+        "media_svg": 0.277,
+        "youtube": 0.0117,
+        "content_assembly": 0.3015,
+        "monetization": 0.0546,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_election_rumor_694261",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.9232,
+      "phases": {
+        "preparation": 132.2631,
+        "media_svg": 0.2623,
+        "youtube": 0.0116,
+        "content_assembly": 0.2963,
+        "monetization": 0.0569,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_groups_rumor_t_78a909",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.9853,
+      "phases": {
+        "preparation": 104.3449,
+        "media_svg": 0.263,
+        "youtube": 0.0087,
+        "content_assembly": 0.2843,
+        "monetization": 0.0542,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.8876,
+      "phases": {
+        "preparation": 132.2354,
+        "media_svg": 0.269,
+        "youtube": 0.0082,
+        "content_assembly": 0.2892,
+        "monetization": 0.054,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_news_deserts_ac3100_smf_local_misinfo_da_106c52",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 72.871,
+      "phases": {
+        "preparation": 72.217,
+        "media_svg": 0.2735,
+        "youtube": 0.012,
+        "content_assembly": 0.2781,
+        "monetization": 0.0591,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 120.5197,
+      "phases": {
+        "preparation": 119.8666,
+        "media_svg": 0.268,
+        "youtube": 0.0101,
+        "content_assembly": 0.2889,
+        "monetization": 0.0552,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_wrong_claim_support_ab1b8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.6178,
+      "phases": {
+        "preparation": 109.979,
+        "media_svg": 0.2738,
+        "youtube": 0.0132,
+        "content_assembly": 0.2818,
+        "monetization": 0.0399,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_funny_ai_fakes_528d93",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.0397,
+      "phases": {
+        "preparation": 120.3553,
+        "media_svg": 0.2671,
+        "youtube": 0.0321,
+        "content_assembly": 0.2983,
+        "monetization": 0.056,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_source_first_search_5cf2fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.9042,
+      "phases": {
+        "preparation": 148.2228,
+        "media_svg": 0.2734,
+        "youtube": 0.0114,
+        "content_assembly": 0.31,
+        "monetization": 0.0548,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_late_notes_virality_b3a29b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 101.6754,
+      "phases": {
+        "preparation": 101.0234,
+        "media_svg": 0.2727,
+        "youtube": 0.0089,
+        "content_assembly": 0.2847,
+        "monetization": 0.0547,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.4477,
+      "phases": {
+        "preparation": 135.7792,
+        "media_svg": 0.2733,
+        "youtube": 0.0127,
+        "content_assembly": 0.2962,
+        "monetization": 0.0552,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_fear_crisis_urgency_97046d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.3781,
+      "phases": {
+        "preparation": 157.7176,
+        "media_svg": 0.2612,
+        "youtube": 0.0086,
+        "content_assembly": 0.3015,
+        "monetization": 0.0559,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_ai_fake_trust_cues_c5b9ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.8859,
+      "phases": {
+        "preparation": 141.2088,
+        "media_svg": 0.2717,
+        "youtube": 0.0108,
+        "content_assembly": 0.3083,
+        "monetization": 0.0548,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_citation_existence_c_b03f94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.6445,
+      "phases": {
+        "preparation": 123.9647,
+        "media_svg": 0.277,
+        "youtube": 0.0141,
+        "content_assembly": 0.3002,
+        "monetization": 0.0568,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_fake_academic_refere_27060c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.8894,
+      "phases": {
+        "preparation": 126.2431,
+        "media_svg": 0.2627,
+        "youtube": 0.0133,
+        "content_assembly": 0.2992,
+        "monetization": 0.0394,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_source_tracing_9a2027_legal_ai_citation_ri_624ef3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 120.683,
+      "phases": {
+        "preparation": 120.0251,
+        "media_svg": 0.2733,
+        "youtube": 0.0097,
+        "content_assembly": 0.3051,
+        "monetization": 0.0387,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_accuracy_prompt_evid_f68a7e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 99.6639,
+      "phases": {
+        "preparation": 99.0051,
+        "media_svg": 0.2696,
+        "youtube": 0.0136,
+        "content_assembly": 0.2878,
+        "monetization": 0.055,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_attention_label_back_615fe6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 92.4754,
+      "phases": {
+        "preparation": 91.8273,
+        "media_svg": 0.2673,
+        "youtube": 0.0121,
+        "content_assembly": 0.2823,
+        "monetization": 0.0559,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_community_notes_timi_48d5c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 105.1666,
+      "phases": {
+        "preparation": 104.5175,
+        "media_svg": 0.2718,
+        "youtube": 0.0096,
+        "content_assembly": 0.2829,
+        "monetization": 0.0544,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_sharing_accuracy_gap_991bf4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.5515,
+      "phases": {
+        "preparation": 120.8767,
+        "media_svg": 0.2801,
+        "youtube": 0.0107,
+        "content_assembly": 0.2975,
+        "monetization": 0.0544,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_accuracy_nudges_382aa1_usable_accuracy_nudg_209902",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.5532,
+      "phases": {
+        "preparation": 128.8969,
+        "media_svg": 0.2617,
+        "youtube": 0.0109,
+        "content_assembly": 0.2962,
+        "monetization": 0.0558,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_legal_ai_sanctions_81202b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.7082,
+      "phases": {
+        "preparation": 131.0187,
+        "media_svg": 0.2737,
+        "youtube": 0.0136,
+        "content_assembly": 0.3148,
+        "monetization": 0.0546,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_feeds_not_search_4dd6c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 290.3164,
+      "phases": {
+        "preparation": 289.5737,
+        "media_svg": 0.2538,
+        "youtube": 0.0463,
+        "content_assembly": 0.3412,
+        "monetization": 0.0605,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.2983,
+      "phases": {
+        "preparation": 116.6216,
+        "media_svg": 0.2768,
+        "youtube": 0.0148,
+        "content_assembly": 0.2984,
+        "monetization": 0.0548,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_chatbot_false_confid_335833",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.5673,
+      "phases": {
+        "preparation": 131.9028,
+        "media_svg": 0.27,
+        "youtube": 0.0109,
+        "content_assembly": 0.2962,
+        "monetization": 0.0556,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_chatbot_tutor_learni_4d4c35",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.127,
+      "phases": {
+        "preparation": 109.4616,
+        "media_svg": 0.2702,
+        "youtube": 0.0153,
+        "content_assembly": 0.2939,
+        "monetization": 0.0549,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounded_chatbot_lim_ca6e54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.3477,
+      "phases": {
+        "preparation": 148.6793,
+        "media_svg": 0.2644,
+        "youtube": 0.0159,
+        "content_assembly": 0.3026,
+        "monetization": 0.0534,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_student_ai_overrelia_f20303",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.9884,
+      "phases": {
+        "preparation": 127.3102,
+        "media_svg": 0.2751,
+        "youtube": 0.0134,
+        "content_assembly": 0.3023,
+        "monetization": 0.0543,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_community_notes_936e27_notes_vs_fact_checke_1b429e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.5113,
+      "phases": {
+        "preparation": 146.8456,
+        "media_svg": 0.264,
+        "youtube": 0.0105,
+        "content_assembly": 0.2997,
+        "monetization": 0.0568,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_biden_robocall_verif_9c611f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 105.6381,
+      "phases": {
+        "preparation": 104.973,
+        "media_svg": 0.2712,
+        "youtube": 0.0144,
+        "content_assembly": 0.295,
+        "monetization": 0.0534,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_detector_score_limit_aedb14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.8643,
+      "phases": {
+        "preparation": 136.1921,
+        "media_svg": 0.2716,
+        "youtube": 0.0117,
+        "content_assembly": 0.3008,
+        "monetization": 0.0558,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 115.8318,
+      "phases": {
+        "preparation": 115.2025,
+        "media_svg": 0.2605,
+        "youtube": 0.0118,
+        "content_assembly": 0.2872,
+        "monetization": 0.0385,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_video_call_payment_f_75207d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.2306,
+      "phases": {
+        "preparation": 131.5744,
+        "media_svg": 0.267,
+        "youtube": 0.0142,
+        "content_assembly": 0.303,
+        "monetization": 0.0392,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.5494,
+      "phases": {
+        "preparation": 123.8948,
+        "media_svg": 0.2684,
+        "youtube": 0.0128,
+        "content_assembly": 0.3038,
+        "monetization": 0.038,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_outrage_shareability_0bdc66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.2192,
+      "phases": {
+        "preparation": 124.6514,
+        "media_svg": 0.1673,
+        "youtube": 0.0112,
+        "content_assembly": 0.3051,
+        "monetization": 0.0536,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_pride_identity_claim_345bbb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.849,
+      "phases": {
+        "preparation": 150.1703,
+        "media_svg": 0.2805,
+        "youtube": 0.0129,
+        "content_assembly": 0.2973,
+        "monetization": 0.0554,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_social_rewards_outra_9d20f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.3024,
+      "phases": {
+        "preparation": 134.4482,
+        "media_svg": 0.2754,
+        "youtube": 1.183,
+        "content_assembly": 0.3093,
+        "monetization": 0.0553,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_emotional_posts_486178_verification_betraya_178fb1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.3057,
+      "phases": {
+        "preparation": 135.9322,
+        "media_svg": 0.2772,
+        "youtube": 0.7182,
+        "content_assembly": 0.2922,
+        "monetization": 0.0545,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_polished_sites_misle_5aa5ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.3817,
+      "phases": {
+        "preparation": 138.0703,
+        "media_svg": 0.2678,
+        "youtube": 0.6566,
+        "content_assembly": 0.2962,
+        "monetization": 0.0575,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_real_source_viral_cl_407858",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.2961,
+      "phases": {
+        "preparation": 157.9546,
+        "media_svg": 0.2738,
+        "youtube": 0.6813,
+        "content_assembly": 0.3016,
+        "monetization": 0.0523,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.2292,
+      "phases": {
+        "preparation": 143.8856,
+        "media_svg": 0.2686,
+        "youtube": 0.6836,
+        "content_assembly": 0.3034,
+        "monetization": 0.0562,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.371,
+      "phases": {
+        "preparation": 117.0379,
+        "media_svg": 0.2758,
+        "youtube": 0.6725,
+        "content_assembly": 0.2981,
+        "monetization": 0.0541,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_stanford_fact_checke_936911",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.2102,
+      "phases": {
+        "preparation": 101.8806,
+        "media_svg": 0.2727,
+        "youtube": 0.6792,
+        "content_assembly": 0.2892,
+        "monetization": 0.0571,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.161,
+      "phases": {
+        "preparation": 124.7333,
+        "media_svg": 0.2735,
+        "youtube": 0.7834,
+        "content_assembly": 0.2848,
+        "monetization": 0.0543,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_ai_summaries_dates_c_1801e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.6829,
+      "phases": {
+        "preparation": 130.3464,
+        "media_svg": 0.2801,
+        "youtube": 0.6775,
+        "content_assembly": 0.2897,
+        "monetization": 0.0569,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_hidden_baselines_ris_5e6bfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.195,
+      "phases": {
+        "preparation": 150.8547,
+        "media_svg": 0.2744,
+        "youtube": 0.6766,
+        "content_assembly": 0.3032,
+        "monetization": 0.0537,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.0864,
+      "phases": {
+        "preparation": 101.7474,
+        "media_svg": 0.2752,
+        "youtube": 0.694,
+        "content_assembly": 0.2838,
+        "monetization": 0.0558,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_old_footage_breaking_74c9ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 114.9262,
+      "phases": {
+        "preparation": 113.6077,
+        "media_svg": 0.2796,
+        "youtube": 0.683,
+        "content_assembly": 0.2874,
+        "monetization": 0.0381,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.7957,
+      "phases": {
+        "preparation": 142.4782,
+        "media_svg": 0.2686,
+        "youtube": 0.6822,
+        "content_assembly": 0.294,
+        "monetization": 0.0399,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.0548,
+      "phases": {
+        "preparation": 131.7237,
+        "media_svg": 0.2644,
+        "youtube": 0.7015,
+        "content_assembly": 0.2938,
+        "monetization": 0.0387,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_ai_robocall_evidence_9a7fe4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.6622,
+      "phases": {
+        "preparation": 135.8599,
+        "media_svg": 0.6799,
+        "youtube": 0.7233,
+        "content_assembly": 0.3095,
+        "monetization": 0.0564,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_archived_webpage_che_d4d41b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.8649,
+      "phases": {
+        "preparation": 149.1082,
+        "media_svg": 0.6352,
+        "youtube": 0.7281,
+        "content_assembly": 0.3068,
+        "monetization": 0.0536,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.8735,
+      "phases": {
+        "preparation": 132.061,
+        "media_svg": 0.7,
+        "youtube": 0.7348,
+        "content_assembly": 0.2918,
+        "monetization": 0.0533,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_government_statistic_4b8186",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 157.1009,
+      "phases": {
+        "preparation": 148.366,
+        "media_svg": 0.706,
+        "youtube": 0.6601,
+        "content_assembly": 0.2904,
+        "monetization": 7.0443,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_regulator_status_che_73eb1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.2556,
+      "phases": {
+        "preparation": 150.5232,
+        "media_svg": 0.674,
+        "youtube": 0.6791,
+        "content_assembly": 0.2943,
+        "monetization": 0.0537,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_primary_sources_4ab073_vaers_causation_clai_cb7a14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.6408,
+      "phases": {
+        "preparation": 128.1715,
+        "media_svg": 0.3392,
+        "youtube": 0.7395,
+        "content_assembly": 0.3029,
+        "monetization": 0.0545,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_fluency_vs_evidence_af7764",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 157.0742,
+      "phases": {
+        "preparation": 155.72,
+        "media_svg": 0.2663,
+        "youtube": 0.7007,
+        "content_assembly": 0.2992,
+        "monetization": 0.0565,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_claim_route_check_5ed9dd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8813,
+      "phases": {
+        "preparation": 197.1142,
+        "media_svg": 0.6607,
+        "youtube": 0.7348,
+        "content_assembly": 0.2975,
+        "monetization": 0.04,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_likes_reposts_credib_2b1dc0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 200.3157,
+      "phases": {
+        "preparation": 198.8169,
+        "media_svg": 0.3309,
+        "youtube": 0.7515,
+        "content_assembly": 0.3244,
+        "monetization": 0.0559,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_local_groups_news_ga_476cf2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 144.413,
+      "phases": {
+        "preparation": 142.0444,
+        "media_svg": 0.6762,
+        "youtube": 1.3053,
+        "content_assembly": 0.2992,
+        "monetization": 0.055,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_news_influencers_aut_21c100",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.1628,
+      "phases": {
+        "preparation": 170.3528,
+        "media_svg": 0.6361,
+        "youtube": 0.7648,
+        "content_assembly": 0.3179,
+        "monetization": 0.0554,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.5282,
+      "phases": {
+        "preparation": 124.8171,
+        "media_svg": 0.6693,
+        "youtube": 0.6675,
+        "content_assembly": 0.2885,
+        "monetization": 0.0526,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.873,
+      "phases": {
+        "preparation": 117.6743,
+        "media_svg": 0.6773,
+        "youtube": 1.1406,
+        "content_assembly": 0.2935,
+        "monetization": 0.0549,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_image_provenance_cha_cdc8ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.2192,
+      "phases": {
+        "preparation": 145.8428,
+        "media_svg": 0.2779,
+        "youtube": 0.7167,
+        "content_assembly": 0.3044,
+        "monetization": 0.0449,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 92.0853,
+      "phases": {
+        "preparation": 90.7235,
+        "media_svg": 0.2803,
+        "youtube": 0.715,
+        "content_assembly": 0.2905,
+        "monetization": 0.0453,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_pope_puffer_deceptio_07dedf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.2975,
+      "phases": {
+        "preparation": 111.9438,
+        "media_svg": 0.2749,
+        "youtube": 0.7065,
+        "content_assembly": 0.2958,
+        "monetization": 0.0463,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_realism_feels_like_e_4d120c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.186,
+      "phases": {
+        "preparation": 117.7735,
+        "media_svg": 0.2814,
+        "youtube": 0.7514,
+        "content_assembly": 0.3024,
+        "monetization": 0.0456,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.1845,
+      "phases": {
+        "preparation": 121.5428,
+        "media_svg": 0.2675,
+        "youtube": 0.0122,
+        "content_assembly": 0.2845,
+        "monetization": 0.0453,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_synthetic_images_fee95d_visual_inspection_li_28e4f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.3575,
+      "phases": {
+        "preparation": 133.5435,
+        "media_svg": 0.2924,
+        "youtube": 1.1404,
+        "content_assembly": 0.3024,
+        "monetization": 0.0462,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_academic_fake_refere_0d8d45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.5991,
+      "phases": {
+        "preparation": 115.2267,
+        "media_svg": 0.2833,
+        "youtube": 0.6987,
+        "content_assembly": 0.3023,
+        "monetization": 0.0555,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_citation_failures_314c9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.7454,
+      "phases": {
+        "preparation": 118.4295,
+        "media_svg": 0.2754,
+        "youtube": 0.6625,
+        "content_assembly": 0.2924,
+        "monetization": 0.0555,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.144,
+      "phases": {
+        "preparation": 126.8246,
+        "media_svg": 0.2745,
+        "youtube": 0.6639,
+        "content_assembly": 0.2931,
+        "monetization": 0.0557,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_hallucinations_d5a273_specialist_ai_checki_3b2eff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.2492,
+      "phases": {
+        "preparation": 135.8686,
+        "media_svg": 0.274,
+        "youtube": 0.7095,
+        "content_assembly": 0.3103,
+        "monetization": 0.0553,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_pope_puffer_image_772112",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.2261,
+      "phases": {
+        "preparation": 123.8918,
+        "media_svg": 0.2706,
+        "youtube": 0.678,
+        "content_assembly": 0.2972,
+        "monetization": 0.0571,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_similar_user_feeds_039a6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 106.7137,
+      "phases": {
+        "preparation": 104.9816,
+        "media_svg": 0.6747,
+        "youtube": 0.6936,
+        "content_assembly": 0.2784,
+        "monetization": 0.0547,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_viral_not_verified_824dbb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.2623,
+      "phases": {
+        "preparation": 127.594,
+        "media_svg": 0.6304,
+        "youtube": 0.6586,
+        "content_assembly": 0.2925,
+        "monetization": 0.0549,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_official_records_vs_f091a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.4964,
+      "phases": {
+        "preparation": 129.7418,
+        "media_svg": 0.6775,
+        "youtube": 0.6981,
+        "content_assembly": 0.2921,
+        "monetization": 0.0552,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_source_memory_feeds_933b74",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.8438,
+      "phases": {
+        "preparation": 131.0778,
+        "media_svg": 0.6662,
+        "youtube": 0.719,
+        "content_assembly": 0.2929,
+        "monetization": 0.0556,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_ai_detector_limits_3efd65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.7273,
+      "phases": {
+        "preparation": 160.3578,
+        "media_svg": 0.2561,
+        "youtube": 0.7076,
+        "content_assembly": 0.3138,
+        "monetization": 0.0581,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_virality_vs_belief_c47d81",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.7226,
+      "phases": {
+        "preparation": 118.3969,
+        "media_svg": 0.2688,
+        "youtube": 0.687,
+        "content_assembly": 0.3005,
+        "monetization": 0.0388,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_feed_control_limits_1d7779",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 210.7637,
+      "phases": {
+        "preparation": 208.8674,
+        "media_svg": 0.6988,
+        "youtube": 0.7819,
+        "content_assembly": 0.3237,
+        "monetization": 0.0552,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_algorithmic_ranking_84a277_outrage_as_interest_7a8635",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.5721,
+      "phases": {
+        "preparation": 172.9063,
+        "media_svg": 0.3439,
+        "youtube": 0.9064,
+        "content_assembly": 0.3207,
+        "monetization": 0.059,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_parking_fine_scams_d66f5a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.185,
+      "phases": {
+        "preparation": 132.4526,
+        "media_svg": 0.6417,
+        "youtube": 0.7154,
+        "content_assembly": 0.2904,
+        "monetization": 0.0533,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_community_notes_stab_6d03f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.113,
+      "phases": {
+        "preparation": 151.2986,
+        "media_svg": 0.6838,
+        "youtube": 0.7268,
+        "content_assembly": 0.3164,
+        "monetization": 0.0548,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 109.8826,
+      "phases": {
+        "preparation": 108.1126,
+        "media_svg": 0.7097,
+        "youtube": 0.6785,
+        "content_assembly": 0.2948,
+        "monetization": 0.0565,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_eyewitness_posts_lim_fc74a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.0978,
+      "phases": {
+        "preparation": 157.283,
+        "media_svg": 0.6328,
+        "youtube": 0.781,
+        "content_assembly": 0.312,
+        "monetization": 0.0561,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_regulator_notices_li_373f86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.6946,
+      "phases": {
+        "preparation": 119.9764,
+        "media_svg": 0.6521,
+        "youtube": 0.6963,
+        "content_assembly": 0.2846,
+        "monetization": 0.0541,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_evidence_hierarchy_e76119_viral_charts_dataset_f16861",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.2899,
+      "phases": {
+        "preparation": 122.5254,
+        "media_svg": 0.6752,
+        "youtube": 0.7076,
+        "content_assembly": 0.2954,
+        "monetization": 0.0556,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.5534,
+      "phases": {
+        "preparation": 141.7624,
+        "media_svg": 0.6974,
+        "youtube": 0.7021,
+        "content_assembly": 0.3022,
+        "monetization": 0.0565,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_journalism_vs_opinio_3271a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.9442,
+      "phases": {
+        "preparation": 145.1757,
+        "media_svg": 0.6953,
+        "youtube": 0.6874,
+        "content_assembly": 0.2978,
+        "monetization": 0.0561,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_platform_cues_credib_dd8e56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.181,
+      "phases": {
+        "preparation": 126.5028,
+        "media_svg": 0.6197,
+        "youtube": 0.6773,
+        "content_assembly": 0.2952,
+        "monetization": 0.0543,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_sponsored_posts_trus_f56dc5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.0096,
+      "phases": {
+        "preparation": 114.2759,
+        "media_svg": 0.6497,
+        "youtube": 0.6897,
+        "content_assembly": 0.3048,
+        "monetization": 0.0569,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.56,
+      "phases": {
+        "preparation": 157.7674,
+        "media_svg": 0.7032,
+        "youtube": 0.6827,
+        "content_assembly": 0.3179,
+        "monetization": 0.0545,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_loaded_search_terms_dc905e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.453,
+      "phases": {
+        "preparation": 138.6682,
+        "media_svg": 0.6995,
+        "youtube": 0.7032,
+        "content_assembly": 0.297,
+        "monetization": 0.0548,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_screenshots_cropped_589fdd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.5889,
+      "phases": {
+        "preparation": 128.1943,
+        "media_svg": 0.2683,
+        "youtube": 0.7404,
+        "content_assembly": 0.2996,
+        "monetization": 0.0549,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e_ai_doctor_deepfakes_d98adf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 108.689,
+      "phases": {
+        "preparation": 106.4637,
+        "media_svg": 0.6843,
+        "youtube": 1.1588,
+        "content_assembly": 0.2982,
+        "monetization": 0.0542,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.9454,
+      "phases": {
+        "preparation": 124.0051,
+        "media_svg": 0.6763,
+        "youtube": 0.7357,
+        "content_assembly": 0.2999,
+        "monetization": 4.1937,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_ai_citation_checking_2a0df3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.8206,
+      "phases": {
+        "preparation": 147.0393,
+        "media_svg": 0.6831,
+        "youtube": 0.6948,
+        "content_assembly": 0.314,
+        "monetization": 0.056,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_data_void_first_resu_e99307",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 97.837,
+      "phases": {
+        "preparation": 96.1499,
+        "media_svg": 0.6676,
+        "youtube": 0.6479,
+        "content_assembly": 0.2874,
+        "monetization": 0.0538,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.4612,
+      "phases": {
+        "preparation": 131.695,
+        "media_svg": 0.7011,
+        "youtube": 0.6758,
+        "content_assembly": 0.304,
+        "monetization": 0.0536,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_lateral_reading_sour_b1df5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 185.8254,
+      "phases": {
+        "preparation": 184.0487,
+        "media_svg": 0.6675,
+        "youtube": 0.6943,
+        "content_assembly": 0.3247,
+        "monetization": 0.0542,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_own_research_cherry_4b8483_opposing_evidence_te_37a8fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 193.414,
+      "phases": {
+        "preparation": 191.6645,
+        "media_svg": 0.6606,
+        "youtube": 0.676,
+        "content_assembly": 0.3212,
+        "monetization": 0.057,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_accuracy_prompts_sha_1e2681",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.1945,
+      "phases": {
+        "preparation": 146.8282,
+        "media_svg": 0.2723,
+        "youtube": 0.7137,
+        "content_assembly": 0.3055,
+        "monetization": 0.0396,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.9883,
+      "phases": {
+        "preparation": 136.6333,
+        "media_svg": 0.276,
+        "youtube": 0.7109,
+        "content_assembly": 0.2968,
+        "monetization": 0.0378,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.1468,
+      "phases": {
+        "preparation": 138.8974,
+        "media_svg": 0.1692,
+        "youtube": 0.6982,
+        "content_assembly": 0.3095,
+        "monetization": 0.0398,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.8841,
+      "phases": {
+        "preparation": 117.5152,
+        "media_svg": 0.2734,
+        "youtube": 0.7037,
+        "content_assembly": 0.3046,
+        "monetization": 0.0554,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.2581,
+      "phases": {
+        "preparation": 116.8897,
+        "media_svg": 0.2728,
+        "youtube": 0.7136,
+        "content_assembly": 0.2937,
+        "monetization": 0.0558,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.9331,
+      "phases": {
+        "preparation": 145.5986,
+        "media_svg": 0.2616,
+        "youtube": 0.6868,
+        "content_assembly": 0.2983,
+        "monetization": 0.056,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.9913,
+      "phases": {
+        "preparation": 133.6738,
+        "media_svg": 0.2705,
+        "youtube": 0.657,
+        "content_assembly": 0.3018,
+        "monetization": 0.0552,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_impersonated_authori_83faaf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 101.7722,
+      "phases": {
+        "preparation": 100.3872,
+        "media_svg": 0.2756,
+        "youtube": 0.733,
+        "content_assembly": 0.2898,
+        "monetization": 0.0562,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.3411,
+      "phases": {
+        "preparation": 150.9887,
+        "media_svg": 0.2743,
+        "youtube": 0.6828,
+        "content_assembly": 0.3058,
+        "monetization": 0.0557,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old_images_new_claim_d69c13",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.1712,
+      "phases": {
+        "preparation": 108.7831,
+        "media_svg": 0.2714,
+        "youtube": 0.7422,
+        "content_assembly": 0.2871,
+        "monetization": 0.0555,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_parody_screenshots_c_1f9d4b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.9575,
+      "phases": {
+        "preparation": 125.5654,
+        "media_svg": 0.2834,
+        "youtube": 0.7189,
+        "content_assembly": 0.302,
+        "monetization": 0.0548,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_community_notes_evid_42f028",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.715,
+      "phases": {
+        "preparation": 137.3835,
+        "media_svg": 0.2734,
+        "youtube": 0.6589,
+        "content_assembly": 0.3097,
+        "monetization": 0.0567,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_small_account_virali_00a26b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.0408,
+      "phases": {
+        "preparation": 111.6532,
+        "media_svg": 0.2752,
+        "youtube": 0.7292,
+        "content_assembly": 0.3106,
+        "monetization": 0.0405,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_emergency_warning_ch_fc1c88",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 130.7292,
+      "phases": {
+        "preparation": 128.9348,
+        "media_svg": 0.6849,
+        "youtube": 0.7174,
+        "content_assembly": 0.3041,
+        "monetization": 0.0557,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.8184,
+      "phases": {
+        "preparation": 148.0354,
+        "media_svg": 0.6893,
+        "youtube": 0.705,
+        "content_assembly": 0.3,
+        "monetization": 0.0564,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.2989,
+      "phases": {
+        "preparation": 125.6304,
+        "media_svg": 0.6289,
+        "youtube": 0.6621,
+        "content_assembly": 0.2912,
+        "monetization": 0.0547,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_local_quote_card_che_bcb62e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.7372,
+      "phases": {
+        "preparation": 119.9984,
+        "media_svg": 0.6856,
+        "youtube": 0.6768,
+        "content_assembly": 0.2913,
+        "monetization": 0.0525,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_authority_impersonat_babebb_screenshot_provenanc_74c4d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.8783,
+      "phases": {
+        "preparation": 112.1246,
+        "media_svg": 0.6779,
+        "youtube": 0.7026,
+        "content_assembly": 0.2878,
+        "monetization": 0.0545,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.9478,
+      "phases": {
+        "preparation": 112.1739,
+        "media_svg": 0.6496,
+        "youtube": 0.7484,
+        "content_assembly": 0.2902,
+        "monetization": 0.0544,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_corrections_coverups_8b0782",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.5258,
+      "phases": {
+        "preparation": 124.7583,
+        "media_svg": 0.7022,
+        "youtube": 0.6826,
+        "content_assembly": 0.2937,
+        "monetization": 0.0569,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.7788,
+      "phases": {
+        "preparation": 138.5219,
+        "media_svg": 0.639,
+        "youtube": 1.211,
+        "content_assembly": 0.316,
+        "monetization": 0.0558,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_popularity_false_cre_cc2e16",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.7514,
+      "phases": {
+        "preparation": 132.9147,
+        "media_svg": 0.6999,
+        "youtube": 0.7341,
+        "content_assembly": 0.315,
+        "monetization": 0.0549,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_repetition_familiari_926617",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.9655,
+      "phases": {
+        "preparation": 140.1058,
+        "media_svg": 0.7222,
+        "youtube": 0.7431,
+        "content_assembly": 0.3062,
+        "monetization": 0.056,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.689,
+      "phases": {
+        "preparation": 165.8998,
+        "media_svg": 0.6512,
+        "youtube": 0.7151,
+        "content_assembly": 0.33,
+        "monetization": 0.0578,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.2875,
+      "phases": {
+        "preparation": 144.4954,
+        "media_svg": 0.6808,
+        "youtube": 0.711,
+        "content_assembly": 0.3111,
+        "monetization": 0.0557,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e_cancer_cure_substitu_bc89a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.9111,
+      "phases": {
+        "preparation": 152.1056,
+        "media_svg": 0.6738,
+        "youtube": 0.7244,
+        "content_assembly": 0.3187,
+        "monetization": 0.0561,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e_hidden_cure_evidence_d2165e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.9111,
+      "phases": {
+        "preparation": 168.0277,
+        "media_svg": 0.6827,
+        "youtube": 0.7922,
+        "content_assembly": 0.3167,
+        "monetization": 0.0561,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 168.1983,
+      "phases": {
+        "preparation": 166.3735,
+        "media_svg": 0.6769,
+        "youtube": 0.7412,
+        "content_assembly": 0.314,
+        "monetization": 0.0569,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_breaking_claim_sourc_d09543",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.9243,
+      "phases": {
+        "preparation": 162.2068,
+        "media_svg": 0.6379,
+        "youtube": 0.6942,
+        "content_assembly": 0.3116,
+        "monetization": 0.0409,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_false_confirmation_r_375ac6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.0184,
+      "phases": {
+        "preparation": 168.1871,
+        "media_svg": 0.6965,
+        "youtube": 0.744,
+        "content_assembly": 0.3151,
+        "monetization": 0.0418,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.0841,
+      "phases": {
+        "preparation": 135.1975,
+        "media_svg": 0.7323,
+        "youtube": 0.7351,
+        "content_assembly": 0.3134,
+        "monetization": 0.0713,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_southport_false_iden_30f0dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.7037,
+      "phases": {
+        "preparation": 124.8686,
+        "media_svg": 0.6885,
+        "youtube": 0.7585,
+        "content_assembly": 0.2997,
+        "monetization": 0.0566,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Critical_thinking_in_3dc952_independent_corrobor_64b600_viral_claim_risk_tri_90fb1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.2686,
+      "phases": {
+        "preparation": 135.516,
+        "media_svg": 0.6769,
+        "youtube": 0.6813,
+        "content_assembly": 0.31,
+        "monetization": 0.0543,
+        "quality_write": 0.0302
+      }
+    }
+  ]
+}
