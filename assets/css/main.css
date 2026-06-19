@@ -7187,8 +7187,8 @@ body.right-sidebar-collapsed .layout-grid-article {
 
 /* Visual DNA overrides (deterministic per site) */
 :root {
-  --font-heading-stack: "Sora", "Avenir Next", "Segoe UI", sans-serif;
-  --font-body-stack: "Public Sans", "Segoe UI", sans-serif;
+  --font-heading-stack: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body-stack: "Source Serif 4", Georgia, serif;
   --brand: #2e7d32;
   --brand-dark: #1f5a24;
   --accent: #6b4638;
@@ -16315,4 +16315,18 @@ a.fr-book-fit:focus-visible {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
   }
+}
+
+/* Keep the reader-facing question complete beneath the compact hierarchy label. */
+body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full {
+  display: block;
+  overflow: visible;
+  -webkit-box-orient: initial;
+  -webkit-line-clamp: unset;
 }
