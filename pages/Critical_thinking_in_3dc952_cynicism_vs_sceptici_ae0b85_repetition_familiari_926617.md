@@ -284,20 +284,20 @@ One of the most important lessons in [critical thinking]({{ 'critical-thinking-i
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_repetition_familiari_926617-Illustration-1-dark.svg" | relative_url }}" alt="Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_repetition_familiari_926617-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_repetition_familiari_926617-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Psychologists call this the *illusory truth effect*: repeated statements tend to be judged as more accurate than unfamiliar ones, even when repetition adds no new information. Research has found this effect across trivia statements, news headlines, misinformation and conspiracy-related claims. The result is a subtle but powerful challenge for anyone trying to think critically online: seeing a claim many times is not the same as seeing it independently confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+Psychologists call this the *illusory truth effect*: repeated statements tend to be judged as more accurate than unfamiliar ones, even when repetition adds no new information. Research has found this effect across trivia statements, news headlines, misinformation and conspiracy-related claims. The result is a subtle but powerful challenge for anyone trying to think critically online: seeing a claim many times is not the same as seeing it independently confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 ## How repetition changes perceived accuracy
 
-The mechanism is surprisingly simple. When people encounter information repeatedly, it becomes easier for the brain to process. Psychologists refer to this ease as *processing fluency*. Because true information is often familiar in everyday life, people learn to treat fluency as a rough signal of accuracy. The problem is that repetition can create the same feeling whether a statement is true or false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+The mechanism is surprisingly simple. When people encounter information repeatedly, it becomes easier for the brain to process. Psychologists refer to this ease as *processing fluency*. Because true information is often familiar in everyday life, people learn to treat fluency as a rough signal of accuracy. The problem is that repetition can create the same feeling whether a statement is true or false.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 The key point is that the brain does not automatically distinguish between two different reasons a statement feels easy to process:
 
 * It is easy because it is well-supported and widely known.
 * It is easy because it has simply been repeated many times.
 
-When those two signals become confused, familiarity can masquerade as evidence. Studies consistently show that repeated statements are rated as truer than new statements despite repetition providing no additional proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Longitudinal Study of the Illusory Truth Effect</span><span class="citation-popover-snippet">NIHby EL Henderson · 2021 · Cited by 85 — Repeated statements are rated as subjectively truer than comparable new statements, even...</span></span></span>
+When those two signals become confused, familiarity can masquerade as evidence. Studies consistently show that repeated statements are rated as truer than new statements despite repetition providing no additional proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Longitudinal Study of the Illusory Truth Effect</span><span class="citation-popover-snippet">NIHby EL Henderson · 2021 · Cited by 85 — Repeated statements are rated as subjectively truer than comparable new statements, even...</span></span></span>
 
-This effect can appear after remarkably little exposure. Research has found that even limited repetition can increase perceived truthfulness, helping explain why misinformation can spread effectively through sharing, reposting and repeated references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect &#124; Psychology &#124; Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to...</span></span></span>
+This effect can appear after remarkably little exposure. Research has found that even limited repetition can increase perceived truthfulness, helping explain why misinformation can spread effectively through sharing, reposting and repeated references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect &#124; Psychology &#124; Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXFxRkjZNiw" title="Illusory Truth Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer">Illusory Truth Effect</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXFxRkjZNiw">Open on YouTube</a></p></div></div></div>
@@ -306,7 +306,7 @@ This effect can appear after remarkably little exposure. Research has found that
 
 A common assumption is that cynical people are protected because they distrust information. The evidence suggests otherwise.
 
-The illusory truth effect does not depend on someone being naturally trusting. Research reviews report that repetition can increase belief in claims that are implausible, misleading or inconsistent with prior knowledge. In some studies, people became more likely to accept repeated statements even when they possessed relevant knowledge that should have helped them reject the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2wires.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 136 — Repetition increases belief in informati...</span></span></span>
+The illusory truth effect does not depend on someone being naturally trusting. Research reviews report that repetition can increase belief in claims that are implausible, misleading or inconsistent with prior knowledge. In some studies, people became more likely to accept repeated statements even when they possessed relevant knowledge that should have helped them reject the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2wires.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 136 — Repetition increases belief in informati...</span></span></span>
 
 This matters because cynicism often focuses on distrusting sources rather than examining evidence. A cynical reader may dismiss journalists, institutions or experts while still absorbing claims encountered repeatedly through friends, influencers, memes or discussion threads. The familiar claim can gradually feel like common knowledge despite never having been properly verified.
 
@@ -315,7 +315,7 @@ Online environments amplify this risk. A user may see the same assertion:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* In multiple social media posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[dictionary.cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-snippet">English meaning - Cambridge Dictionary5 days ago — not real and based on illusion... Their hopes of a peaceful solution turned out to...</span></span></span>
+* In multiple social media posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[dictionary.cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-snippet">English meaning - Cambridge Dictionary5 days ago — not real and based on illusion... Their hopes of a peaceful solution turned out to...</span></span></span>
 * In screenshots shared across platforms.
 * In group chats.
 * In AI-generated summaries trained on similar online material.
@@ -352,9 +352,9 @@ For example, ten posts all citing the same screenshot provide less evidential we
 
 ## A useful example from misinformation research
 
-Research on misinformation repeatedly shows that repeated exposure increases perceived truthfulness and can encourage further sharing. In other words, repetition does not merely affect belief; it can help claims spread through social networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 122 — In particular, we demonstrate that...</span></span></span>
+Research on misinformation repeatedly shows that repeated exposure increases perceived truthfulness and can encourage further sharing. In other words, repetition does not merely affect belief; it can help claims spread through social networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 122 — In particular, we demonstrate that...</span></span></span>
 
-Studies examining climate-related claims provide a concrete illustration. Researchers found that repeating climate-related statements increased perceived truthfulness for both scientifically accurate claims and climate-sceptical claims. Participants could be nudged towards greater acceptance simply through prior exposure. The finding highlights that familiarity influences judgement regardless of whether the underlying statement is supported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
+Studies examining climate-related claims provide a concrete illustration. Researchers found that repeating climate-related statements increased perceived truthfulness for both scientifically accurate claims and climate-sceptical claims. Participants could be nudged towards greater acceptance simply through prior exposure. The finding highlights that familiarity influences judgement regardless of whether the underlying statement is supported by evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
 
 This is why misinformation campaigns often rely on persistence rather than proof. The goal is not always to provide compelling evidence. Sometimes it is enough to ensure that a claim remains visible long enough to become familiar.
 
@@ -396,194 +396,194 @@ Critical thinking does not require ignoring familiar claims. Familiarity can be 
 In the age of social media and AI, one of the most valuable habits is therefore a simple question: am I seeing many pieces of evidence, or am I seeing the same claim many times? The answer often determines whether apparent consensus reflects genuine corroboration or merely the persuasive power of repetition.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When familiar claims start feeling true. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When familiar claims start feeling true. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers cognitive biases related to familiarity and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive biases related to familiarity and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explains common thinking errors and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common thinking errors and belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides defenses against cognitive pitfalls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides defenses against cognitive pitfalls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages corroboration rather than repetition-based trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages corroboration rather than repetition-based trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="repetition-when-familiar-claims-start-feeling-true-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ In the age of social media and AI, one of the most valuable habits is therefore 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ In the age of social media and AI, one of the most valuable habits is therefore 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ In the age of social media and AI, one of the most valuable habits is therefore 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ In the age of social media and AI, one of the most valuable habits is therefore 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ In the age of social media and AI, one of the most valuable habits is therefore 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,157 +789,157 @@ In the age of social media and AI, one of the most valuable habits is therefore 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 409 — This finding is known as...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 409 — This finding is known as...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 122 — In particular, we demonstrate that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 122 — In particular, we demonstrate that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wires.onlinelibrary.wiley.com  
-   Link: <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1573" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1573</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repeating false and misleading information...Aug 22, 2021 — Repetition increases belief in false information, even when t...</p></details>
+   Link:<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1573" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repeating false and misleading information...Aug 22, 2021 — Repetition increases belief in false information, even when t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: illusory.io  
-   Link: <a href="https://www.illusory.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.illusory.io/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern proxies for data-led operationsIllusory makes it easier to retrieve online data and perform complex tasks. Train AI lan...</p></details>
+   Link:<a href="https://www.illusory.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.illusory.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern proxies for data-led operationsIllusory makes it easier to retrieve online data and perform complex tasks. Train AI lan...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...by SM Bowes · 2026 — Repetition increases the perceived truth of information. This ill...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...by SM Bowes · 2026 — Repetition increases the perceived truth of information. This ill...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Illusory Truth Effect  
-   Link: <a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Truth...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Longitudinal Study of the Illusory Truth Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby EL Henderson · 2021 · Cited by 85 — Repeated statements are rated as subjectively truer than comparable new statements, even...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8194981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby EL Henderson · 2021 · Cited by 85 — Repeated statements are rated as subjectively truer than comparable new statements, even...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 136 — Repetition increases belief in informati...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 136 — Repetition increases belief in informati...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
+   Link:<a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Fake news and social polarization. Fake News Illusory Truth Effect. The evidence suggests that global politics have alrea...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Fake news and social polarization. Fake News Illusory Truth Effect. The evidence suggests that global politics have alrea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10204694/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10204694/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>could increase the perceived truth of conspiracy...by J Béna · 2023 · Cited by 32 — Interestingly, research has found that repetition in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10204694/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10204694/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>could increase the perceived truth of conspiracy...by J Béna · 2023 · Cited by 32 — Interestingly, research has found that repetition in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — not real and based on illusion... Their hopes of a peaceful solution turned out to...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — not real and based on illusion... Their hopes of a peaceful solution turned out to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brodhub.eu  
    Title: Illusory Truth Effect  
-   Link: <a href="https://brodhub.eu/en/media-literacy/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brodhub.eu/en/media-literacy/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BROD16 Nov 2023 — The illusory truth effect is a cognitive bias wherein repetition increases the perceived truthfulness of a statement, r...</p></details>
+   Link:<a href="https://brodhub.eu/en/media-literacy/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brodhub.eu/en/media-literacy/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BROD16 Nov 2023 — The illusory truth effect is a cognitive bias wherein repetition increases the perceived truthfulness of a statement, r...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychologytoday.com  
    Title: illusory truth effect  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or not...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or not...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
    Title: illusory truth effect  
-   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 12, 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or no...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 12, 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or no...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.findlaw.com  
-   Link: <a href="https://dictionary.findlaw.com/definition/illusory.html" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.findlaw.com/definition/illusory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FindLaw Dictionary of Legal Termsterm: Illusory. illusory adj.: likely to mislead or deceive: false deceptive [an plea bargain leading...</p></details>
+   Link:<a href="https://dictionary.findlaw.com/definition/illusory.html" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.findlaw.com/definition/illusory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FindLaw Dictionary of Legal Termsterm: Illusory. illusory adj.: likely to mislead or deceive: false deceptive [an plea bargain leading...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningadjective · causing illusion; deceptive; misleading. Synonyms: false, specious, fallacious · of the nature o...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningadjective · causing illusion; deceptive; misleading. Synonyms: false, specious, fallacious · of the nature o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectIt&#x27;s why fake news spreads and retractions of misinformation don&#x27;t work. In this post, we&#x27;re going to look at ho...</p></details>
+   Link:<a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectIt&#x27;s why fake news spreads and retractions of misinformation don&#x27;t work. In this post, we&#x27;re going to look at ho...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectRepeated information is often perceived as more truthful than new informa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectRepeated information is often perceived as more truthful than new informa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: leadalchemists.com  
-   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
+   Link:<a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.vanderbilt.edu  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — When adults hear a statement repeated twice, they are more likely to think...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — When adults hear a statement repeated twice, they are more likely to think...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 343265427 Repetition Increases Perceived Truth Even for Known Falsehoods  
-   Link: <a href="https://www.researchgate.net/publication/343265427_Repetition_Increases_Perceived_Truth_Even_for_Known_Falsehoods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343265427_Repetition_Increases_Perceived_Truth_Even_for_Known_Falsehoods</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Repetition Increases Perceived Truth Even for...1 July 2020 — Two experiments showed that overall, mere repetition indeed increase...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343265427_Repetition_Increases_Perceived_Truth_Even_for_Known_Falsehoods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343265427_Repetition_Increases_Perceived_Truth_Even_for_Known_Falsehoods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Repetition Increases Perceived Truth Even for...1 July 2020 — Two experiments showed that overall, mere repetition indeed increase...</p></details>
    Published: July 2020  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0pWLKQtpZOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pWLKQtpZOw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Say IllusoryPronunciation of Illusory: Learn how to pronounce the word Illusory. Definition and meaning were removed to avoid copy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0pWLKQtpZOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pWLKQtpZOw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Say IllusoryPronunciation of Illusory: Learn how to pronounce the word Illusory. Definition and meaning were removed to avoid copy...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: eufactcheck.eu  
-   Link: <a href="https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/" target="_blank" rel="noopener noreferrer nofollow">https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: how repeated misinformation sticks31 Jan 2026 — The illusory truth effect: how repeated misinformation sticks...</p></details>
+   Link:<a href="https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/" target="_blank" rel="noopener noreferrer nofollow">https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: how repeated misinformation sticks31 Jan 2026 — The illusory truth effect: how repeated misinformation sticks...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/illusory" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from Middle French illusorie (modern French illusoire), derived from Latin illūsōrius (“mocking, ironical”)...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/illusory" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Middle French illusorie (modern French illusoire), derived from Latin illūsōrius (“mocking, ironical”)...</p></details>

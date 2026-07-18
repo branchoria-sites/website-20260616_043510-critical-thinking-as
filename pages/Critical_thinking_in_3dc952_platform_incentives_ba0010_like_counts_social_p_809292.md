@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_lik
 
 ## Introduction
 
-On social platforms, like counts often appear before any [evidence]({{ 'evidence/' | relative_url }}), source details or context. That ordering matters. A post with 50,000 likes can feel trustworthy within seconds, even if the claim itself is poorly supported. The effect is not that people consciously decide popularity equals truth. Rather, visible popularity acts as a shortcut. It signals that many other people have already noticed, endorsed or accepted the content, making a weak claim seem more credible than it would if viewed in isolation. Research on social influence, credibility judgements and misinformation consistently shows that [popularity cues]({{ 'popularity-cues/' | relative_url }}) can shape first impressions, especially when people have limited time or information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
+On social platforms, like counts often appear before any [evidence]({{ 'evidence/' | relative_url }}), source details or context. That ordering matters. A post with 50,000 likes can feel trustworthy within seconds, even if the claim itself is poorly supported. The effect is not that people consciously decide popularity equals truth. Rather, visible popularity acts as a shortcut. It signals that many other people have already noticed, endorsed or accepted the content, making a weak claim seem more credible than it would if viewed in isolation. Research on social influence, credibility judgements and misinformation consistently shows that [popularity cues]({{ 'popularity-cues/' | relative_url }}) can shape first impressions, especially when people have limited time or information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-1-dark.svg" | relative_url }}" alt="Like Counts illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ Within the broader system of shareability incentives, like counts are important 
 
 ## Why social proof changes first impressions
 
-The mechanism begins with [social proof]({{ 'social-proof/' | relative_url }}): the tendency to use other people's behaviour as a clue when judging what is true, valuable or worth attention. In everyday life, this can be useful. If a restaurant is full, that may indicate quality. On social media, however, the same instinct is applied to information claims, where popularity and accuracy are not necessarily related. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofToday, the vast reach of social media amplifies the effects of social proof. Likes, shares, comments, and vie...</span></span></span>
+The mechanism begins with [social proof]({{ 'social-proof/' | relative_url }}): the tendency to use other people's behaviour as a clue when judging what is true, valuable or worth attention. In everyday life, this can be useful. If a restaurant is full, that may indicate quality. On social media, however, the same instinct is applied to information claims, where popularity and accuracy are not necessarily related.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofToday, the vast reach of social media amplifies the effects of social proof. Likes, shares, comments, and vie...</span></span></span>
 
-When users encounter a post with a large number of likes, they receive a rapid signal that many others have reacted positively. Because checking evidence takes effort, the brain may treat that visible approval as a rough indicator of credibility. Researchers describe this as a bandwagon effect: support from others increases the perceived validity of a message. A large meta-analysis covering dozens of studies found that bandwagon cues have a measurable positive effect on credibility perceptions, even if the effect is generally modest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?</span><span class="citation-popover-snippet">A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</span></span></span>
+When users encounter a post with a large number of likes, they receive a rapid signal that many others have reacted positively. Because checking evidence takes effort, the brain may treat that visible approval as a rough indicator of credibility. Researchers describe this as a bandwagon effect: support from others increases the perceived validity of a message. A large meta-analysis covering dozens of studies found that bandwagon cues have a measurable positive effect on credibility perceptions, even if the effect is generally modest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?</span><span class="citation-popover-snippet">A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</span></span></span>
 
 The key point is that the likes are often processed before the evidence. A user scrolling quickly may notice the popularity count immediately while never opening a linked article, checking a source or examining supporting data.
 
@@ -305,7 +305,7 @@ This creates a subtle illusion. Thousands of likes can resemble thousands of ind
 
 ## How likes and reposts reward confident claims
 
-Popularity signals are especially powerful when a claim is difficult to evaluate directly. Most users cannot immediately verify complex claims about health, politics, economics, science or current events. In those situations, social cues become more influential because they fill an information gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
+Popularity signals are especially powerful when a claim is difficult to evaluate directly. Most users cannot immediately verify complex claims about health, politics, economics, science or current events. In those situations, social cues become more influential because they fill an information gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
 
 Confident claims benefit disproportionately from this environment.
 
@@ -324,7 +324,7 @@ This creates a feedback loop:
 
 </div>
 
-The result is that weak claims can acquire an appearance of legitimacy through repeated exposure to popularity signals rather than through evidence. Theoretical and empirical work on engagement-driven systems suggests that metrics such as likes and shares can contribute to the spread of misinformation by rewarding content that captures attention, regardless of accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.02248" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Crowding out the truth? A simple model of misinformation, polarization and meaningful social interactionsOctober 5, 2022...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
+The result is that weak claims can acquire an appearance of legitimacy through repeated exposure to popularity signals rather than through evidence. Theoretical and empirical work on engagement-driven systems suggests that metrics such as likes and shares can contribute to the spread of misinformation by rewarding content that captures attention, regardless of accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.02248" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Crowding out the truth? A simple model of misinformation, polarization and meaningful social interactionsOctober 5, 2022...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-2-dark.svg" | relative_url }}" alt="Like Counts illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ The influence of likes is not necessarily a sign of irrationality. In most situa
 
 The problem is that social platforms make popularity unusually visible. In offline life, a person rarely sees a precise numerical display of how many people approve of an idea. Online, that number is often placed directly beside the claim itself. The design encourages users to treat social consensus as a source of information, even when the apparent consensus may be incomplete, manipulated or based on superficial reactions.
 
-Research suggests that social cues influence judgement most strongly when they alter perceptions of broader social agreement. In other words, the likes matter because they imply that many other people have already reached a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
+Research suggests that social cues influence judgement most strongly when they alter perceptions of broader social agreement. In other words, the likes matter because they imply that many other people have already reached a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ccLhhELMw6o" title="Protests erupt near U.S. Embassy in Lebanon after Gaza hospital explosion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ccLhhELMw6o" target="_blank" rel="noopener noreferrer">Protests erupt near U.S. Embassy in Lebanon after Gaza hospital explosion</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 55.8K &middot; Uploaded: October 2023 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ccLhhELMw6o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ccLhhELMw6o">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ Highly shared content may be:
 
 </div>
 
-Studies of misinformation show that false or misleading content can attract substantial engagement online. Some misleading claims become viral precisely because they are believable enough to spread while remaining insufficiently supported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMC(Why) Is Misinformation a Problem?</span><span class="citation-popover-snippet">by Z Adams · 2023 · Cited by 147 — (2022) showed that news classified as misinformation can garner increased attention, gauged by the...</span></span></span>
+Studies of misinformation show that false or misleading content can attract substantial engagement online. Some misleading claims become viral precisely because they are believable enough to spread while remaining insufficiently supported by evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMC(Why) Is Misinformation a Problem?</span><span class="citation-popover-snippet">by Z Adams · 2023 · Cited by 147 — (2022) showed that news classified as misinformation can garner increased attention, gauged by the...</span></span></span>
 
 This helps explain why a post's popularity should be treated as information about its reach, not as proof of its correctness. Reach tells us that people encountered and reacted to a claim. It does not tell us whether experts, evidence or independent verification support it.
 
@@ -382,200 +382,200 @@ Before treating a highly liked claim as credible, ask:
 
 A useful mental shift is to interpret likes as a measure of visibility rather than validity. A post with 100,000 likes may deserve attention because it is influential, but influence and truth are separate questions.
 
-In the age of social media and AI-generated content, this distinction becomes increasingly important. Artificially generated text, images and videos can look persuasive from the moment they are published. When large engagement numbers are added on top, social proof can make unsupported claims feel established before anyone has checked whether they are actually true. The critical-thinking task is to resist treating popularity as proof and to evaluate the evidence that exists beyond the metric itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[apa.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">How and why does misinformation spread?29 Nov 2023 — Overall, most online misinformation originates from a small minority of “superspread...</span></span></span>
+In the age of social media and AI-generated content, this distinction becomes increasingly important. Artificially generated text, images and videos can look persuasive from the moment they are published. When large engagement numbers are added on top, social proof can make unsupported claims feel established before anyone has checked whether they are actually true. The critical-thinking task is to resist treating popularity as proof and to evaluate the evidence that exists beyond the metric itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[apa.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">How and why does misinformation spread?29 Nov 2023 — Overall, most online misinformation originates from a small minority of “superspread...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-3-dark.svg" | relative_url }}" alt="Like Counts illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_like_counts_social_p_809292-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When popularity starts to look like proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When popularity starts to look like proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why popularity cues and mental shortcuts can feel like evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why popularity cues and mental shortcuts can feel like evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to evaluate claims independently of popularity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to evaluate claims independently of popularity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Distinguishes reliable knowledge creation from crowd approval.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes reliable knowledge creation from crowd approval.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The influential mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10141909-M.jpg" alt="Cover for The influential mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influential mind">The influential mind</a>
-        </h4>
-        <p class="fr-book-author">By Tali Sharot</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The influential mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10141909-M.jpg" alt="Cover for The influential mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influential mind">The influential mind</a>
+</h4>
+<p class="fr-book-author">By Tali Sharot</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Attitude change, Social influence, Neuropsychology, Influence (Psychology).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Attitude change, Social influence, Neuropsychology, Influence (Psychology).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="like-counts-when-popularity-starts-to-look-like-proof-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ In the age of social media and AI-generated content, this distinction becomes in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ In the age of social media and AI-generated content, this distinction becomes in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ In the age of social media and AI-generated content, this distinction becomes in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ In the age of social media and AI-generated content, this distinction becomes in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ In the age of social media and AI-generated content, this distinction becomes in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,134 +781,134 @@ In the age of social media and AI-generated content, this distinction becomes in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 65 — We find that social cues only impact individual judgements when they influence perceptions...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.02248" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02248</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowding out the truth? A simple model of misinformation, polarization and meaningful social interactionsOctober 5, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2210.02248" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02248</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crowding out the truth? A simple model of misinformation, polarization and meaningful social interactionsOctober 5, 2022...</p></details>
    Published: October 5, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.05443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05443</a>  
+   Link:<a href="https://arxiv.org/abs/2302.05443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05443</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apa.org  
    Title: how why misinformation spreads  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How and why does misinformation spread?29 Nov 2023 — Overall, most online misinformation originates from a small minority of “superspread...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How and why does misinformation spread?29 Nov 2023 — Overall, most online misinformation originates from a small minority of “superspread...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00936502221124395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00936502221124395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofToday, the vast reach of social media amplifies the effects of social proof. Likes, shares, comments, and vie...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofToday, the vast reach of social media amplifies the effects of social proof. Likes, shares, comments, and vie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00936502221124395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>S Wang · 2023 · Cited by 56 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues h...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00936502221124395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S Wang · 2023 · Cited by 56 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC(Why) Is Misinformation a Problem?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — (2022) showed that news classified as misinformation can garner increased attention, gauged by the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — (2022) showed that news classified as misinformation can garner increased attention, gauged by the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Ranjith · 2025 · Cited by 7 — Firstly, the study aims to evaluate the impact of source credibility on perceived risk. Secondly, i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Ranjith · 2025 · Cited by 7 — Firstly, the study aims to evaluate the impact of source credibility on perceived risk. Secondly, i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 8 — Drawing upon Trust Theory, Social Influence Theory...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 8 — Drawing upon Trust Theory, Social Influence Theory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/bandwagon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — an activity, group, etc., that has become successful or fashionable and so attracts...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/bandwagon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — an activity, group, etc., that has become successful or fashionable and so attracts...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bandwagon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BandwagonThe term bandwagon, band wagon, bandwaggon, or band waggon, originally described large wagon that carried musicians, although...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bandwagon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BandwagonThe term bandwagon, band wagon, bandwaggon, or band waggon, originally described large wagon that carried musicians, although...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: Bandwagon Effect  
-   Link: <a href="https://thedecisionlab.com/biases/bandwagon-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/bandwagon-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Bandwagon effect is when an idea or belief is being followed because everyone seems to be doing so. It is common in polit...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/bandwagon-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/bandwagon-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Bandwagon effect is when an idea or belief is being followed because everyone seems to be doing so. It is common in polit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: coursera.org  
    Title: social proof  
-   Link: <a href="https://www.coursera.org/articles/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.coursera.org/articles/social-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Social Proof and How to Use It?23 Oct 2025 — Social proof refers to a psychological phenomenon occurring when you look to others&#x27;...</p></details>
+   Link:<a href="https://www.coursera.org/articles/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.coursera.org/articles/social-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Social Proof and How to Use It?23 Oct 2025 — Social proof refers to a psychological phenomenon occurring when you look to others&#x27;...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/bandwagon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BANDWAGON Definition &amp; Meaning5 days ago — The meaning of BANDWAGON is a usually ornate and high wagon for a band of musicians especially...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/bandwagon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BANDWAGON Definition &amp; Meaning5 days ago — The meaning of BANDWAGON is a usually ornate and high wagon for a band of musicians especially...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bandwagongroup.co.uk  
-   Link: <a href="https://bandwagongroup.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bandwagongroup.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BandwagonDiscover Bandwagon, a music charity in Cornwall dedicated to empowering disabled and vulnerable individuals through innovative m...</p></details>
+   Link:<a href="https://bandwagongroup.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://bandwagongroup.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BandwagonDiscover Bandwagon, a music charity in Cornwall dedicated to empowering disabled and vulnerable individuals through innovative m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: conversion-uplift.co.uk  
-   Link: <a href="https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/" target="_blank" rel="noopener noreferrer nofollow">https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect and Why People Follow the CrowdThe bandwagon effect is a psychological tendency where the adoption of ideas, product...</p></details>
+   Link:<a href="https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/" target="_blank" rel="noopener noreferrer nofollow">https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect and Why People Follow the CrowdThe bandwagon effect is a psychological tendency where the adoption of ideas, product...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/power-social-proof-why-we-trust-what-others-like-harutyun-musheghyan-x4yjf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/power-social-proof-why-we-trust-what-others-like-harutyun-musheghyan-x4yjf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Social Proof: Why We Trust What Others LikeA study by Nielsen found that 83% of consumers trust recommendations from friends...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/power-social-proof-why-we-trust-what-others-like-harutyun-musheghyan-x4yjf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/power-social-proof-why-we-trust-what-others-like-harutyun-musheghyan-x4yjf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Social Proof: Why We Trust What Others LikeA study by Nielsen found that 83% of consumers trust recommendations from friends...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 313737416 Social proof in social media shopping An experimental design research  
-   Link: <a href="https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in social media shopping: An experimental...Apr 29, 2026 — This study empirically compares the effect of number of follower...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in social media shopping: An experimental...Apr 29, 2026 — This study empirically compares the effect of number of follower...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: acalytica.com  
-   Link: <a href="https://acalytica.com/brand-popularity-bandwagon-effect/" target="_blank" rel="noopener noreferrer nofollow">https://acalytica.com/brand-popularity-bandwagon-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect in Branding: How Popularity Fuels...How does brand popularity create a self-reinforcing cycle of leadership?...</p></details>
+   Link:<a href="https://acalytica.com/brand-popularity-bandwagon-effect/" target="_blank" rel="noopener noreferrer nofollow">https://acalytica.com/brand-popularity-bandwagon-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect in Branding: How Popularity Fuels...How does brand popularity create a self-reinforcing cycle of leadership?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tmla.co.uk  
-   Link: <a href="https://tmla.co.uk/article/social-proof-in-action/" target="_blank" rel="noopener noreferrer nofollow">https://tmla.co.uk/article/social-proof-in-action/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in action: How reviews, influencers and UGC...19 Jun 2025 — Social proof builds trust and reduces uncertainty...</p></details>
+   Link:<a href="https://tmla.co.uk/article/social-proof-in-action/" target="_blank" rel="noopener noreferrer nofollow">https://tmla.co.uk/article/social-proof-in-action/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in action: How reviews, influencers and UGC...19 Jun 2025 — Social proof builds trust and reduces uncertainty...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: experts.illinois.edu  
    Title: the role of corporate credibility and bandwagon cues in sponsored  
-   Link: <a href="https://experts.illinois.edu/en/publications/the-role-of-corporate-credibility-and-bandwagon-cues-in-sponsored/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/the-role-of-corporate-credibility-and-bandwagon-cues-in-sponsored/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of corporate credibility and bandwagon cues in...by R Li · 2020 · Cited by 66 — Purpose: Sponsored social media content is one of t...</p></details>
+   Link:<a href="https://experts.illinois.edu/en/publications/the-role-of-corporate-credibility-and-bandwagon-cues-in-sponsored/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/the-role-of-corporate-credibility-and-bandwagon-cues-in-sponsored/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of corporate credibility and bandwagon cues in...by R Li · 2020 · Cited by 66 — Purpose: Sponsored social media content is one of t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wadedigital.co.uk  
    Title: using social proof to build trust and credibility on your website  
-   Link: <a href="https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Showcase Customer Testimonials and Reviews · 2. Use Case Studies to Tell Stories That Sell · 3. Display Client Logos and Media Mentions ·...</p></details>
+   Link:<a href="https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Showcase Customer Testimonials and Reviews · 2. Use Case Studies to Tell Stories That Sell · 3. Display Client Logos and Media Mentions ·...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thebandwagon.uk  
-   Link: <a href="https://thebandwagon.uk/student-portal/" target="_blank" rel="noopener noreferrer nofollow">https://thebandwagon.uk/student-portal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Portal | The BandwagonWelcome to your Student Portal. Home · About · Free Trial · Enrol now · Contact · Student Portal. SITE BY L...</p></details>
+   Link:<a href="https://thebandwagon.uk/student-portal/" target="_blank" rel="noopener noreferrer nofollow">https://thebandwagon.uk/student-portal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Portal | The BandwagonWelcome to your Student Portal. Home · About · Free Trial · Enrol now · Contact · Student Portal. SITE BY L...</p></details>

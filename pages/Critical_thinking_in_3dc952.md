@@ -349,7 +349,7 @@ image: /assets/images/Critical_thinking_in_3dc952-overview-social.jpg
 
 ## Introduction
 
-The core challenge is not that people have suddenly stopped caring about truth. Research on misinformation suggests that social media environments often pull attention away from accuracy and towards identity, novelty, [outrage]({{ 'outrage/' | relative_url }}), humour or social approval. Experiments on COVID-19 misinformation found that people were better at distinguishing true from false headlines when asked about accuracy than when asked whether they would share them, supporting the idea that platform context can distract users from truth-checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFighting COVID-19 Misinformation on Social Media</span><span class="citation-popover-snippet">NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</span></span></span>
+The core challenge is not that people have suddenly stopped caring about truth. Research on misinformation suggests that social media environments often pull attention away from accuracy and towards identity, novelty, [outrage]({{ 'outrage/' | relative_url }}), humour or social approval. Experiments on COVID-19 misinformation found that people were better at distinguishing true from false headlines when asked about accuracy than when asked whether they would share them, supporting the idea that platform context can distract users from truth-checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFighting COVID-19 Misinformation on Social Media</span><span class="citation-popover-snippet">NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952-overview.webp" | relative_url }}" alt="Overview image for Critical thinking in the age of social media and A" loading="eager" decoding="sync" fetchpriority="high">
@@ -357,9 +357,9 @@ The core challenge is not that people have suddenly stopped caring about truth. 
 
 Social media changed the information problem from “Can I find something?” to “Can I judge what has found me?” A search engine query at least begins with a user’s question. A social feed begins with [ranking]({{ 'ranking/' | relative_url }}) systems, social signals, paid promotion, influencer networks and recommendation algorithms. The result is that people often meet information as a stream of screenshots, short clips, reposted claims and emotionally framed commentary rather than as a clearly sourced article.
 
-The Reuters Institute’s 2025 Digital News Report describes a news environment in which traditional news organisations are struggling with declining engagement, low trust and competition from social and video platforms. That matters for critical thinking because people increasingly encounter public affairs information through [mixed feeds]({{ 'mixed-feeds/' | relative_url }}) where journalism, entertainment, personal testimony, activism, advertising and synthetic content sit beside one another with similar visual weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">digital news report</span><span class="citation-popover-snippet">202517 Jun 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, low trust, and...</span></span></span>
+The Reuters Institute’s 2025 Digital News Report describes a news environment in which traditional news organisations are struggling with declining engagement, low trust and competition from social and video platforms. That matters for critical thinking because people increasingly encounter public affairs information through [mixed feeds]({{ 'mixed-feeds/' | relative_url }}) where journalism, entertainment, personal testimony, activism, advertising and synthetic content sit beside one another with similar visual weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">digital news report</span><span class="citation-popover-snippet">202517 Jun 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, low trust, and...</span></span></span>
 
-AI intensifies this uncertainty because it lowers the cost of producing convincing material. A person no longer needs a newsroom, design team or video studio to create a polished-looking explanation, fake quote, synthetic image or fabricated local notice. A 2025 large-scale study of AI-generated misinformation on X analysed 91,452 misleading posts flagged through Community Notes and found that AI-generated misinformation had distinctive features: it was more often entertaining in tone, more likely to come from smaller accounts, and more likely to go viral, even though it was assessed as slightly less believable and harmful than conventional misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+AI intensifies this uncertainty because it lowers the cost of producing convincing material. A person no longer needs a newsroom, design team or video studio to create a polished-looking explanation, fake quote, synthetic image or fabricated local notice. A 2025 large-scale study of AI-generated misinformation on X analysed 91,452 misleading posts flagged through Community Notes and found that AI-generated misinformation had distinctive features: it was more often entertaining in tone, more likely to come from smaller accounts, and more likely to go viral, even though it was assessed as slightly less believable and harmful than conventional misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 A useful definition follows from this: critical thinking online is [not cynicism]({{ 'not-cynicism/' | relative_url }}). Cynicism says, “Everything is fake.” Critical thinking says, “This may be true, but I need to understand the source, evidence, context and uncertainty before I act on it.”
 
@@ -367,9 +367,9 @@ A useful definition follows from this: critical thinking online is [not cynicism
 
 The most important design feature of social media is not the post; it is the incentive system around the post. Likes, shares, comments, stitches, quote posts and algorithmic boosts all make reaction visible. That can support useful public correction, but it can also encourage people to respond before they have checked whether the claim is true.
 
-This is why “think before you share” is not a moral slogan but a cognitive intervention. Pennycook and colleagues’ work on misinformation found that small prompts directing users’ attention to accuracy can improve sharing discernment. Later research has replicated and extended the “accuracy nudge” idea in different contexts, suggesting that some misinformation sharing happens not because users cannot tell truth from falsehood, but because the platform moment does not make accuracy the central question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFighting COVID-19 Misinformation on Social Media</span><span class="citation-popover-snippet">NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</span></span></span>
+This is why “think before you share” is not a moral slogan but a cognitive intervention. Pennycook and colleagues’ work on misinformation found that small prompts directing users’ attention to accuracy can improve sharing discernment. Later research has replicated and extended the “accuracy nudge” idea in different contexts, suggesting that some misinformation sharing happens not because users cannot tell truth from falsehood, but because the platform moment does not make accuracy the central question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFighting COVID-19 Misinformation on Social Media</span><span class="citation-popover-snippet">NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</span></span></span>
 
-The problem becomes sharper when content is emotionally charged. A dramatic post about crime, war, health, immigration, elections or children’s safety can feel urgent enough to bypass ordinary scepticism. Local social media groups are a good example: a 2026 UK report covered by The Guardian found that misinformation was substantially more prevalent in “news desert” areas with weaker local journalism, with false claims including fake quotes, AI-generated content and fabricated local authority messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+The problem becomes sharper when content is emotionally charged. A dramatic post about crime, war, health, immigration, elections or children’s safety can feel urgent enough to bypass ordinary scepticism. Local social media groups are a good example: a 2026 UK report covered by The Guardian found that misinformation was substantially more prevalent in “news desert” areas with weaker local journalism, with false claims including fake quotes, AI-generated content and fabricated local authority messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 The practical lesson is simple: the more a post seems designed to make you angry, frightened, morally superior or instantly certain, the more it deserves a pause. Emotional force is not evidence. It is a signal to slow down.
 
@@ -379,9 +379,9 @@ The practical lesson is simple: the more a post seems designed to make you angry
 
 For years, many people used rough visual cues to judge credibility: a professional layout, fluent language, a plausible chart, a confident voice, a realistic image. Generative AI weakens all of these cues. It can produce confident prose without understanding, fabricate references, create plausible but false summaries, and generate images or video that exploit the viewer’s instinct to believe what appears concrete.
 
-AI “hallucination” is the common term for outputs in which a model produces inaccurate or fabricated information while presenting it fluently. IBM defines AI hallucination as a phenomenon where a model perceives patterns or objects that are not real and produces nonsensical or inaccurate outputs. In public information settings, this is not merely a technical glitch: scholars have argued that hallucinations should be studied as a distinct form of misinformation because they can shape decisions even when there is no human author deliberately trying to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-snippet">What Are AI Hallucinations?AI hallucinations are when a large language model (LLM) perceives patterns or objects that are nonexistent...</span></span></span>
+AI “hallucination” is the common term for outputs in which a model produces inaccurate or fabricated information while presenting it fluently. IBM defines AI hallucination as a phenomenon where a model perceives patterns or objects that are not real and produces nonsensical or inaccurate outputs. In public information settings, this is not merely a technical glitch: scholars have argued that hallucinations should be studied as a distinct form of misinformation because they can shape decisions even when there is no human author deliberately trying to deceive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-snippet">What Are AI Hallucinations?AI hallucinations are when a large language model (LLM) perceives patterns or objects that are nonexistent...</span></span></span>
 
-This matters because many people now use AI chatbots like search engines, tutors, summarisation tools or writing assistants. A BBC investigation reported in 2025 found that leading AI chatbots produced significant issues when answering questions about news and current affairs, including factual errors, misleading framing and incorrect context. The risk is not that every AI answer is wrong; it is that wrong answers can arrive in the same calm, polished tone as correct ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+This matters because many people now use AI chatbots like search engines, tutors, summarisation tools or writing assistants. A BBC investigation reported in 2025 found that leading AI chatbots produced significant issues when answering questions about news and current affairs, including factual errors, misleading framing and incorrect context. The risk is not that every AI answer is wrong; it is that wrong answers can arrive in the same calm, polished tone as correct ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The critical thinking shift is therefore from “Does this look credible?” to “Can this be traced?” A reliable AI-assisted answer should be checked against primary sources, reputable reporting, official data, or multiple independent references. Fluency is not a source.
 
@@ -389,7 +389,7 @@ The critical thinking shift is therefore from “Does this look credible?” to 
 
 One of the strongest findings from research on digital evaluation is counter-intuitive: skilled fact-checkers often spend less time staring at the original page. Instead, they read laterally. Lateral reading means opening other tabs, searching for the source, checking what independent organisations say, and locating the original evidence before investing attention in the claim itself.
 
-Stanford’s work on civic online reasoning found that many students struggled to judge online credibility, and the Digital Inquiry Group’s Civic Online Reasoning curriculum now teaches free lessons and assessments to help students evaluate online information affecting civic life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Online Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">researchers find students have trouble judging credibility information online</span><span class="citation-popover-snippet">researchers find students have trouble judging credibility information online</span></span></span> Research on lateral reading found that fact-checkers were effective because they quickly left the original site to investigate the source across the wider web rather than relying on surface features such as logos, design or “About” pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+Stanford’s work on civic online reasoning found that many students struggled to judge online credibility, and the Digital Inquiry Group’s Civic Online Reasoning curriculum now teaches free lessons and assessments to help students evaluate online information affecting civic life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Online Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">researchers find students have trouble judging credibility information online</span><span class="citation-popover-snippet">researchers find students have trouble judging credibility information online</span></span></span> Research on lateral reading found that fact-checkers were effective because they quickly left the original site to investigate the source across the wider web rather than relying on surface features such as logos, design or “About” pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
 For everyday readers, lateral reading can be reduced to a short routine:
 
@@ -417,17 +417,17 @@ A strong method distinguishes between types of evidence. A peer-reviewed study, 
 
 It also distinguishes between uncertainty and conspiracy. Many real-world topics are genuinely uncertain: early reports may be incomplete, scientific findings may change, and official institutions may make mistakes. But uncertainty does not mean every explanation is equally likely. Critical thinking weighs evidence, asks what would be expected if a claim were true, and notices when a theory becomes impossible to falsify.
 
-AI can help or hinder here. Used well, it can generate questions to ask, compare arguments, summarise long documents and suggest where to verify a claim. Used badly, it can launder speculation into confident prose. Research on AI-assisted misinformation tools suggests that context-rich designs, source aggregation and debate-style interaction may support users better than simple chatbot answers, but these systems still require transparency and user control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.22940" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+AI can help or hinder here. Used well, it can generate questions to ask, compare arguments, summarise long documents and suggest where to verify a claim. Used badly, it can launder speculation into confident prose. Research on AI-assisted misinformation tools suggests that context-rich designs, source aggregation and debate-style interaction may support users better than simple chatbot answers, but these systems still require transparency and user control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.22940" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ## The new literacy is media, information and AI literacy together
 
 Media literacy once meant understanding newspapers, television, advertising and online sources. The social media and AI era demands a broader blend: media literacy, information literacy, algorithm literacy and AI literacy.
 
-UNESCO frames media and information literacy as a way to promote critical thinking, ethical AI use and resilience against misinformation, especially for young people and marginalised groups. It has also warned that AI can make mistakes and that human critical judgement remains essential in AI-shaped information environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">media and information literacy and digital competencies</span><span class="citation-popover-snippet">media and information literacy and digital competencies</span></span></span>
+UNESCO frames media and information literacy as a way to promote critical thinking, ethical AI use and resilience against misinformation, especially for young people and marginalised groups. It has also warned that AI can make mistakes and that human critical judgement remains essential in AI-shaped information environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">media and information literacy and digital competencies</span><span class="citation-popover-snippet">media and information literacy and digital competencies</span></span></span>
 
-Algorithm literacy adds a further question: why am I seeing this? A feed is not a neutral window onto public opinion. It is a ranked environment shaped by engagement signals, inferred preferences, platform policies, advertising systems and sometimes coordinated campaigns. Research on algorithm literacy argues that users need practical understanding of how algorithms structure everyday encounters with information, not just abstract awareness that “algorithms exist”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2673-6470/4/2/26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+Algorithm literacy adds a further question: why am I seeing this? A feed is not a neutral window onto public opinion. It is a ranked environment shaped by engagement signals, inferred preferences, platform policies, advertising systems and sometimes coordinated campaigns. Research on algorithm literacy argues that users need practical understanding of how algorithms structure everyday encounters with information, not just abstract awareness that “algorithms exist”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2673-6470/4/2/26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
-AI literacy then adds: what can this system do, where does it fail, and how should I use it responsibly? The OECD has argued that as AI advances, education systems need to understand how AI affects learning, reasoning and skills. Its work on media and AI literacy for future PISA assessment also stresses that students need strong foundational knowledge and skills before they can engage critically with AI-mediated production, participation and networking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span>
+AI literacy then adds: what can this system do, where does it fail, and how should I use it responsibly? The OECD has argued that as AI advances, education systems need to understand how AI affects learning, reasoning and skills. Its work on media and AI literacy for future PISA assessment also stresses that students need strong foundational knowledge and skills before they can engage critically with AI-mediated production, participation and networking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span>
 
 The point is not to make every user a computer scientist. It is to make ordinary users harder to manipulate and better able to ask the right questions.
 
@@ -460,9 +460,9 @@ These habits are not about distrusting everything. They are about giving trust s
 
 Critical thinking is now part of civic life, workplace competence and personal safety. People use online information to make decisions about health, money, voting, education, relationships and emergencies. AI-generated material can affect all of those domains, while social media can accelerate mistakes before institutions have time to correct them.
 
-There is evidence that critical thinking and media literacy can be taught. Stanford researchers reported that less than six hours of instruction helped students improve at spotting dubious online sources. A Harvard Misinformation Review study on lateral reading found that college students could learn to evaluate internet sources more critically in an online course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Online Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">it doesn t take long learn how spot misinformation online stanford study finds</span></span></span>
+There is evidence that critical thinking and media literacy can be taught. Stanford researchers reported that less than six hours of instruction helped students improve at spotting dubious online sources. A Harvard Misinformation Review study on lateral reading found that college students could learn to evaluate internet sources more critically in an online course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Online Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">it doesn t take long learn how spot misinformation online stanford study finds</span></span></span>
 
-But education should not focus only on children. UNESCO’s work on influencers found that many content creators did not routinely verify information before sharing, and it launched training with the Knight Center to improve fact-checking and responsible content creation. That is important because creators often act as informal news interpreters for audiences who may trust them more than institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+But education should not focus only on children. UNESCO’s work on influencers found that many content creators did not routinely verify information before sharing, and it launched training with the Knight Center to improve fact-checking and responsible content creation. That is important because creators often act as informal news interpreters for audiences who may trust them more than institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Workplaces face a related problem. Employees may use AI tools to draft reports, summarise legal or technical material, analyse competitors, write policy documents or prepare client advice. If organisations reward speed without verification, AI errors can travel through professional documents with a veneer of authority. Critical thinking therefore needs to be built into workflows: [source checks]({{ 'source-check/' | relative_url }}), review responsibilities, clear labelling of AI-assisted work, and escalation routes for high-stakes claims.
 
@@ -470,11 +470,11 @@ Workplaces face a related problem. Employees may use AI tools to draft reports, 
 
 Individual critical thinking is necessary, but it is not enough. A user cannot personally audit every recommendation system, detect every coordinated campaign, or inspect every AI-generated image at scale. Platforms shape what people see, how quickly falsehoods spread, and what friction exists before sharing.
 
-The European Union’s Digital Services Act requires very large online platforms and search engines to address systemic risks and gives users more rights and transparency in online environments. The European Commission says the DSA requires platforms to minimise risks from illegal and harmful content, including risks affecting children and young people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span> The EU AI Act, meanwhile, is presented by the Commission as the first legal framework on AI designed to address AI risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy AI Act &#124; Shaping Europe&#x27;s digital future</span><span class="citation-popover-snippet">Digital Strategy AI Act &#124; Shaping Europe&#x27;s digital future</span></span></span>
+The European Union’s Digital Services Act requires very large online platforms and search engines to address systemic risks and gives users more rights and transparency in online environments. The European Commission says the DSA requires platforms to minimise risks from illegal and harmful content, including risks affecting children and young people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span> The EU AI Act, meanwhile, is presented by the Commission as the first legal framework on AI designed to address AI risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy AI Act &#124; Shaping Europe&#x27;s digital future</span><span class="citation-popover-snippet">Digital Strategy AI Act &#124; Shaping Europe&#x27;s digital future</span></span></span>
 
 Regulation can help by requiring transparency, researcher access, risk assessment and accountability. But it cannot replace judgement at the point of use. A post can be legal and still misleading. A chatbot can comply with a policy and still be wrong. A platform label can help but may not settle the issue. The strongest approach combines better platform design, independent journalism, public-interest research, media literacy education and everyday user habits.
 
-The World Economic Forum’s 2025 Global Risks Report ranked misinformation and disinformation among the leading short-term global risks for the second year running, linking them to threats to societal cohesion and governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-title">global risks report 2025 conflict environment and disinformation top threats</span><span class="citation-popover-snippet">global risks report 2025 conflict environment and disinformation top threats</span></span></span> That ranking should not be read as a reason for panic; it is a reminder that information quality is now part of social infrastructure.
+The World Economic Forum’s 2025 Global Risks Report ranked misinformation and disinformation among the leading short-term global risks for the second year running, linking them to threats to societal cohesion and governance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-title">global risks report 2025 conflict environment and disinformation top threats</span><span class="citation-popover-snippet">global risks report 2025 conflict environment and disinformation top threats</span></span></span> That ranking should not be read as a reason for panic; it is a reminder that information quality is now part of social infrastructure.
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952-Illustration-3-dark.svg" | relative_url }}" alt="Critical thinking in the age of social media and A illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -511,194 +511,194 @@ Critical thinking is sometimes presented as a defensive skill: a shield against 
 The central habit is simple enough to remember: before accepting or sharing a claim, ask where it came from, how it is known, what is missing, who might benefit, and whether a better source would change the picture. In a world where social feeds reward reaction and AI can manufacture fluency, that pause is one of the most powerful forms of modern literacy.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Trust What Found You Online?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Trust What Found You Online?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Directly addresses evaluating claims, data, media, and online misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evaluating claims, data, media, and online misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Focused on misinformation psychology and resistance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on misinformation psychology and resistance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Focused on misinformation psychology and resistance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on misinformation psychology and resistance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="critical-thinking-in-the-age-of-social-can-you-trust-what-found-you-online-critical-thinking-in-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -714,7 +714,7 @@ The central habit is simple enough to remember: before accepting or sharing a cl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -734,7 +734,7 @@ The central habit is simple enough to remember: before accepting or sharing a cl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -766,7 +766,7 @@ The central habit is simple enough to remember: before accepting or sharing a cl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -818,7 +818,7 @@ The central habit is simple enough to remember: before accepting or sharing a cl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -863,7 +863,7 @@ The central habit is simple enough to remember: before accepting or sharing a cl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -904,304 +904,304 @@ The central habit is simple enough to remember: before accepting or sharing a cl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFighting COVID-19 Misinformation on Social Media  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7366427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2020 · Cited by 2770 — As described above, some evidence in support of the validity of this self-report sharing...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>202517 Jun 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, low trust, and...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>202517 Jun 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, low trust, and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview and key findings of the 2025 Digital News Report17 Jun 2025 — This year&#x27;s report comes at a time of deep political and economic...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview and key findings of the 2025 Digital News Report17 Jun 2025 — This year&#x27;s report comes at a time of deep political and economic...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Characterizing AI-Generated Misinformation on Social Media  
-   Link: <a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
    Published: May 15, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ibm.com  
-   Link: <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/ai-hallucinations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are AI Hallucinations?AI hallucinations are when a large language model (LLM) perceives patterns or objects that are nonexistent...</p></details>
+   Link:<a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/ai-hallucinations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are AI Hallucinations?AI hallucinations are when a large language model (LLM) perceives patterns or objects that are nonexistent...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: new sources of inaccuracy a conceptual framework for studying ai hallucinations  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ed.stanford.edu  
    Title: researchers find students have trouble judging credibility information online  
-   Link: <a href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online</a>  
+   Link:<a href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.22940" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.22940</a>  
+   Link:<a href="https://arxiv.org/abs/2506.22940" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.22940</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
    Title: media and information literacy and digital competencies  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesco.org  
    Title: ai can make mistakes why media literacy matters more ever  
-   Link: <a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
+   Link:<a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-6470/4/2/26" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-6470/4/2/26</a>  
+   Link:<a href="https://www.mdpi.com/2673-6470/4/2/26" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-6470/4/2/26</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/about/projects/edu/the-pisa-2029-media-and-artificial-intelligence-%28mail%29-assessment-will-shed-light-on-whether-young-students-have-had-opportunities-to-learn-and-to-engage-proactively-and-critically-in-a-world-where-production%2C-participation%2C-and-social-networking-are-increasingly-mediated-by-digital-and-ai-tools-/PISA%202029%20MAIL%20Assessment%20Framework%20First%20Draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/about/projects/edu/the-pisa-2029-media-and-artificial-intelligence-%28mail%29-assessment-will-shed-light-on-whether-young-students-have-had-opportunities-to-learn-and-to-engage-proactively-and-critically-in-a-world-where-production%2C-participation%2C-and-social-networking-are-increasingly-mediated-by-digital-and-ai-tools-/PISA%202029%20MAIL%20Assessment%20Framework%20First%20Draft.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/about/projects/edu/the-pisa-2029-media-and-artificial-intelligence-%28mail%29-assessment-will-shed-light-on-whether-young-students-have-had-opportunities-to-learn-and-to-engage-proactively-and-critically-in-a-world-where-production%2C-participation%2C-and-social-networking-are-increasingly-mediated-by-digital-and-ai-tools-/PISA%202029%20MAIL%20Assessment%20Framework%20First%20Draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/about/projects/edu/the-pisa-2029-media-and-artificial-intelligence-%28mail%29-assessment-will-shed-light-on-whether-young-students-have-had-opportunities-to-learn-and-to-engage-proactively-and-critically-in-a-world-where-production%2C-participation%2C-and-social-networking-are-increasingly-mediated-by-digital-and-ai-tools-/PISA%202029%20MAIL%20Assessment%20Framework%20First%20Draft.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unesco.org  
    Title: Examining Media and Information Literacy Responses to Generative  
-   Link: <a href="https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief</a>  
+   Link:<a href="https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/cognitive-reflection-is-associated-with-greater-truth-discernment-for-covid-19-headlines-less-trust-but-greater-use-of-formal-information-sources-and-greater-willingness-to-pay-for-masks-among-socia/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/cognitive-reflection-is-associated-with-greater-truth-discernment-for-covid-19-headlines-less-trust-but-greater-use-of-formal-information-sources-and-greater-willingness-to-pay-for-masks-among-socia/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/cognitive-reflection-is-associated-with-greater-truth-discernment-for-covid-19-headlines-less-trust-but-greater-use-of-formal-information-sources-and-greater-willingness-to-pay-for-masks-among-socia/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/cognitive-reflection-is-associated-with-greater-truth-discernment-for-covid-19-headlines-less-trust-but-greater-use-of-formal-information-sources-and-greater-willingness-to-pay-for-masks-among-socia/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: our podcast digital news report 2025 episode 2 ai and personalised news  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oecd.org  
    Title: media consumption and privacy 31ab2233  
-   Link: <a href="https://www.oecd.org/en/publications/2024/11/oecd-digital-economy-outlook-2024-volume-2_9b2801fc/full-report/media-consumption-and-privacy_31ab2233.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/11/oecd-digital-economy-outlook-2024-volume-2_9b2801fc/full-report/media-consumption-and-privacy_31ab2233.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2024/11/oecd-digital-economy-outlook-2024-volume-2_9b2801fc/full-report/media-consumption-and-privacy_31ab2233.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/11/oecd-digital-economy-outlook-2024-volume-2_9b2801fc/full-report/media-consumption-and-privacy_31ab2233.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oecd.org  
    Title: the impact of digital activities on children s lives 4df70664  
-   Link: <a href="https://www.oecd.org/en/publications/how-s-life-for-children-in-the-digital-age_0854b900-en/full-report/the-impact-of-digital-activities-on-children-s-lives_4df70664.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/how-s-life-for-children-in-the-digital-age_0854b900-en/full-report/the-impact-of-digital-activities-on-children-s-lives_4df70664.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/how-s-life-for-children-in-the-digital-age_0854b900-en/full-report/the-impact-of-digital-activities-on-children-s-lives_4df70664.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/how-s-life-for-children-in-the-digital-age_0854b900-en/full-report/the-impact-of-digital-activities-on-children-s-lives_4df70664.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oecd.org  
    Title: component 7  
-   Link: <a href="https://www.oecd.org/en/publications/education-policy-outlook-2024_dd5140e4-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/education-policy-outlook-2024_dd5140e4-en/full-report/component-7.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/education-policy-outlook-2024_dd5140e4-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/education-policy-outlook-2024_dd5140e4-en/full-report/component-7.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
+   Link:<a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unesco.org  
    Title: media and information literacy critical thinking  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking</a>  
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unesco.org  
    Title: UNESC O strengthens Media and Information Literacy  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-masterclass-equip-educators-tools-critical-thinking-and-media-literacy-age-ai-and-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-masterclass-equip-educators-tools-critical-thinking-and-media-literacy-age-ai-and-digital</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-masterclass-equip-educators-tools-critical-thinking-and-media-literacy-age-ai-and-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-masterclass-equip-educators-tools-critical-thinking-and-media-literacy-age-ai-and-digital</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: purl.stanford.edu  
-   Link: <a href="https://purl.stanford.edu/fv751yt5934" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/fv751yt5934</a>  
+   Link:<a href="https://purl.stanford.edu/fv751yt5934" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/fv751yt5934</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: purl.stanford.edu  
-   Link: <a href="https://purl.stanford.edu/xr124mv4805" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/xr124mv4805</a>  
+   Link:<a href="https://purl.stanford.edu/xr124mv4805" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/xr124mv4805</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: stacks.stanford.edu  
    Title: COR Curriculum Evaluation  
-   Link: <a href="https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf</a>  
+   Link:<a href="https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2504.13777v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.13777v1</a>  
+   Link:<a href="https://arxiv.org/html/2504.13777v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.13777v1</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: unesco.it  
    Title: Media and Information Literacy-MIL  
-   Link: <a href="https://www.unesco.it/it/temi-in-evidenza/comunicazione-e-informazione/media-and-information-literacy-mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.it/it/temi-in-evidenza/comunicazione-e-informazione/media-and-information-literacy-mil/</a>  
+   Link:<a href="https://www.unesco.it/it/temi-in-evidenza/comunicazione-e-informazione/media-and-information-literacy-mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.it/it/temi-in-evidenza/comunicazione-e-informazione/media-and-information-literacy-mil/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds</a>  
+   Link:<a href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: Digital Strategy AI Act | Shaping Europe's digital future  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: weforum.org  
    Title: global risks report 2025 conflict environment and disinformation top threats  
-   Link: <a href="https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/</a>  
+   Link:<a href="https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/press/2025/01/global-risks-report-2025-conflict-environment-and-disinformation-top-threats/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: weforum.org  
-   Link: <a href="https://www.weforum.org/stories/2025/10/media-information-literacy-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2025/10/media-information-literacy-ai/</a>  
+   Link:<a href="https://www.weforum.org/stories/2025/10/media-information-literacy-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2025/10/media-information-literacy-ai/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: weforum.org  
    Title: global risks report 2025  
-   Link: <a href="https://www.weforum.org/publications/global-risks-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2025/</a>  
+   Link:<a href="https://www.weforum.org/publications/global-risks-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2025/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reports.weforum.org  
    Title: WEF Global Risks Report 2025  
-   Link: <a href="https://reports.weforum.org/docs/WEF_Global_Risks_Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reports.weforum.org/docs/WEF_Global_Risks_Report_2025.pdf</a>  
+   Link:<a href="https://reports.weforum.org/docs/WEF_Global_Risks_Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reports.weforum.org/docs/WEF_Global_Risks_Report_2025.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: weforum.org  
    Title: global risks report 2024  
-   Link: <a href="https://www.weforum.org/publications/global-risks-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2024/</a>  
+   Link:<a href="https://www.weforum.org/publications/global-risks-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2024/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: weforum.org  
    Title: global risks 2025 a world of growing divisions c943fe3ba0  
-   Link: <a href="https://www.weforum.org/publications/global-risks-report-2025/in-full/global-risks-2025-a-world-of-growing-divisions-c943fe3ba0/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2025/in-full/global-risks-2025-a-world-of-growing-divisions-c943fe3ba0/</a>  
+   Link:<a href="https://www.weforum.org/publications/global-risks-report-2025/in-full/global-risks-2025-a-world-of-growing-divisions-c943fe3ba0/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/global-risks-report-2025/in-full/global-risks-2025-a-world-of-growing-divisions-c943fe3ba0/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/unesco-institute-for-lifelong-learning_in-a-digital-ai-driven-world-media-and-activity-7462019215198191617-Xlgp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco-institute-for-lifelong-learning_in-a-digital-ai-driven-world-media-and-activity-7462019215198191617-Xlgp</a>  
+   Link:<a href="https://www.linkedin.com/posts/unesco-institute-for-lifelong-learning_in-a-digital-ai-driven-world-media-and-activity-7462019215198191617-Xlgp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco-institute-for-lifelong-learning_in-a-digital-ai-driven-world-media-and-activity-7462019215198191617-Xlgp</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: x.com  
-   Link: <a href="https://x.com/UNESCO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UNESCO</a>  
+   Link:<a href="https://x.com/UNESCO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UNESCO</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/</a>  
+   Link:<a href="https://www.facebook.com/unesco/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/1935367443959635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1935367443959635/</a>  
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/1935367443959635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1935367443959635/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: europarl.europa.eu  
    Title: EPRS BRI(2025)779259 EN  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf</a>  
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: europarl.europa.eu  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784574/IUST_BRI%282026%29784574_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784574/IUST_BRI%282026%29784574_EN.pdf</a>  
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784574/IUST_BRI%282026%29784574_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784574/IUST_BRI%282026%29784574_EN.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: comd.hkbu.edu.hk  
    Title: ai and social media issues of trust and ideology  
-   Link: <a href="https://comd.hkbu.edu.hk/research/highlights/ai-and-social-media-issues-of-trust-and-ideology/" target="_blank" rel="noopener noreferrer nofollow">https://comd.hkbu.edu.hk/research/highlights/ai-and-social-media-issues-of-trust-and-ideology/</a>  
+   Link:<a href="https://comd.hkbu.edu.hk/research/highlights/ai-and-social-media-issues-of-trust-and-ideology/" target="_blank" rel="noopener noreferrer nofollow">https://comd.hkbu.edu.hk/research/highlights/ai-and-social-media-issues-of-trust-and-ideology/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/unesco/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/unesco/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/unesco/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/unesco/?hl=en</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ai4edu.eu  
-   Link: <a href="https://ai4edu.eu/2024/11/12/unescos-ai-competency-frameworks-equipping-educators-and-students-for-the-age-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://ai4edu.eu/2024/11/12/unescos-ai-competency-frameworks-equipping-educators-and-students-for-the-age-of-ai/</a>  
+   Link:<a href="https://ai4edu.eu/2024/11/12/unescos-ai-competency-frameworks-equipping-educators-and-students-for-the-age-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://ai4edu.eu/2024/11/12/unescos-ai-competency-frameworks-equipping-educators-and-students-for-the-age-of-ai/</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CsLo2Dsiyag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CsLo2Dsiyag</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithm of Truth | Ezekiel Harmusial | TEDxGlobal Prestasi School Youth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CsLo2Dsiyag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CsLo2Dsiyag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithm of Truth | Ezekiel Harmusial | TEDxGlobal Prestasi School Youth...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: The Algorithm of Truth | Ezekiel Harmusial | TEDx Global Prestasi School Youth  
-   Link: <a href="https://www.youtube.com/watch?v=ZmZUSzI9bdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZmZUSzI9bdk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing Beyond the Algorithm | Jenna Hammoud | TEDxYouth@JeffersonStreet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZmZUSzI9bdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZmZUSzI9bdk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing Beyond the Algorithm | Jenna Hammoud | TEDxYouth@JeffersonStreet...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: Seeing Beyond the Algorithm | Jenna Hammoud | TEDx Youth@Jefferson Street  
-   Link: <a href="https://www.youtube.com/watch?v=bjT3tmiRGCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bjT3tmiRGCc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Going Viral: How To Balance Authenticity and Spectacle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bjT3tmiRGCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bjT3tmiRGCc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Going Viral: How To Balance Authenticity and Spectacle...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) through research on the spread of misinformation about COVID-19 in...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) through research on the spread of misinformation about COVID-19 in...Read more...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: chouitliteracy.com  
-   Link: <a href="https://www.chouitliteracy.com/events/16" target="_blank" rel="noopener noreferrer nofollow">https://www.chouitliteracy.com/events/16</a>  
+   Link:<a href="https://www.chouitliteracy.com/events/16" target="_blank" rel="noopener noreferrer nofollow">https://www.chouitliteracy.com/events/16</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395179320_Addressing_Hallucinations_in_AI-Generated_Content_Strategies_for_Developing_Student_Fact-Checking_and_Information_Evaluation_Skills" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395179320_Addressing_Hallucinations_in_AI-Generated_Content_Strategies_for_Developing_Student_Fact-Checking_and_Information_Evaluation_Skills</a>  
+   Link:<a href="https://www.researchgate.net/publication/395179320_Addressing_Hallucinations_in_AI-Generated_Content_Strategies_for_Developing_Student_Fact-Checking_and_Information_Evaluation_Skills" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395179320_Addressing_Hallucinations_in_AI-Generated_Content_Strategies_for_Developing_Student_Fact-Checking_and_Information_Evaluation_Skills</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/american-trends-panel-datasets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/american-trends-panel-datasets/</a>  
+   Link:<a href="https://www.pewresearch.org/american-trends-panel-datasets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/american-trends-panel-datasets/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322326062_Can_Students_Evaluate_Online_Sources_Learning_From_Assessments_of_Civic_Online_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322326062_Can_Students_Evaluate_Online_Sources_Learning_From_Assessments_of_Civic_Online_Reasoning</a>  
+   Link:<a href="https://www.researchgate.net/publication/322326062_Can_Students_Evaluate_Online_Sources_Learning_From_Assessments_of_Civic_Online_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322326062_Can_Students_Evaluate_Online_Sources_Learning_From_Assessments_of_Civic_Online_Reasoning</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: inquirygroup.org  
-   Link: <a href="https://www.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/</a>  
+   Link:<a href="https://www.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/</a>  

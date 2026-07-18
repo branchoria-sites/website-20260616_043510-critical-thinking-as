@@ -268,7 +268,7 @@ image: /assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_ac
 
 ## Introduction
 
-A surprisingly small intervention can reduce the spread of false health information online: asking people to think about accuracy before they share. Research suggests that many users do not share misleading [health claims]({{ 'health-claims/' | relative_url }}) because they have carefully evaluated and endorsed them. Instead, sharing often happens in fast-moving social media environments where attention is directed towards emotion, identity, humour, [outrage]({{ 'outrage/' | relative_url }}) or social approval rather than truthfulness. When platforms or users introduce a brief “accuracy prompt” before reposting content, the quality of what people choose to share tends to improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+A surprisingly small intervention can reduce the spread of false health information online: asking people to think about accuracy before they share. Research suggests that many users do not share misleading [health claims]({{ 'health-claims/' | relative_url }}) because they have carefully evaluated and endorsed them. Instead, sharing often happens in fast-moving social media environments where attention is directed towards emotion, identity, humour, [outrage]({{ 'outrage/' | relative_url }}) or social approval rather than truthfulness. When platforms or users introduce a brief “accuracy prompt” before reposting content, the quality of what people choose to share tends to improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-1-dark.svg" | relative_url }}" alt="Accuracy Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,11 +278,11 @@ For health information, this matters because a single repost can amplify unsuppo
 
 Most people would say that accuracy matters when discussing health. Yet social media platforms rarely make accuracy the central task. Instead, users are encouraged to react, comment, like and share quickly.
 
-Researchers studying misinformation have argued that online sharing often reflects limited attention rather than deliberate deception. In experiments, many participants could distinguish between more and less accurate information when directly asked about truthfulness, but that distinction weakened when they were asked whether they would share the content. Simply redirecting attention back to accuracy improved sharing decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">fake news sharing on Twitter). Furthermore, people who are more...Read more...</span></span></span>
+Researchers studying misinformation have argued that online sharing often reflects limited attention rather than deliberate deception. In experiments, many participants could distinguish between more and less accurate information when directly asked about truthfulness, but that distinction weakened when they were asked whether they would share the content. Simply redirecting attention back to accuracy improved sharing decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">fake news sharing on Twitter). Furthermore, people who are more...Read more...</span></span></span>
 
 Health content is especially vulnerable to this problem because it frequently triggers strong emotions. A post claiming that a common food causes cancer, that a supplement “cures” anxiety, or that doctors are hiding a breakthrough treatment can create urgency. In those moments, people may focus on warning friends, signalling group membership or expressing concern rather than evaluating [evidence]({{ 'evidence/' | relative_url }}).
 
-Another complication is [repetition]({{ 'repetition/' | relative_url }}). Research on the “illusory truth effect” shows that repeated exposure can make information feel more believable, even when it is false. Seeing a health claim multiple times across feeds, videos and chat groups can increase familiarity, and familiarity is often mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</span></span></span>
+Another complication is [repetition]({{ 'repetition/' | relative_url }}). Research on the “illusory truth effect” shows that repeated exposure can make information feel more believable, even when it is false. Seeing a health claim multiple times across feeds, videos and chat groups can increase familiarity, and familiarity is often mistaken for evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</span></span></span>
 
 The result is a system in which attention is continuously pulled away from the question that matters most: “Is this actually true?”
 
@@ -305,13 +305,13 @@ Accuracy prompts, sometimes called [accuracy nudges]({{ 'accuracy-nudge/' | rela
 
 The important feature is not the wording but the shift in attention.
 
-A large body of experimental research has found that accuracy prompts reduce willingness to share false information while preserving the sharing of more accurate information. Studies conducted across different countries and platforms have repeatedly shown improvements in “sharing discernment” — the ability to distinguish between reliable and unreliable content when deciding what to pass on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Cornell Chronicle+3PMC+3Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+A large body of experimental research has found that accuracy prompts reduce willingness to share false information while preserving the sharing of more accurate information. Studies conducted across different countries and platforms have repeatedly shown improvements in “sharing discernment” — the ability to distinguish between reliable and unreliable content when deciding what to pass on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Cornell Chronicle+3PMC+3Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
-One influential line of work found that asking participants to evaluate the accuracy of an unrelated headline before making sharing decisions significantly improved the quality of subsequent sharing choices. The intervention was remarkably lightweight: it did not require lengthy training, detailed fact-checking lessons or political persuasion. It simply made accuracy temporarily more salient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</span></span></span>
+One influential line of work found that asking participants to evaluate the accuracy of an unrelated headline before making sharing decisions significantly improved the quality of subsequent sharing choices. The intervention was remarkably lightweight: it did not require lengthy training, detailed fact-checking lessons or political persuasion. It simply made accuracy temporarily more salient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</span></span></span>
 
-Evidence also suggests that these effects are not confined to a single study or population. Reviews and meta-analyses have found that accuracy prompts consistently reduce intentions to share misinformation, including false health-related claims circulated during the COVID-19 pandemic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2healthaffairs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Accurate Are Accuracy-Nudge Interventions?</span><span class="citation-popover-snippet">A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</span></span></span>
+Evidence also suggests that these effects are not confined to a single study or population. Reviews and meta-analyses have found that accuracy prompts consistently reduce intentions to share misinformation, including false health-related claims circulated during the COVID-19 pandemic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2healthaffairs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Accurate Are Accuracy-Nudge Interventions?</span><span class="citation-popover-snippet">A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</span></span></span>
 
-Some studies indicate that asking people to explain why a headline is true or false can further reduce sharing of unsupported claims. The act of generating a reason appears to expose weaknesses that may have gone unnoticed during a quick scroll. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[online.ucpress.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Explaining Why Headlines Are True or False Reduces</span><span class="citation-popover-snippet">11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</span></span></span>
+Some studies indicate that asking people to explain why a headline is true or false can further reduce sharing of unsupported claims. The act of generating a reason appears to expose weaknesses that may have gone unnoticed during a quick scroll.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[online.ucpress.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Explaining Why Headlines Are True or False Reduces</span><span class="citation-popover-snippet">11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-2-dark.svg" | relative_url }}" alt="Accuracy Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ Some studies indicate that asking people to explain why a headline is true or fa
 
 Health misinformation differs from many other forms of online misinformation because its consequences can be physical as well as informational.
 
-A false claim about a supplement may encourage unnecessary spending. A misleading post about vaccines may influence medical decisions. Unsupported mental health advice may delay professional care. Reviews of the health misinformation literature have documented links between misleading online content and health-related behaviours during crises and public health emergencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called a...</span></span></span>
+A false claim about a supplement may encourage unnecessary spending. A misleading post about vaccines may influence medical decisions. Unsupported mental health advice may delay professional care. Reviews of the health misinformation literature have documented links between misleading online content and health-related behaviours during crises and public health emergencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called a...</span></span></span>
 
-Recent examples illustrate the scale of the challenge. Analyses of popular social media health content have found that highly viewed posts often contain oversimplified, misleading or unsupported advice. In 2025, an expert review of widely viewed mental-health videos on TikTok found substantial levels of misinformation, including exaggerated claims and unsupported treatments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Evaluated by psychologists and psychiatrists, these videos commonly misuse therapeutic language, promote unproven treatments like herbal...</span></span></span>
+Recent examples illustrate the scale of the challenge. Analyses of popular social media health content have found that highly viewed posts often contain oversimplified, misleading or unsupported advice. In 2025, an expert review of widely viewed mental-health videos on TikTok found substantial levels of misinformation, including exaggerated claims and unsupported treatments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Evaluated by psychologists and psychiatrists, these videos commonly misuse therapeutic language, promote unproven treatments like herbal...</span></span></span>
 
-Accuracy prompts are particularly valuable in this environment because they intervene before the claim spreads. Rather than trying to correct misinformation after it has reached thousands of people, they aim to reduce transmission at the point of sharing. This matters because exposure itself can increase later belief through familiarity effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</span></span></span>
+Accuracy prompts are particularly valuable in this environment because they intervene before the claim spreads. Rather than trying to correct misinformation after it has reached thousands of people, they aim to reduce transmission at the point of sharing. This matters because exposure itself can increase later belief through familiarity effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</span></span></span>
 
 ## A practical pause routine for health posts
 
@@ -352,18 +352,18 @@ The routine is intentionally short. The goal is not to turn every user into a me
 
 ## What accuracy prompts can and cannot do
 
-Accuracy prompts are promising because they are inexpensive, scalable and relatively non-confrontational. Unlike content removal or aggressive moderation, they do not require deciding every disputed claim on a platform. Instead, they encourage users to apply their own judgement more carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">fake news sharing on Twitter). Furthermore, people who are more...Read more...</span></span></span>
+Accuracy prompts are promising because they are inexpensive, scalable and relatively non-confrontational. Unlike content removal or aggressive moderation, they do not require deciding every disputed claim on a platform. Instead, they encourage users to apply their own judgement more carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">fake news sharing on Twitter). Furthermore, people who are more...Read more...</span></span></span>
 
-However, they are not a cure-all. Some users knowingly share misleading information for political, commercial or ideological reasons. Others may distrust mainstream evidence sources so strongly that a prompt has little effect. Researchers have also noted that intervention effectiveness varies across contexts and that misinformation remains a complex social problem requiring multiple approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Accurate Are Accuracy-Nudge Interventions?</span><span class="citation-popover-snippet">A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</span></span></span>
+However, they are not a cure-all. Some users knowingly share misleading information for political, commercial or ideological reasons. Others may distrust mainstream evidence sources so strongly that a prompt has little effect. Researchers have also noted that intervention effectiveness varies across contexts and that misinformation remains a complex social problem requiring multiple approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Accurate Are Accuracy-Nudge Interventions?</span><span class="citation-popover-snippet">A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</span></span></span>
 
-The strongest evidence therefore supports accuracy prompts as one layer of defence rather than a complete solution. They work best alongside credible health communication, fact-checking, media literacy efforts and platform design choices that reward reliability rather than pure engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthaffairs.org">[healthaffairs.org+2JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthaffairs.org</span><span class="citation-popover-snippet">A Systematic Review Of COVID-19 Misinformation...Nov 15, 2023 — We found evidence supporting accuracy prompts, debunks, media literacy t...</span></span></span>
+The strongest evidence therefore supports accuracy prompts as one layer of defence rather than a complete solution. They work best alongside credible health communication, fact-checking, media literacy efforts and platform design choices that reward reliability rather than pure engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthaffairs.org">[healthaffairs.org+2JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthaffairs.org</span><span class="citation-popover-snippet">A Systematic Review Of COVID-19 Misinformation...Nov 15, 2023 — We found evidence supporting accuracy prompts, debunks, media literacy t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E9Dv7awycxE" title="‘Not sharing is caring’: U.S. Surgeon General fights misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E9Dv7awycxE" target="_blank" rel="noopener noreferrer">‘Not sharing is caring’: U.S. Surgeon General fights misinformation</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 6.6K &middot; Uploaded: July 2021 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E9Dv7awycxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E9Dv7awycxE">Open on YouTube</a></p></div></div></div>
 
 ## The pause that stops false health posts
 
-The significance of accuracy prompts lies in their simplicity. Much health misinformation spreads not because people have carefully weighed evidence and chosen falsehood, but because the online environment encourages speed over reflection. Research repeatedly shows that a brief reminder to consider truthfulness can improve sharing decisions and reduce the circulation of misleading claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+The significance of accuracy prompts lies in their simplicity. Much health misinformation spreads not because people have carefully weighed evidence and chosen falsehood, but because the online environment encourages speed over reflection. Research repeatedly shows that a brief reminder to consider truthfulness can improve sharing decisions and reduce the circulation of misleading claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
 In practical terms, the most effective accuracy prompt may be the one users give themselves: a short pause before clicking “share”. For health information, that pause can be the difference between amplifying a rumour and preventing it from reaching the next person.
 
@@ -371,194 +371,194 @@ In practical terms, the most effective accuracy prompt may be the one users give
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The pause that stops false health posts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The pause that stops false health posts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people share information without careful evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people share information without careful evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Encourages checking evidence before accepting health claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking evidence before accepting health claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides practical techniques for accuracy-focused evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical techniques for accuracy-focused evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how accuracy improves when intuition is challenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how accuracy improves when intuition is challenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card"><img src="{{ '/assets/images/marketplace-covers/4cddc7a19206b42eb78f.jpg' | relative_url }}" alt="Listing image for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card"><img src="{{ '/assets/images/marketplace-covers/4cddc7a19206b42eb78f.jpg' | relative_url }}" alt="Listing image for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/e598957792a38e31387d.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/e598957792a38e31387d.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5"><img src="{{ '/assets/images/marketplace-covers/86b27cbdf6d7163f2bc9.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5"><img src="{{ '/assets/images/marketplace-covers/86b27cbdf6d7163f2bc9.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="accuracy-checks-the-pause-that-stops-false-health-posts-critical-thinking-in-the-age-of-social-m-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ In practical terms, the most effective accuracy prompt may be the one users give
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ In practical terms, the most effective accuracy prompt may be the one users give
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ In practical terms, the most effective accuracy prompt may be the one users give
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ In practical terms, the most effective accuracy prompt may be the one users give
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ In practical terms, the most effective accuracy prompt may be the one users give
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,169 +764,169 @@ In practical terms, the most effective accuracy prompt may be the one users give
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 364 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news sharing on Twitter). Furthermore, people who are more...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake news sharing on Twitter). Furthermore, people who are more...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1989 — Using actual fake news headlines prese...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-62462-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-62462-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Replicability and generalizability of the repeated exposure...by R Orchinik · 2025 · Cited by 4 — Additionally, the illusory truth effec...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-025-62462-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-62462-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replicability and generalizability of the repeated exposure...by R Orchinik · 2025 · Cited by 4 — Additionally, the illusory truth effec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-62286-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-62286-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudge-based misinformation interventions are effective in...by LH Butler · 2024 · Cited by 37 — The nudge intervention was effective at...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-62286-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-62286-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nudge-based misinformation interventions are effective in...by LH Butler · 2024 · Cited by 37 — The nudge intervention was effective at...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the imp...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the imp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow Accurate Are Accuracy-Nudge Interventions?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A... - PMCby J Roozenbeek · 2021 · Cited by 190 — The spread of online misinformation and fake news has long been considered a threat to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: healthaffairs.org  
-   Link: <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717" target="_blank" rel="noopener noreferrer nofollow">https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Of COVID-19 Misinformation...Nov 15, 2023 — We found evidence supporting accuracy prompts, debunks, media literacy t...</p></details>
+   Link:<a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717" target="_blank" rel="noopener noreferrer nofollow">https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Of COVID-19 Misinformation...Nov 15, 2023 — We found evidence supporting accuracy prompts, debunks, media literacy t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: online.ucpress.edu  
    Title: Explaining Why Headlines Are True or False Reduces  
-   Link: <a href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</p></details>
+   Link:<a href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline Interventions Addressing Health Misinformation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12447009/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12447009/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions Addressing Health Misinformation - PMCby H Grover · 2025 · Cited by 9 — Interventions to address health misinformation incl...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12447009/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12447009/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions Addressing Health Misinformation - PMCby H Grover · 2025 · Cited by 9 — Interventions to address health misinformation incl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2023/1/e49255/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e49255/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 120 — This study indicated that psychological inoculati...</p></details>
+   Link:<a href="https://www.jmir.org/2023/1/e49255/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e49255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 120 — This study indicated that psychological inoculati...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluated by psychologists and psychiatrists, these videos commonly misuse therapeutic language, promote unproven treatments like herbal...</p></details>
+   Link:<a href="https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/may/31/more-than-half-of-top-100-mental-health-tiktoks-contain-misinformation-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluated by psychologists and psychiatrists, these videos commonly misuse therapeutic language, promote unproven treatments like herbal...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we focus on reduc...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we focus on reduc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: global vaccination badnews  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 394 — This study fin...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 394 — This study fin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9991876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9991876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Matchanova · 2023 · Cited by 21 — However, it may be possible that even if older individuals are less susceptible to COVID-19 mis...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9991876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9991876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Matchanova · 2023 · Cited by 21 — However, it may be possible that even if older individuals are less susceptible to COVID-19 mis...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: brown.edu  
-   Link: <a href="https://www.brown.edu/news/2023-11-17/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.brown.edu/news/2023-11-17/misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study identifies urgent need for improved research on how...Nov 17, 2023 — The research team categorized and explored different types of...</p></details>
+   Link:<a href="https://www.brown.edu/news/2023-11-17/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.brown.edu/news/2023-11-17/misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study identifies urgent need for improved research on how...Nov 17, 2023 — The research team categorized and explored different types of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An initial accuracy focus reduces the effect of prior...8 May 2026 — The present study examined the effects that different ratings...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An initial accuracy focus reduces the effect of prior...8 May 2026 — The present study examined the effects that different ratings...</p></details>
    Published: May 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382283496_Mitigating_the_Influence_of_Message_Features_on_Health_Misinformation_Sharing_Intention_in_Social_Media_Experimental_Evidence_for_Accuracy-Nudge_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382283496_Mitigating_the_Influence_of_Message_Features_on_Health_Misinformation_Sharing_Intention_in_Social_Media_Experimental_Evidence_for_Accuracy-Nudge_Intervention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence for Accuracy-Nudge InterventionAdding an accuracy-nudge label to health misinformation reduced users&#x27; misguided tru...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/382283496_Mitigating_the_Influence_of_Message_Features_on_Health_Misinformation_Sharing_Intention_in_Social_Media_Experimental_Evidence_for_Accuracy-Nudge_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382283496_Mitigating_the_Influence_of_Message_Features_on_Health_Misinformation_Sharing_Intention_in_Social_Media_Experimental_Evidence_for_Accuracy-Nudge_Intervention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence for Accuracy-Nudge InterventionAdding an accuracy-nudge label to health misinformation reduced users&#x27; misguided tru...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ide.mit.edu  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2024/04/RB__3-31-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2024/04/RB__3-31-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Initiative on the Digital EconomyREDUCING MISINFORMATION SHARING WITH...Another study, this one of over 34,000 people in 16 countrie...</p></details>
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2024/04/RB__3-31-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2024/04/RB__3-31-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Initiative on the Digital EconomyREDUCING MISINFORMATION SHARING WITH...Another study, this one of over 34,000 people in 16 countrie...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: prompting people to reflect on the accuracy of news headlines increases the qual  
-   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompting people to reflect on the accuracy of news...20 Mar 2021 — Prompting people to reflect on the accuracy of news headlines increa...</p></details>
+   Link:<a href="https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prompting people to reflect on the accuracy of news...20 Mar 2021 — Prompting people to reflect on the accuracy of news headlines increa...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: chicagopolicyreview.org  
    Title: try accuracy prompts to reduce the spread of misinformation online  
-   Link: <a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...4 Jan 2022 — These accuracy prompts were modest interventions that encouraged participant...</p></details>
+   Link:<a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...4 Jan 2022 — These accuracy prompts were modest interventions that encouraged participant...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=PgzTvgBSFEI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PgzTvgBSFEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts misinformation sharing health claims Health misinformation is dangerous | Suraj &quot;Dr Sooj&quot; Kukadia | TEDxNHS TEDx Talks...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=PgzTvgBSFEI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PgzTvgBSFEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts misinformation sharing health claims Health misinformation is dangerous | Suraj &quot;Dr Sooj&quot; Kukadia | TEDxNHS TEDx Talks...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: springermedizin.de  
    Title: strategies and prerequisites for combating health misinformation  
-   Link: <a href="https://www.springermedizin.de/strategies-and-prerequisites-for-combating-health-misinformation/51799762" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/strategies-and-prerequisites-for-combating-health-misinformation/51799762</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies and prerequisites for combating health...Dec 5, 2025 — The speed and complexity of transmitting health misinformation through...</p></details>
+   Link:<a href="https://www.springermedizin.de/strategies-and-prerequisites-for-combating-health-misinformation/51799762" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/strategies-and-prerequisites-for-combating-health-misinformation/51799762</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies and prerequisites for combating health...Dec 5, 2025 — The speed and complexity of transmitting health misinformation through...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: journals.sagepub.com  
    Title: believe and share misinformation related to COVID-19 and point  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2739 — In Study 1, participants were willing to share fake news a...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2739 — In Study 1, participants were willing to share fake news a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: A Surprisingly Effective Way to Fight Misinformation | Dave Jorgenson | TED  
-   Link: <a href="https://www.youtube.com/watch?v=3yGSaeOUHik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yGSaeOUHik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Gordon Pennycook on the Psychology of Fake News (Ep 13 Preview) Opinion Science · 950 views How You Can Help Combat Fake News | David...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3yGSaeOUHik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yGSaeOUHik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Gordon Pennycook on the Psychology of Fake News (Ep 13 Preview) Opinion Science · 950 views How You Can Help Combat Fake News | David...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/4990dce5064dbc14924a9c283084518a12c7f901" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/4990dce5064dbc14924a9c283084518a12c7f901</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd false head-lines about COVID-19, a variety of different accuracy prompts...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/4990dce5064dbc14924a9c283084518a12c7f901" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/4990dce5064dbc14924a9c283084518a12c7f901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd false head-lines about COVID-19, a variety of different accuracy prompts...</p></details>

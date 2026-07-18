@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_c
 
 ## Introduction
 
-A familiar voice is no longer reliable proof of identity when money, secrecy or urgency are involved. Modern voice-cloning systems can reproduce a person's speech from short audio samples taken from social media videos, voice messages or other recordings, allowing scammers to impersonate relatives, friends or colleagues during fabricated emergencies. The most effective defence is not learning to “hear the fake”, but adopting verification habits that work even when the voice sounds genuine. Consumer protection agencies, law-enforcement bodies and cybersecurity experts increasingly recommend independent callback procedures, family code phrases and second-person verification rather than trusting a distressed voice on the phone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
+A familiar voice is no longer reliable proof of identity when money, secrecy or urgency are involved. Modern voice-cloning systems can reproduce a person's speech from short audio samples taken from social media videos, voice messages or other recordings, allowing scammers to impersonate relatives, friends or colleagues during fabricated emergencies. The most effective defence is not learning to “hear the fake”, but adopting verification habits that work even when the voice sounds genuine. Consumer protection agencies, law-enforcement bodies and cybersecurity experts increasingly recommend independent callback procedures, family code phrases and second-person verification rather than trusting a distressed voice on the phone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-1-dark.svg" | relative_url }}" alt="Voice Scams illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Within the broader challenge of deepfake audio credibility, voice-clone emergenc
 
 ## Why Cloned Voices Exploit Panic and Intimacy
 
-Traditional “grandparent scams” and family-emergency frauds relied on vague stories and emotional manipulation. Voice cloning makes these schemes more convincing by adding what sounds like direct [evidence]({{ 'evidence/' | relative_url }}). A caller who appears to be a child, partner or grandchild crying for help can trigger an immediate emotional response before the target has time to evaluate the situation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getcarefull.com">[getcarefull.com+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getcarefull.com</span><span class="citation-popover-title">scammers using ai voice cloning in family emergency schemes</span><span class="citation-popover-snippet">Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</span></span></span>
+Traditional “grandparent scams” and family-emergency frauds relied on vague stories and emotional manipulation. Voice cloning makes these schemes more convincing by adding what sounds like direct [evidence]({{ 'evidence/' | relative_url }}). A caller who appears to be a child, partner or grandchild crying for help can trigger an immediate emotional response before the target has time to evaluate the situation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getcarefull.com">[getcarefull.com+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getcarefull.com</span><span class="citation-popover-title">scammers using ai voice cloning in family emergency schemes</span><span class="citation-popover-snippet">Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</span></span></span>
 
 The scam typically follows a predictable pattern:
 
@@ -297,9 +297,9 @@ The scam typically follows a predictable pattern:
 
 </div>
 
-The voice itself is often only the opening move. Fraudsters frequently combine cloned audio with personal information gathered from public sources, making the story appear more credible. Names, family relationships, schools, workplaces and recent activities can all be woven into the call. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsAI voice scams can clone your family&#x27;s voice5 days ago — AI voice cloning scams use just three seconds of audio to replicate a lo...</span></span></span>
+The voice itself is often only the opening move. Fraudsters frequently combine cloned audio with personal information gathered from public sources, making the story appear more credible. Names, family relationships, schools, workplaces and recent activities can all be woven into the call.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsAI voice scams can clone your family&#x27;s voice5 days ago — AI voice cloning scams use just three seconds of audio to replicate a lo...</span></span></span>
 
-Research also suggests that people are not especially good at distinguishing AI-generated speech from real speech in realistic scam scenarios. A 2026 study found participants performed poorly when asked to identify synthetic voices, with many AI-generated clips being confidently mistaken for human speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+Research also suggests that people are not especially good at distinguishing AI-generated speech from real speech in realistic scam scenarios. A 2026 study found participants performed poorly when asked to identify synthetic voices, with many AI-generated clips being confidently mistaken for human speech.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 The practical lesson is straightforward: the question should never be “Does this sound like my loved one?” but “How else can I verify this claim?”
 
@@ -312,7 +312,7 @@ The safest response to an urgent request is to interrupt the scammer's control o
 
 ### The Callback Rule
 
-If a caller claims to be a relative in trouble, end the call and contact that person using a phone number you already know, not one provided during the conversation. If they do not answer immediately, contact other family members, friends or workplaces connected to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
+If a caller claims to be a relative in trouble, end the call and contact that person using a phone number you already know, not one provided during the conversation. If they do not answer immediately, contact other family members, friends or workplaces connected to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
 
 This simple step defeats many voice-cloning scams because the fraud depends on maintaining emotional pressure and preventing independent verification.
 
@@ -324,7 +324,7 @@ Real emergencies remain real after a two-minute verification check. Fraudsters, 
 
 ### Family Safe Phrases
 
-Consumer-protection and cybersecurity organisations increasingly recommend establishing a private family code word or phrase known only to close relatives. During a suspicious call, the recipient can ask for the phrase before discussing money or personal information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/elder-scams-family-safe-word/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[The Guardian+3CBS News+3FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News AI voice scams are on the rise</span><span class="citation-popover-snippet">Here&#x27;s how to protect yourself.Dec 17, 2024 — Scammers are using AI-powered voice-cloning tools to prey on people. But experts say there&#x27;...</span></span></span>
+Consumer-protection and cybersecurity organisations increasingly recommend establishing a private family code word or phrase known only to close relatives. During a suspicious call, the recipient can ask for the phrase before discussing money or personal information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/elder-scams-family-safe-word/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[The Guardian+3CBS News+3FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News AI voice scams are on the rise</span><span class="citation-popover-snippet">Here&#x27;s how to protect yourself.Dec 17, 2024 — Scammers are using AI-powered voice-cloning tools to prey on people. But experts say there&#x27;...</span></span></span>
 
 A good safe phrase should:
 
@@ -351,7 +351,7 @@ Examples include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Calling another family member. <span class="citation-chip-wrap"><a class="citation-chip" href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getcarefull.com">[getcarefull.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getcarefull.com</span><span class="citation-popover-title">scammers using ai voice cloning in family emergency schemes</span><span class="citation-popover-snippet">Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</span></span></span>
+* Calling another family member.<span class="citation-chip-wrap"><a class="citation-chip" href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getcarefull.com">[getcarefull.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getcarefull.com</span><span class="citation-popover-title">scammers using ai voice cloning in family emergency schemes</span><span class="citation-popover-snippet">Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</span></span></span>
 * Contacting a spouse or partner.
 * Calling a workplace, school or university.
 * Using an established group chat to verify the situation.
@@ -359,7 +359,7 @@ Examples include:
 
 </div>
 
-This approach is especially effective because scammers often isolate the victim emotionally. Bringing another person into the decision process introduces time, perspective and independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
+This approach is especially effective because scammers often isolate the victim emotionally. Bringing another person into the decision process introduces time, perspective and independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZoQ5aiVibA" title="AI voice cloning scams target families with fake kidnapping calls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZoQ5aiVibA" target="_blank" rel="noopener noreferrer">AI voice cloning scams target families with fake kidnapping calls</a></p><p class="youtube-embed-meta">Channel: InvestigateTV &middot; Views: 791 &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZoQ5aiVibA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZoQ5aiVibA">Open on YouTube</a></p></div></div></div>
@@ -379,19 +379,19 @@ Pause immediately if a caller:
 * Becomes hostile when questioned.
 * Asks for banking [credentials]({{ 'credentials/' | relative_url }}), passwords or authentication codes.
 
-These indicators are often more reliable than analysing the sound of the voice. Fraudsters can imitate a voice, but they still need to manipulate behaviour to obtain money or information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
+These indicators are often more reliable than analysing the sound of the voice. Fraudsters can imitate a voice, but they still need to manipulate behaviour to obtain money or information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
 
-Another useful warning sign is a mismatch between the requested action and the claimed emergency. Genuine police officers, hospitals and legal representatives generally have established procedures and verifiable contact information. Requests for immediate transfers to private accounts, cryptocurrency payments or courier cash pickups should trigger heightened scepticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The scammers, posing as his son and later a lawyer, demanded two separate payments to be delivered via Uber drivers. Suspicious but worri...</span></span></span>
+Another useful warning sign is a mismatch between the requested action and the claimed emergency. Genuine police officers, hospitals and legal representatives generally have established procedures and verifiable contact information. Requests for immediate transfers to private accounts, cryptocurrency payments or courier cash pickups should trigger heightened scepticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The scammers, posing as his son and later a lawyer, demanded two separate payments to be delivered via Uber drivers. Suspicious but worri...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-3-dark.svg" | relative_url }}" alt="Voice Scams illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_voice_clone_callback_b944e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Listening for “Fake” Voices Is Not Enough
 
-Many public discussions focus on audio clues such as robotic tone, unusual pauses or unnatural speech patterns. While these signs may occasionally help, they are becoming less reliable as voice-generation systems improve. Recent research indicates that people frequently misclassify both genuine and synthetic voices and often remain highly confident in incorrect judgments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+Many public discussions focus on audio clues such as robotic tone, unusual pauses or unnatural speech patterns. While these signs may occasionally help, they are becoming less reliable as voice-generation systems improve. Recent research indicates that people frequently misclassify both genuine and synthetic voices and often remain highly confident in incorrect judgments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 This creates a dangerous trap. Someone who believes they can reliably detect a cloned voice may skip stronger verification measures.
 
-For ordinary people, behavioural verification is usually more dependable than forensic detection. A callback, a safe phrase or confirmation from a second person works regardless of whether the voice is real, cloned, recorded or generated in real time. That is why consumer-protection agencies consistently emphasise verification procedures rather than voice analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
+For ordinary people, behavioural verification is usually more dependable than forensic detection. A callback, a safe phrase or confirmation from a second person works regardless of whether the voice is real, cloned, recorded or generated in real time. That is why consumer-protection agencies consistently emphasise verification procedures rather than voice analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">scammers use ai enhance their family emergency schemes</span><span class="citation-popover-snippet">All he needs is a short audio clip of your family member&#x27;s voice.Read more...</span></span></span>
 
 ## A Practical Credibility Check for Emergency Calls
 
@@ -418,194 +418,194 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Loved One&#x27;s Voice Is Not Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Loved One&#x27;s Voice Is Not Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
-        </h4>
-        <p class="fr-book-author">By Nina Schick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
+</h4>
+<p class="fr-book-author">By Nina Schick</p>
         
-        <p class="fr-book-desc">Provides context on synthetic audio and identity deception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on synthetic audio and identity deception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6454262-M.jpg" alt="Cover for The Art of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Deception">The Art of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Mitnick, William L. Simon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6454262-M.jpg" alt="Cover for The Art of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Deception">The Art of Deception</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Mitnick, William L. Simon</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Computer Technology, Nonfiction, Social aspects, Computer hackers, Computer security.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Computer Technology, Nonfiction, Social aspects, Computer hackers, Computer security.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10661809-M.jpg" alt="Cover for Social Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social Engineering">Social Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Hadnagy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10661809-M.jpg" alt="Cover for Social Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social Engineering">Social Engineering</a>
+</h4>
+<p class="fr-book-author">By Christopher Hadnagy</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Computer hackers, Social engineering, Computer security, Human-computer interaction, Hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Computer hackers, Social engineering, Computer security, Human-computer interaction, Hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Social+Engineering+Christopher+Hadnagy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains urgency, authority, and emotional triggers used in scams.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains urgency, authority, and emotional triggers used in scams.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Deception</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Social+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Social Engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Deception</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Social+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Social Engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="voice-scams-when-a-loved-one-s-voice-is-not-proof-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,123 +811,123 @@ In the age of AI-generated voices, trust increasingly depends on procedures rath
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fbi.gov  
    Title: senior us officials continue to be impersonated in malicious messaging campaign  
-   Link: <a href="https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-continue-to-be-impersonated-in-malicious-messaging-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-continue-to-be-impersonated-in-malicious-messaging-campaign</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senior U.S. Officials Continue To Be Impersonated in...Dec 19, 2025 —... AI-generated voice cloning, as they can sound... Create a...</p></details>
+   Link:<a href="https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-continue-to-be-impersonated-in-malicious-messaging-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-continue-to-be-impersonated-in-malicious-messaging-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senior U.S. Officials Continue To Be Impersonated in...Dec 19, 2025 —... AI-generated voice cloning, as they can sound... Create a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: getcarefull.com  
    Title: scammers using ai voice cloning in family emergency schemes  
-   Link: <a href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</p></details>
+   Link:<a href="https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://getcarefull.com/articles/scammers-using-ai-voice-cloning-in-family-emergency-schemes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scammers Using AI Voice Cloning in Family Emergency...25 Jun 2025 — Scammers will call and claim to be a family member, such as a grandc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.20061</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.20061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.20061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Tell It&#x27;s AI? Human Perception of Synthetic Voices in Vishing ScenariosFebruary 23, 2026...</p></details>
    Published: February 23, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: consumer.ftc.gov  
    Title: scammers use ai enhance their family emergency schemes  
-   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All he needs is a short audio clip of your family member&#x27;s voice.Read more...</p></details>
+   Link:<a href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All he needs is a short audio clip of your family member&#x27;s voice.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consumer.ftc.gov  
-   Link: <a href="https://consumer.ftc.gov/all-scams/family-emergency-scams" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/all-scams/family-emergency-scams</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFamily Emergency ScamsScammers use voice cloning to make their requests for money or information more believable. And the...</p></details>
+   Link:<a href="https://consumer.ftc.gov/all-scams/family-emergency-scams" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/all-scams/family-emergency-scams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFamily Emergency ScamsScammers use voice cloning to make their requests for money or information more believable. And the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsAI voice scams can clone your family&#x27;s voice5 days ago — AI voice cloning scams use just three seconds of audio to replicate a lo...</p></details>
+   Link:<a href="https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsAI voice scams can clone your family&#x27;s voice5 days ago — AI voice cloning scams use just three seconds of audio to replicate a lo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: CBS News AI voice scams are on the rise  
-   Link: <a href="https://www.cbsnews.com/news/elder-scams-family-safe-word/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/elder-scams-family-safe-word/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how to protect yourself.Dec 17, 2024 — Scammers are using AI-powered voice-cloning tools to prey on people. But experts say there&#x27;...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/elder-scams-family-safe-word/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/elder-scams-family-safe-word/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how to protect yourself.Dec 17, 2024 — Scammers are using AI-powered voice-cloning tools to prey on people. But experts say there&#x27;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/money/2024/sep/18/warning-social-media-videos-exploited-scammers-clone-voices" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2024/sep/18/warning-social-media-videos-exploited-scammers-clone-voices</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starling Bank&#x27;s research shows 28% have faced AI voice cloning scams in the past year, but 46% are unaware of such frauds. Scammers need...</p></details>
+   Link:<a href="https://www.theguardian.com/money/2024/sep/18/warning-social-media-videos-exploited-scammers-clone-voices" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2024/sep/18/warning-social-media-videos-exploited-scammers-clone-voices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starling Bank&#x27;s research shows 28% have faced AI voice cloning scams in the past year, but 46% are unaware of such frauds. Scammers need...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The scammers, posing as his son and later a lawyer, demanded two separate payments to be delivered via Uber drivers. Suspicious but worri...</p></details>
+   Link:<a href="https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/18/us-news/scammers-swindle-elderly-california-man-out-of-25k-by-using-ai-voice-technology-to-claim-his-son-was-in-horrible-accident-needed-money-for-bail-absolutely-his-voice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scammers, posing as his son and later a lawyer, demanded two separate payments to be delivered via Uber drivers. Suspicious but worri...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: consumer.ftc.gov  
    Title: fighting back against harmful voice cloning  
-   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFighting back against harmful voice cloning8 Apr 2024 — Scammers use voice cloning to make their requests for money or inf...</p></details>
+   Link:<a href="https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFighting back against harmful voice cloning8 Apr 2024 — Scammers use voice cloning to make their requests for money or inf...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: Voice cloning scams are a growing threat  
-   Link: <a href="https://www.cbsnews.com/newyork/news/ai-voice-clone-scam/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/newyork/news/ai-voice-clone-scam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how you...17 May 2024 — Law enforcement says you should create a secret code word and share it with family members in person. In...</p></details>
+   Link:<a href="https://www.cbsnews.com/newyork/news/ai-voice-clone-scam/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/newyork/news/ai-voice-clone-scam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how you...17 May 2024 — Law enforcement says you should create a secret code word and share it with family members in person. In...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ic3.gov  
-   Link: <a href="https://www.ic3.gov/PSA/2025/PSA250515" target="_blank" rel="noopener noreferrer nofollow">https://www.ic3.gov/PSA/2025/PSA250515</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Crime Complaint CenterSenior US Officials Impersonated in Malicious Messaging...May 15, 2025 — FBI is issuing this announcement...</p></details>
+   Link:<a href="https://www.ic3.gov/PSA/2025/PSA250515" target="_blank" rel="noopener noreferrer nofollow">https://www.ic3.gov/PSA/2025/PSA250515</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Crime Complaint CenterSenior US Officials Impersonated in Malicious Messaging...May 15, 2025 — FBI is issuing this announcement...</p></details>
    Published: May 15, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mcafee.com  
-   Link: <a href="https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Deepfake Scams and AI Voice SpoofingAI voice scams leverage sophisticated technology to mimic a person&#x27;s voice, usually obtain...</p></details>
+   Link:<a href="https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Deepfake Scams and AI Voice SpoofingAI voice scams leverage sophisticated technology to mimic a person&#x27;s voice, usually obtain...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lifewire.com  
-   Link: <a href="https://www.lifewire.com/ai-voice-cloning-helps-scammers-heres-how-to-protect-yourself-7370878" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/ai-voice-cloning-helps-scammers-heres-how-to-protect-yourself-7370878</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This technology can replicate an individual&#x27;s voice with just a short audio sample, allowing fraudsters to deceive victims into sending m...</p></details>
+   Link:<a href="https://www.lifewire.com/ai-voice-cloning-helps-scammers-heres-how-to-protect-yourself-7370878" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/ai-voice-cloning-helps-scammers-heres-how-to-protect-yourself-7370878</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This technology can replicate an individual&#x27;s voice with just a short audio sample, allowing fraudsters to deceive victims into sending m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: starlingbank.com  
-   Link: <a href="https://www.starlingbank.com/safe-phrases/" target="_blank" rel="noopener noreferrer nofollow">https://www.starlingbank.com/safe-phrases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Phrases: Stay safe against AI voice cloningAI voice cloning is an emerging threat used by scammers. The technology can clone a human...</p></details>
+   Link:<a href="https://www.starlingbank.com/safe-phrases/" target="_blank" rel="noopener noreferrer nofollow">https://www.starlingbank.com/safe-phrases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Phrases: Stay safe against AI voice cloningAI voice cloning is an emerging threat used by scammers. The technology can clone a human...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unionsquare.org  
-   Link: <a href="https://www.unionsquare.org/resources/fraud-prevention-center/ai-phone-scams/" target="_blank" rel="noopener noreferrer nofollow">https://www.unionsquare.org/resources/fraud-prevention-center/ai-phone-scams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Union Square Credit UnionAI Phone ScamsHow AI Voice Scams Work. Scammers use AI voice cloning to create convincing audio messages. They c...</p></details>
+   Link:<a href="https://www.unionsquare.org/resources/fraud-prevention-center/ai-phone-scams/" target="_blank" rel="noopener noreferrer nofollow">https://www.unionsquare.org/resources/fraud-prevention-center/ai-phone-scams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Union Square Credit UnionAI Phone ScamsHow AI Voice Scams Work. Scammers use AI voice cloning to create convincing audio messages. They c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: crimejunkiepodcast.com  
-   Link: <a href="https://crimejunkiepodcast.com/warning-ai-voice-cloning-and-virtual-kidnappings/" target="_blank" rel="noopener noreferrer nofollow">https://crimejunkiepodcast.com/warning-ai-voice-cloning-and-virtual-kidnappings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WARNING: AI Voice Cloning and Virtual KidnappingsWe break down how AI voice cloning is fueling virtual kidnapping scams, why panic is the...</p></details>
+   Link:<a href="https://crimejunkiepodcast.com/warning-ai-voice-cloning-and-virtual-kidnappings/" target="_blank" rel="noopener noreferrer nofollow">https://crimejunkiepodcast.com/warning-ai-voice-cloning-and-virtual-kidnappings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WARNING: AI Voice Cloning and Virtual KidnappingsWe break down how AI voice cloning is fueling virtual kidnapping scams, why panic is the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pcgamer.com  
-   Link: <a href="https://www.pcgamer.com/software/ai/fbi-recommends-coming-up-with-a-secret-word-or-phrase-to-make-sure-your-family-know-youre-you-and-not-some-hellish-ai-copycat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/fbi-recommends-coming-up-with-a-secret-word-or-phrase-to-make-sure-your-family-know-youre-you-and-not-some-hellish-ai-copycat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI recommends coming up with a &#x27;secret word or phrase...Dec 9, 2024 — FBI recommends coming up with a &#x27;secret word or phrase&#x27; to make s...</p></details>
+   Link:<a href="https://www.pcgamer.com/software/ai/fbi-recommends-coming-up-with-a-secret-word-or-phrase-to-make-sure-your-family-know-youre-you-and-not-some-hellish-ai-copycat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/fbi-recommends-coming-up-with-a-secret-word-or-phrase-to-make-sure-your-family-know-youre-you-and-not-some-hellish-ai-copycat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI recommends coming up with a &#x27;secret word or phrase...Dec 9, 2024 — FBI recommends coming up with a &#x27;secret word or phrase&#x27; to make s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Scams/comments/1sh6ev7/my_mother_received_an_ai_impersonation_scam_call/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scams/comments/1sh6ev7/my_mother_received_an_ai_impersonation_scam_call/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People who receive these calls panic and think they recognize the voice. Scammers do these calls all day...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Scams/comments/1sh6ev7/my_mother_received_an_ai_impersonation_scam_call/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Scams/comments/1sh6ev7/my_mother_received_an_ai_impersonation_scam_call/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People who receive these calls panic and think they recognize the voice. Scammers do these calls all day...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DCWWIN5C0Cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCWWIN5C0Cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warning: Scammers using AI to clone voices of loved onesCriminals are now turning to Artificial Intelligence (or AI) to clone voices as t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DCWWIN5C0Cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCWWIN5C0Cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warning: Scammers using AI to clone voices of loved onesCriminals are now turning to Artificial Intelligence (or AI) to clone voices as t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWvr_PyCLc7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvr_PyCLc7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This what happens when scammers use audio clips if your loved ones to replicate their voice using AI.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWvr_PyCLc7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvr_PyCLc7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This what happens when scammers use audio clips if your loved ones to replicate their voice using AI.Read more...</p></details>

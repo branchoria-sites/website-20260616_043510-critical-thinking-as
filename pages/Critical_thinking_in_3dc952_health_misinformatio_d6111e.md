@@ -422,9 +422,9 @@ Health misinformation is especially difficult because it often mixes something t
 
 Health content travels well on social media because it attaches itself to fear, hope and identity. A post about a “hidden cure” or “toxic everyday food” does not arrive as a neutral proposition. It often arrives as a rescue message: protect your family, do not trust institutions, try this before it is too late. That emotional framing can make pausing feel irresponsible, even though pausing is exactly what health claims require.
 
-The World Health Organization uses the term “infodemic” for an overload of information, including false or misleading content, during health emergencies. Its review of pandemic-era evidence found that misleading health content on social media was associated with distress and could affect health behaviours during crises, emergencies and humanitarian settings. That matters because the harm is not limited to “believing the wrong fact”; it can shape vaccination decisions, use of medicines, trust in clinicians and willingness to follow public health advice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</span></span></span>
+The World Health Organization uses the term “infodemic” for an overload of information, including false or misleading content, during health emergencies. Its review of pandemic-era evidence found that misleading health content on social media was associated with distress and could affect health behaviours during crises, emergencies and humanitarian settings. That matters because the harm is not limited to “believing the wrong fact”; it can shape vaccination decisions, use of medicines, trust in clinicians and willingness to follow public health advice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</span></span></span>
 
-The design of social platforms adds a second pressure. Posts are rewarded for engagement, not for clinical accuracy. A dramatic before-and-after video, a personal testimonial or a short clip from someone in a white coat is easier to share than a cautious explanation of risk, uncertainty and dosage. Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) has shown that briefly shifting users’ attention towards whether a claim is accurate can improve the quality of what they intend to share, mainly by reducing willingness to share false headlines. In other words, many people are not committed to spreading falsehoods; the platform moment often fails to make accuracy the main task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Accuracy prompts increased the quality of news that people share (sharing discernment) relative...</span></span></span>
+The design of social platforms adds a second pressure. Posts are rewarded for engagement, not for clinical accuracy. A dramatic before-and-after video, a personal testimonial or a short clip from someone in a white coat is easier to share than a cautious explanation of risk, uncertainty and dosage. Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) has shown that briefly shifting users’ attention towards whether a claim is accurate can improve the quality of what they intend to share, mainly by reducing willingness to share false headlines. In other words, many people are not committed to spreading falsehoods; the platform moment often fails to make accuracy the main task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Accuracy prompts increased the quality of news that people share (sharing discernment) relative...</span></span></span>
 
 Health misinformation also benefits from “context collapse”. A claim designed for one group, one condition or one stage of illness can be copied into a feed where it reaches people with completely different risks. Advice that is harmless for one person may be dangerous for another because of pregnancy, age, immune status, cancer treatment, mental health history or interactions with prescription medicines.
 
@@ -436,9 +436,9 @@ A useful first question is not “Could this be true?” but “What kind of evi
 
 A personal story can be meaningful, but it cannot show that a treatment caused an improvement. Symptoms often fluctuate, people use several interventions at once, and some conditions improve over time regardless of what was tried. A laboratory study can show that a substance affects cells under controlled conditions, but it does not prove that swallowing the substance will safely treat a disease in humans. An animal study may justify further research, but it is not the same as a tested treatment for patients. For treatment decisions, stronger evidence usually comes from well-designed human studies, especially randomised controlled trials and systematic reviews that compare outcomes across multiple studies.
 
-This distinction is crucial for cancer misinformation. The US Food and Drug Administration warns that products claiming to cure cancer are often marketed with red-flag phrases such as “miracle cure”, “guaranteed” or “works in minutes”. The agency notes that illegally sold cancer products are commonly promoted online and on social media without having been reviewed for safety and effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">products claiming cure cancer are cruel deception</span><span class="citation-popover-snippet">Food and Drug AdministrationProducts Claiming to &quot;Cure&quot; Cancer Are a Cruel DeceptionJanuary 22, 2026 — 4 Sept 2020 — Miracle cure! Truly...</span><span class="citation-popover-meta">Published: January 22, 2026</span></span></span>
+This distinction is crucial for cancer misinformation. The US Food and Drug Administration warns that products claiming to cure cancer are often marketed with red-flag phrases such as “miracle cure”, “guaranteed” or “works in minutes”. The agency notes that illegally sold cancer products are commonly promoted online and on social media without having been reviewed for safety and effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">products claiming cure cancer are cruel deception</span><span class="citation-popover-snippet">Food and Drug AdministrationProducts Claiming to &quot;Cure&quot; Cancer Are a Cruel DeceptionJanuary 22, 2026 — 4 Sept 2020 — Miracle cure! Truly...</span><span class="citation-popover-meta">Published: January 22, 2026</span></span></span>
 
-The risk is not only wasting money. A National Cancer Institute summary of a large study reported that patients with nonmetastatic breast, lung or colorectal cancer who chose alternative therapies as their initial cancer treatment had substantially worse survival than patients who received conventional treatment. For breast and colorectal cancer in that study, patients using alternative therapy initially were nearly five times as likely to die over the median follow-up period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">alternative medicine cancer survival</span><span class="citation-popover-snippet">Alternative Medicine for Cancer Treatment Raises Mortality...12 Sept 2017 — Choosing alternative medicine as an initial cancer treatment...</span></span></span>
+The risk is not only wasting money. A National Cancer Institute summary of a large study reported that patients with nonmetastatic breast, lung or colorectal cancer who chose alternative therapies as their initial cancer treatment had substantially worse survival than patients who received conventional treatment. For breast and colorectal cancer in that study, patients using alternative therapy initially were nearly five times as likely to die over the median follow-up period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">alternative medicine cancer survival</span><span class="citation-popover-snippet">Alternative Medicine for Cancer Treatment Raises Mortality...12 Sept 2017 — Choosing alternative medicine as an initial cancer treatment...</span></span></span>
 
 This does not mean every complementary practice is automatically harmful. Supportive practices such as nutrition advice, exercise, psychological support or symptom management can have a place when they do not replace evidence-based care and are discussed with clinicians. The critical line is substitution: when an online claim encourages a patient to delay, refuse or abandon proven treatment in favour of an unproven cure.
 
@@ -449,9 +449,9 @@ This does not mean every complementary practice is automatically harmful. Suppor
 
 One of the most common health-misinformation shortcuts is the idea that “natural” means safe. In medical terms, that is not a reliable rule. Natural substances can be pharmacologically active, interact with medicines, vary in strength, worsen conditions or cause harm at high doses.
 
-St John’s wort is a useful example because it is not simply a “fake” remedy. It has evidence for some uses, particularly mild to moderate depression, but it also interacts with many medicines. Mayo Clinic warns that St John’s wort can cause serious side effects and should be discussed with a healthcare professional, especially when someone is taking other medicines. A clinical review found interactions with drugs including warfarin, digoxin, tacrolimus, indinavir, alprazolam and simvastatin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20362212</span><span class="citation-popover-snippet">Mayo ClinicSt. John&#x27;s wort21 Mar 2025 — St. John&#x27;s wort can treat mild to moderate depression. But the supplement interacts with many med...</span></span></span>
+St John’s wort is a useful example because it is not simply a “fake” remedy. It has evidence for some uses, particularly mild to moderate depression, but it also interacts with many medicines. Mayo Clinic warns that St John’s wort can cause serious side effects and should be discussed with a healthcare professional, especially when someone is taking other medicines. A clinical review found interactions with drugs including warfarin, digoxin, tacrolimus, indinavir, alprazolam and simvastatin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20362212</span><span class="citation-popover-snippet">Mayo ClinicSt. John&#x27;s wort21 Mar 2025 — St. John&#x27;s wort can treat mild to moderate depression. But the supplement interacts with many med...</span></span></span>
 
-This is why supplement misinformation is a practical problem for health services, not just an online annoyance. In June 2026, the World Cancer Research Fund warned about cancer misinformation and the need for trusted evidence, while reporting growing concern about misleading supplement claims online. Recent UK reporting on a WCRF-commissioned YouGov poll said two in five frontline NHS workers regularly encountered patients who believed misleading claims about supplements, with concerns especially high for cancer patients targeted by unproven or risky alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wcrf.org">[World Cancer Research Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wcrf.org</span><span class="citation-popover-snippet">Open source on wcrf.org.</span></span></span>
+This is why supplement misinformation is a practical problem for health services, not just an online annoyance. In June 2026, the World Cancer Research Fund warned about cancer misinformation and the need for trusted evidence, while reporting growing concern about misleading supplement claims online. Recent UK reporting on a WCRF-commissioned YouGov poll said two in five frontline NHS workers regularly encountered patients who believed misleading claims about supplements, with concerns especially high for cancer patients targeted by unproven or risky alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wcrf.org">[World Cancer Research Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wcrf.org</span><span class="citation-popover-snippet">Open source on wcrf.org.</span></span></span>
 
 A good evidence check for a supplement or treatment claim therefore asks four questions:
 
@@ -471,11 +471,11 @@ A good evidence check for a supplement or treatment claim therefore asks four qu
 
 Generative AI changes health misinformation in two ways. First, it can create polished explanations, fake citations, [synthetic images]({{ 'synthetic-images/' | relative_url }}) and persuasive scripts at low cost. Secondly, it can impersonate medical authority through deepfake voices, cloned faces or chatbot-style confidence.
 
-This matters because health trust is often visual and tonal. A clean layout, a confident voice or a person who appears to be a clinician can make weak evidence feel strong. Reporting in 2025 described AI [deepfakes]({{ 'deepfakes/' | relative_url }}) of real doctors being used on social platforms to promote unproven supplements, with clips altered so that reputable figures appeared to endorse products or fabricated conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+This matters because health trust is often visual and tonal. A clean layout, a confident voice or a person who appears to be a clinician can make weak evidence feel strong. Reporting in 2025 described AI [deepfakes]({{ 'deepfakes/' | relative_url }}) of real doctors being used on social platforms to promote unproven supplements, with clips altered so that reputable figures appeared to endorse products or fabricated conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-AI chatbots add a subtler risk. They can be helpful for explaining general concepts, drafting questions for a doctor or translating medical language into plainer wording, but they should not be treated as a clinician. A 2026 BMJ Open audit of five popular generative AI chatbots found that a substantial amount of medical information was inaccurate or incomplete, and the BMJ summary warned that continued deployment without public education and oversight could amplify misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bmjopen.bmj.com/content/16/4/e112695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
+AI chatbots add a subtler risk. They can be helpful for explaining general concepts, drafting questions for a doctor or translating medical language into plainer wording, but they should not be treated as a clinician. A 2026 BMJ Open audit of five popular generative AI chatbots found that a substantial amount of medical information was inaccurate or incomplete, and the BMJ summary warned that continued deployment without public education and oversight could amplify misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bmjopen.bmj.com/content/16/4/e112695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
 
-The problem is not only outright fabrication. Research on large language models in healthcare has warned that models can produce plausible but incorrect information and may affirm user assumptions in ways that make mistaken beliefs feel validated. This is especially risky when a user asks a leading question such as “Why is my doctor hiding the cure?” or “How can I replace my medication naturally?” rather than asking for balanced information about risks and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The problem is not only outright fabrication. Research on large language models in healthcare has warned that models can produce plausible but incorrect information and may affirm user assumptions in ways that make mistaken beliefs feel validated. This is especially risky when a user asks a leading question such as “Why is my doctor hiding the cure?” or “How can I replace my medication naturally?” rather than asking for balanced information about risks and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 For AI-generated health advice, the accuracy pressure should be stronger, not weaker. Ask where the information comes from, whether the citations are real, whether the answer distinguishes general education from personal advice, and whether it recommends urgent care when symptoms could be serious.
 
@@ -493,7 +493,7 @@ Seek professional advice before acting on an online health claim when it involve
 
 * stopping, delaying or changing prescribed treatment;
 * cancer, heart disease, pregnancy, children, severe infection, mental health crisis or long-term illness;
-* supplements alongside prescription medicines; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sps.nhs.uk">[sps.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sps.nhs.uk</span><span class="citation-popover-title">complementary products resources to support answering questions</span><span class="citation-popover-snippet">complementary products resources to support answering questions</span></span></span>
+* supplements alongside prescription medicines;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sps.nhs.uk">[sps.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sps.nhs.uk</span><span class="citation-popover-title">complementary products resources to support answering questions</span><span class="citation-popover-snippet">complementary products resources to support answering questions</span></span></span>
 * extreme diets, fasting, detoxes or high-dose vitamins;
 * symptoms that are new, severe, worsening or unexplained;
 * a claim that frames doctors, pharmacists or public health bodies as enemies without showing strong evidence.
@@ -534,194 +534,194 @@ The key is not to become paralysed by doubt. It is to match the level of checkin
 Health misinformation is powerful because it meets people at moments of fear, pain, uncertainty and hope. Social media speeds that encounter up; AI can make it look more polished and authoritative. The critical response is [not cynicism]({{ 'not-cynicism/' | relative_url }}) towards every health claim, nor blind trust in every institution. It is disciplined accuracy pressure: slowing down urgent claims, separating [evidence types]({{ 'evidence-types/' | relative_url }}), noticing incentives, checking medical fit and seeking expert context before a post becomes a decision.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Slow Down Health Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Slow Down Health Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly addresses misleading health claims and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misleading health claims and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-first thinking about public health information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-first thinking about public health information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5"><img src="{{ '/assets/images/marketplace-covers/86b27cbdf6d7163f2bc9.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5"><img src="{{ '/assets/images/marketplace-covers/86b27cbdf6d7163f2bc9.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A3 A4 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health"><img src="{{ '/assets/images/marketplace-covers/0f95909d33899958f37b.jpg' | relative_url }}" alt="Listing image for High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health"><img src="{{ '/assets/images/marketplace-covers/0f95909d33899958f37b.jpg' | relative_url }}" alt="Listing image for High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">High Fiber Food Chart | Fiber-Rich Foods | A4 Poster for Digestive Health</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign"><img src="{{ '/assets/images/marketplace-covers/4d54b37ae4f2d6602bfc.jpg' | relative_url }}" alt="Listing image for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign"><img src="{{ '/assets/images/marketplace-covers/4d54b37ae4f2d6602bfc.jpg' | relative_url }}" alt="Listing image for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="health-claims-how-to-slow-down-health-claims-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ Health misinformation is powerful because it meets people at moments of fear, pa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ Health misinformation is powerful because it meets people at moments of fear, pa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ Health misinformation is powerful because it meets people at moments of fear, pa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ Health misinformation is powerful because it meets people at moments of fear, pa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ Health misinformation is powerful because it meets people at moments of fear, pa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,236 +927,236 @@ Health misinformation is powerful because it meets people at moments of fear, pa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Accuracy prompts increased the quality of news that people share (sharing discernment) relative...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Accuracy prompts increased the quality of news that people share (sharing discernment) relative...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fda.gov  
    Title: products claiming cure cancer are cruel deception  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationProducts Claiming to &quot;Cure&quot; Cancer Are a Cruel DeceptionJanuary 22, 2026 — 4 Sept 2020 — Miracle cure! Truly...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationProducts Claiming to &quot;Cure&quot; Cancer Are a Cruel DeceptionJanuary 22, 2026 — 4 Sept 2020 — Miracle cure! Truly...</p></details>
    Published: January 22, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fda.gov  
    Title: illegally sold cancer treatments  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/illegally-sold-cancer-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/illegally-sold-cancer-treatments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationIllegally Sold Cancer Treatments1 Nov 2017 — The products are marketed and sold without FDA approval, most co...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams/illegally-sold-cancer-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/illegally-sold-cancer-treatments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationIllegally Sold Cancer Treatments1 Nov 2017 — The products are marketed and sold without FDA approval, most co...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cancer.gov  
    Title: alternative medicine cancer survival  
-   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative Medicine for Cancer Treatment Raises Mortality...12 Sept 2017 — Choosing alternative medicine as an initial cancer treatment...</p></details>
+   Link:<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative Medicine for Cancer Treatment Raises Mortality...12 Sept 2017 — Choosing alternative medicine as an initial cancer treatment...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinical relevance of St  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 238 — Research has shown that SJW altered the pharmacokinetics of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 238 — Research has shown that SJW altered the pharmacokinetics of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wcrf.org  
-   Link: <a href="https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/</a>  
+   Link:<a href="https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.wcrf.org/about-us/news-and-blogs/why-trusted-evidence-matters-in-the-fight-against-cancer-misinformation/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/16/4/e112695" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/16/4/e112695</a>  
+   Link:<a href="https://bmjopen.bmj.com/content/16/4/e112695" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/16/4/e112695</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bmjgroup.com  
-   Link: <a href="https://bmjgroup.com/substantial-amount-of-medical-information-provided-by-popular-chatbots-inaccurate-and-incomplete/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/substantial-amount-of-medical-information-provided-by-popular-chatbots-inaccurate-and-incomplete/</a>  
+   Link:<a href="https://bmjgroup.com/substantial-amount-of-medical-information-provided-by-popular-chatbots-inaccurate-and-incomplete/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/substantial-amount-of-medical-information-provided-by-popular-chatbots-inaccurate-and-incomplete/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
+   Link:<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/publications/m/item/digital-solutions-to-health-risks-raised-by-the-covid-19-infodemic.-synthesis-report" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/m/item/digital-solutions-to-health-risks-raised-by-the-covid-19-infodemic.-synthesis-report</a>  
+   Link:<a href="https://www.who.int/europe/publications/m/item/digital-solutions-to-health-risks-raised-by-the-covid-19-infodemic.-synthesis-report" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/m/item/digital-solutions-to-health-risks-raised-by-the-covid-19-infodemic.-synthesis-report</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/publications/i/item/WHO-EURO-2024-8010-47778-70534" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/i/item/WHO-EURO-2024-8010-47778-70534</a>  
+   Link:<a href="https://www.who.int/europe/publications/i/item/WHO-EURO-2024-8010-47778-70534" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/i/item/WHO-EURO-2024-8010-47778-70534</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: applications.emro.who.int  
-   Link: <a href="https://applications.emro.who.int/dsaf/dsa237.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/dsaf/dsa237.pdf</a>  
+   Link:<a href="https://applications.emro.who.int/dsaf/dsa237.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/dsaf/dsa237.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: midlandsmedicines.nhs.uk  
-   Link: <a href="https://www.midlandsmedicines.nhs.uk/filestore/QA254_AntidepressantsComplement-BM.pdf?UNLID=9586356632022124234516" target="_blank" rel="noopener noreferrer nofollow">https://www.midlandsmedicines.nhs.uk/filestore/QA254_AntidepressantsComplement-BM.pdf?UNLID=9586356632022124234516</a>  
+   Link:<a href="https://www.midlandsmedicines.nhs.uk/filestore/QA254_AntidepressantsComplement-BM.pdf?UNLID=9586356632022124234516" target="_blank" rel="noopener noreferrer nofollow">https://www.midlandsmedicines.nhs.uk/filestore/QA254_AntidepressantsComplement-BM.pdf?UNLID=9586356632022124234516</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sps.nhs.uk  
    Title: complementary products resources to support answering questions  
-   Link: <a href="https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/</a>  
+   Link:<a href="https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.sps.nhs.uk/articles/complementary-products-resources-to-support-answering-questions/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmj.com  
    Title: bmj 2023 076542  
-   Link: <a href="https://www.bmj.com/content/384/bmj-2023-076542" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/384/bmj-2023-076542</a>  
+   Link:<a href="https://www.bmj.com/content/384/bmj-2023-076542" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/384/bmj-2023-076542</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/16/4/e112695.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/16/4/e112695.full.pdf</a>  
+   Link:<a href="https://bmjopen.bmj.com/content/bmjopen/16/4/e112695.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/16/4/e112695.full.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: patient.info  
-   Link: <a href="https://patient.info/doctor/drug-therapy/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow">https://patient.info/doctor/drug-therapy/st-johns-wort</a>  
+   Link:<a href="https://patient.info/doctor/drug-therapy/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow">https://patient.info/doctor/drug-therapy/st-johns-wort</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tga.gov.au  
-   Link: <a href="https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines</a>  
+   Link:<a href="https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mayoclinic.org  
    Title: art 20362212  
-   Link: <a href="https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicSt. John&#x27;s wort21 Mar 2025 — St. John&#x27;s wort can treat mild to moderate depression. But the supplement interacts with many med...</p></details>
+   Link:<a href="https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/drugs-supplements-st-johns-wort/art-20362212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicSt. John&#x27;s wort21 Mar 2025 — St. John&#x27;s wort can treat mild to moderate depression. But the supplement interacts with many med...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media</a>  
+   Link:<a href="https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
+   Link:<a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12564032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12564032/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12564032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12564032/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572169/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572169/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK572169/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572169/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35484277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35484277/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35484277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35484277/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34283416/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34283416/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34283416/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34283416/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10551800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10551800/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10551800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10551800/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7857950/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7857950/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7857950/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7857950/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9359307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9359307/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9359307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9359307/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12940307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12940307/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12940307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12940307/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7532328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7532328/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7532328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7532328/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28922780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28922780/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28922780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28922780/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41980854/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41980854/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41980854/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41980854/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41606555/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41606555/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41606555/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41606555/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: downloads.regulations.gov  
-   Link: <a href="https://downloads.regulations.gov/FDA-2019-P-2945-0005/content.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/FDA-2019-P-2945-0005/content.pdf</a>  
+   Link:<a href="https://downloads.regulations.gov/FDA-2019-P-2945-0005/content.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/FDA-2019-P-2945-0005/content.pdf</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wVBnKHc1fAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVBnKHc1fAc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Deception: The Psychology of Combating Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wVBnKHc1fAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVBnKHc1fAc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Deception: The Psychology of Combating Misinformation...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Health Misinformation: UNPACKED livestream  
-   Link: <a href="https://www.youtube.com/watch?v=H_nClQ2WH6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_nClQ2WH6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 1: Addressing Health Misinformation and Disinformation to Advance Truth-telling...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_nClQ2WH6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_nClQ2WH6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 1: Addressing Health Misinformation and Disinformation to Advance Truth-telling...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ftc.gov  
    Title: fda act against internet vendors fraudulent diabetes cures treatments  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2006/10/ftc-fda-act-against-internet-vendors-fraudulent-diabetes-cures-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2006/10/ftc-fda-act-against-internet-vendors-fraudulent-diabetes-cures-treatments</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2006/10/ftc-fda-act-against-internet-vendors-fraudulent-diabetes-cures-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2006/10/ftc-fda-act-against-internet-vendors-fraudulent-diabetes-cures-treatments</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge</a>  
+   Link:<a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395628638_Health_Misinformation_on_Social_Media_A_Review_of_Management_and_Innovation_Perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395628638_Health_Misinformation_on_Social_Media_A_Review_of_Management_and_Innovation_Perspectives</a>  
+   Link:<a href="https://www.researchgate.net/publication/395628638_Health_Misinformation_on_Social_Media_A_Review_of_Management_and_Innovation_Perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395628638_Health_Misinformation_on_Social_Media_A_Review_of_Management_and_Innovation_Perspectives</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
+   Link:<a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388187901_The_Influence_of_Social_Media_Health_Misinformation_on_Vaccination_Intentions_A_Behavioral_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388187901_The_Influence_of_Social_Media_Health_Misinformation_on_Vaccination_Intentions_A_Behavioral_Perspective</a>  
+   Link:<a href="https://www.researchgate.net/publication/388187901_The_Influence_of_Social_Media_Health_Misinformation_on_Vaccination_Intentions_A_Behavioral_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388187901_The_Influence_of_Social_Media_Health_Misinformation_on_Vaccination_Intentions_A_Behavioral_Perspective</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1pgkb9i/ai_deepfakes_of_real_doctors_spreading_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1pgkb9i/ai_deepfakes_of_real_doctors_spreading_health/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1pgkb9i/ai_deepfakes_of_real_doctors_spreading_health/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1pgkb9i/ai_deepfakes_of_real_doctors_spreading_health/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
+   Link:<a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  

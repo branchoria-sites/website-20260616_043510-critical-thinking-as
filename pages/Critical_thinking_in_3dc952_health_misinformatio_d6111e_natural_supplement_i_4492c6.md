@@ -268,15 +268,15 @@ image: /assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_na
 
 ## Introduction
 
-A common shortcut in online health discussions is the assumption that “natural” means gentle, harmless or fundamentally different from medicine. In practice, many supplements contain biologically active compounds that affect the same body systems, enzymes and chemical pathways as prescription drugs. The result is that a supplement can sometimes change how a medicine works, increase side effects, reduce effectiveness or create entirely new risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
+A common shortcut in online health discussions is the assumption that “natural” means gentle, harmless or fundamentally different from medicine. In practice, many supplements contain biologically active compounds that affect the same body systems, enzymes and chemical pathways as prescription drugs. The result is that a supplement can sometimes change how a medicine works, increase side effects, reduce effectiveness or create entirely new risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-1-dark.svg" | relative_url }}" alt="Natural Risks illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters in an era of social media and AI-generated wellness content because supplement recommendations are often shared without the context that makes them safe: dosage, duration, medical history and interactions with existing treatment. A recommendation that appears harmless in a short video may become risky when combined with antidepressants, blood thinners, contraceptives or medicines used after organ transplantation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
+This matters in an era of social media and AI-generated wellness content because supplement recommendations are often shared without the context that makes them safe: dosage, duration, medical history and interactions with existing treatment. A recommendation that appears harmless in a short video may become risky when combined with antidepressants, blood thinners, contraceptives or medicines used after organ transplantation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
 
 ## The natural-safety shortcut
 
-The word “natural” describes an origin, not a safety profile. Many pharmaceutical drugs originated from plants, and many herbal products contain compounds capable of producing measurable biological effects. If a substance is strong enough to change symptoms, mood, sleep, blood pressure or inflammation, it may also be strong enough to interact with other treatments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/herbalmedicine.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Herbal MedicineAug 24, 2025 — Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders...</span></span></span>
+The word “natural” describes an origin, not a safety profile. Many pharmaceutical drugs originated from plants, and many herbal products contain compounds capable of producing measurable biological effects. If a substance is strong enough to change symptoms, mood, sleep, blood pressure or inflammation, it may also be strong enough to interact with other treatments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medlineplus.gov/herbalmedicine.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medlineplus.gov">[MedlinePlus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medlineplus.gov</span><span class="citation-popover-snippet">Herbal MedicineAug 24, 2025 — Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders...</span></span></span>
 
 Online supplement advice often focuses on potential benefits while leaving out the practical details that determine safety:
 
@@ -284,13 +284,13 @@ Online supplement advice often focuses on potential benefits while leaving out t
 * Whether it affects blood clotting.
 * Whether it alters hormone levels.
 * Whether it increases or decreases absorption of medicines.
-* Whether it amplifies side effects already associated with a prescription drug. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
+* Whether it amplifies side effects already associated with a prescription drug.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
 
 This omission creates a form of health misinformation that is not always outright false. A supplement may genuinely have biological activity, but the advice becomes misleading when it ignores how that activity interacts with real-world medication use.
 
 ### Why interactions happen
 
-Many interactions occur because the body uses specialised enzymes and transport systems to process drugs. Certain supplements can speed these systems up or slow them down. When that happens, the concentration of a medicine in the bloodstream may change. A medicine can become weaker than intended, stronger than intended, or less predictable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sps.nhs.uk">[SPS - Specialist Pharmacy Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sps.nhs.uk</span><span class="citation-popover-title">understanding enzyme or transporter based drug interactions</span><span class="citation-popover-snippet">Enzyme, transporter, and drug half-lives dictate duration.Read more...</span></span></span>
+Many interactions occur because the body uses specialised enzymes and transport systems to process drugs. Certain supplements can speed these systems up or slow them down. When that happens, the concentration of a medicine in the bloodstream may change. A medicine can become weaker than intended, stronger than intended, or less predictable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sps.nhs.uk">[SPS - Specialist Pharmacy Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sps.nhs.uk</span><span class="citation-popover-title">understanding enzyme or transporter based drug interactions</span><span class="citation-popover-snippet">Enzyme, transporter, and drug half-lives dictate duration.Read more...</span></span></span>
 
 The practical consequence is that two people taking the same supplement may face very different risks depending on what prescription medicines they already use. That is why interaction questions cannot be answered reliably through a generic social-media recommendation alone.
 
@@ -301,19 +301,19 @@ The practical consequence is that two people taking the same supplement may face
 
 St John's wort is one of the clearest examples of why natural does not automatically mean safe.
 
-Often promoted online for low mood or emotional wellbeing, St John's wort has genuine pharmacological effects. Research has repeatedly shown that it can increase the activity of important drug-metabolising enzymes, particularly CYP3A4, a pathway involved in processing a large proportion of medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/13129991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Effect of St John&#x27;s wort on drug metabolism by</span><span class="citation-popover-snippet">by JS Markowitz · 2003 · Cited by 562 — A 14-day course of St John&#x27;s wort administration significantly induced the activity of CYP...</span></span></span>
+Often promoted online for low mood or emotional wellbeing, St John's wort has genuine pharmacological effects. Research has repeatedly shown that it can increase the activity of important drug-metabolising enzymes, particularly CYP3A4, a pathway involved in processing a large proportion of medicines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/13129991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Effect of St John&#x27;s wort on drug metabolism by</span><span class="citation-popover-snippet">by JS Markowitz · 2003 · Cited by 562 — A 14-day course of St John&#x27;s wort administration significantly induced the activity of CYP...</span></span></span>
 
-Because of this effect, St John's wort can lower the concentration of many prescription medicines, potentially making them less effective. Documented interactions include medicines used for contraception, organ transplantation, HIV treatment, cardiovascular disease and blood clot prevention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHerb–Drug Interactions with St John&#x27;s Wort (Hypericum</span><span class="citation-popover-snippet">by F Borrelli · 2009 · Cited by 431 — SJW has been shown to clinically interact with a number of drugs (Tables II and III), including...</span></span></span>
+Because of this effect, St John's wort can lower the concentration of many prescription medicines, potentially making them less effective. Documented interactions include medicines used for contraception, organ transplantation, HIV treatment, cardiovascular disease and blood clot prevention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHerb–Drug Interactions with St John&#x27;s Wort (Hypericum</span><span class="citation-popover-snippet">by F Borrelli · 2009 · Cited by 431 — SJW has been shown to clinically interact with a number of drugs (Tables II and III), including...</span></span></span>
 
 ### Contraceptives and unintended consequences
 
-One of the most widely discussed interactions involves hormonal contraceptives. Studies and clinical guidance have shown that St John's wort can reduce contraceptive effectiveness by increasing drug metabolism. Reports have linked its use to breakthrough bleeding and concerns about contraceptive failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14663455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2BNF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The interaction between St John&#x27;s wort and an oral contraceptiveby SD Hall · 2003 · Cited by 360 — The popular herbal remedy St Joh...</span></span></span>
+One of the most widely discussed interactions involves hormonal contraceptives. Studies and clinical guidance have shown that St John's wort can reduce contraceptive effectiveness by increasing drug metabolism. Reports have linked its use to breakthrough bleeding and concerns about contraceptive failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14663455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2BNF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The interaction between St John&#x27;s wort and an oral contraceptiveby SD Hall · 2003 · Cited by 360 — The popular herbal remedy St Joh...</span></span></span>
 
 This example illustrates a broader [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) lesson. A social-media post recommending a “natural mood booster” may never mention contraception. Yet for some users, that omitted detail is more important than the supplement's advertised benefit.
 
 ### Blood thinners and treatment failure
 
-Blood-thinning medicines present another important case. [Evidence]({{ 'evidence/' | relative_url }}) indicates that St John's wort can reduce the effectiveness of warfarin by accelerating its metabolism, potentially lowering anticoagulant activity and increasing the risk of clotting complications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drugs.com">[Drugs.com+2AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drugs.com</span><span class="citation-popover-title">Interactions between St</span><span class="citation-popover-snippet">john&#x27;s wort and WarfarinGENERALLY AVOID: Limited clinical data suggest that St. John&#x27;s wort may reduce the plasma concentrations and/or h...</span></span></span>
+Blood-thinning medicines present another important case. [Evidence]({{ 'evidence/' | relative_url }}) indicates that St John's wort can reduce the effectiveness of warfarin by accelerating its metabolism, potentially lowering anticoagulant activity and increasing the risk of clotting complications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drugs.com">[Drugs.com+2AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drugs.com</span><span class="citation-popover-title">Interactions between St</span><span class="citation-popover-snippet">john&#x27;s wort and WarfarinGENERALLY AVOID: Limited clinical data suggest that St. John&#x27;s wort may reduce the plasma concentrations and/or h...</span></span></span>
 
 A person encountering separate online claims about improving mood and protecting heart health might reasonably assume that combining a supplement with prescribed treatment is harmless. The interaction evidence shows why that assumption can be dangerous.
 
@@ -323,7 +323,7 @@ A person encountering separate online claims about improving mood and protecting
 
 The risks are not limited to reducing medicine effectiveness. Some interactions increase biological activity instead.
 
-St John's wort affects neurotransmitters including serotonin. When combined with antidepressants that also influence serotonin, there is concern about excessive serotonin activity and the possibility of serotonin syndrome, a potentially serious medical condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of St</span><span class="citation-popover-snippet">John&#x27;s Wort and its Interactions with SSRI&#x27;sby RA Maldonado-Puebla · 2025 · Cited by 1 — However, combining St. John&#x27;s Wort with SSRIs ca...</span></span></span>
+St John's wort affects neurotransmitters including serotonin. When combined with antidepressants that also influence serotonin, there is concern about excessive serotonin activity and the possibility of serotonin syndrome, a potentially serious medical condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of St</span><span class="citation-popover-snippet">John&#x27;s Wort and its Interactions with SSRI&#x27;sby RA Maldonado-Puebla · 2025 · Cited by 1 — However, combining St. John&#x27;s Wort with SSRIs ca...</span></span></span>
 
 This is a useful reminder that supplements are not always operating outside conventional medicine. Sometimes they act on the very same systems targeted by prescription drugs.
 
@@ -331,7 +331,7 @@ This is a useful reminder that supplements are not always operating outside conv
 
 Short-form health content rewards simplicity. Interaction risks are complex.
 
-A creator can gain attention by saying that a supplement is “good for stress” or “supports immunity” in a thirty-second clip. Explaining who should avoid it, how it affects drug metabolism, which medicines are involved, what dose was studied and how long effects persist takes much longer. As a result, the information most relevant to safety is often the first information removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
+A creator can gain attention by saying that a supplement is “good for stress” or “supports immunity” in a thirty-second clip. Explaining who should avoid it, how it affects drug metabolism, which medicines are involved, what dose was studied and how long effects persist takes much longer. As a result, the information most relevant to safety is often the first information removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
 
 AI-generated health summaries can create a similar problem. They may accurately describe potential benefits from published studies while failing to emphasise interaction risks with the same prominence. A technically correct statement about a supplement's effects can still be misleading if medication interactions are treated as a footnote rather than a central consideration.
 
@@ -346,19 +346,19 @@ Before acting on supplement advice, ask:
 
 1. **What medicines am I already taking?**
 
-Even common prescriptions can interact with herbal products and nutritional supplements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
+Even common prescriptions can interact with herbal products and nutritional supplements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">mixing medications and dietary supplements can endanger your health</span><span class="citation-popover-snippet">Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</span></span></span>
 2. **Is the supplement affecting the same body system as my medication?**
 
-Mood, sleep, blood pressure, blood clotting and blood sugar are areas where overlap frequently occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aafp.org/afp/2017/0715/p101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aafp.org">[AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aafp.org</span><span class="citation-popover-snippet">Common Herbal Dietary Supplement–Drug Interactions &#124; AFPby GN ASHER · 2017 · Cited by 278 — Some supplements may cause interactions w...</span></span></span>
+Mood, sleep, blood pressure, blood clotting and blood sugar are areas where overlap frequently occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aafp.org/afp/2017/0715/p101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aafp.org">[AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aafp.org</span><span class="citation-popover-snippet">Common Herbal Dietary Supplement–Drug Interactions &#124; AFPby GN ASHER · 2017 · Cited by 278 — Some supplements may cause interactions w...</span></span></span>
 3. **Does the advice mention interactions, not just benefits?**
 
 If a recommendation discusses only positive outcomes, important safety information may be missing.
 4. **Is there guidance from recognised medical or public-health sources?**
 
-Organisations such as the NIH Office of Dietary Supplements, medicines information services and pharmacists routinely publish interaction information. Office of Dietary Supplements+2Office of Dietary Supplements <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[ods.od.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-snippet">Office of Dietary SupplementsOffice of Dietary Supplements (ODS) - NIHProvides the latest scientific information on dietary supplements i...</span></span></span>
+Organisations such as the NIH Office of Dietary Supplements, medicines information services and pharmacists routinely publish interaction information. Office of Dietary Supplements+2Office of Dietary Supplements<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[ods.od.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-snippet">Office of Dietary SupplementsOffice of Dietary Supplements (ODS) - NIHProvides the latest scientific information on dietary supplements i...</span></span></span>
 5. **Have I told my pharmacist or clinician about all supplements I use?**
 
-Interaction problems are harder to identify when supplements are omitted from medication discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aafp.org">[AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aafp.org</span><span class="citation-popover-snippet">John&#x27;s wort and warfarin. Other studies have shown...Read more...</span></span></span>
+Interaction problems are harder to identify when supplements are omitted from medication discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aafp.org">[AAFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aafp.org</span><span class="citation-popover-snippet">John&#x27;s wort and warfarin. Other studies have shown...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-3-dark.svg" | relative_url }}" alt="Natural Risks illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_natural_supplement_i_4492c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,201 +366,201 @@ Interaction problems are harder to identify when supplements are omitted from me
 
 The most reliable question is not “Is this supplement natural?” but “What does this supplement do, and what else am I taking?”
 
-St John's wort demonstrates why that distinction matters. A product can be plant-based, widely available and genuinely active while still creating clinically significant interactions with prescription medicines. The lesson extends beyond a single supplement: safety depends on context, not marketing language. In a digital environment full of simplified [health claims]({{ 'health-claims/' | relative_url }}), checking for interactions is often more important than checking whether a product is natural. PMC+2U.S. Food and Drug Administration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinical relevance of St</span><span class="citation-popover-snippet">John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 231 — Preparations of SJW are potent activators of PXR and hence...</span></span></span>
+St John's wort demonstrates why that distinction matters. A product can be plant-based, widely available and genuinely active while still creating clinically significant interactions with prescription medicines. The lesson extends beyond a single supplement: safety depends on context, not marketing language. In a digital environment full of simplified [health claims]({{ 'health-claims/' | relative_url }}), checking for interactions is often more important than checking whether a product is natural. PMC+2U.S. Food and Drug Administration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinical relevance of St</span><span class="citation-popover-snippet">John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 231 — Preparations of SJW are potent activators of PXR and hence...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/95-mQReqySs" title="Herbal Supplements May Be Dangerous When You Take Some Prescription Drugs | TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=95-mQReqySs" target="_blank" rel="noopener noreferrer">Herbal Supplements May Be Dangerous When You Take Some Prescription Drugs | TIME</a></p><p class="youtube-embed-meta">Channel: TIME &middot; Views: 3.4K &middot; Uploaded: January 2018 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=95-mQReqySs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=95-mQReqySs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why natural does not mean safe. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why natural does not mean safe. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Addresses misleading health marketing and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses misleading health marketing and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based reasoning over intuition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based reasoning over intuition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Food rules on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305235-M.jpg" alt="Cover for Food rules" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Food rules">Food rules</a>
-        </h4>
-        <p class="fr-book-author">By Michael Pollan, Laura Manero Jiménez;</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Food rules on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305235-M.jpg" alt="Cover for Food rules" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Food rules">Food rules</a>
+</h4>
+<p class="fr-book-author">By Michael Pollan, Laura Manero Jiménez;</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Nutrition, Food habits, food, eating, consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Nutrition, Food habits, food, eating, consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Food+rules&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Food rules</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Food+rules&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Food rules</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4"><img src="{{ '/assets/images/marketplace-covers/a3d557552b390e523d78.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 - A1, A2, A3, A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/e598957792a38e31387d.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/e598957792a38e31387d.jpg' | relative_url }}" alt="Listing image for Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health and Safety Law Poster HSE - What You Need To Know FWC30 A5 A4 A3 A3+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card"><img src="{{ '/assets/images/marketplace-covers/4cddc7a19206b42eb78f.jpg' | relative_url }}" alt="Listing image for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card"><img src="{{ '/assets/images/marketplace-covers/4cddc7a19206b42eb78f.jpg' | relative_url }}" alt="Listing image for COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">COSHH Health &amp; Safety Posters 2 x Laminated A4 on Heavy Card</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign"><img src="{{ '/assets/images/marketplace-covers/4d54b37ae4f2d6602bfc.jpg' | relative_url }}" alt="Listing image for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign"><img src="{{ '/assets/images/marketplace-covers/4d54b37ae4f2d6602bfc.jpg' | relative_url }}" alt="Listing image for Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">Health &amp; Safety Law Poster 2026 UK A4 A3 A2 Laminated Office Workplace Wall Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health poster" data-ebay-reference="natural-risks-why-natural-does-not-mean-safe-critical-thinking-in-the-age-of-social-media-and-a-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,207 +766,207 @@ St John's wort demonstrates why that distinction matters. A product can be plant
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fda.gov  
    Title: mixing medications and dietary supplements can endanger your health  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationMixing Medications and Dietary Supplements Can...2 Jun 2022 — Combining dietary supplements and medications...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK216072/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK216072/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary Supplements - NCBI Bookshelf - NIHDietary supplements have a potential to adversely affect public health by interacting with othe...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK216072/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK216072/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary Supplements - NCBI Bookshelf - NIHDietary supplements have a potential to adversely affect public health by interacting with othe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — This fact sheet by the National Institutes...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — This fact sheet by the National Institutes...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medlineplus.gov  
-   Link: <a href="https://medlineplus.gov/herbalmedicine.html" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/herbalmedicine.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbal MedicineAug 24, 2025 — Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders...</p></details>
+   Link:<a href="https://medlineplus.gov/herbalmedicine.html" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/herbalmedicine.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Herbal MedicineAug 24, 2025 — Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aafp.org  
-   Link: <a href="https://www.aafp.org/afp/2017/0715/p101" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/afp/2017/0715/p101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Herbal Dietary Supplement–Drug Interactions | AFPby GN ASHER · 2017 · Cited by 278 — Some supplements may cause interactions w...</p></details>
+   Link:<a href="https://www.aafp.org/afp/2017/0715/p101" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/afp/2017/0715/p101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Herbal Dietary Supplement–Drug Interactions | AFPby GN ASHER · 2017 · Cited by 278 — Some supplements may cause interactions w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sps.nhs.uk  
    Title: understanding enzyme or transporter based drug interactions  
-   Link: <a href="https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enzyme, transporter, and drug half-lives dictate duration.Read more...</p></details>
+   Link:<a href="https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://www.sps.nhs.uk/articles/understanding-enzyme-or-transporter-based-drug-interactions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enzyme, transporter, and drug half-lives dictate duration.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA&#x27;s Examples of Drugs that Interact with CYP Enzymes...Table 1 also includes five other substances that in...</p></details>
+   Link:<a href="https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA&#x27;s Examples of Drugs that Interact with CYP Enzymes...Table 1 also includes five other substances that in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Effect of St John's wort on drug metabolism by  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/13129991/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/13129991/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JS Markowitz · 2003 · Cited by 562 — A 14-day course of St John&#x27;s wort administration significantly induced the activity of CYP...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/13129991/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/13129991/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JS Markowitz · 2003 · Cited by 562 — A 14-day course of St John&#x27;s wort administration significantly induced the activity of CYP...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10824623/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10824623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>St John&#x27;s Wort: effect on CYP3A4 activityby CA Roby · 2000 · Cited by 435 — Conclusions: Treatment with St John&#x27;s Wort for 14 days...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10824623/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10824623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St John&#x27;s Wort: effect on CYP3A4 activityby CA Roby · 2000 · Cited by 435 — Conclusions: Treatment with St John&#x27;s Wort for 14 days...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinical relevance of St  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 231 — Preparations of SJW are potent activators of PXR and hence...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort drug interactions revisitedby S Nicolussi · 2020 · Cited by 231 — Preparations of SJW are potent activators of PXR and hence...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHerb–Drug Interactions with St John's Wort (Hypericum  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Borrelli · 2009 · Cited by 431 — SJW has been shown to clinically interact with a number of drugs (Tables II and III), including...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Borrelli · 2009 · Cited by 431 — SJW has been shown to clinically interact with a number of drugs (Tables II and III), including...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinically relevant safety issues associated with St  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2483264/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2483264/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort...by KA Clauson · 2008 · Cited by 37 — However, there are documented interactions between SJW and prescription medications i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2483264/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2483264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort...by KA Clauson · 2008 · Cited by 37 — However, there are documented interactions between SJW and prescription medications i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14663455/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14663455/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The interaction between St John&#x27;s wort and an oral contraceptiveby SD Hall · 2003 · Cited by 360 — The popular herbal remedy St Joh...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14663455/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14663455/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The interaction between St John&#x27;s wort and an oral contraceptiveby SD Hall · 2003 · Cited by 360 — The popular herbal remedy St Joh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bnf.nice.org.uk  
    Title: BNFSt John's wort | Interactions  
-   Link: <a href="https://bnf.nice.org.uk/interactions/st-johns-wort/" target="_blank" rel="noopener noreferrer nofollow">https://bnf.nice.org.uk/interactions/st-johns-wort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NICESt John&#x27;s wort Interactions... Manufacturer advises use alternative methods during treatment with, and for 28 days after, the...</p></details>
+   Link:<a href="https://bnf.nice.org.uk/interactions/st-johns-wort/" target="_blank" rel="noopener noreferrer nofollow">https://bnf.nice.org.uk/interactions/st-johns-wort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NICESt John&#x27;s wort Interactions... Manufacturer advises use alternative methods during treatment with, and for 28 days after, the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: drugs.com  
    Title: Interactions between St  
-   Link: <a href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1" target="_blank" rel="noopener noreferrer nofollow">https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>john&#x27;s wort and WarfarinGENERALLY AVOID: Limited clinical data suggest that St. John&#x27;s wort may reduce the plasma concentrations and/or h...</p></details>
+   Link:<a href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1" target="_blank" rel="noopener noreferrer nofollow">https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html?professional=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>john&#x27;s wort and WarfarinGENERALLY AVOID: Limited clinical data suggest that St. John&#x27;s wort may reduce the plasma concentrations and/or h...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aafp.org  
-   Link: <a href="https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort and warfarin. Other studies have shown...Read more...</p></details>
+   Link:<a href="https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/pubs/afp/issues/2008/0101/p73.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort and warfarin. Other studies have shown...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: drugs.com  
    Title: Can You Take St. john's wort with Warfarin?  
-   Link: <a href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html" target="_blank" rel="noopener noreferrer nofollow">https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InteractionsAsk your doctor before using warfarin together with St. John&#x27;s wort. This combination may reduce the effects of warfarin.Read...</p></details>
+   Link:<a href="https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html" target="_blank" rel="noopener noreferrer nofollow">https://www.drugs.com/drug-interactions/st-john-s-wort-with-warfarin-2106-0-2311-0.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InteractionsAsk your doctor before using warfarin together with St. John&#x27;s wort. This combination may reduce the effects of warfarin.Read...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effects of St  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s Wort and its Interactions with SSRI&#x27;sby RA Maldonado-Puebla · 2025 · Cited by 1 — However, combining St. John&#x27;s Wort with SSRIs ca...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12420457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s Wort and its Interactions with SSRI&#x27;sby RA Maldonado-Puebla · 2025 · Cited by 1 — However, combining St. John&#x27;s Wort with SSRIs ca...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aafp.org  
-   Link: <a href="https://www.aafp.org/afp/2008/0101/p73" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/afp/2008/0101/p73</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort, ginkgo, garlic, and ginseng. Studies...Read more...</p></details>
+   Link:<a href="https://www.aafp.org/afp/2008/0101/p73" target="_blank" rel="noopener noreferrer nofollow">https://www.aafp.org/afp/2008/0101/p73</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort, ginkgo, garlic, and ginseng. Studies...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsOffice of Dietary Supplements (ODS) - NIHProvides the latest scientific information on dietary supplements i...</p></details>
+   Link:<a href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsOffice of Dietary Supplements (ODS) - NIHProvides the latest scientific information on dietary supplements i...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/factsheets/list-all/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/list-all/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplement Fact SheetsProvides information about dietary supplements and their ingredients. These in...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/list-all/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/list-all/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplement Fact SheetsProvides information about dietary supplements and their ingredients. These in...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5760175/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5760175/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Fan · 2017 · Cited by 26 — We detected signals of interactions between warfarin and seven dietary supplements, viz., alfalfa, gar...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5760175/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5760175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Fan · 2017 · Cited by 26 — We detected signals of interactions between warfarin and seven dietary supplements, viz., alfalfa, gar...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/HealthInformation/healthinformation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/HealthInformation/healthinformation.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based summaries for health professionals and consumers on specific vitamins, minerals, herbs, and other dietary...Read more...</p></details>
+   Link:<a href="https://ods.od.nih.gov/HealthInformation/healthinformation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/HealthInformation/healthinformation.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based summaries for health professionals and consumers on specific vitamins, minerals, herbs, and other dietary...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: heart.org  
    Title: medication interactions food supplements and other drugs  
-   Link: <a href="https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-interactions-food-supplements-and-other-drugs" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-interactions-food-supplements-and-other-drugs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medication Interactions: Food, Supplements and Other Drugs18 Jan 2024 — Even healthy foods, including fruits and vegetables, can cause un...</p></details>
+   Link:<a href="https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-interactions-food-supplements-and-other-drugs" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-interactions-food-supplements-and-other-drugs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medication Interactions: Food, Supplements and Other Drugs18 Jan 2024 — Even healthy foods, including fruits and vegetables, can cause un...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medlineplus.gov  
-   Link: <a href="https://medlineplus.gov/druginformation.html" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/druginformation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drugs, Herbs and SupplementsBrowse dietary supplements and herbal remedies to learn about their effectiveness, usual dosage, and drug int...</p></details>
+   Link:<a href="https://medlineplus.gov/druginformation.html" target="_blank" rel="noopener noreferrer nofollow">https://medlineplus.gov/druginformation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drugs, Herbs and SupplementsBrowse dietary supplements and herbal remedies to learn about their effectiveness, usual dosage, and drug int...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: magazine.medlineplus.gov  
    Title: did you know supplements and medications can interact in unexpected ways  
-   Link: <a href="https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways" target="_blank" rel="noopener noreferrer nofollow">https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supplements and medications can interact in...9 Jan 2025 — Dietary supplements can interact dangerously with medications, altering drug...</p></details>
+   Link:<a href="https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways" target="_blank" rel="noopener noreferrer nofollow">https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supplements and medications can interact in...9 Jan 2025 — Dietary supplements can interact dangerously with medications, altering drug...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tga.gov.au  
-   Link: <a href="https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapeutic Goods Administration (TGA)St John&#x27;s Wort: Important interactions between St...15 Mar 2001 — Oral Contraceptives (&quot;the pill&quot;)...</p></details>
+   Link:<a href="https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/st-johns-wort-important-interactions-between-st-johns-wort-hypericum-perforatum-preparations-and-prescription-medicines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therapeutic Goods Administration (TGA)St John&#x27;s Wort: Important interactions between St...15 Mar 2001 — Oral Contraceptives (&quot;the pill&quot;)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NIH.ODS/photos/certain-medications-and-dietary-supplements-can-interact-and-cause-potentially-d/4351145231609625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIH.ODS/photos/certain-medications-and-dietary-supplements-can-interact-and-cause-potentially-d/4351145231609625/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH - Certain medications and dietary supplements can...Certain medications and dietary supplements can interact and cause potentially d...</p></details>
+   Link:<a href="https://www.facebook.com/NIH.ODS/photos/certain-medications-and-dietary-supplements-can-interact-and-cause-potentially-d/4351145231609625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIH.ODS/photos/certain-medications-and-dietary-supplements-can-interact-and-cause-potentially-d/4351145231609625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIH - Certain medications and dietary supplements can...Certain medications and dietary supplements can interact and cause potentially d...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nutrition.gov  
-   Link: <a href="https://www.nutrition.gov/topics/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/topics/dietary-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary SupplementsThis interactive tool was designed to help you better understand how medications and supplements can interact in poten...</p></details>
+   Link:<a href="https://www.nutrition.gov/topics/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/topics/dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary SupplementsThis interactive tool was designed to help you better understand how medications and supplements can interact in poten...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/8476366_Interaction_of_St_John%27s_wort_with_conventional_drugs_Systematic_review_of_clinical_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8476366_Interaction_of_St_John%27s_wort_with_conventional_drugs_Systematic_review_of_clinical_trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interaction of St John&#x27;s wort with conventional drugsWhile the St John&#x27;s wort lowered the disposition of sulfonylureas by induction of va...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/8476366_Interaction_of_St_John%27s_wort_with_conventional_drugs_Systematic_review_of_clinical_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8476366_Interaction_of_St_John%27s_wort_with_conventional_drugs_Systematic_review_of_clinical_trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interaction of St John&#x27;s wort with conventional drugsWhile the St John&#x27;s wort lowered the disposition of sulfonylureas by induction of va...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: st.com  
-   Link: <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.st.com/content/st_com/en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microelectronics: Our technology starts with youST is a global high-tech company creating semiconductor technologies for a smarter, gre...</p></details>
+   Link:<a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.st.com/content/st_com/en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microelectronics: Our technology starts with youST is a global high-tech company creating semiconductor technologies for a smarter, gre...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hep-druginteractions.org  
-   Link: <a href="https://www.hep-druginteractions.org/interactions/88254" target="_blank" rel="noopener noreferrer nofollow">https://www.hep-druginteractions.org/interactions/88254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>St John&#x27;s wortHowever, the constituent of St John&#x27;s Wort responsible for induction of enzymes and transporters, hyperforin, can be highly...</p></details>
+   Link:<a href="https://www.hep-druginteractions.org/interactions/88254" target="_blank" rel="noopener noreferrer nofollow">https://www.hep-druginteractions.org/interactions/88254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St John&#x27;s wortHowever, the constituent of St John&#x27;s Wort responsible for induction of enzymes and transporters, hyperforin, can be highly...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5118902/nih-dietary-supplement/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5118902/nih-dietary-supplement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NIH Has Two New Dietary Supplement Fact SheetsThe NIH Office of Dietary Supplements released two new fact sheets about the safety and...</p></details>
+   Link:<a href="https://time.com/5118902/nih-dietary-supplement/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5118902/nih-dietary-supplement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NIH Has Two New Dietary Supplement Fact SheetsThe NIH Office of Dietary Supplements released two new fact sheets about the safety and...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: med.navy.mil  
-   Link: <a href="https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Documents/health-promotion-wellness/general-tools-and-programs/hp-toolbox/FS_Supplements_and_Drug_Interactions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Documents/health-promotion-wellness/general-tools-and-programs/hp-toolbox/FS_Supplements_and_Drug_Interactions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Supplement and Drug Interactions4 Calcium Fact Sheet for Consumers. National Institutes of Health Office of Dietary Supplements. [http://o...&quot;](http://o...&quot;)...</p></details>
+   Link:<a href="https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Documents/health-promotion-wellness/general-tools-and-programs/hp-toolbox/FS_Supplements_and_Drug_Interactions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Documents/health-promotion-wellness/general-tools-and-programs/hp-toolbox/FS_Supplements_and_Drug_Interactions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Supplement and Drug Interactions4 Calcium Fact Sheet for Consumers. National Institutes of Health Office of Dietary Supplements. [http://o...&quot;](http://o...&quot;)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ebsco.com  
    Title: Warfarin (drug interactions) | Health and Medicine Evidence suggests that St  
-   Link: <a href="https://www.ebsco.com/research-starters/health-and-medicine/warfarin-drug-interactions" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/warfarin-drug-interactions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort may interfere with warfarin, possibly requiring an increased dosage of the drug to maintain the proper therapeutic effect...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/health-and-medicine/warfarin-drug-interactions" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/warfarin-drug-interactions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort may interfere with warfarin, possibly requiring an increased dosage of the drug to maintain the proper therapeutic effect...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: mind.org.uk  
-   Link: <a href="https://www.mind.org.uk/information-support/drugs-and-treatments/complementary-and-alternative-therapies/st-johns-wort/" target="_blank" rel="noopener noreferrer nofollow">https://www.mind.org.uk/information-support/drugs-and-treatments/complementary-and-alternative-therapies/st-johns-wort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These include antidepressants and blood clotting medication. It can make them less effective or...Read more...</p></details>
+   Link:<a href="https://www.mind.org.uk/information-support/drugs-and-treatments/complementary-and-alternative-therapies/st-johns-wort/" target="_blank" rel="noopener noreferrer nofollow">https://www.mind.org.uk/information-support/drugs-and-treatments/complementary-and-alternative-therapies/st-johns-wort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These include antidepressants and blood clotting medication. It can make them less effective or...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: poison.org  
-   Link: <a href="https://www.poison.org/articles/mixing-meds-herbs-and-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.poison.org/articles/mixing-meds-herbs-and-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort was associated with a number of drug interactions. For example, St. John&#x27;s wort decreased the effectiveness of calcium channe...</p></details>
+   Link:<a href="https://www.poison.org/articles/mixing-meds-herbs-and-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.poison.org/articles/mixing-meds-herbs-and-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John&#x27;s wort was associated with a number of drug interactions. For example, St. John&#x27;s wort decreased the effectiveness of calcium channe...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: healthinhand.org  
-   Link: <a href="https://www.healthinhand.org/resources/common-drug-and-nutrient-interactions-you-need-to-know-about-when-taking-a-dietary-supplement" target="_blank" rel="noopener noreferrer nofollow">https://www.healthinhand.org/resources/common-drug-and-nutrient-interactions-you-need-to-know-about-when-taking-a-dietary-supplement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ary Supplement · How to Safely Manage Medication and Supplement Interactions.Read more...</p></details>
+   Link:<a href="https://www.healthinhand.org/resources/common-drug-and-nutrient-interactions-you-need-to-know-about-when-taking-a-dietary-supplement" target="_blank" rel="noopener noreferrer nofollow">https://www.healthinhand.org/resources/common-drug-and-nutrient-interactions-you-need-to-know-about-when-taking-a-dietary-supplement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ary Supplement · How to Safely Manage Medication and Supplement Interactions.Read more...</p></details>

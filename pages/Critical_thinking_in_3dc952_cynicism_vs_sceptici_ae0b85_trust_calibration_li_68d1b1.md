@@ -278,7 +278,7 @@ Media literacy is often presented as a defence against misinformation, but there
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-1-dark.svg" | relative_url }}" alt="Trust calibration illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research increasingly suggests that effective media literacy is not about driving trust as low as possible. Instead, it is about improving what researchers call *truth discernment*: the ability to distinguish stronger [evidence]({{ 'evidence/' | relative_url }}) from weaker claims and more reliable sources from less reliable ones. The goal is not [blanket distrust]({{ 'blanket-distrust/' | relative_url }}). It is calibrated trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
+Research increasingly suggests that effective media literacy is not about driving trust as low as possible. Instead, it is about improving what researchers call *truth discernment*: the ability to distinguish stronger [evidence]({{ 'evidence/' | relative_url }}) from weaker claims and more reliable sources from less reliable ones. The goal is not [blanket distrust]({{ 'blanket-distrust/' | relative_url }}). It is calibrated trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
 
 Within the broader challenge of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI, this matters because misinformation thrives not only when people believe too much, but also when they stop evaluating evidence altogether.
 
@@ -288,7 +288,7 @@ One reason media literacy programmes sometimes produce confusing results is that
 
 Healthy scepticism asks questions. It examines evidence, checks sources and remains open to revision. Cynicism begins from the assumption that institutions, experts, journalists or official sources are fundamentally untrustworthy. Trust, meanwhile, is not blind acceptance. It is a judgement that a source has earned credibility on a particular issue.
 
-Recent research argues that news scepticism, news cynicism and news trust are separate constructs rather than simple opposites. People can be sceptical while still trusting reliable sources when evidence supports them. They can also be highly cynical while remaining vulnerable to misinformation that confirms their existing beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
+Recent research argues that news scepticism, news cynicism and news trust are separate constructs rather than simple opposites. People can be sceptical while still trusting reliable sources when evidence supports them. They can also be highly cynical while remaining vulnerable to misinformation that confirms their existing beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
 
 This distinction helps explain a common failure mode in public discussion. When media literacy is framed primarily as "don't trust what you see online", learners may become more suspicious without becoming better evaluators. They learn caution but not judgement.
 
@@ -307,11 +307,11 @@ It is:
 
 Many anti-misinformation campaigns are designed around warning people about manipulation, fake news, [deepfakes]({{ 'deepfakes/' | relative_url }}) and unreliable sources. These concerns are real. The problem is that repeated warnings can sometimes create unintended side effects.
 
-A growing body of research has found that some misinformation interventions reduce belief in false information but also increase scepticism towards accurate information. In other words, people become more cautious, but not necessarily more accurate in their judgements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
+A growing body of research has found that some misinformation interventions reduce belief in false information but also increase scepticism towards accurate information. In other words, people become more cautious, but not necessarily more accurate in their judgements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
 
-One 2024 study found that interventions focused solely on spotting misinformation can produce what researchers describe as "spillover" effects, making participants more doubtful of true information and more distrustful of generally reliable actors such as scientists or professional news organisations. The authors argue that media literacy efforts should help people identify trustworthy information as well as misleading information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
+One 2024 study found that interventions focused solely on spotting misinformation can produce what researchers describe as "spillover" effects, making participants more doubtful of true information and more distrustful of generally reliable actors such as scientists or professional news organisations. The authors argue that media literacy efforts should help people identify trustworthy information as well as misleading information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
 
-Other experimental work comparing traditional scepticism-focused interventions with approaches that also highlight the existence of trustworthy news sources has reached a similar conclusion. The challenge is not simply reducing acceptance of false claims. It is preserving appropriate confidence in accurate information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecpr.eu/Events/Event/PaperDetails/69449" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecpr.eu">[ECPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecpr.eu</span><span class="citation-popover-title">Media Literacy or Media Skepticism?</span><span class="citation-popover-snippet">Testing Novel Trust-...We investigate the effects of two improved news media literacy interventions on false and true news acceptance, a...</span></span></span>
+Other experimental work comparing traditional scepticism-focused interventions with approaches that also highlight the existence of trustworthy news sources has reached a similar conclusion. The challenge is not simply reducing acceptance of false claims. It is preserving appropriate confidence in accurate information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecpr.eu/Events/Event/PaperDetails/69449" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecpr.eu">[ECPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecpr.eu</span><span class="citation-popover-title">Media Literacy or Media Skepticism?</span><span class="citation-popover-snippet">Testing Novel Trust-...We investigate the effects of two improved news media literacy interventions on false and true news acceptance, a...</span></span></span>
 
 This matters because an information environment full of distrust creates its own vulnerabilities. A person who distrusts every institution may not become evidence-driven. They may instead shift trust towards influencers, rumours, anonymous accounts or communities that feel more authentic.
 
@@ -321,7 +321,7 @@ It is tempting to assume that misinformation mainly targets people who are too t
 
 Conspiracy theories frequently begin with the premise that established institutions are hiding the truth. False narratives often gain traction by encouraging audiences to dismiss journalists, scientists, regulators or [official records]({{ 'official-records/' | relative_url }}) before any evidence is examined. Once that happens, the quality of evidence becomes less important than whether a source feels independent, rebellious or emotionally satisfying.
 
-Research on misinformation consistently finds that belief formation is influenced not only by factual accuracy but also by prior attitudes, identity and motivated reasoning. People do not simply evaluate information objectively; they often judge it through the lens of what they already want to believe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Determinants of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 299 — In this scoping review, we summari...</span></span></span>
+Research on misinformation consistently finds that belief formation is influenced not only by factual accuracy but also by prior attitudes, identity and motivated reasoning. People do not simply evaluate information objectively; they often judge it through the lens of what they already want to believe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Determinants of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 299 — In this scoping review, we summari...</span></span></span>
 
 This is why cynicism can become self-defeating. If every established source is presumed dishonest, then there is little reason to compare evidence. The result is not greater independence of thought. It is a different form of dependence, often on weaker information sources.
 
@@ -349,7 +349,7 @@ Instead of teaching people to ask, "Can this source ever be trusted?", calibrate
 
 This approach treats trust as conditional and evidence-based rather than absolute.
 
-UNESCO's media and information literacy framework reflects this broader goal. It emphasises the ability to critically access, analyse, evaluate and use information rather than simply distrusting media content. The objective is informed participation in public life, not permanent suspicion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</span></span></span>
+UNESCO's media and information literacy framework reflects this broader goal. It emphasises the ability to critically access, analyse, evaluate and use information rather than simply distrusting media content. The objective is informed participation in public life, not permanent suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</span></span></span>
 
 A useful comparison is driving instruction. Teaching road safety does not mean teaching people that every road sign is wrong. It means teaching them how to recognise hazards, understand signals and make sound judgements under uncertainty. Media literacy works best when it follows the same logic.
 
@@ -362,13 +362,13 @@ For educators, policymakers and platform designers, the implication is straightf
 
 Research suggests several principles that reduce the risk of creating cynicism:
 
-* **Pair warnings with positive guidance.** Explain how to identify reliable information, not just unreliable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
+* **Pair warnings with positive guidance.** Explain how to identify reliable information, not just unreliable information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMedia literacy tips promoting reliable news improve</span><span class="citation-popover-snippet">by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</span></span></span>
 * **Show evidence hierarchies.** Teach why some sources deserve greater weight than others rather than implying all sources are equally questionable.
 * **Explain correction as a strength.** Responsible journalism, science and public administration often revise conclusions when better evidence emerges.
 * **Encourage verification habits.** Checking original documents, [source trails]({{ 'source-trail/' | relative_url }}) and corroborating evidence builds judgement rather than reflexive distrust.
 * **Focus on reasoning processes.** The goal is evaluating claims, not categorising entire institutions as trustworthy or untrustworthy.
 
-These principles are particularly important in an environment where AI systems, social media feeds and creator-driven information increasingly shape what people see. UNESCO's recent work on information integrity and media literacy similarly frames critical thinking as a tool for navigating digital environments rather than rejecting them outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCO launches issue brief on Media and Information...3 Jun 2026 — This issue brief highlights the growing role of Media and Info...</span></span></span>
+These principles are particularly important in an environment where AI systems, social media feeds and creator-driven information increasingly shape what people see. UNESCO's recent work on information integrity and media literacy similarly frames critical thinking as a tool for navigating digital environments rather than rejecting them outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCO launches issue brief on Media and Information...3 Jun 2026 — This issue brief highlights the growing role of Media and Info...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-3-dark.svg" | relative_url }}" alt="Trust calibration illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_trust_calibration_li_68d1b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -380,185 +380,185 @@ Good media literacy does not aim to produce audiences who believe everything. No
 
 That distinction matters because misinformation is only one side of the problem. The other side is losing the ability to recognise trustworthy information when it appears. A society filled with indiscriminate distrust is not necessarily more resilient than a society filled with excessive trust. Both can become vulnerable to manipulation.
 
-Critical thinking works best when trust is earned, questioned, adjusted and sometimes withdrawn according to evidence. The goal is not less trust. The goal is better trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
+Critical thinking works best when trust is earned, questioned, adjusted and sometimes withdrawn according to evidence. The goal is not less trust. The goal is better trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oAdHDK4ohXQ" title="Mike Caulfield: Verified Methodology for Fighting Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oAdHDK4ohXQ" target="_blank" rel="noopener noreferrer">Mike Caulfield: Verified Methodology for Fighting Misinformation</a></p><p class="youtube-embed-meta">Channel: Guy Kawasaki &middot; Views: 491 &middot; Uploaded: April 2024 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oAdHDK4ohXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oAdHDK4ohXQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Trust less is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Trust less is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Clarifies the difference between skepticism and cynicism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies the difference between skepticism and cynicism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches evaluation rather than blanket skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation rather than blanket skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Directly addresses calibrated trust and information quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses calibrated trust and information quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based trust calibration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based trust calibration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="trust-calibration-trust-less-is-not-enough-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,199 +764,199 @@ Critical thinking works best when trust is earned, questioned, adjusted and some
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMedia literacy tips promoting reliable news improve  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11332023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Altay · 2024 · Cited by 32 — Many other interventions against misinformation were shown to increase skepticism in true news or to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ecpr.eu  
    Title: Media Literacy or Media Skepticism?  
-   Link: <a href="https://ecpr.eu/Events/Event/PaperDetails/69449" target="_blank" rel="noopener noreferrer nofollow">https://ecpr.eu/Events/Event/PaperDetails/69449</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Novel Trust-...We investigate the effects of two improved news media literacy interventions on false and true news acceptance, a...</p></details>
+   Link:<a href="https://ecpr.eu/Events/Event/PaperDetails/69449" target="_blank" rel="noopener noreferrer nofollow">https://ecpr.eu/Events/Event/PaperDetails/69449</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Novel Trust-...We investigate the effects of two improved news media literacy interventions on false and true news acceptance, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 299 — In this scoping review, we summari...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 299 — In this scoping review, we summari...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</p></details>
+   Link:<a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unesco.org  
    Title: media and information literacy critical thinking  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy for Critical Thinking20 Apr 2023 — This has created a serious gap in critical thinking; webbed with the ch...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy for Critical Thinking20 Apr 2023 — This has created a serious gap in critical thinking; webbed with the ch...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO launches issue brief on Media and Information...3 Jun 2026 — This issue brief highlights the growing role of Media and Info...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO launches issue brief on Media and Information...3 Jun 2026 — This issue brief highlights the growing role of Media and Info...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
    Title: do you trust what you watch or read  
-   Link: <a href="https://www.unesco.org/en/articles/do-you-trust-what-you-watch-or-read" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/do-you-trust-what-you-watch-or-read</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?30 May 2022 — Media and Information Literacy offers effective strategies to tackle hate speech, fake news and misinformation that can fo...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/do-you-trust-what-you-watch-or-read" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/do-you-trust-what-you-watch-or-read</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?30 May 2022 — Media and Information Literacy offers effective strategies to tackle hate speech, fake news and misinformation that can fo...</p></details>
    Published: May 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesco.org  
    Title: The Organization  
-   Link: <a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Peace through Education, Science and...UNESCO is the United Nations organization that promotes cooperation in educatio...</p></details>
+   Link:<a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Peace through Education, Science and...UNESCO is the United Nations organization that promotes cooperation in educatio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unesco.org  
    Title: media and information literacy and digital competencies  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Apr 2025 — Media and Information Literacy (MIL) initiatives promote critical thinking and ethical AI use, combating misinformation and...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Apr 2025 — Media and Information Literacy (MIL) initiatives promote critical thinking and ethical AI use, combating misinformation and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15205436.2025.2534983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study explores the role of news skepticism in countering misinformation beliefs and skepticism&#x27;s connection to greater news...Read...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Striking the balance between fake and realby M Hameleers · 2023 · Cited by 28 — We conclude that the...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Striking the balance between fake and realby M Hameleers · 2023 · Cited by 28 — We conclude that the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568353/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11568353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Media Literacy Intervention Increases Skepticism of...by B Lyons · 2024 · Cited by 18 — Although generic media literacy intervent...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568353/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11568353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Media Literacy Intervention Increases Skepticism of...by B Lyons · 2024 · Cited by 18 — Although generic media literacy intervent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Journal of Media literacy Education, 15, 99–23.Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11968027/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11968027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>literacy interventions: meta-analytic review of 40 years...by HY Cho · 2025 · Cited by 13 — Online media literacy intervention in Indone...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11968027/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11968027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>literacy interventions: meta-analytic review of 40 years...by HY Cho · 2025 · Cited by 13 — Online media literacy intervention in Indone...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12457897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12457897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies Against Disinformation: A Study on...by CM Arribas · 2025 · Cited by 2 — Initiatives in Media and Digital Literacy in Respons...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12457897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12457897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies Against Disinformation: A Study on...by CM Arribas · 2025 · Cited by 2 — Initiatives in Media and Digital Literacy in Respons...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3377317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3377317/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy Interventions: A Meta-Analytic Review - PMCby SH Jeong · 2012 · Cited by 808 — Media literacy interventions had positive effects...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3377317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3377317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy Interventions: A Meta-Analytic Review - PMCby SH Jeong · 2012 · Cited by 808 — Media literacy interventions had positive effects...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation interventions reduce... - PMC - NIHby E Hoes · 2024 · Cited by 150 — This study reveals that current interventions agains...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation interventions reduce... - PMC - NIHby E Hoes · 2024 · Cited by 150 — This study reveals that current interventions agains...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/media" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryMay 27, 2026 — the internet, newspapers, magazines, television, etc., considered as a group...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/media" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryMay 27, 2026 — the internet, newspapers, magazines, television, etc., considered as a group...</p></details>
    Published: May 27, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/media" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — MEDIA definition: 1. the internet, newspapers, magazines, television, etc., consider...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/media" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — MEDIA definition: 1. the internet, newspapers, magazines, television, etc., consider...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15205436.2025.2534983</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining and Validating News Skepticism: Distinctions from...by GH Koo · 2025 · Cited by 1 — This study focuses primarily on skepticism...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/15205436.2025.2534983" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15205436.2025.2534983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defining and Validating News Skepticism: Distinctions from...by GH Koo · 2025 · Cited by 1 — This study focuses primarily on skepticism...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>line community...</p></details>
+   Link:<a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>line community...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: the right information and know how are critical in fighting misinformation and d  
-   Link: <a href="https://www.facebook.com/mgiep/posts/the-right-information-and-know-how-are-critical-in-fighting-misinformation-and-d/1156347013193735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mgiep/posts/the-right-information-and-know-how-are-critical-in-fighting-misinformation-and-d/1156347013193735/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unesco mgiep30 Jul 2025 — Media and information literacy empowers people to think critically about information and use of digital tools...</p></details>
+   Link:<a href="https://www.facebook.com/mgiep/posts/the-right-information-and-know-how-are-critical-in-fighting-misinformation-and-d/1156347013193735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mgiep/posts/the-right-information-and-know-how-are-critical-in-fighting-misinformation-and-d/1156347013193735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unesco mgiep30 Jul 2025 — Media and information literacy empowers people to think critically about information and use of digital tools...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/unesco-media-and-information-literacy/id1737843883" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/unesco-media-and-information-literacy/id1737843883</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy - PodcastThis podcast series is an excerpt from UNESCO&#x27;s massive open online course: &quot;Think Critically, Cl...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/unesco-media-and-information-literacy/id1737843883" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/unesco-media-and-information-literacy/id1737843883</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy - PodcastThis podcast series is an excerpt from UNESCO&#x27;s massive open online course: &quot;Think Critically, Cl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/reference/referencespapers?referenceid=3664288" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=3664288</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO (2021). Think Critically, Click Wisely! Media and...This article investigates the impact of foreign aid on Media and Information...</p></details>
+   Link:<a href="https://www.scirp.org/reference/referencespapers?referenceid=3664288" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=3664288</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO (2021). Think Critically, Click Wisely! Media and...This article investigates the impact of foreign aid on Media and Information...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information LiteracyThis radio-based podcast series, centered on developing the concepts and competencies of Media and I...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information LiteracyThis radio-based podcast series, centered on developing the concepts and competencies of Media and I...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z8VETXSJAKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8VETXSJAKo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information Literacy Youth Debate...Welcome to the UNESCO Media and Information Literacy Youth Debate Series 2024. It i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z8VETXSJAKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8VETXSJAKo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information Literacy Youth Debate...Welcome to the UNESCO Media and Information Literacy Youth Debate Series 2024. It i...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unesco.org.uk  
-   Link: <a href="https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEDIA AND INFORMATION LITERACY IN JOURNALISMThis guide, although it touches upon misinformation and disinformation and disinformation, fo...</p></details>
+   Link:<a href="https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEDIA AND INFORMATION LITERACY IN JOURNALISMThis guide, although it touches upon misinformation and disinformation and disinformation, fo...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/unesco_globalmilweek-activity-7387337051563638784-LKkW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco_globalmilweek-activity-7387337051563638784-LKkW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#globalmilweek | UNESCO | 21 commentsMedia and Information Literacy (MIL) can help people think critically about AI-generated content. Re...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/unesco_globalmilweek-activity-7387337051563638784-LKkW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco_globalmilweek-activity-7387337051563638784-LKkW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#globalmilweek | UNESCO | 21 commentsMedia and Information Literacy (MIL) can help people think critically about AI-generated content. Re...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lebanon.un.org  
-   Link: <a href="https://lebanon.un.org/en/298047-ministry-information-unesco-and-oif-launch-national-media-and-information-literacy-campaign-" target="_blank" rel="noopener noreferrer nofollow">https://lebanon.un.org/en/298047-ministry-information-unesco-and-oif-launch-national-media-and-information-literacy-campaign-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Information, UNESCO, and OIF Launch the...15 Jul 2025 — UNESCO is proud to support this national campaign, which puts Media and Infor...</p></details>
+   Link:<a href="https://lebanon.un.org/en/298047-ministry-information-unesco-and-oif-launch-national-media-and-information-literacy-campaign-" target="_blank" rel="noopener noreferrer nofollow">https://lebanon.un.org/en/298047-ministry-information-unesco-and-oif-launch-national-media-and-information-literacy-campaign-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Information, UNESCO, and OIF Launch the...15 Jul 2025 — UNESCO is proud to support this national campaign, which puts Media and Infor...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394149155_Defining_and_Validating_News_Skepticism_Distinctions_from_News_Trust_and_Cynicism_and_Links_to_News_Literacy_and_Misinformation_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394149155_Defining_and_Validating_News_Skepticism_Distinctions_from_News_Trust_and_Cynicism_and_Links_to_News_Literacy_and_Misinformation_Belief</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Defining and Validating News SkepticismJul 31, 2025 — The increasing presence of fake news and misinformation in the contemporary d...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394149155_Defining_and_Validating_News_Skepticism_Distinctions_from_News_Trust_and_Cynicism_and_Links_to_News_Literacy_and_Misinformation_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394149155_Defining_and_Validating_News_Skepticism_Distinctions_from_News_Trust_and_Cynicism_and_Links_to_News_Literacy_and_Misinformation_Belief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Defining and Validating News SkepticismJul 31, 2025 — The increasing presence of fake news and misinformation in the contemporary d...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/a038/778bfac1300f0b20f1355e7be1c3990eaf30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a038/778bfac1300f0b20f1355e7be1c3990eaf30.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationEven though media literacy interventions can increase the accurate discernment between false and real headlines, exposure t...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/a038/778bfac1300f0b20f1355e7be1c3990eaf30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a038/778bfac1300f0b20f1355e7be1c3990eaf30.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationEven though media literacy interventions can increase the accurate discernment between false and real headlines, exposure t...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: poradnik.ngo.pl  
-   Link: <a href="https://poradnik.ngo.pl/media-czyli-z-kim-wspolpracowac-co-to-sa-media" target="_blank" rel="noopener noreferrer nofollow">https://poradnik.ngo.pl/media-czyli-z-kim-wspolpracowac-co-to-sa-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ngo.plMedia, czyli z kim współpracować? Co to są media?Co to są media? Media to środki masowego przekazu (prasa, radio, telewizja, intern...</p></details>
+   Link:<a href="https://poradnik.ngo.pl/media-czyli-z-kim-wspolpracowac-co-to-sa-media" target="_blank" rel="noopener noreferrer nofollow">https://poradnik.ngo.pl/media-czyli-z-kim-wspolpracowac-co-to-sa-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ngo.plMedia, czyli z kim współpracować? Co to są media?Co to są media? Media to środki masowego przekazu (prasa, radio, telewizja, intern...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: news.ku.edu  
-   Link: <a href="https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>finds people more cynical toward news more likely to...May 11, 2026 — Wilner&#x27;s research examines media literacy, how it is developed and...</p></details>
+   Link:<a href="https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>finds people more cynical toward news more likely to...May 11, 2026 — Wilner&#x27;s research examines media literacy, how it is developed and...</p></details>
    Published: May 11, 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ukraine.un.org  
-   Link: <a href="https://ukraine.un.org/en/291548-unescos-campaigns-media-and-information-literacy-empower-millions-ukraine-think-critically" target="_blank" rel="noopener noreferrer nofollow">https://ukraine.un.org/en/291548-unescos-campaigns-media-and-information-literacy-empower-millions-ukraine-think-critically</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>un.orgUNESCO&#x27;s campaigns on media and information literacy...By fostering critical thinking and promoting MIL skills nationwide, UNESCO...</p></details>
+   Link:<a href="https://ukraine.un.org/en/291548-unescos-campaigns-media-and-information-literacy-empower-millions-ukraine-think-critically" target="_blank" rel="noopener noreferrer nofollow">https://ukraine.un.org/en/291548-unescos-campaigns-media-and-information-literacy-empower-millions-ukraine-think-critically</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>un.orgUNESCO&#x27;s campaigns on media and information literacy...By fostering critical thinking and promoting MIL skills nationwide, UNESCO...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00936502251327717" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00936502251327717</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trust in misinformation that is sometimes disseminated by mainstream media (Pickard, 2017). The insights that follow from the conceptual...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00936502251327717" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00936502251327717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trust in misinformation that is sometimes disseminated by mainstream media (Pickard, 2017). The insights that follow from the conceptual...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dc.law.utah.edu  
-   Link: <a href="https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1267&amp;context=ulr" target="_blank" rel="noopener noreferrer nofollow">https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1267&amp;context=ulr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy Beyond the National Security Frameby L Levi · 2020 · Cited by 17 — information online generally, and because the differences bet...</p></details>
+   Link:<a href="https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1267&amp;context=ulr" target="_blank" rel="noopener noreferrer nofollow">https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1267&amp;context=ulr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy Beyond the National Security Frameby L Levi · 2020 · Cited by 17 — information online generally, and because the differences bet...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: mediamarkt.pl  
-   Link: <a href="https://mediamarkt.pl/" target="_blank" rel="noopener noreferrer nofollow">https://mediamarkt.pl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media MarktOgólnopolska sieć marketów i sklep internetowy. RTV, AGD, Komputery, Foto - tysiące produktów z gwarancją najwyższej jakości...</p></details>
+   Link:<a href="https://mediamarkt.pl/" target="_blank" rel="noopener noreferrer nofollow">https://mediamarkt.pl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media MarktOgólnopolska sieć marketów i sklep internetowy. RTV, AGD, Komputery, Foto - tysiące produktów z gwarancją najwyższej jakości...</p></details>

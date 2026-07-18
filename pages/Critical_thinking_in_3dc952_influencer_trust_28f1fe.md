@@ -422,17 +422,17 @@ Online credibility is often shaped by a deceptively simple shortcut: *who* share
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-overview.webp" | relative_url }}" alt="Overview image for Influencers" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that trusting people is irrational. Human beings have always relied on social trust to navigate too much information. The risk is that identity-based trust cues can quietly replace evidence-based judgement. Studies of social media credibility show that people often use source cues, social ties, endorsement signals and prior beliefs when judging posts, sometimes more than the quality of the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</span></span></span>
+The problem is not that trusting people is irrational. Human beings have always relied on social trust to navigate too much information. The risk is that identity-based trust cues can quietly replace evidence-based judgement. Studies of social media credibility show that people often use source cues, social ties, endorsement signals and prior beliefs when judging posts, sometimes more than the quality of the evidence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</span></span></span>
 
 ## Why familiar messengers persuade
 
 Influencers persuade partly because they do not always feel like institutions. They appear in everyday spaces: kitchens, bedrooms, cars, gym mirrors, livestream chats and podcasts. Their authority may come less from formal expertise than from continuity, tone and perceived authenticity. Followers see the same person repeatedly, learn their habits, recognise their jokes and begin to treat them as a stable point of reference.
 
-This is often described through parasocial relationships: one-sided emotional connections with public figures, media personalities or influencers. The concept is not new, but social platforms intensify it because creators can respond to comments, share personal struggles, use informal language and make audiences feel addressed as insiders. Research on influencers has linked parasocial interaction and perceived credibility to stronger engagement, trust and persuasion in commercial contexts, showing how “I know this person” can become “I trust what they recommend”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn in-depth analysis of fashion and beauty influencers</span><span class="citation-popover-snippet">by X Zhou · 2024 · Cited by 17 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</span></span></span>
+This is often described through parasocial relationships: one-sided emotional connections with public figures, media personalities or influencers. The concept is not new, but social platforms intensify it because creators can respond to comments, share personal struggles, use informal language and make audiences feel addressed as insiders. Research on influencers has linked parasocial interaction and perceived credibility to stronger engagement, trust and persuasion in commercial contexts, showing how “I know this person” can become “I trust what they recommend”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn in-depth analysis of fashion and beauty influencers</span><span class="citation-popover-snippet">by X Zhou · 2024 · Cited by 17 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</span></span></span>
 
 That same mechanism can carry over from products to public claims. A creator who begins with skincare, fitness, parenting, politics, comedy or lifestyle advice may later comment on vaccines, elections, war, crime, migration, finance or AI. The audience does not encounter the claim in isolation. It arrives wrapped in an already established relationship: familiar face, familiar cadence, familiar moral stance.
 
-The Reuters Institute’s 2025 Digital News Report describes a wider shift towards an alternative media ecosystem of YouTubers, TikTokers, podcasters and online personalities, while traditional news organisations struggle with engagement and trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">dnr executive</span></span></span> Pew Research similarly found that about one in five US adults regularly get news from [news influencers]({{ 'news-influencers/' | relative_url }}), rising to well over a third among adults aged 18 to 29. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center America&#x27;s News Influencers</span><span class="citation-popover-snippet">Pew Research Center America&#x27;s News Influencers</span></span></span> These figures do not prove that influencer news is inherently bad. They do show that public knowledge is increasingly mediated by personalities whose credibility may be built through intimacy rather than editorial process.
+The Reuters Institute’s 2025 Digital News Report describes a wider shift towards an alternative media ecosystem of YouTubers, TikTokers, podcasters and online personalities, while traditional news organisations struggle with engagement and trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">dnr executive</span></span></span> Pew Research similarly found that about one in five US adults regularly get news from [news influencers]({{ 'news-influencers/' | relative_url }}), rising to well over a third among adults aged 18 to 29.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center America&#x27;s News Influencers</span><span class="citation-popover-snippet">Pew Research Center America&#x27;s News Influencers</span></span></span> These figures do not prove that influencer news is inherently bad. They do show that public knowledge is increasingly mediated by personalities whose credibility may be built through intimacy rather than editorial process.
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-1-dark.svg" | relative_url }}" alt="Influencers illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -442,7 +442,7 @@ Identity-based trust cues work because they answer social questions before factu
 
 This does not only happen in politics. It can appear in wellness communities, fandoms, parenting groups, financial advice channels, local Facebook groups and AI-focused creator circles. A person may trust a claim because it comes from a fellow patient, a small-business owner, a parent, a veteran, a teacher, a dissident, a religious figure, a local resident or a creator who shares their cultural references. [Shared identity]({{ 'shared-identity/' | relative_url }}) can provide useful context, especially when institutions have ignored or mistreated a community. But it can also make weak claims feel protected from scrutiny.
 
-Research on credibility evaluation supports this concern. In a study of health-related social media posts, adult readers’ credibility ratings were strongly affected by whether claims fitted their prior beliefs and by the source’s perceived expertise, while evidence quality mattered comparatively little. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> A separate study in *Scientific Reports* found that endorsement cues increased susceptibility to misinformation, suggesting that visible social approval can make misleading headlines feel more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</span></span></span>
+Research on credibility evaluation supports this concern. In a study of health-related social media posts, adult readers’ credibility ratings were strongly affected by whether claims fitted their prior beliefs and by the source’s perceived expertise, while evidence quality mattered comparatively little.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> A separate study in *Scientific Reports* found that endorsement cues increased susceptibility to misinformation, suggesting that visible social approval can make misleading headlines feel more reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</span></span></span>
 
 The key point is not that identity corrupts judgement. Identity is often part of how people decide whose experience deserves attention. The danger comes when identity becomes a substitute for testing the claim. “She seems genuine” is not the same as “the claim is supported”. “He has been right before” is not the same as “this post shows enough evidence”. “People like us are sharing it” is not the same as “it is true”.
 
@@ -455,9 +455,9 @@ A claim shared by one influencer may persuade. A claim repeated across a group c
 
 This is powerful because social media platforms display popularity beside content. A weak claim can arrive with strong [social proof]({{ 'social-proof/' | relative_url }}). A misleading clip can look important because thousands of people are reacting to it. A rumour can gain credibility when several creators in the same identity network repeat it in slightly different language.
 
-The American Press Institute and AP-NORC found in earlier research that who shares an article on Facebook can have a major influence on whether people trust it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://americanpressinstitute.org/trust-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanpressinstitute.org">[American Press Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanpressinstitute.org</span><span class="citation-popover-title">trust social media</span><span class="citation-popover-snippet">American Press InstituteHow Americans decide what news to trust on social media20 Mar 2017 — The study demonstrates that who shares an ar...</span></span></span> More recent experimental work on misinformation sharing has also found that social cues referencing a user’s personal network, when combined with misinformation flags, can reduce sharing of misleading COVID-19 content, which underlines how much social context affects whether people pass claims on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/37616030/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The American Press Institute and AP-NORC found in earlier research that who shares an article on Facebook can have a major influence on whether people trust it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://americanpressinstitute.org/trust-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanpressinstitute.org">[American Press Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanpressinstitute.org</span><span class="citation-popover-title">trust social media</span><span class="citation-popover-snippet">American Press InstituteHow Americans decide what news to trust on social media20 Mar 2017 — The study demonstrates that who shares an ar...</span></span></span> More recent experimental work on misinformation sharing has also found that social cues referencing a user’s personal network, when combined with misinformation flags, can reduce sharing of misleading COVID-19 content, which underlines how much social context affects whether people pass claims on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/37616030/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-Local communities show a related risk. In 2026, reporting on Social Market Foundation analysis found that misinformation was nearly three times more common in UK areas with little or no recognised local journalism, based on more than 125,000 posts across local Facebook groups, X searches and Nextdoor communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span> In those environments, a familiar neighbourhood group or local voice may become a substitute for verified local reporting. The trust cue is not celebrity; it is proximity.
+Local communities show a related risk. In 2026, reporting on Social Market Foundation analysis found that misinformation was nearly three times more common in UK areas with little or no recognised local journalism, based on more than 125,000 posts across local Facebook groups, X searches and Nextdoor communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span> In those environments, a familiar neighbourhood group or local voice may become a substitute for verified local reporting. The trust cue is not celebrity; it is proximity.
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-2-dark.svg" | relative_url }}" alt="Influencers illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,7 +467,7 @@ It is tempting to treat “influencer” as a warning label. That is too crude. 
 
 The credibility question is therefore not “Is this person an influencer?” but “What trust cues are being used, and are they matched by evidence?” A creator may be trustworthy on one topic and unreliable on another. A doctor may be credible on medicine but not geopolitics. A financial educator may be useful on budgeting but weak on public health. A journalist may be strong on documented reporting but poor when speculating outside their beat. A relatable lived-experience account may be valuable testimony without being a complete explanation of a wider pattern.
 
-UNESCO’s 2024 work on digital content creators illustrates the gap between influence and verification. Reporting on its survey found that many creators did not routinely verify information before sharing and often relied on personal experience, informal research or source popularity rather than official documents or expert sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That does not make creators uniquely careless; it shows that influencer communication often runs on different norms from journalism, academic research or official evidence review.
+UNESCO’s 2024 work on digital content creators illustrates the gap between influence and verification. Reporting on its survey found that many creators did not routinely verify information before sharing and often relied on personal experience, informal research or source popularity rather than official documents or expert sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That does not make creators uniquely careless; it shows that influencer communication often runs on different norms from journalism, academic research or official evidence review.
 
 The most useful standard is proportional trust. A creator can earn attention through authenticity, but stronger claims require stronger checking. Personal honesty does not guarantee factual accuracy. Good intentions do not prevent cherry-picking. Lived experience can reveal what institutions miss, but it cannot by itself prove a causal claim, a statistic or a broad allegation.
 
@@ -480,7 +480,7 @@ Generative AI adds a new layer to identity-based trust. It can help genuine crea
 
 This matters because identity cues are often visual and stylistic. A profile picture, accent, slogan, community language, editing style or “ordinary person” tone may make content feel authentic. AI can reproduce parts of that surface. A post can now sound like a concerned parent, a local resident, a medical insider or a small creator exposing a hidden truth without that identity being real or the evidence existing.
 
-Research on credibility in the social web has long noted that credibility is perceived rather than simply present: users judge believability through signals that may or may not correspond to reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2001.09473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> The AI era sharpens this distinction. A claim may look human, intimate and community-specific while being machine-generated, coordinated or copied across accounts.
+Research on credibility in the social web has long noted that credibility is perceived rather than simply present: users judge believability through signals that may or may not correspond to reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2001.09473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> The AI era sharpens this distinction. A claim may look human, intimate and community-specific while being machine-generated, coordinated or copied across accounts.
 
 This does not mean every polished post is suspect. It means the old cue “this feels authentic” is weaker than it used to be. Authentic style is now cheap to produce. Evidence, traceable sourcing, transparent correction and accountable expertise matter more.
 
@@ -515,194 +515,194 @@ A good rule is to treat familiar messengers as starting points, not endpoints. T
 The healthiest form of online trust is not blind loyalty to institutions or personalities. It is conditional trust: warm enough to listen, careful enough to verify, and flexible enough to change when the evidence changes.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Trust in People Replaces Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Trust in People Replaces Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains platform dynamics that shape trust and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains platform dynamics that shape trust and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Explains why trusted messengers can bypass skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why trusted messengers can bypass skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores why people misjudge trustworthiness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people misjudge trustworthiness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="influencers-when-trust-in-people-replaces-evidence-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -718,7 +718,7 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -738,7 +738,7 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -770,7 +770,7 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -822,7 +822,7 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -867,7 +867,7 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -908,212 +908,212 @@ The healthiest form of online trust is not blind loyalty to institutions or pers
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — To test whether social cues onl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+   Link:<a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn in-depth analysis of fashion and beauty influencers  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zhou · 2024 · Cited by 17 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zhou · 2024 · Cited by 17 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFancying the New Rich and Famous?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6872518/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6872518/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicating the Roles of...by C Lou · 2019 · Cited by 699 — This study proposed and tested a comprehensive conceptual model that account...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6872518/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6872518/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explicating the Roles of...by C Lou · 2019 · Cited by 699 — This study proposed and tested a comprehensive conceptual model that account...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10485706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10485706/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10485706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10485706/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2001.09473" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2001.09473</a>  
+   Link:<a href="https://arxiv.org/abs/2001.09473" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2001.09473</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/trust-misinformation-and-declining-use-social-media-news-digital-news-report-2018" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/trust-misinformation-and-declining-use-social-media-news-digital-news-report-2018</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/trust-misinformation-and-declining-use-social-media-news-digital-news-report-2018" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/trust-misinformation-and-declining-use-social-media-news-digital-news-report-2018</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: mapping news creators and influencers social and video networks  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-57560-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-57560-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-024-57560-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-57560-7</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/</a>  
+   Link:<a href="https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: americanpressinstitute.org  
    Title: trust social media  
-   Link: <a href="https://americanpressinstitute.org/trust-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://americanpressinstitute.org/trust-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Press InstituteHow Americans decide what news to trust on social media20 Mar 2017 — The study demonstrates that who shares an ar...</p></details>
+   Link:<a href="https://americanpressinstitute.org/trust-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://americanpressinstitute.org/trust-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Press InstituteHow Americans decide what news to trust on social media20 Mar 2017 — The study demonstrates that who shares an ar...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pewresearch.org  
    Title: Pew Research Center America's News Influencers  
-   Link: <a href="https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pewresearch.org  
    Title: news influencers fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37616030/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37616030/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37616030/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37616030/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9887568/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9887568/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9887568/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9887568/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pewresearch.org  
    Title: young adults and the future of news  
-   Link: <a href="https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pewresearch.org  
    Title: social media and news fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2025/02/19/no-consensus-on-who-comes-to-mind-when-americans-are-asked-to-name-a-news-influencer/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/02/19/no-consensus-on-who-comes-to-mind-when-americans-are-asked-to-name-a-news-influencer/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2025/02/19/no-consensus-on-who-comes-to-mind-when-americans-are-asked-to-name-a-news-influencer/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/02/19/no-consensus-on-who-comes-to-mind-when-americans-are-asked-to-name-a-news-influencer/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pewresearch.org  
    Title: americans experiences with social media news influencers  
-   Link: <a href="https://www.pewresearch.org/journalism/2024/11/18/americans-experiences-with-social-media-news-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/11/18/americans-experiences-with-social-media-news-influencers/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/2024/11/18/americans-experiences-with-social-media-news-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/11/18/americans-experiences-with-social-media-news-influencers/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pewresearch.org  
    Title: 1 in 5 americans now regularly get news on tiktok up sharply from 2020  
-   Link: <a href="https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/news-habits-media/news-media-trends/news-platforms-sources/digital-news-landscape-1/social-media-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/news-media-trends/news-platforms-sources/digital-news-landscape-1/social-media-news/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/news-habits-media/news-media-trends/news-platforms-sources/digital-news-landscape-1/social-media-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/news-media-trends/news-platforms-sources/digital-news-landscape-1/social-media-news/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pewresearch.org  
    Title: news platform fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lDdd6Z8q/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lDdd6Z8q/</a>  
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lDdd6Z8q/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lDdd6Z8q/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: What Is The Psychology Behind Influencer Trust In Social Media Marketing?  
-   Link: <a href="https://www.youtube.com/watch?v=kfjI-fQWaiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfjI-fQWaiE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology behind parasocial relationships influencer trust Why We Trust Influencers More Than Brands| Parasocial Relationships Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kfjI-fQWaiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfjI-fQWaiE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology behind parasocial relationships influencer trust Why We Trust Influencers More Than Brands| Parasocial Relationships Explained...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=22yoaiLYb7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=22yoaiLYb7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Trust Influencers More Than Brands| Parasocial Relationships Explained | Marketing Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=22yoaiLYb7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=22yoaiLYb7M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Trust Influencers More Than Brands| Parasocial Relationships Explained | Marketing Psychology...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PBfwY6vD7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBfwY6vD7d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Trick That Makes You Trust Influencers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PBfwY6vD7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBfwY6vD7d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Trick That Makes You Trust Influencers...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Influencer Marketing, Authenticity and Parasocial Relationships  
-   Link: <a href="https://www.youtube.com/watch?v=vlAROv-sKTY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vlAROv-sKTY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Psychology Behind Influencer Trust In Social Media Marketing?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vlAROv-sKTY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vlAROv-sKTY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Psychology Behind Influencer Trust In Social Media Marketing?...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Psychological Trick That Makes You Trust Influencers  
-   Link: <a href="https://www.youtube.com/watch?v=XVduNXq-rIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVduNXq-rIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing, Authenticity and Parasocial Relationships...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XVduNXq-rIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVduNXq-rIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing, Authenticity and Parasocial Relationships...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/14/19/12323" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/19/12323</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of the Credibility of Social Media...by H Mabkhot · 2022 · Cited by 142 — The findings indicate that a significant lin...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/14/19/12323" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/19/12323</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of the Credibility of Social Media...by H Mabkhot · 2022 · Cited by 142 — The findings indicate that a significant lin...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374779022_Original_Paper_Impact_of_Social_Reference_Cues_on_Misinformation_Sharing_on_Social_Media_Series_of_Experimental_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374779022_Original_Paper_Impact_of_Social_Reference_Cues_on_Misinformation_Sharing_on_Social_Media_Series_of_Experimental_Studies</a>  
+   Link:<a href="https://www.researchgate.net/publication/374779022_Original_Paper_Impact_of_Social_Reference_Cues_on_Misinformation_Sharing_on_Social_Media_Series_of_Experimental_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374779022_Original_Paper_Impact_of_Social_Reference_Cues_on_Misinformation_Sharing_on_Social_Media_Series_of_Experimental_Studies</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility</a>  
+   Link:<a href="https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
+   Link:<a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China</a>  
+   Link:<a href="https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China</a>  

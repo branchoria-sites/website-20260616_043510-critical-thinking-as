@@ -422,15 +422,15 @@ News feels harder to sort because it now reaches many people inside feeds that d
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c-overview.webp" | relative_url }}" alt="Overview image for Mixed Feeds" loading="eager" decoding="sync" fetchpriority="high">
-This is a historical change in the way public affairs information is packaged. Newspapers, bulletins and news websites used to make source, format and editorial responsibility more visible. Mixed social feeds weaken those signals. Research from the Reuters Institute shows that people are less likely to correctly remember which news brand produced a story when they reached it through social media or search rather than directly, which matters because [source memory]({{ 'source-memory/' | relative_url }}) is one of the basic cues people use when deciding what to trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+This is a historical change in the way public affairs information is packaged. Newspapers, bulletins and news websites used to make source, format and editorial responsibility more visible. Mixed social feeds weaken those signals. Research from the Reuters Institute shows that people are less likely to correctly remember which news brand produced a story when they reached it through social media or search rather than directly, which matters because [source memory]({{ 'source-memory/' | relative_url }}) is one of the basic cues people use when deciding what to trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 ## How feeds mix information types
 
 The social feed is not organised around journalism’s old boundaries. It is organised around attention. A post can become prominent because it is new, funny, enraging, visually striking, paid for, algorithmically recommended, shared by a friend, stitched by an influencer or attached to a breaking event. None of those signals tells the reader whether the content has been reported, checked, sponsored, advocated, satirised or fabricated.
 
-That is why mixed feeds are different from simply “getting news online”. The Reuters Institute’s 2025 Digital News Report describes a continuing fall in engagement with traditional media sources such as television, print and news websites, alongside growing dependence on social media, video platforms and online aggregators. Overall trust in news was reported as stable at 40%, but the report also highlights the rise of an alternative media ecosystem of YouTubers, podcasters, personalities and influencers competing with professional news organisations for attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odg.it">[Ordine Dei Giornalisti]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odg.it</span><span class="citation-popover-title">REUTERS Digital News Report 2025 compressed</span><span class="citation-popover-snippet">Ordine Dei GiornalistiReuters Institute Digital News Report 2025June 17, 2025 — Our findings point to a continuing fall in engagement wit...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+That is why mixed feeds are different from simply “getting news online”. The Reuters Institute’s 2025 Digital News Report describes a continuing fall in engagement with traditional media sources such as television, print and news websites, alongside growing dependence on social media, video platforms and online aggregators. Overall trust in news was reported as stable at 40%, but the report also highlights the rise of an alternative media ecosystem of YouTubers, podcasters, personalities and influencers competing with professional news organisations for attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odg.it">[Ordine Dei Giornalisti]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odg.it</span><span class="citation-popover-title">REUTERS Digital News Report 2025 compressed</span><span class="citation-popover-snippet">Ordine Dei GiornalistiReuters Institute Digital News Report 2025June 17, 2025 — Our findings point to a continuing fall in engagement wit...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
-The United States offers a clear example of the shift. Pew Research Center’s 2025 social media news fact sheet found that about a fifth or more of American adults regularly get news on Facebook, YouTube, Instagram and TikTok. Pew’s separate 2024 work showed that even where people do not say they regularly use a platform for news, large majorities still encounter news there in some form. In other words, many people meet public affairs information not because they opened a news app, but because news-like content appeared between other posts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">social media and news fact sheet</span><span class="citation-popover-snippet">Pew Research CenterSocial Media and News Fact Sheet25 Sept 2025 — Many Americans use social media for news: About a fifth or more regular...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Pew Research CenterHow Americans Get News on TikTok, X, Facebook and...12 Jun 2024 — A 2023 Pew Research Center survey found that Facebo...</span></span></span>
+The United States offers a clear example of the shift. Pew Research Center’s 2025 social media news fact sheet found that about a fifth or more of American adults regularly get news on Facebook, YouTube, Instagram and TikTok. Pew’s separate 2024 work showed that even where people do not say they regularly use a platform for news, large majorities still encounter news there in some form. In other words, many people meet public affairs information not because they opened a news app, but because news-like content appeared between other posts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">social media and news fact sheet</span><span class="citation-popover-snippet">Pew Research CenterSocial Media and News Fact Sheet25 Sept 2025 — Many Americans use social media for news: About a fifth or more regular...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Pew Research CenterHow Americans Get News on TikTok, X, Facebook and...12 Jun 2024 — A 2023 Pew Research Center survey found that Facebo...</span></span></span>
 
 This matters because intention changes judgement. A person who goes directly to a newspaper, broadcaster or official source is already in a news-checking frame. A person scrolling during a commute or lunch break is often in a mixed frame: entertainment, social belonging, identity, curiosity and distraction all compete with accuracy. The same claim may be processed differently depending on whether it appears as a headline, a friend’s repost, a creator’s monologue, a meme or a dramatic clip.
 
@@ -440,7 +440,7 @@ This matters because intention changes judgement. A person who goes directly to 
 
 Trust in news has always depended on cues. Some are explicit: bylines, mastheads, [corrections]({{ 'corrections/' | relative_url }}) policies, named experts, transparent [evidence]({{ 'evidence/' | relative_url }}), links to documents and visible dates. Others are social: reputation, familiarity, professional style and the sense that “this looks like news”. Mixed feeds weaken both sets of cues.
 
-The Reuters Institute’s study of news brand attribution found that people were far more likely to correctly attribute a story to a news brand when they accessed it directly than when they reached it through search or social media. That finding is important because a story can travel far from the context that gave it credibility. A careful investigation may be reduced to a screenshot; a partisan claim may borrow the appearance of a news headline; a post may circulate with the original source cropped away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+The Reuters Institute’s study of news brand attribution found that people were far more likely to correctly attribute a story to a news brand when they accessed it directly than when they reached it through search or social media. That finding is important because a story can travel far from the context that gave it credibility. A careful investigation may be reduced to a screenshot; a partisan claim may borrow the appearance of a news headline; a post may circulate with the original source cropped away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 Brand familiarity can also become a misleading shortcut. In a feed, the visual treatment of posts is partly standardised by the platform: the same avatar size, share button, comment field and engagement metrics surround very different kinds of content. A verified-looking account, high view count or confident delivery can feel like evidence even when it is only a sign of visibility. Conversely, strong journalism from an unfamiliar local or specialist outlet may look less trustworthy than a polished but poorly sourced creator video.
 
@@ -450,9 +450,9 @@ The result is not that people are helpless. It is that the work of sorting has m
 
 Influencers and creators are not automatically less trustworthy than journalists. Some bring expertise, lived experience, speed, clarity and access to audiences that traditional newsrooms have failed to reach. The trust problem is that creator content often blends personality, commentary, entertainment, community identity and income generation in ways that are not always visible to the viewer.
 
-Pew’s 2025 [news influencers]({{ 'news-influencers/' | relative_url }}) fact sheet found that 21% of US adults regularly get news from news influencers on social media. Among those regular consumers, 69% said they mostly get news from influencers because they happen to come across it, rather than because they are actively looking for it. That is a mixed-feed problem: people may be politically informed, persuaded or misled through accidental exposure in entertainment-led spaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">news influencers fact sheet</span><span class="citation-popover-snippet">Pew Research CenterNews Influencers Fact Sheet4 Nov 2025 — About one-in-five U.S. adults (21%) say they regularly get news from news infl...</span></span></span>
+Pew’s 2025 [news influencers]({{ 'news-influencers/' | relative_url }}) fact sheet found that 21% of US adults regularly get news from news influencers on social media. Among those regular consumers, 69% said they mostly get news from influencers because they happen to come across it, rather than because they are actively looking for it. That is a mixed-feed problem: people may be politically informed, persuaded or misled through accidental exposure in entertainment-led spaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">news influencers fact sheet</span><span class="citation-popover-snippet">Pew Research CenterNews Influencers Fact Sheet4 Nov 2025 — About one-in-five U.S. adults (21%) say they regularly get news from news infl...</span></span></span>
 
-UNESCO has raised a related concern about creator practices. Its work on media and information literacy notes that journalists now share the information ecosystem with social media influencers and digital content creators, making training and verification norms more urgent. Reporting on UNESCO’s global study of digital content creators highlighted that many creators rely on personal experience, informal online research or source popularity, and that only around half of surveyed creators clearly disclosed sponsorships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">strengthens global push media and information literacy media</span><span class="citation-popover-snippet">UNESCO Strengthens Global Push to Media and...12 May 2025 — With journalists now sharing the information ecosystem with social med...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</span></span></span>
+UNESCO has raised a related concern about creator practices. Its work on media and information literacy notes that journalists now share the information ecosystem with social media influencers and digital content creators, making training and verification norms more urgent. Reporting on UNESCO’s global study of digital content creators highlighted that many creators rely on personal experience, informal online research or source popularity, and that only around half of surveyed creators clearly disclosed sponsorships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">strengthens global push media and information literacy media</span><span class="citation-popover-snippet">UNESCO Strengthens Global Push to Media and...12 May 2025 — With journalists now sharing the information ecosystem with social med...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</span></span></span>
 
 This creates a trust puzzle for readers. A creator may be sincere but under-verified; entertaining but politically persuasive; independent but commercially sponsored; expert in one area but overconfident in another. The old question “Is this a news source?” is no longer enough. Better questions include: What is the creator’s expertise? Are they showing evidence or only reacting to it? Are they correcting errors? Are they being paid, affiliated or rewarded by engagement? Are they separating reporting from opinion?
 
@@ -463,9 +463,9 @@ This creates a trust puzzle for readers. A creator may be sincere but under-veri
 
 Mixed feeds also blur the boundary between information and promotion. Native advertising and influencer marketing are designed to fit the surrounding content rather than interrupt it. That can make advertising feel more like recommendation, commentary or personal testimony.
 
-Research on affiliate marketing disclosures found that only about one tenth of affiliate content on YouTube and Pinterest contained any disclosure, and that users often failed to understand short, non-explanatory disclosure wording. The study is older than the current AI wave, but it remains directly relevant because the basic design problem persists: when commercial content is embedded in ordinary posts, readers may not recognise the persuasion context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Research on affiliate marketing disclosures found that only about one tenth of affiliate content on YouTube and Pinterest contained any disclosure, and that users often failed to understand short, non-explanatory disclosure wording. The study is older than the current AI wave, but it remains directly relevant because the basic design problem persists: when commercial content is embedded in ordinary posts, readers may not recognise the persuasion context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-More recent research on native advertising describes a “disclosure dilemma”: ad cues may either blend into rapid-scroll environments unnoticed or stand out enough to trigger disengagement. For news trust, both outcomes matter. If the label is missed, persuasion can be mistaken for independent information. If users become broadly suspicious of everything that looks polished, legitimate journalism can also suffer from the general decline in confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+More recent research on native advertising describes a “disclosure dilemma”: ad cues may either blend into rapid-scroll environments unnoticed or stand out enough to trigger disengagement. For news trust, both outcomes matter. If the label is missed, persuasion can be mistaken for independent information. If users become broadly suspicious of everything that looks polished, legitimate journalism can also suffer from the general decline in confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The practical distinction is simple but often hidden: journalism should be judged by evidence, independence, verification and accountability; advertising should be judged as persuasion, even when it contains true claims. A sponsored climate explainer, a campaign-funded crime post or an influencer’s political product endorsement may contain facts, but the reader still needs to know who benefits from the message being believed or shared.
 
@@ -473,9 +473,9 @@ The practical distinction is simple but often hidden: journalism should be judge
 
 AI-generated text, images, audio and video add another layer to mixed-feed confusion. Synthetic content does not have to be perfect to damage trust. It only has to be plausible enough to make people hesitate, share too quickly or become cynical about real evidence.
 
-The Reuters Institute’s 2025 report notes that trusted news brands and official sources remain among the places people say they go when checking whether something online is true or false. That suggests professional and institutional sources still have a verification role, even as feeds weaken their direct relationship with audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">dnr executive</span></span></span>
+The Reuters Institute’s 2025 report notes that trusted news brands and official sources remain among the places people say they go when checking whether something online is true or false. That suggests professional and institutional sources still have a verification role, even as feeds weaken their direct relationship with audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">dnr executive</span></span></span>
 
-Technical provenance systems are one proposed response. The Coalition for Content Provenance and Authenticity describes [Content Credentials]({{ 'credentials/' | relative_url }}) as a way to help tackle the challenge of trusting media when creation and editing tools are rapidly evolving. These systems can record information about how media was created or altered, but they are not a complete solution: absence of a credential does not prove a post is fake, and presence of a credential still requires careful interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[C2PA Specification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">Open source on c2pa.org.</span></span></span>
+Technical provenance systems are one proposed response. The Coalition for Content Provenance and Authenticity describes [Content Credentials]({{ 'credentials/' | relative_url }}) as a way to help tackle the challenge of trusting media when creation and editing tools are rapidly evolving. These systems can record information about how media was created or altered, but they are not a complete solution: absence of a credential does not prove a post is fake, and presence of a credential still requires careful interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[C2PA Specification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">Open source on c2pa.org.</span></span></span>
 
 The deeper problem is social rather than purely technical. A fake image of a protest, a synthetic local-news clip or an AI voice imitating a public figure may circulate alongside jokes, real footage and partisan commentary. By the time a correction appears, the original post may already have shaped impressions. In mixed feeds, the safest habit is to slow down when a piece of media is both emotionally intense and weakly sourced, especially during breaking events.
 
@@ -507,7 +507,7 @@ This is not a call to trust only legacy media. It is a call to use different sta
 
 Local news trust is a useful test case because the cues are often thin. In many areas, local newspapers have shrunk or closed, while Facebook groups, neighbourhood apps and local influencer pages have become major spaces for community information. These spaces can spread useful warnings and mutual aid, but they can also circulate rumours faster than local institutions or journalists can correct them.
 
-Recent UK reporting on Social Market Foundation research described misinformation as more prevalent in “[news deserts]({{ 'news-deserts/' | relative_url }})”, areas with weaker local journalism. The reported analysis of more than 125,000 posts across platforms such as Facebook, X and Nextdoor found misinformation nearly three times more common in those areas, with spikes around elections and recurring false claims involving immigration and local authority messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span>
+Recent UK reporting on Social Market Foundation research described misinformation as more prevalent in “[news deserts]({{ 'news-deserts/' | relative_url }})”, areas with weaker local journalism. The reported analysis of more than 125,000 posts across platforms such as Facebook, X and Nextdoor found misinformation nearly three times more common in those areas, with spikes around elections and recurring false claims involving immigration and local authority messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span>
 
 The local setting makes mixed-feed sorting harder because trust often comes through social proximity. A post from someone who lives nearby, uses familiar place names or claims to know “what really happened” can feel more credible than a distant institution. But proximity is not the same as verification. Local rumours can be especially persuasive precisely because they feel concrete and personally relevant.
 
@@ -520,7 +520,7 @@ For readers, the key distinction is between local presence and local evidence. A
 
 The danger of mixed feeds is not only gullibility. It is also blanket distrust. When journalism, advertising, activism, entertainment and synthetic material all look similar, some readers respond by assuming that everything is manipulated. That reaction feels protective, but it can make people easier to influence by whichever source best flatters their existing beliefs.
 
-Academic work on changing news use and trust across 46 countries found a small overall decline in trust in news since 2015, but also substantial variation by country and media system. That is a reminder that trust is not a single global mood; it is shaped by institutions, habits, politics, platform use and local media conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/joc/article/75/1/1/7907139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span>
+Academic work on changing news use and trust across 46 countries found a small overall decline in trust in news since 2015, but also substantial variation by country and media system. That is a reminder that trust is not a single global mood; it is shaped by institutions, habits, politics, platform use and local media conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/joc/article/75/1/1/7907139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span>
 
 Better critical thinking means calibrated trust. A reader can trust a weather warning for immediate practical purposes, remain cautious about early claims during a violent incident, trust a named expert more within their field than outside it, and treat a viral clip as evidence needing context rather than as a full account. This is more demanding than cynicism, but it is also more useful.
 
@@ -530,194 +530,194 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c-Illustration-3-dark.svg" | relative_url }}" alt="Mixed Feeds illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why News Feels Harder to Sort. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why News Feels Harder to Sort. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand the cognitive shortcuts used when scrolling mixed feeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the cognitive shortcuts used when scrolling mixed feeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
-        </h4>
-        <p class="fr-book-author">By Chris Bail</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
+</h4>
+<p class="fr-book-author">By Chris Bail</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Not Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10097068-M.jpg" alt="Cover for This Is Not Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Peter Pomerantsev</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Not Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10097068-M.jpg" alt="Cover for This Is Not Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
+</h4>
+<p class="fr-book-author">By Peter Pomerantsev</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Sociology, New York Times reviewed, Information society, Truthfulness and falsehood, Propaganda.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Sociology, New York Times reviewed, Information society, Truthfulness and falsehood, Propaganda.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Not Propaganda</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Not Propaganda</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="mixed-feeds-why-news-feels-harder-to-sort-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,295 +923,295 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
    Title: strengthens global push media and information literacy media  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Strengthens Global Push to Media and...12 May 2025 — With journalists now sharing the information ecosystem with social med...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-global-push-media-and-information-literacy-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Strengthens Global Push to Media and...12 May 2025 — With journalists now sharing the information ecosystem with social med...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spec.c2pa.org  
-   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html</a>  
+   Link:<a href="https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/joc/article/75/1/1/7907139" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/joc/article/75/1/1/7907139</a>  
+   Link:<a href="https://academic.oup.com/joc/article/75/1/1/7907139" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/joc/article/75/1/1/7907139</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: mapping news creators and influencers social and video networks  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: how public checks information it thinks might be wrong  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: news creators influencers  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
+   Link:<a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000395766" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000395766</a>  
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000395766" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000395766</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unesco.org  
    Title: world media trends  
-   Link: <a href="https://www.unesco.org/en/world-media-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/world-media-trends</a>  
+   Link:<a href="https://www.unesco.org/en/world-media-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/world-media-trends</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pew.org  
-   Link: <a href="https://www.pew.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/</a>  
+   Link:<a href="https://www.pew.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unesco.at  
    Title: 2025 World Trends Freedom of Expression and Media Development  
-   Link: <a href="https://www.unesco.at/fileadmin/user_upload/2025_World_Trends_Freedom_of_Expression_and_Media_Development.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.at/fileadmin/user_upload/2025_World_Trends_Freedom_of_Expression_and_Media_Development.pdf</a>  
+   Link:<a href="https://www.unesco.at/fileadmin/user_upload/2025_World_Trends_Freedom_of_Expression_and_Media_Development.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.at/fileadmin/user_upload/2025_World_Trends_Freedom_of_Expression_and_Media_Development.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: c2pa.ai  
    Title: for Journalists  
-   Link: <a href="https://c2pa.ai/for-journalists" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.ai/for-journalists</a>  
+   Link:<a href="https://c2pa.ai/for-journalists" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.ai/for-journalists</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: the 2025 digital news report is here and it signals major shifts in how people  
-   Link: <a href="https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-the-2025-digital-news-report-is-here-and-it-signals-major-shifts-in-how-people-/1119966693505764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-the-2025-digital-news-report-is-here-and-it-signals-major-shifts-in-how-people-/1119966693505764/</a>  
+   Link:<a href="https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-the-2025-digital-news-report-is-here-and-it-signals-major-shifts-in-how-people-/1119966693505764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-the-2025-digital-news-report-is-here-and-it-signals-major-shifts-in-how-people-/1119966693505764/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pewresearch/posts/for-the-first-time-pew-research-center-went-deeper-into-comparing-teens-experien/1327827459213311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/posts/for-the-first-time-pew-research-center-went-deeper-into-comparing-teens-experien/1327827459213311/</a>  
+   Link:<a href="https://www.facebook.com/pewresearch/posts/for-the-first-time-pew-research-center-went-deeper-into-comparing-teens-experien/1327827459213311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/posts/for-the-first-time-pew-research-center-went-deeper-into-comparing-teens-experien/1327827459213311/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/</a>  
+   Link:<a href="https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ofcom/photos/-how-do-you-get-your-newsour-latest-research-shows-that-70-of-uk-adults-now-get-/1188018723357100/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/1935367443959635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1935367443959635/</a>  
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/1935367443959635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1935367443959635/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
    Title: DLABNUZow Gb  
-   Link: <a href="https://www.instagram.com/p/DLABNUZowGb/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLABNUZowGb/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DLABNUZowGb/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLABNUZowGb/?hl=en</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fd4tnA7osX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fd4tnA7osX4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fd4tnA7osX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fd4tnA7osX4</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How algorithms shape what you see on social media  
-   Link: <a href="http://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KWt_IL3JViY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms are breaking how we think...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KWt_IL3JViY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms are breaking how we think...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Algorithms are breaking how we think  
-   Link: <a href="http://www.youtube.com/watch?v=QEJpZjg8GuA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QEJpZjg8GuA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking the News: Trust in the Age of Digital Media...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QEJpZjg8GuA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QEJpZjg8GuA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking the News: Trust in the Age of Digital Media...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Breaking the News: Trust in the Age of Digital Media  
-   Link: <a href="http://www.youtube.com/watch?v=2S6MgdPFCYI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2S6MgdPFCYI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The danger of social media algorithms | Isaiah Burks | TEDxGeorgiaCollege...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2S6MgdPFCYI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2S6MgdPFCYI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The danger of social media algorithms | Isaiah Burks | TEDxGeorgiaCollege...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The danger of social media algorithms | Isaiah Burks | TEDx Georgia College  
-   Link: <a href="http://www.youtube.com/watch?v=HxGHJLt4O0E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HxGHJLt4O0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing the hive mind -- How social media manipulation affects everything: Tim Weninger at TEDxUND...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HxGHJLt4O0E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HxGHJLt4O0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changing the hive mind -- How social media manipulation affects everything: Tim Weninger at TEDxUND...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IVsz5xFd3qU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IVsz5xFd3qU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Institute Digital News Report social media feeds news trust India&#x27;s Changing News Consumption Habits - 2023 Digital News Report E...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IVsz5xFd3qU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IVsz5xFd3qU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Institute Digital News Report social media feeds news trust India&#x27;s Changing News Consumption Habits - 2023 Digital News Report E...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: odg.it  
    Title: REUTERS Digital News Report 2025 compressed  
-   Link: <a href="https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ordine Dei GiornalistiReuters Institute Digital News Report 2025June 17, 2025 — Our findings point to a continuing fall in engagement wit...</p></details>
+   Link:<a href="https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odg.it/wp-content/uploads/2025/06/REUTERS-Digital_News-Report_2025_compressed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ordine Dei GiornalistiReuters Institute Digital News Report 2025June 17, 2025 — Our findings point to a continuing fall in engagement wit...</p></details>
    Published: June 17, 2025  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pewresearch.org  
    Title: social media and news fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterSocial Media and News Fact Sheet25 Sept 2025 — Many Americans use social media for news: About a fifth or more regular...</p></details>
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterSocial Media and News Fact Sheet25 Sept 2025 — Many Americans use social media for news: About a fifth or more regular...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pewresearch.org  
    Title: Read more  
-   Link: <a href="https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterHow Americans Get News on TikTok, X, Facebook and...12 Jun 2024 — A 2023 Pew Research Center survey found that Facebo...</p></details>
+   Link:<a href="https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterHow Americans Get News on TikTok, X, Facebook and...12 Jun 2024 — A 2023 Pew Research Center survey found that Facebo...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pewresearch.org  
    Title: news influencers fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterNews Influencers Fact Sheet4 Nov 2025 — About one-in-five U.S. adults (21%) say they regularly get news from news infl...</p></details>
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/news-influencers-fact-sheet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterNews Influencers Fact Sheet4 Nov 2025 — About one-in-five U.S. adults (21%) say they regularly get news from news infl...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pewresearch.org  
    Title: americans social media use  
-   Link: <a href="https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/youtube/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/youtube/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/youtube/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/youtube/</a>  
 
-40. <a id="endnote-40"></a>
-   Source: pewresearch.org  
-   Title: social media  
-   Link: <a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/</a>  
-
-41. <a id="endnote-41"></a>
+40.<a id="endnote-40"></a>
    Source: pewresearch.org  
    Title: social media  
-   Link: <a href="https://www.pewresearch.org/internet/fact-sheet/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/fact-sheet/social-media/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/</a>  
 
-42. <a id="endnote-42"></a>
+41.<a id="endnote-41"></a>
+   Source: pewresearch.org  
+   Title: social media  
+   Link:<a href="https://www.pewresearch.org/internet/fact-sheet/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/fact-sheet/social-media/</a>  
+
+42.<a id="endnote-42"></a>
    Source: pewresearch.org  
    Title: teens social media and technology 2024  
-   Link: <a href="https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pewresearch.org  
    Title: young adults and the future of news  
-   Link: <a href="https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2025/12/03/young-adults-and-the-future-of-news/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
+   Link:<a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/instagram/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/instagram/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/tiktok/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/tiktok/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/pew-research-center_teens-social-media-and-technology-2024pdf-activity-7273382762210856963-mKMU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/pew-research-center_teens-social-media-and-technology-2024pdf-activity-7273382762210856963-mKMU</a>  
+   Link:<a href="https://www.linkedin.com/posts/pew-research-center_teens-social-media-and-technology-2024pdf-activity-7273382762210856963-mKMU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/pew-research-center_teens-social-media-and-technology-2024pdf-activity-7273382762210856963-mKMU</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: GOV.UK  
    Title: www.gov.uk News Consumption Survey  
-   Link: <a href="https://www.gov.uk/[government/statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/[government/statistics</a>  
+   Link:<a href="https://www.gov.uk/[government/statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/[government/statistics</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: GOV.UK  
    Title: value of bbc news  
-   Link: <a href="https://www.gov.uk/government/publications/value-of-bbc-news/value-of-bbc-news" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/value-of-bbc-news/value-of-bbc-news</a>  
+   Link:<a href="https://www.gov.uk/government/publications/value-of-bbc-news/value-of-bbc-news" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/value-of-bbc-news/value-of-bbc-news</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/statistics/announcements/news-consumption-survey-teens-data--3" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/announcements/news-consumption-survey-teens-data--3</a>  
+   Link:<a href="https://www.gov.uk/government/statistics/announcements/news-consumption-survey-teens-data--3" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/announcements/news-consumption-survey-teens-data--3</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394587897_Blending_in_or_standing_out_The_disclosure_dilemma_of_ad_cues_of_social_media_native_advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394587897_Blending_in_or_standing_out_The_disclosure_dilemma_of_ad_cues_of_social_media_native_advertising</a>  
+   Link:<a href="https://www.researchgate.net/publication/394587897_Blending_in_or_standing_out_The_disclosure_dilemma_of_ad_cues_of_social_media_native_advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394587897_Blending_in_or_standing_out_The_disclosure_dilemma_of_ad_cues_of_social_media_native_advertising</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news</a>  
+   Link:<a href="https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: dco.org  
-   Link: <a href="https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf</a>  
+   Link:<a href="https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news</a>  
+   Link:<a href="https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed</a>  
+   Link:<a href="https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/charleshemann_americans-social-media-use-2025-activity-7401672506061086720-NhRl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charleshemann_americans-social-media-use-2025-activity-7401672506061086720-NhRl</a>  
+   Link:<a href="https://www.linkedin.com/posts/charleshemann_americans-social-media-use-2025-activity-7401672506061086720-NhRl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charleshemann_americans-social-media-use-2025-activity-7401672506061086720-NhRl</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: informs.org  
-   Link: <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Researchers-Find-that-Native-Advertising-Builds-Credibility-Not-Perceived-as-Tricking-Visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Researchers-Find-that-Native-Advertising-Builds-Credibility-Not-Perceived-as-Tricking-Visitors</a>  
+   Link:<a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Researchers-Find-that-Native-Advertising-Builds-Credibility-Not-Perceived-as-Tricking-Visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Researchers-Find-that-Native-Advertising-Builds-Credibility-Not-Perceived-as-Tricking-Visitors</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: cidob.org  
-   Link: <a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
+   Link:<a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: retresco.de  
-   Link: <a href="https://www.retresco.de/en/encyclopedia/trusted-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.retresco.de/en/encyclopedia/trusted-ai/</a>  
+   Link:<a href="https://www.retresco.de/en/encyclopedia/trusted-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.retresco.de/en/encyclopedia/trusted-ai/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/ofcom_our-research-shows-that-70-of-uk-adults-activity-7360623905922818049-MXgL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ofcom_our-research-shows-that-70-of-uk-adults-activity-7360623905922818049-MXgL</a>  
+   Link:<a href="https://www.linkedin.com/posts/ofcom_our-research-shows-that-70-of-uk-adults-activity-7360623905922818049-MXgL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ofcom_our-research-shows-that-70-of-uk-adults-activity-7360623905922818049-MXgL</a>  

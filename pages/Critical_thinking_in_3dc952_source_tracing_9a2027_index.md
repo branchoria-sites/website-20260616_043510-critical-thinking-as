@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-source/
 description: Focused pages that expand on Source Tracing.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_source_tracing_9a2027
 parent_title: Source Tracing
@@ -16,7 +16,7 @@ parent_permalink: /source-tracing/
 
 # Explore Topics in Source Tracing
 
-The following pages expand on the main **[Source Tracing]({{ '/source-tracing/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Source Tracing]({{ '/source-tracing/' | relative_url }})** page and cover its key branches in.
 
 - [News checks]({{ '/news-checks/' | relative_url }})
 - [Citation checks]({{ '/citation-checks/' | relative_url }})

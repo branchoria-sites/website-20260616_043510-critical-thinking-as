@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-synthetic/
 description: Focused pages that expand on Synthetic Images.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_synthetic_images_fee95d
 parent_title: Synthetic Images
@@ -16,7 +16,7 @@ parent_permalink: /synthetic-images/
 
 # Explore Topics in Synthetic Images
 
-The following pages expand on the main **[Synthetic Images]({{ '/synthetic-images/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Synthetic Images]({{ '/synthetic-images/' | relative_url }})** page and cover its key branches in.
 
 - [Source Chain]({{ '/source-chain/' | relative_url }})
 - [Pentagon Fake]({{ '/pentagon-fake/' | relative_url }})

@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content
 
 ## Introduction
 
-Content Credentials are often presented as a way to restore trust in digital media, especially as deepfake audio and video become harder to distinguish from authentic recordings. The core idea is simple: attach cryptographically signed provenance information to a file so viewers can see where it came from and what happened to it along the way. Supporters describe them as a kind of “nutrition label” for media, recording creation and editing history in a verifiable format. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentauthenticity.org">[Content Authenticity Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentauthenticity.org</span><span class="citation-popover-snippet">Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</span></span></span>
+Content Credentials are often presented as a way to restore trust in digital media, especially as deepfake audio and video become harder to distinguish from authentic recordings. The core idea is simple: attach cryptographically signed provenance information to a file so viewers can see where it came from and what happened to it along the way. Supporters describe them as a kind of “nutrition label” for media, recording creation and editing history in a verifiable format.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentauthenticity.org">[Content Authenticity Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentauthenticity.org</span><span class="citation-popover-snippet">Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-1-dark.svg" | relative_url }}" alt="Credentials illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ However, provenance labels answer a narrower question than many people assume. T
 
 ## What a media credential can certify
 
-Most Content Credentials systems are built around standards developed by the Coalition for Content Provenance and Authenticity (C2PA). These standards allow software, cameras and AI tools to attach signed metadata describing how a file was created or modified. If the signatures remain intact, viewers can verify that the provenance record has not been altered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA+2C2PA Specification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">C2PA &#124; Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</span></span></span>
+Most Content Credentials systems are built around standards developed by the Coalition for Content Provenance and Authenticity (C2PA). These standards allow software, cameras and AI tools to attach signed metadata describing how a file was created or modified. If the signatures remain intact, viewers can verify that the provenance record has not been altered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA+2C2PA Specification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">C2PA &#124; Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</span></span></span>
 
 A valid credential may be able to show:
 
@@ -299,11 +299,11 @@ A valid credential may be able to show:
 * Whether editing occurred and, in some cases, which tools were used.
 * Whether AI generation or AI-assisted editing was declared by participating systems.
 * The sequence of documented changes recorded within the provenance chain.
-* That the recorded provenance information has not been modified since signing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</span></span></span>
+* That the recorded provenance information has not been modified since signing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</span></span></span>
 
 </div>
 
-For deepfake investigations, this information can be valuable. If a video arrives with a trustworthy provenance history showing it was captured by a known camera and edited through documented software workflows, confidence in the file's origin increases. Likewise, if an image carries credentials indicating it was generated by an AI system, that can provide an important clue about how it was produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google gen ai content transparency c2pa</span><span class="citation-popover-snippet">How Google and the C2PA are increasing transparency for...17 Sept 2024 — The latest C2PA provenance technology aims to help people bette...</span></span></span>
+For deepfake investigations, this information can be valuable. If a video arrives with a trustworthy provenance history showing it was captured by a known camera and edited through documented software workflows, confidence in the file's origin increases. Likewise, if an image carries credentials indicating it was generated by an AI system, that can provide an important clue about how it was produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google gen ai content transparency c2pa</span><span class="citation-popover-snippet">How Google and the C2PA are increasing transparency for...17 Sept 2024 — The latest C2PA provenance technology aims to help people bette...</span></span></span>
 
 The key point is that Content Credentials are strongest when answering questions about a file's documented history. They are much weaker when asked to certify the truth of events depicted in that file.
 
@@ -314,11 +314,11 @@ The key point is that Content Credentials are strongest when answering questions
 
 One of the biggest practical limitations is that provenance information often disappears before most people ever see the content.
 
-Many online platforms routinely reprocess uploaded files. Metadata may be stripped during uploads, downloads, format conversions or editing. A screenshot, screen recording or re-exported copy can separate media from its original provenance record. The C2PA specification itself recognises that assets can become separated from their associated manifests, and industry documentation openly notes that screenshots, metadata removal and re-encoding can break the chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[C2PA Specification+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">C2PA SpecificationContent Credentials: C2PA Technical SpecificationEXAMPLE: An asset can become separated from its C2PA Manifest due to...</span></span></span>
+Many online platforms routinely reprocess uploaded files. Metadata may be stripped during uploads, downloads, format conversions or editing. A screenshot, screen recording or re-exported copy can separate media from its original provenance record. The C2PA specification itself recognises that assets can become separated from their associated manifests, and industry documentation openly notes that screenshots, metadata removal and re-encoding can break the chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[C2PA Specification+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">C2PA SpecificationContent Credentials: C2PA Technical SpecificationEXAMPLE: An asset can become separated from its C2PA Manifest due to...</span></span></span>
 
-This creates a familiar social-media scenario. A journalist may publish an authenticated video with intact credentials. Someone then downloads it, crops it, screenshots it or reposts it through a platform that removes metadata. Millions of users encounter the reposted version rather than the original. The credential system worked correctly at the source, but the [evidence]({{ 'evidence/' | relative_url }}) never reached most viewers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://glyndewis.com/blog/content-credentials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glyndewis.com">[Glyn Dewis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glyndewis.com</span><span class="citation-popover-title">content credentials</span><span class="citation-popover-snippet">Glyn DewisContent Credentials: The Future of Proving Your Photos...27 Feb 2026 — Many social platforms still strip embedded metadata fro...</span></span></span>
+This creates a familiar social-media scenario. A journalist may publish an authenticated video with intact credentials. Someone then downloads it, crops it, screenshots it or reposts it through a platform that removes metadata. Millions of users encounter the reposted version rather than the original. The credential system worked correctly at the source, but the [evidence]({{ 'evidence/' | relative_url }}) never reached most viewers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://glyndewis.com/blog/content-credentials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glyndewis.com">[Glyn Dewis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glyndewis.com</span><span class="citation-popover-title">content credentials</span><span class="citation-popover-snippet">Glyn DewisContent Credentials: The Future of Proving Your Photos...27 Feb 2026 — Many social platforms still strip embedded metadata fro...</span></span></span>
 
-The problem is significant enough that researchers and industry groups have begun developing supplementary approaches such as watermarking and fingerprint-based recovery systems designed to reconnect media with provenance information after metadata loss. Even these efforts acknowledge that ordinary sharing workflows remain a major challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensource.contentauthenticity.org/docs/getting-started/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensource.contentauthenticity.org">[opensource.contentauthenticity.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensource.contentauthenticity.org</span><span class="citation-popover-snippet">et through a lookup process using either a watermarked ID or a perceptual content-...Read more...</span></span></span>
+The problem is significant enough that researchers and industry groups have begun developing supplementary approaches such as watermarking and fingerprint-based recovery systems designed to reconnect media with provenance information after metadata loss. Even these efforts acknowledge that ordinary sharing workflows remain a major challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensource.contentauthenticity.org/docs/getting-started/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensource.contentauthenticity.org">[opensource.contentauthenticity.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensource.contentauthenticity.org</span><span class="citation-popover-snippet">et through a lookup process using either a watermarked ID or a perceptual content-...Read more...</span></span></span>
 
 For credibility checks, this means that the absence of a credential should not automatically be interpreted as proof of deception. The provenance data may simply have been lost somewhere in the sharing chain. Conversely, a missing credential does not prove authenticity either. It merely leaves an important question unanswered.
 
@@ -328,7 +328,7 @@ For credibility checks, this means that the absence of a credential should not a
 
 A common misunderstanding is that authenticated provenance equals truthful content. The two are related but fundamentally different.
 
-A credential can show that a particular file originated from a particular source and followed a documented editing path. It cannot independently verify whether the recorded event was interpreted correctly, described accurately or shared honestly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</span></span></span>
+A credential can show that a particular file originated from a particular source and followed a documented editing path. It cannot independently verify whether the recorded event was interpreted correctly, described accurately or shared honestly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</span></span></span>
 
 Consider several scenarios:
 
@@ -353,9 +353,9 @@ This distinction matters because misinformation often succeeds through context m
 
 Content Credentials also depend on trust relationships. A credential may verify that a specific organisation, device or service signed the provenance record, but viewers still need reasons to trust that signer.
 
-If a source records incorrect information, fails to disclose relevant edits or signs misleading metadata, the cryptographic protections preserve those claims rather than correcting them. The signature proves that the metadata has not changed since signing; it does not automatically prove that the metadata was accurate in the first place. Critics and researchers have repeatedly noted this distinction when evaluating provenance systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Content_Authenticity_Initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Content Authenticity Initiative</span><span class="citation-popover-snippet">Content Authenticity Initiative</span></span></span>
+If a source records incorrect information, fails to disclose relevant edits or signs misleading metadata, the cryptographic protections preserve those claims rather than correcting them. The signature proves that the metadata has not changed since signing; it does not automatically prove that the metadata was accurate in the first place. Critics and researchers have repeatedly noted this distinction when evaluating provenance systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Content_Authenticity_Initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Content Authenticity Initiative</span><span class="citation-popover-snippet">Content Authenticity Initiative</span></span></span>
 
-Recent academic analyses have also argued that provenance systems remain immature for some high-stakes applications, warning that policymakers and users should avoid treating provenance records as complete solutions to authenticity problems. While researchers generally view provenance as a promising tool, they emphasise that it should be combined with broader verification practices rather than treated as a definitive verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Recent academic analyses have also argued that provenance systems remain immature for some high-stakes applications, warning that policymakers and users should avoid treating provenance records as complete solutions to authenticity problems. While researchers generally view provenance as a promising tool, they emphasise that it should be combined with broader verification practices rather than treated as a definitive verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/As9FdO9-IO4" title="Can You Tell if its Human or AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=As9FdO9-IO4" target="_blank" rel="noopener noreferrer">Can You Tell if its Human or AI</a></p><p class="youtube-embed-meta">Channel: Hewie Poplock &middot; Views: 155 &middot; Uploaded: August 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=As9FdO9-IO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=As9FdO9-IO4">Open on YouTube</a></p></div></div></div>
@@ -389,200 +389,200 @@ But additional questions still matter:
 
 </div>
 
-Content Credentials improve transparency about media history, which is a genuine advance in digital trust infrastructure. Yet they do not solve the broader problem of truthfulness. In the context of deepfake audio and video credibility checks, the most accurate way to think about provenance labels is as evidence about a file's journey—not proof that every claim attached to that file is correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentauthenticity.org">[Content Authenticity Initiative+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentauthenticity.org</span><span class="citation-popover-snippet">Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</span></span></span>
+Content Credentials improve transparency about media history, which is a genuine advance in digital trust infrastructure. Yet they do not solve the broader problem of truthfulness. In the context of deepfake audio and video credibility checks, the most accurate way to think about provenance labels is as evidence about a file's journey—not proof that every claim attached to that file is correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentauthenticity.org">[Content Authenticity Initiative+2C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentauthenticity.org</span><span class="citation-popover-snippet">Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-3-dark.svg" | relative_url }}" alt="Credentials illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_content_credentials_8c9841-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Provenance Labels Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Provenance Labels Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages evaluating provenance alongside claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluating provenance alongside claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explains systems that establish credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains systems that establish credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iwCmLHjAaP0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Information">The Information</a>
-        </h4>
-        <p class="fr-book-author">By James Gleick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iwCmLHjAaP0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Information">The Information</a>
+</h4>
+<p class="fr-book-author">By James Gleick</p>
         
-        <p class="fr-book-desc">Provides context on information integrity and transmission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on information integrity and transmission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Information+by+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Information</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Information</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="credentials-what-provenance-labels-really-prove-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ Content Credentials improve transparency about media history, which is a genuine
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ Content Credentials improve transparency about media history, which is a genuine
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ Content Credentials improve transparency about media history, which is a genuine
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ Content Credentials improve transparency about media history, which is a genuine
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ Content Credentials improve transparency about media history, which is a genuine
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,159 +788,159 @@ Content Credentials improve transparency about media history, which is a genuine
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: contentauthenticity.org  
-   Link: <a href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/how-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</p></details>
+   Link:<a href="https://contentauthenticity.org/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeHow it worksContent Credentials are the verifiable metadata that the CAI&#x27;s tools help implementers generat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: c2pa.org  
-   Link: <a href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</p></details>
+   Link:<a href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQsContent Credentials provide a cryptographically secure way to capture and express content provenance. They can include informatio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: c2pa.org  
-   Link: <a href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA | Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</p></details>
+   Link:<a href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA | Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: spec.c2pa.org  
-   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA SpecificationContent Credentials: C2PA Technical SpecificationEXAMPLE: An asset can become separated from its C2PA Manifest due to...</p></details>
+   Link:<a href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA SpecificationContent Credentials: C2PA Technical SpecificationEXAMPLE: An asset can become separated from its C2PA Manifest due to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spec.c2pa.org  
-   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/security/Security_Considerations.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/security/Security_Considerations.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA SpecificationC2PA Security ConsiderationsValidation of content claim signatures is critical to the C2PA security model. Validation c...</p></details>
+   Link:<a href="https://spec.c2pa.org/specifications/specifications/2.4/security/Security_Considerations.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/security/Security_Considerations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA SpecificationC2PA Security ConsiderationsValidation of content claim signatures is critical to the C2PA security model. Validation c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: c2pa.wiki  
-   Link: <a href="https://c2pa.wiki/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Provenance &amp; Authenticity Standard2 Dec 2025 — C2PA (Coalition for Content Provenance and Authenticity) is an open standard...</p></details>
+   Link:<a href="https://c2pa.wiki/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Provenance &amp; Authenticity Standard2 Dec 2025 — C2PA (Coalition for Content Provenance and Authenticity) is an open standard...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blog.google  
    Title: google gen ai content transparency c2pa  
-   Link: <a href="https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Google and the C2PA are increasing transparency for...17 Sept 2024 — The latest C2PA provenance technology aims to help people bette...</p></details>
+   Link:<a href="https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-gen-ai-content-transparency-c2pa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Google and the C2PA are increasing transparency for...17 Sept 2024 — The latest C2PA provenance technology aims to help people bette...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: c2pa.wiki  
    Title: Frequently Asked Questions (FAQ)  
-   Link: <a href="https://c2pa.wiki/getting-started/faq/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/getting-started/faq/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dec 2025 — Can C2PA be removed?” Short answer: Yes, C2PA can be removed by stripping metadata, taking screenshots, or re-encoding...</p></details>
+   Link:<a href="https://c2pa.wiki/getting-started/faq/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/getting-started/faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dec 2025 — Can C2PA be removed?” Short answer: Yes, C2PA can be removed by stripping metadata, taking screenshots, or re-encoding...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: opensource.contentauthenticity.org  
-   Link: <a href="https://opensource.contentauthenticity.org/docs/getting-started/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://opensource.contentauthenticity.org/docs/getting-started/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>et through a lookup process using either a watermarked ID or a perceptual content-...Read more...</p></details>
+   Link:<a href="https://opensource.contentauthenticity.org/docs/getting-started/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://opensource.contentauthenticity.org/docs/getting-started/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et through a lookup process using either a watermarked ID or a perceptual content-...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: contentauthenticity.org  
    Title: three pillars of provenance  
-   Link: <a href="https://contentauthenticity.org/blog/three-pillars-of-provenance" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/blog/three-pillars-of-provenance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeThree pillars of provenance that make up durable...22 Jan 2026 — Durable Content Credentials are the solu...</p></details>
+   Link:<a href="https://contentauthenticity.org/blog/three-pillars-of-provenance" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/blog/three-pillars-of-provenance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeThree pillars of provenance that make up durable...22 Jan 2026 — Durable Content Credentials are the solu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Content Authenticity Initiative  
-   Link: <a href="https://en.wikipedia.org/wiki/Content_Authenticity_Initiative" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Content_Authenticity_Initiative</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Content_Authenticity_Initiative" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Content_Authenticity_Initiative</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: truescreen.io  
    Title: A notary certifies that a document was signed by a person,  
-   Link: <a href="https://truescreen.io/articles/c2pa-standard-history-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/c2pa-standard-history-limitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceC2PA Standard: History, Promises and Structural LimitationsC2PA covers an asset&#x27;s edit history but has str...</p></details>
+   Link:<a href="https://truescreen.io/articles/c2pa-standard-history-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/c2pa-standard-history-limitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceC2PA Standard: History, Promises and Structural LimitationsC2PA covers an asset&#x27;s edit history but has str...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
+   Link:<a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.12336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12336</a>  
+   Link:<a href="https://arxiv.org/abs/2405.12336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12336</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: verify.contentauthenticity.org  
-   Link: <a href="https://verify.contentauthenticity.org/" target="_blank" rel="noopener noreferrer nofollow">https://verify.contentauthenticity.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content CredentialsIntroducing the new standard for content authentication. Content Credentials provide deeper transparency into how cont...</p></details>
+   Link:<a href="https://verify.contentauthenticity.org/" target="_blank" rel="noopener noreferrer nofollow">https://verify.contentauthenticity.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content CredentialsIntroducing the new standard for content authentication. Content Credentials provide deeper transparency into how cont...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: contentauthenticity.org  
    Title: durable content credentials  
-   Link: <a href="https://contentauthenticity.org/blog/durable-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/blog/durable-content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2024 — The promise of Content Credentials is that they can combine secure metadata, undetectable watermarks, and content fingerprin...</p></details>
+   Link:<a href="https://contentauthenticity.org/blog/durable-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/blog/durable-content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2024 — The promise of Content Credentials is that they can combine secure metadata, undetectable watermarks, and content fingerprin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: glyndewis.com  
    Title: content credentials  
-   Link: <a href="https://glyndewis.com/blog/content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://glyndewis.com/blog/content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glyn DewisContent Credentials: The Future of Proving Your Photos...27 Feb 2026 — Many social platforms still strip embedded metadata fro...</p></details>
+   Link:<a href="https://glyndewis.com/blog/content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://glyndewis.com/blog/content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glyn DewisContent Credentials: The Future of Proving Your Photos...27 Feb 2026 — Many social platforms still strip embedded metadata fro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: contentcredentials.org  
-   Link: <a href="https://contentcredentials.org/" target="_blank" rel="noopener noreferrer nofollow">https://contentcredentials.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This visual representation previews an interactive component...</p></details>
+   Link:<a href="https://contentcredentials.org/" target="_blank" rel="noopener noreferrer nofollow">https://contentcredentials.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This visual representation previews an interactive component...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/help/linkedin/answer/a6282984" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/help/linkedin/answer/a6282984</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content credentials | LinkedIn HelpWhat is C2PA? The Coalition for Content Provenance and Authenticity (C2PA) is a standards body that ai...</p></details>
+   Link:<a href="https://www.linkedin.com/help/linkedin/answer/a6282984" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/help/linkedin/answer/a6282984</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content credentials | LinkedIn HelpWhat is C2PA? The Coalition for Content Provenance and Authenticity (C2PA) is a standards body that ai...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: envisioning.com  
-   Link: <a href="https://www.envisioning.com/research/prism/c2pa-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/prism/c2pa-content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA / Content Credentials | PrismContent Provenance Chains (C2PA). Cryptographic metadata standard that tracks the origin and editing hi...</p></details>
+   Link:<a href="https://www.envisioning.com/research/prism/c2pa-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/prism/c2pa-content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA / Content Credentials | PrismContent Provenance Chains (C2PA). Cryptographic metadata standard that tracks the origin and editing hi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: diyphotography.net  
    Title: content credentials c2pa for photographers should you turn it on or skip it  
-   Link: <a href="https://www.diyphotography.net/content-credentials-c2pa-for-photographers-should-you-turn-it-on-or-skip-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.diyphotography.net/content-credentials-c2pa-for-photographers-should-you-turn-it-on-or-skip-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA Content Credentials: Should Photographers Turn It...Feb 26, 2026 — Learn what C2PA Content Credentials do, which cameras support it...</p></details>
+   Link:<a href="https://www.diyphotography.net/content-credentials-c2pa-for-photographers-should-you-turn-it-on-or-skip-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.diyphotography.net/content-credentials-c2pa-for-photographers-should-you-turn-it-on-or-skip-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA Content Credentials: Should Photographers Turn It...Feb 26, 2026 — Learn what C2PA Content Credentials do, which cameras support it...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wMnVHeXPb6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMnVHeXPb6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is C2PA? C2PA and Digital AuthenticityEver wondered if the photo you were looking at was manipulated or photoshopped? C2PA, or The C...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wMnVHeXPb6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMnVHeXPb6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is C2PA? C2PA and Digital AuthenticityEver wondered if the photo you were looking at was manipulated or photoshopped? C2PA, or The C...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aimetadatacleaner.com  
    Title: Can Content Credentials Be Removed, Faked, or Stripped? Removed — yes  
-   Link: <a href="https://aimetadatacleaner.com/content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://aimetadatacleaner.com/content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free C2PA Checker &amp; Content Credentials Verifier OnlineHowever, many platforms still strip metadata during upload, which removes credentials...</p></details>
+   Link:<a href="https://aimetadatacleaner.com/content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://aimetadatacleaner.com/content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free C2PA Checker &amp; Content Credentials Verifier OnlineHowever, many platforms still strip metadata during upload, which removes credentials...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thetraceabilityhub.com  
    Title: digital provenance why content authentication matters in 2026  
-   Link: <a href="https://thetraceabilityhub.com/digital-provenance-why-content-authentication-matters-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://thetraceabilityhub.com/digital-provenance-why-content-authentication-matters-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Provenance &amp; Content Authentication: Trust in AI...10 Feb 2026 — The digital version creates a detailed content history footprin...</p></details>
+   Link:<a href="https://thetraceabilityhub.com/digital-provenance-why-content-authentication-matters-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://thetraceabilityhub.com/digital-provenance-why-content-authentication-matters-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Provenance &amp; Content Authentication: Trust in AI...10 Feb 2026 — The digital version creates a detailed content history footprin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: deepidv.com  
    Title: c2pa content provenance digital watermarks fight deepfakes  
-   Link: <a href="https://www.deepidv.com/media/articles/c2pa-content-provenance-digital-watermarks-fight-deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://www.deepidv.com/media/articles/c2pa-content-provenance-digital-watermarks-fight-deepfakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA Content Provenance: How Digital Watermarks Fight...3 Apr 2026 — The Coalition for Content Provenance and Authenticity has created a...</p></details>
+   Link:<a href="https://www.deepidv.com/media/articles/c2pa-content-provenance-digital-watermarks-fight-deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://www.deepidv.com/media/articles/c2pa-content-provenance-digital-watermarks-fight-deepfakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA Content Provenance: How Digital Watermarks Fight...3 Apr 2026 — The Coalition for Content Provenance and Authenticity has created a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: digimarc.com  
    Title: how digital watermarks strengthen c2pa content credentials  
-   Link: <a href="https://www.digimarc.com/blog/how-digital-watermarks-strengthen-c2pa-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://www.digimarc.com/blog/how-digital-watermarks-strengthen-c2pa-content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Credentials popup displaying provenance information... This means that the metadata can easily be stripped from a digital asset...</p></details>
+   Link:<a href="https://www.digimarc.com/blog/how-digital-watermarks-strengthen-c2pa-content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://www.digimarc.com/blog/how-digital-watermarks-strengthen-c2pa-content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Credentials popup displaying provenance information... This means that the metadata can easily be stripped from a digital asset...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40sevrusik/the-death-of-the-screenshot-why-c2pa-fails-against-ai-generated-evidence-a7ac31a6e987" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sevrusik/the-death-of-the-screenshot-why-c2pa-fails-against-ai-generated-evidence-a7ac31a6e987</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>moment of creation, establishing a verifiable chain of custody...Read more...</p></details>
+   Link:<a href="https://medium.com/%40sevrusik/the-death-of-the-screenshot-why-c2pa-fails-against-ai-generated-evidence-a7ac31a6e987" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sevrusik/the-death-of-the-screenshot-why-c2pa-fails-against-ai-generated-evidence-a7ac31a6e987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>moment of creation, establishing a verifiable chain of custody...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ssl.com  
-   Link: <a href="https://www.ssl.com/products/content-authenticity/content-credentials/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssl.com/products/content-authenticity/content-credentials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>document that prove its provenance: who created it...Read more...</p></details>
+   Link:<a href="https://www.ssl.com/products/content-authenticity/content-credentials/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssl.com/products/content-authenticity/content-credentials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>document that prove its provenance: who created it...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.defense.gov  
    Title: CSI CONTENT CREDENTIALS  
-   Link: <a href="https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStrengthening Multimedia Integrity in the Generative AI Era16 Jan 2025 — Another challenge related to Content Credential...</p></details>
+   Link:<a href="https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStrengthening Multimedia Integrity in the Generative AI Era16 Jan 2025 — Another challenge related to Content Credential...</p></details>

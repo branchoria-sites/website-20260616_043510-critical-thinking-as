@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounde
 
 ## Introduction
 
-Grounded AI systems promise a simple improvement over ordinary chatbots: instead of relying mainly on what the model learned during training, they retrieve documents and generate answers based on those sources. This approach, often called retrieval-augmented generation (RAG), can reduce [hallucinations]({{ 'hallucinations/' | relative_url }}) and make answers more transparent by showing citations. Yet grounding is not the same as proof. A chatbot can retrieve the right document and still misunderstand it, overstate its conclusions, ignore limitations, or connect facts in ways the source never intended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Google Cloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
+Grounded AI systems promise a simple improvement over ordinary chatbots: instead of relying mainly on what the model learned during training, they retrieve documents and generate answers based on those sources. This approach, often called retrieval-augmented generation (RAG), can reduce [hallucinations]({{ 'hallucinations/' | relative_url }}) and make answers more transparent by showing citations. Yet grounding is not the same as proof. A chatbot can retrieve the right document and still misunderstand it, overstate its conclusions, ignore limitations, or connect facts in ways the source never intended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Google Cloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounded_chatbot_lim_ca6e54-Illustration-1-dark.svg" | relative_url }}" alt="Grounded AI illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounded_chatbot_lim_ca6e54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_grounded_chatbot_lim_ca6e54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ For people using chatbots as search engines or tutors, this distinction matters.
 
 ## What Retrieval Improves
 
-Grounded systems were developed to address a genuine weakness of large language models: they can generate plausible-sounding information that is entirely invented. By retrieving relevant documents at the moment a question is asked, the system can draw on newer and more specific information than was available during training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Pinecone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
+Grounded systems were developed to address a genuine weakness of large language models: they can generate plausible-sounding information that is entirely invented. By retrieving relevant documents at the moment a question is asked, the system can draw on newer and more specific information than was available during training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Pinecone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
 
 In practice, retrieval improves several things:
 
@@ -298,7 +298,7 @@ In practice, retrieval improves several things:
 * It reduces reliance on outdated training data.
 * It allows answers to reference specific documents.
 * It gives users a path to verification through citations.
-* It often improves factual accuracy compared with purely generative responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NVIDIA Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
+* It often improves factual accuracy compared with purely generative responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NVIDIA Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
 
 </div>
 
@@ -308,7 +308,7 @@ This is a significant advance. A grounded chatbot is generally easier to audit t
 
 ### The system retrieves the wrong evidence
 
-A grounded answer is only as good as the documents it retrieves. If the retrieval system selects irrelevant, outdated, incomplete, or low-quality material, the model may faithfully produce an answer based on poor evidence. Researchers studying retrieval-based systems identify retrieval quality as one of the central sources of error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7390/13/5/856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ve3.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Hallucination Mitigation for Retrieval-Augmented Large...by W Zhang · 2025 · Cited by 143 — Retrieval-augmented LLMs are prone to ge...</span></span></span>
+A grounded answer is only as good as the documents it retrieves. If the retrieval system selects irrelevant, outdated, incomplete, or low-quality material, the model may faithfully produce an answer based on poor evidence. Researchers studying retrieval-based systems identify retrieval quality as one of the central sources of error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7390/13/5/856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ve3.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Hallucination Mitigation for Retrieval-Augmented Large...by W Zhang · 2025 · Cited by 143 — Retrieval-augmented LLMs are prone to ge...</span></span></span>
 
 This creates a subtle problem. Unlike a classic hallucination, the answer may appear well supported because it genuinely comes from a retrieved document. The mistake lies in the document selection process rather than in pure invention.
 
@@ -316,7 +316,7 @@ This creates a subtle problem. Unlike a classic hallucination, the answer may ap
 
 Even when retrieval succeeds, the model must still interpret the text. Language models are pattern-recognition systems, not human readers. They can misunderstand qualifiers, exceptions, statistical uncertainty, or nuanced arguments.
 
-For example, a study might conclude that evidence is mixed or preliminary. A chatbot summarising the study may transform that cautious conclusion into a stronger claim. The source is real, but the interpretation becomes distorted. Research on grounded systems notes that providing external context does not guarantee that the model will apply that context correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/16/6/3013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">By conditioning the...Read more...</span></span></span>
+For example, a study might conclude that evidence is mixed or preliminary. A chatbot summarising the study may transform that cautious conclusion into a stronger claim. The source is real, but the interpretation becomes distorted. Research on grounded systems notes that providing external context does not guarantee that the model will apply that context correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/16/6/3013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">By conditioning the...Read more...</span></span></span>
 
 This is one reason experts distinguish between being source-based and being source-faithful. A response can be based on a source without accurately representing it.
 
@@ -327,7 +327,7 @@ This is one reason experts distinguish between being source-based and being sour
 
 Human authors often include limitations, uncertainty statements, or conditions under which a finding applies. Chatbots tend to compress information into concise answers, and this compression can remove crucial context.
 
-A medical article may discuss benefits alongside risks. A policy report may describe several competing interpretations. A research paper may emphasise that findings apply only to a particular population. When the chatbot condenses these materials, the caveats are often the first details to disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Retrieval-augmented systems can be dangerous medical communicators</span><span class="citation-popover-snippet">Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span>
+A medical article may discuss benefits alongside risks. A policy report may describe several competing interpretations. A research paper may emphasise that findings apply only to a particular population. When the chatbot condenses these materials, the caveats are often the first details to disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Retrieval-augmented systems can be dangerous medical communicators</span><span class="citation-popover-snippet">Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span>
 
 The result is an answer that sounds clearer and more decisive than the underlying evidence actually is.
 
@@ -337,13 +337,13 @@ Grounded systems frequently retrieve several documents at once. The model then c
 
 This can be helpful when sources genuinely complement one another. However, it can also create artificial certainty. Facts from different documents may be merged without preserving their original context. Contradictions between sources may disappear. Minority viewpoints may be ignored entirely.
 
-Researchers have proposed specialised systems that compare evidence across multiple sources precisely because ordinary retrieval systems can struggle to manage conflicting information reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">MEGA-RAG: a retrieval-augmented generation framework with...by S Xu · 2025 · Cited by 36 — We propose a retrieval-augmented generatio...</span></span></span>
+Researchers have proposed specialised systems that compare evidence across multiple sources precisely because ordinary retrieval systems can struggle to manage conflicting information reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">MEGA-RAG: a retrieval-augmented generation framework with...by S Xu · 2025 · Cited by 36 — We propose a retrieval-augmented generatio...</span></span></span>
 
 ### Citations can be present but misleading
 
 One of the most common assumptions is that a citation proves an answer is correct. In reality, citations themselves can be wrong.
 
-A major 2025 Tow Center study tested several AI search systems and found widespread citation problems when identifying news articles. Across 1,600 tests, the systems failed to retrieve correct information more than 60% of the time. Some linked to incorrect pages, cited the wrong articles, or supplied incomplete attribution while presenting answers confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
+A major 2025 Tow Center study tested several AI search systems and found widespread citation problems when identifying news articles. Across 1,600 tests, the systems failed to retrieve correct information more than 60% of the time. Some linked to incorrect pages, cited the wrong articles, or supplied incomplete attribution while presenting answers confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
 
 This finding highlights an important lesson: a citation should be treated as an invitation to verify a claim, not as proof that verification has already happened.
 
@@ -362,7 +362,7 @@ Yet educational risks arise when the chatbot:
 * Presents disputed interpretations as settled facts.
 * Omits limitations discussed in the source.
 * Selectively highlights evidence supporting one conclusion.
-* Confidently paraphrases a document incorrectly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Retrieval-augmented systems can be dangerous medical communicators</span><span class="citation-popover-snippet">Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span>
+* Confidently paraphrases a document incorrectly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Retrieval-augmented systems can be dangerous medical communicators</span><span class="citation-popover-snippet">Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span>
 
 </div>
 
@@ -431,199 +431,199 @@ When the stakes are high, the safest habit is still to inspect the source itself
 
 ## The Critical-Thinking Takeaway
 
-Grounded AI is a meaningful improvement over ungrounded text generation. Retrieval systems often reduce hallucinations, provide citations, and make answers easier to verify. However, grounding does not eliminate error. The chatbot can retrieve the wrong document, misinterpret the right document, omit important caveats, blend sources incorrectly, or attach citations that do not fully support its claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Columbia Journalism Review+3PMC+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
+Grounded AI is a meaningful improvement over ungrounded text generation. Retrieval systems often reduce hallucinations, provide citations, and make answers easier to verify. However, grounding does not eliminate error. The chatbot can retrieve the wrong document, misinterpret the right document, omit important caveats, blend sources incorrectly, or attach citations that do not fully support its claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Columbia Journalism Review+3PMC+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This is achieved by including new knowledge...Read more...</span></span></span>
 
 For critical thinkers, the key insight is simple: evidence shown by a chatbot is not the same thing as evidence evaluated. A grounded answer should be treated as a starting point for verification, not as the final verdict.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Grounded AI Still Be Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Grounded AI Still Be Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows why citations alone are insufficient.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why citations alone are insufficient.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
+</h4>
+<p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Discusses checking AI outputs against sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses checking AI outputs against sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Encourages revising conclusions when evidence changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages revising conclusions when evidence changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="grounded-ai-can-grounded-ai-still-be-wrong-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,168 +829,168 @@ For critical thinkers, the key insight is simple: evidence shown by a chatbot is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is achieved by including new knowledge...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is achieved by including new knowledge...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cloud.google.com  
-   Link: <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/use-cases/retrieval-augmented-generation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google CloudWhat is Retrieval-Augmented Generation (RAG)?Providing “facts” to the LLM as part of the input prompt can mitigate “gen AI ha...</p></details>
+   Link:<a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/use-cases/retrieval-augmented-generation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google CloudWhat is Retrieval-Augmented Generation (RAG)?Providing “facts” to the LLM as part of the input prompt can mitigate “gen AI ha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pinecone.io  
    Title: retrieval augmented generation  
-   Link: <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinecone.io/learn/retrieval-augmented-generation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Generation (RAG)12 Jun 2025 — Retrieval-augmented generation, or RAG, is a technique that uses authoritative, externa...</p></details>
+   Link:<a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinecone.io/learn/retrieval-augmented-generation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Generation (RAG)12 Jun 2025 — Retrieval-augmented generation, or RAG, is a technique that uses authoritative, externa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blogs.nvidia.com  
-   Link: <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NVIDIA BlogWhat Is Retrieval-Augmented Generation aka RAG31 Jan 2025 — Retrieval-augmented generation gives models sources they can cite...</p></details>
+   Link:<a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NVIDIA BlogWhat Is Retrieval-Augmented Generation aka RAG31 Jan 2025 — Retrieval-augmented generation gives models sources they can cite...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7390/13/5/856" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/13/5/856</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucination Mitigation for Retrieval-Augmented Large...by W Zhang · 2025 · Cited by 143 — Retrieval-augmented LLMs are prone to ge...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7390/13/5/856" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/13/5/856</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucination Mitigation for Retrieval-Augmented Large...by W Zhang · 2025 · Cited by 143 — Retrieval-augmented LLMs are prone to ge...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ve3.global  
-   Link: <a href="https://ve3.global/blog/how-retrieval-augmented-generation-removes-hallucination-risk-in-regulated-summaries" target="_blank" rel="noopener noreferrer nofollow">https://ve3.global/blog/how-retrieval-augmented-generation-removes-hallucination-risk-in-regulated-summaries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Retrieval-Augmented Generation Removes...4 days ago — First, retrieval quality: if the system pulls the wrong passages, the summary...</p></details>
+   Link:<a href="https://ve3.global/blog/how-retrieval-augmented-generation-removes-hallucination-risk-in-regulated-summaries" target="_blank" rel="noopener noreferrer nofollow">https://ve3.global/blog/how-retrieval-augmented-generation-removes-hallucination-risk-in-regulated-summaries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Retrieval-Augmented Generation Removes...4 days ago — First, retrieval quality: if the system pulls the wrong passages, the summary...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/16/6/3013" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/16/6/3013</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By conditioning the...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/16/6/3013" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/16/6/3013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By conditioning the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Retrieval-augmented systems can be dangerous medical communicators  
-   Link: <a href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14898</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.14898" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14898</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-augmented systems can be dangerous medical communicatorsFebruary 18, 2025...</p></details>
    Published: February 18, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Retrieval-Augmented Generation with Estimation of Source Reliability  
-   Link: <a href="https://arxiv.org/abs/2410.22954" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.22954</a>  
+   Link:<a href="https://arxiv.org/abs/2410.22954" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.22954</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalism.columbia.edu  
    Title: tow ai report 2025  
-   Link: <a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism SchoolTow Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tes...</p></details>
+   Link:<a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism SchoolTow Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.18910v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.18910v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Key Retrieval-Augmented...25 Jul 2025 — Moreover, requiring the model to cite sources during generation inherentl...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.18910v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.18910v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Key Retrieval-Augmented...25 Jul 2025 — Moreover, requiring the model to cite sources during generation inherentl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.04480v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.04480v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Attribution in Retrieval-Augmented Generation6 Jul 2025 — This paper investigates the feasibility and effectiveness of adapting Sh...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.04480v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.04480v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source Attribution in Retrieval-Augmented Generation6 Jul 2025 — This paper investigates the feasibility and effectiveness of adapting Sh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.22785v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.22785v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Commercial AI Chatbots as News Intermediaries21 May 2026 — Gemini 3 Pro ranked last in citation rate (84.7%) yet third in accu...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.22785v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.22785v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Commercial AI Chatbots as News Intermediaries21 May 2026 — Gemini 3 Pro ranked last in citation rate (84.7%) yet third in accu...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-2688/6/9/226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-2688/6/9/226</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Generation (RAG) in Healthcareby F Neha · 2025 · Cited by 79 — Domain-specific RAG, by contrast, restricts retrieval...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-2688/6/9/226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-2688/6/9/226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Generation (RAG) in Healthcareby F Neha · 2025 · Cited by 79 — Domain-specific RAG, by contrast, restricts retrieval...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ve3.global  
    Title: a complete guide on retrieval augmented generation rag  
-   Link: <a href="https://ve3.global/blog/a-complete-guide-on-retrieval-augmented-generation-rag" target="_blank" rel="noopener noreferrer nofollow">https://ve3.global/blog/a-complete-guide-on-retrieval-augmented-generation-rag</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A complete guide on Retrieval-Augmented Generation (RAG)9 Jun 2025 — Retrieval-Augmented Generation (RAG) is a hybrid technique used in N...</p></details>
+   Link:<a href="https://ve3.global/blog/a-complete-guide-on-retrieval-augmented-generation-rag" target="_blank" rel="noopener noreferrer nofollow">https://ve3.global/blog/a-complete-guide-on-retrieval-augmented-generation-rag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A complete guide on Retrieval-Augmented Generation (RAG)9 Jun 2025 — Retrieval-Augmented Generation (RAG) is a hybrid technique used in N...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEGA-RAG: a retrieval-augmented generation framework with...by S Xu · 2025 · Cited by 36 — We propose a retrieval-augmented generatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12540348/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEGA-RAG: a retrieval-augmented generation framework with...by S Xu · 2025 · Cited by 36 — We propose a retrieval-augmented generatio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</p></details>
+   Link:<a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cjr.org  
    Title: we compared eight ai search engines theyre all bad at citing news  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The Tow Center for Digital Journalism conducted tests on eight gen...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The Tow Center for Digital Journalism conducted tests on eight gen...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kairntech.com  
    Title: Retrieval-Augmented Generation  
-   Link: <a href="https://kairntech.com/blog/articles/retrieval-augmented-generation-rag-the-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://kairntech.com/blog/articles/retrieval-augmented-generation-rag-the-complete-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAG Paper Guide for...4 Apr 2025 — Explore this retrieval augmented generation RAG paper: a complete guide to its principles, benefits...</p></details>
+   Link:<a href="https://kairntech.com/blog/articles/retrieval-augmented-generation-rag-the-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://kairntech.com/blog/articles/retrieval-augmented-generation-rag-the-complete-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAG Paper Guide for...4 Apr 2025 — Explore this retrieval augmented generation RAG paper: a complete guide to its principles, benefits...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: topquadrant.com  
-   Link: <a href="https://www.topquadrant.com/resources/blog-retrieval-augmented-generation-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.topquadrant.com/resources/blog-retrieval-augmented-generation-explained/</a>  
+   Link:<a href="https://www.topquadrant.com/resources/blog-retrieval-augmented-generation-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.topquadrant.com/resources/blog-retrieval-augmented-generation-explained/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
    Title: Retrieval-Augmented Generation (RAG)  
-   Link: <a href="https://medium.com/%40tunamuna29/retrieval-augmented-generation-rag-build-a-knowledge-aware-assistant-98977334b540" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tunamuna29/retrieval-augmented-generation-rag-build-a-knowledge-aware-assistant-98977334b540</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Rakesh ThakurPost-filter the generator output: only accept answers that contain tokens from retrieved passages or include citations. B...</p></details>
+   Link:<a href="https://medium.com/%40tunamuna29/retrieval-augmented-generation-rag-build-a-knowledge-aware-assistant-98977334b540" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tunamuna29/retrieval-augmented-generation-rag-build-a-knowledge-aware-assistant-98977334b540</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Rakesh ThakurPost-filter the generator output: only accept answers that contain tokens from retrieved passages or include citations. B...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/akhilmakol_genai-rag-llm-activity-7414993220000194560-hnE9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/akhilmakol_genai-rag-llm-activity-7414993220000194560-hnE9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAG reduces hallucinations in LLMs with grounded answersRAG shines when grounding an LLM in external, verifiable sources. ⠀ Do you need c...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/akhilmakol_genai-rag-llm-activity-7414993220000194560-hnE9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/akhilmakol_genai-rag-llm-activity-7414993220000194560-hnE9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAG reduces hallucinations in LLMs with grounded answersRAG shines when grounding an LLM in external, verifiable sources. ⠀ Do you need c...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: alwyns2508.medium.com  
-   Link: <a href="https://alwyns2508.medium.com/retrieval-augmented-generation-rag-in-production-what-actually-breaks-and-how-to-fix-it-5f76c94c0591" target="_blank" rel="noopener noreferrer nofollow">https://alwyns2508.medium.com/retrieval-augmented-generation-rag-in-production-what-actually-breaks-and-how-to-fix-it-5f76c94c0591</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comRetrieval-Augmented Generation(RAG) in Production - AlwynIt is a distributed data system with an LLM at the end.Most failures a...</p></details>
+   Link:<a href="https://alwyns2508.medium.com/retrieval-augmented-generation-rag-in-production-what-actually-breaks-and-how-to-fix-it-5f76c94c0591" target="_blank" rel="noopener noreferrer nofollow">https://alwyns2508.medium.com/retrieval-augmented-generation-rag-in-production-what-actually-breaks-and-how-to-fix-it-5f76c94c0591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comRetrieval-Augmented Generation(RAG) in Production - AlwynIt is a distributed data system with an LLM at the end.Most failures a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399075968_Mitigating_Hallucinations_in_Large_Language_Models_via_Retrieval-Augmented_Generation_RAG" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399075968_Mitigating_Hallucinations_in_Large_Language_Models_via_Retrieval-Augmented_Generation_RAG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating Hallucinations in Large Language Models via...28 Dec 2025 — This research paper examines the mitigation of hallucinations in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399075968_Mitigating_Hallucinations_in_Large_Language_Models_via_Retrieval-Augmented_Generation_RAG" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399075968_Mitigating_Hallucinations_in_Large_Language_Models_via_Retrieval-Augmented_Generation_RAG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating Hallucinations in Large Language Models via...28 Dec 2025 — This research paper examines the mitigation of hallucinations in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: brandinginasia.com  
-   Link: <a href="https://www.brandinginasia.com/where-did-you-get-that-study-highlights-ai-search-struggles-with-citation-accuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandinginasia.com/where-did-you-get-that-study-highlights-ai-search-struggles-with-citation-accuracy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Highlights AI Search Struggles With Citation Accuracy18 Mar 2025 — A new study from Columbia Journalism Review&#x27;s Tow Center for Dig...</p></details>
+   Link:<a href="https://www.brandinginasia.com/where-did-you-get-that-study-highlights-ai-search-struggles-with-citation-accuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandinginasia.com/where-did-you-get-that-study-highlights-ai-search-struggles-with-citation-accuracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Highlights AI Search Struggles With Citation Accuracy18 Mar 2025 — A new study from Columbia Journalism Review&#x27;s Tow Center for Dig...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/cto.platform/posts/2016154118830620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cto.platform/posts/2016154118830620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The output can include citations or references to sources. Users...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/cto.platform/posts/2016154118830620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cto.platform/posts/2016154118830620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The output can include citations or references to sources. Users...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40fahey_james/retrieval-augmented-generation-building-grounded-ai-for-enterprise-knowledge-6bc46277fee5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40fahey_james/retrieval-augmented-generation-building-grounded-ai-for-enterprise-knowledge-6bc46277fee5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval‑Augmented Generation: Building Grounded AI for...Grounding the generation in external sources reduces hallucinations...</p></details>
+   Link:<a href="https://medium.com/%40fahey_james/retrieval-augmented-generation-building-grounded-ai-for-enterprise-knowledge-6bc46277fee5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40fahey_james/retrieval-augmented-generation-building-grounded-ai-for-enterprise-knowledge-6bc46277fee5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval‑Augmented Generation: Building Grounded AI for...Grounding the generation in external sources reduces hallucinations...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sonishsivarajkumar.medium.com  
-   Link: <a href="https://sonishsivarajkumar.medium.com/grounded-but-misguided-mitigating-hallucinations-in-clinical-llms-and-rag-systems-using-electronic-af0bf936d304" target="_blank" rel="noopener noreferrer nofollow">https://sonishsivarajkumar.medium.com/grounded-but-misguided-mitigating-hallucinations-in-clinical-llms-and-rag-systems-using-electronic-af0bf936d304</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>but Misguided: Mitigating Hallucinations in Clinical...Leveraging Retrieval-Augmented Generation (RAG) for Factual Grounding...</p></details>
+   Link:<a href="https://sonishsivarajkumar.medium.com/grounded-but-misguided-mitigating-hallucinations-in-clinical-llms-and-rag-systems-using-electronic-af0bf936d304" target="_blank" rel="noopener noreferrer nofollow">https://sonishsivarajkumar.medium.com/grounded-but-misguided-mitigating-hallucinations-in-clinical-llms-and-rag-systems-using-electronic-af0bf936d304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>but Misguided: Mitigating Hallucinations in Clinical...Leveraging Retrieval-Augmented Generation (RAG) for Factual Grounding...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: bloomfire.com  
-   Link: <a href="https://bloomfire.com/resources/what-is-rag/" target="_blank" rel="noopener noreferrer nofollow">https://bloomfire.com/resources/what-is-rag/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with every response including source attribution and citations...Read more...</p></details>
+   Link:<a href="https://bloomfire.com/resources/what-is-rag/" target="_blank" rel="noopener noreferrer nofollow">https://bloomfire.com/resources/what-is-rag/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with every response including source attribution and citations...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: getzep.com  
    Title: Reducing LLM Hallucinations: A Developer's Guide  
-   Link: <a href="https://www.getzep.com/ai-agents/reducing-llm-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.getzep.com/ai-agents/reducing-llm-hallucinations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zep10 Apr 2025 — This guide explains why hallucinations occur and provides strategies to mitigate them, aiming to help developers build m...</p></details>
+   Link:<a href="https://www.getzep.com/ai-agents/reducing-llm-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.getzep.com/ai-agents/reducing-llm-hallucinations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zep10 Apr 2025 — This guide explains why hallucinations occur and provides strategies to mitigate them, aiming to help developers build m...</p></details>

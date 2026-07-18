@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_outrage
 
 ## Introduction
 
-Outrage often makes false claims feel shareable because it changes the question people ask. Instead of asking, “Is this true?”, readers are nudged towards asking, “Whose side am I on?” In social media environments, outrage functions as a powerful social signal. It communicates condemnation, loyalty, solidarity or moral commitment, and those signals can be rewarded with attention, likes and shares even before anyone has checked the underlying facts. Research increasingly suggests that misinformation spreads effectively not because false claims are always convincing on their merits, but because outrage gives people a reason to react first and verify later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
+Outrage often makes false claims feel shareable because it changes the question people ask. Instead of asking, “Is this true?”, readers are nudged towards asking, “Whose side am I on?” In social media environments, outrage functions as a powerful social signal. It communicates condemnation, loyalty, solidarity or moral commitment, and those signals can be rewarded with attention, likes and shares even before anyone has checked the underlying facts. Research increasingly suggests that misinformation spreads effectively not because false claims are always convincing on their merits, but because outrage gives people a reason to react first and verify later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_outrage_shareability_0bdc66-Illustration-1-dark.svg" | relative_url }}" alt="Outrage illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_outrage_shareability_0bdc66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_outrage_shareability_0bdc66-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,11 +290,11 @@ This mechanism matters in the age of social media and AI because emotionally cha
 
 Outrage is not simply a strong emotion. It is an emotion with a target. An outraged post usually identifies a villain, a victim and a moral judgement. That structure gives readers a ready-made story and a clear emotional role.
 
-When people encounter such content, attention is often directed towards the alleged wrongdoing rather than the reliability of the claim itself. Researchers studying misinformation have found that false or misleading content frequently generates more moral outrage than trustworthy information, and that higher levels of outrage are associated with greater willingness to share. Importantly, this relationship appears across different platforms and types of misinformation rather than being limited to a single topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science+2Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
+When people encounter such content, attention is often directed towards the alleged wrongdoing rather than the reliability of the claim itself. Researchers studying misinformation have found that false or misleading content frequently generates more moral outrage than trustworthy information, and that higher levels of outrage are associated with greater willingness to share. Importantly, this relationship appears across different platforms and types of misinformation rather than being limited to a single topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science+2Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
 
 This helps explain why obviously incomplete stories can spread widely. A screenshot without context, a cropped video or an unverified accusation may trigger a strong reaction because readers focus on the apparent moral violation. Once anger is activated, questions that would normally arise—Who recorded this? What happened before this clip? Has the claim been verified?—can become less salient.
 
-The result is not necessarily deliberate gullibility. Research on misinformation sharing suggests that many users care about accuracy but often fail to prioritise it at the moment of sharing. Simple prompts that redirect attention towards accuracy can significantly improve the quality of what people choose to share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</span></span></span>
+The result is not necessarily deliberate gullibility. Research on misinformation sharing suggests that many users care about accuracy but often fail to prioritise it at the moment of sharing. Simple prompts that redirect attention towards accuracy can significantly improve the quality of what people choose to share.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jYwlVT4WPK0" title="&#x27;Angertainers&#x27; are dividing society: Author Ed Coper explains why we fall for &#x27;rage bait&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jYwlVT4WPK0" target="_blank" rel="noopener noreferrer">&#x27;Angertainers&#x27; are dividing society: Author Ed Coper explains why we fall for &#x27;rage bait&#x27;</a></p><p class="youtube-embed-meta">Channel: The Sydney Morning Herald and The Age &middot; Views: 617 &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jYwlVT4WPK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jYwlVT4WPK0">Open on YouTube</a></p></div></div></div>
@@ -303,11 +303,11 @@ The result is not necessarily deliberate gullibility. Research on misinformation
 
 One reason outrage is so effective is that sharing serves social purposes beyond distributing information.
 
-In many online communities, reposting an outraged message can signal that a person stands with a group, opposes an enemy or recognises a perceived injustice. Whether the claim is completely accurate may become less important than demonstrating allegiance. Researchers have argued that outrage is highly engaging precisely because it can achieve social and communicative goals without requiring careful verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online...</span></span></span>
+In many online communities, reposting an outraged message can signal that a person stands with a group, opposes an enemy or recognises a perceived injustice. Whether the claim is completely accurate may become less important than demonstrating allegiance. Researchers have argued that outrage is highly engaging precisely because it can achieve social and communicative goals without requiring careful verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online...</span></span></span>
 
-This dynamic is especially visible in political and identity-based discussions. Research published in PNAS found that posts attacking political out-groups attracted substantially more engagement than posts celebrating one's own side. Expressions of anger, condemnation and hostility were powerful drivers of sharing behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — This research is consistent with prior resea...</span></span></span>
+This dynamic is especially visible in political and identity-based discussions. Research published in PNAS found that posts attacking political out-groups attracted substantially more engagement than posts celebrating one's own side. Expressions of anger, condemnation and hostility were powerful drivers of sharing behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — This research is consistent with prior resea...</span></span></span>
 
-The [social rewards]({{ 'social-rewards/' | relative_url }}) matter. Studies of online moral outrage suggest that users learn from platform feedback. When expressions of outrage receive likes, shares and positive reactions, people become more likely to produce similar content in the future. Over time, outrage can become a learned strategy for gaining visibility and approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">likes and shares teach people express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAug 13, 2021 — Social media platforms like Twitter amplify expres...</span></span></span>
+The [social rewards]({{ 'social-rewards/' | relative_url }}) matter. Studies of online moral outrage suggest that users learn from platform feedback. When expressions of outrage receive likes, shares and positive reactions, people become more likely to produce similar content in the future. Over time, outrage can become a learned strategy for gaining visibility and approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">likes and shares teach people express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAug 13, 2021 — Social media platforms like Twitter amplify expres...</span></span></span>
 
 This creates a dangerous shortcut. A false claim that flatters a group's beliefs or condemns a disliked opponent may be shared because it performs a social function. The act of sharing communicates identity, regardless of whether the claim survives scrutiny.
 
@@ -320,7 +320,7 @@ False claims possess a structural advantage in outrage-driven environments: they
 
 A misleading story can exaggerate numbers, simplify motives, invent villains or remove inconvenient context. These features often make a narrative more emotionally satisfying than a complicated but accurate account. If the goal is to provoke anger, a claim does not need to be fair; it only needs to feel morally clear.
 
-Researchers studying misinformation and outrage argue that outrage is attractive to misinformation producers because outrage itself is engaging. Content that generates anger and disgust can achieve wide circulation even when its factual basis is weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
+Researchers studying misinformation and outrage argue that outrage is attractive to misinformation producers because outrage itself is engaging. Content that generates anger and disgust can achieve wide circulation even when its factual basis is weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</span></span></span>
 
 This helps explain why corrections often struggle. A correction may introduce uncertainty, nuance or context. Those are valuable for truth-seeking but less effective at generating immediate emotional engagement. An outraged claim offers certainty and urgency, while verification often introduces complexity.
 
@@ -332,7 +332,7 @@ The imbalance is particularly relevant in AI-generated content. [Synthetic image
 
 Social platforms do not necessarily reward truth or falsehood directly. They reward engagement.
 
-When outraged reactions produce comments, reposts and arguments, platforms may interpret that activity as a signal that content is attracting attention. Research on moral-emotional language has found that posts containing moral and emotional expressions are more likely to spread through social networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
+When outraged reactions produce comments, reposts and arguments, platforms may interpret that activity as a signal that content is attracting attention. Research on moral-emotional language has found that posts containing moral and emotional expressions are more likely to spread through social networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
 
 The effect can become self-reinforcing:
 
@@ -364,7 +364,7 @@ Before sharing an outrage-inducing post, several checks help separate emotional 
 * **Look for [missing context]({{ 'missing-context/' | relative_url }}).** Short clips and screenshots often omit crucial information.
 * **Check whether multiple independent sources agree.** A claim repeated across social media is not the same as independent verification.
 * **Separate the event from the interpretation.** Even if an incident occurred, explanations and motives may still be disputed.
-* **Pause before sharing.** Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) suggests that simply making accuracy salient can improve sharing decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</span></span></span>
+* **Pause before sharing.** Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) suggests that simply making accuracy salient can improve sharing decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</span></span></span>
 
 The key lesson is not that outrage is always wrong. Many legitimate scandals, abuses and injustices deserve angry responses. The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) challenge is recognising that outrage is a signal about how a claim feels, not a guarantee of how well it has been proven. In social media environments, especially those amplified by AI-generated content, treating that distinction seriously is one of the most effective defences against sharing falsehoods.
 
@@ -373,178 +373,178 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why outrage feels like proof online. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why outrage feels like proof online. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Connects outrage, engagement, and online sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects outrage, engagement, and online sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Encourages re-evaluating beliefs instead of reacting emotionally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages re-evaluating beliefs instead of reacting emotionally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explains biases that make outrage persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that make outrage persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-why-outrage-feels-like-proof-online-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,153 +750,153 @@ The key lesson is not that outrage is always wrong. Many legitimate scandals, ab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ovid.com  
    Title: science.adl2829~misinformation exploits outrage to spread online  
-   Link: <a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread online: Scienceby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship betwe...</p></details>
+   Link:<a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread online: Scienceby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship betwe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1500 — The sharing of misinformation o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 321 — Interventions that shift users attention to...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 321 — Interventions that shift users attention to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386219206_Misinformation_exploits_outrage_to_spread_online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — This research is consistent with prior resea...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — This research is consistent with prior resea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moral Outrage Dynamics in Social MediaMoral outrage on social media arises when users perceive violations of ethical norms and respond wi...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moral Outrage Dynamics in Social MediaMoral outrage on social media arises when users perceive violations of ethical norms and respond wi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07942-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07942-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 592, 590–595 (2021). Article ADS CAS PubMed Google Scholar. Mosleh, M...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-024-07942-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07942-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 592, 590–595 (2021). Article ADS CAS PubMed Google Scholar. Mosleh, M...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 25 — These trends may exacerbate polarization, ra...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 25 — These trends may exacerbate polarization, ra...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/scie/pdf/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/pdf/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online, examining g...</p></details>
+   Link:<a href="https://www.ovid.com/journals/scie/pdf/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/pdf/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineWe tested a hypothesis that misinformation exploits outrage to spread online, examining g...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: Springer Nature. Nature Communications.Read more  
-   Link: <a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...Apr 14, 2022 — Accuracy prompts are a replicable and generalizable approach for re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...Apr 14, 2022 — Accuracy prompts are a replicable and generalizable approach for re...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es substantially increases their diffusion within (and less so between) ideological...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es substantially increases their diffusion within (and less so between) ideological...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 108 — We tested a hypothesis that misinformatio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.yale.edu  
    Title: likes and shares teach people express more outrage online  
-   Link: <a href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAug 13, 2021 — Social media platforms like Twitter amplify expres...</p></details>
+   Link:<a href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAug 13, 2021 — Social media platforms like Twitter amplify expres...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: static1.squarespace.com  
-   Link: <a href="https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>exploits outrage to spread onlineNov 29, 2024 — We tested a hypothesis that misinformation exploits outrage to spread online, examining g...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>exploits outrage to spread onlineNov 29, 2024 — We tested a hypothesis that misinformation exploits outrage to spread online, examining g...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencemediacentre.es  
    Title: outrage facilitates spread misinformation social networks  
-   Link: <a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage facilitates the spread of misinformation on social...Nov 28, 2024 — According to a study, social media content containing misinf...</p></details>
+   Link:<a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage facilitates the spread of misinformation on social...Nov 28, 2024 — According to a study, social media content containing misinf...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3713909" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1145/3706598.3713909</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science 359, 6380 (2018), 1094–1096. Google... Moral emotions shape the virality of COVID-19 misinformation on social media.Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/abs/10.1145/3706598.3713909" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1145/3706598.3713909</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science 359, 6380 (2018), 1094–1096. Google... Moral emotions shape the virality of COVID-19 misinformation on social media.Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</p></details>
+   Link:<a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaWe investigated whether out-group animosity was particularly successful at generatin...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaWe investigated whether out-group animosity was particularly successful at generatin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Tech Policy Press  
-   Link: <a href="https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Consider the Relationship Between...The researchers found that misinformation triggered more angry reactions than posts cont...</p></details>
+   Link:<a href="https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Consider the Relationship Between...The researchers found that misinformation triggered more angry reactions than posts cont...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy-prompt efficacy in combination with...by V Bhardwaj · 2023 · Cited by 10 — Recent research suggests that individuals may someti...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy-prompt efficacy in combination with...by V Bhardwaj · 2023 · Cited by 10 — Recent research suggests that individuals may someti...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media, misinformation and harmful algorithmsIn this report, we consider disinformation to be a sub-category of misinformation, and use te...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media, misinformation and harmful algorithmsIn this report, we consider disinformation to be a sub-category of misinformation, and use te...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Proceedings of the National Academy of Sciences of the United States of America  
-   Link: <a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we examine the ut...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we examine the ut...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC“I Think This News Is Accurate”: Endorsing Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 53 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 53 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: csmapnyu.org  
    Title: emotion shapes the diffusion of moralized content in social networks  
-   Link: <a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
+   Link:<a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news-medical.net  
    Title: Outrage drives the spread of misinformation on social media.aspx  
-   Link: <a href="https://www.news-medical.net/news/20241128/Outrage-drives-the-spread-of-misinformation-on-social-media.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20241128/Outrage-drives-the-spread-of-misinformation-on-social-media.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage drives the spread of misinformation on social mediaNov 28, 2024 — Social media posts containing misinformation evoke more moral o...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20241128/Outrage-drives-the-spread-of-misinformation-on-social-media.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20241128/Outrage-drives-the-spread-of-misinformation-on-social-media.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage drives the spread of misinformation on social mediaNov 28, 2024 — Social media posts containing misinformation evoke more moral o...</p></details>

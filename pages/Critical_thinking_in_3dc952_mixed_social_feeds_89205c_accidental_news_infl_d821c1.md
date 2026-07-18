@@ -278,7 +278,7 @@ Many people do not consciously decide that a social media creator will become on
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-1-dark.svg" | relative_url }}" alt="Influencers illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the cues that normally help people evaluate journalism—editorial standards, [corrections]({{ 'corrections/' | relative_url }}) policies, sourcing practices, and institutional accountability—are less visible in creator-led environments. As social feeds increasingly mix entertainment and current affairs, audiences may extend trust built in one context to information delivered in another. Research from the Reuters Institute shows that social and search environments weaken people's ability to remember who originally produced a news story, making source evaluation harder at exactly the moment it becomes most important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+This matters because the cues that normally help people evaluate journalism—editorial standards, [corrections]({{ 'corrections/' | relative_url }}) policies, sourcing practices, and institutional accountability—are less visible in creator-led environments. As social feeds increasingly mix entertainment and current affairs, audiences may extend trust built in one context to information delivered in another. Research from the Reuters Institute shows that social and search environments weaken people's ability to remember who originally produced a news story, making source evaluation harder at exactly the moment it becomes most important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 ## Why accidental exposure changes the trust setting
 
@@ -288,7 +288,7 @@ Social media works differently. Users often arrive looking for entertainment, so
 
 This creates what might be called accidental trust transfer. People already familiar with a creator's personality may unconsciously apply that familiarity to claims about current events. The creator feels known, even though the audience has little information about how they gathered or verified the information being presented.
 
-Research on news attribution suggests that distributed social environments weaken awareness of original sources. Users are significantly less likely to correctly identify where information came from when they encounter it through social feeds rather than directly from news organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+Research on news attribution suggests that distributed social environments weaken awareness of original sources. Users are significantly less likely to correctly identify where information came from when they encounter it through social feeds rather than directly from news organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 The result is a subtle shift in the question being asked. Instead of "Do I trust this reporting?" people may find themselves asking "Do I trust this person?"
 
@@ -298,11 +298,11 @@ The result is a subtle shift in the question being asked. Instead of "Do I trust
 
 One reason accidental trust develops is that repeated exposure creates a feeling of reliability.
 
-Psychologists and media researchers describe parasocial relationships as one-sided relationships in which audiences feel connected to public figures they regularly watch. Social platforms intensify these effects because creators share personal stories, respond to comments, reveal aspects of their daily lives, and cultivate a sense of intimacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">DIVA PortalParasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — The concept has provided a framework for...</span></span></span>
+Psychologists and media researchers describe parasocial relationships as one-sided relationships in which audiences feel connected to public figures they regularly watch. Social platforms intensify these effects because creators share personal stories, respond to comments, reveal aspects of their daily lives, and cultivate a sense of intimacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">DIVA PortalParasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — The concept has provided a framework for...</span></span></span>
 
 That familiarity can be valuable. Many creators explain complex issues accessibly and help audiences engage with topics they might otherwise ignore. The difficulty arises when familiarity becomes a substitute for [evidence]({{ 'evidence/' | relative_url }}).
 
-Studies examining influencer credibility repeatedly find that perceived authenticity and parasocial relationships increase trust and acceptance of information. Followers often interpret relatability and openness as signals of trustworthiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</span></span></span>
+Studies examining influencer credibility repeatedly find that perceived authenticity and parasocial relationships increase trust and acceptance of information. Followers often interpret relatability and openness as signals of trustworthiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</span></span></span>
 
 Yet being trustworthy in one area does not automatically create expertise in another. A creator may be knowledgeable about fitness, technology, fashion, finance, gaming, or culture while having little training in journalism, source verification, statistics, public policy, or scientific interpretation.
 
@@ -322,7 +322,7 @@ A creator might:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Explain a news event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=u1chBqaGXXc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mapping news creators and influencers: online launch eventThe most comprehensive international study yet of news creators across 24 count...</span></span></span>
+* Explain a news event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=u1chBqaGXXc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mapping news creators and influencers: online launch eventThe most comprehensive international study yet of news creators across 24 count...</span></span></span>
 * Offer a personal reaction.
 * Promote a sponsor.
 * Share anecdotal experience.
@@ -335,11 +335,11 @@ All within a few minutes.
 
 For audiences, this blending can make it difficult to determine which claims are based on reporting, which are personal interpretations, and which may be influenced by commercial incentives.
 
-Research on influencer commercialisation shows that trust, sponsorship disclosures, authenticity, and audience relationships are closely connected. Audiences often evaluate content through the creator relationship rather than through the evidence supporting specific claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineCommercialization of influencer content on social mediaby WM Lim · 2025 · Cited by 12 — This study provides valuab...</span></span></span>
+Research on influencer commercialisation shows that trust, sponsorship disclosures, authenticity, and audience relationships are closely connected. Audiences often evaluate content through the creator relationship rather than through the evidence supporting specific claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineCommercialization of influencer content on social mediaby WM Lim · 2025 · Cited by 12 — This study provides valuab...</span></span></span>
 
 The problem is not necessarily deception. Many creators act in good faith. The challenge is transparency. Journalistic processes are often visible and institutionalised. Creator verification practices may be informal, inconsistent, or largely invisible to viewers.
 
-UNESCO has warned that many creators receive little training in fact-checking and that significant numbers do not consistently verify information before sharing it. Its research also found uneven understanding of journalistic standards and sponsorship disclosure practices among creators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</span></span></span>
+UNESCO has warned that many creators receive little training in fact-checking and that significant numbers do not consistently verify information before sharing it. Its research also found uneven understanding of journalistic standards and sponsorship disclosure practices among creators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-2-dark.svg" | relative_url }}" alt="Influencers illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_accidental_news_infl_d821c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ Users follow personalities. Algorithms learn which creators hold attention. Reco
 
 As a result, audiences may encounter the same creator repeatedly across different topics. The creator becomes a stable reference point in an otherwise chaotic information environment.
 
-This can be psychologically appealing. A familiar guide is easier to follow than a constantly changing collection of reporters, experts, and publications. Research on influencer relationships suggests that credibility, perceived authenticity, and emotional connection help explain why audiences continue returning to particular creators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14413582241306130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIncreasing Social Media Stickiness Through Parasocial...by VC Vu · 2025 · Cited by 25 — Social media influencers (SMIs) pre...</span></span></span>
+This can be psychologically appealing. A familiar guide is easier to follow than a constantly changing collection of reporters, experts, and publications. Research on influencer relationships suggests that credibility, perceived authenticity, and emotional connection help explain why audiences continue returning to particular creators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14413582241306130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIncreasing Social Media Stickiness Through Parasocial...by VC Vu · 2025 · Cited by 25 — Social media influencers (SMIs) pre...</span></span></span>
 
 The risk is that audiences may evaluate claims through identity and familiarity rather than through sourcing and evidence. When a creator covers a topic outside their area of competence, followers may not adjust their trust level accordingly.
 
@@ -392,7 +392,7 @@ These questions help shift attention away from the creator and back toward the i
 
 ## Why accidental trust matters in the age of AI and social media
 
-As social feeds become the main gateway to news for many people, the distinction between "person I follow" and "source I trust" becomes increasingly blurred. Research shows that news creators and influencers now play a significant role in how audiences encounter current affairs across many countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">mapping news creators and influencers social and video networks</span><span class="citation-popover-snippet">Mapping news creators and influencers in social and video...28 Oct 2025 — In this report we aim to show how the trend towards online and...</span></span></span>
+As social feeds become the main gateway to news for many people, the distinction between "person I follow" and "source I trust" becomes increasingly blurred. Research shows that news creators and influencers now play a significant role in how audiences encounter current affairs across many countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">mapping news creators and influencers social and video networks</span><span class="citation-popover-snippet">Mapping news creators and influencers in social and video...28 Oct 2025 — In this report we aim to show how the trend towards online and...</span></span></span>
 
 The central challenge is not that creators discuss the news. It is that trust can be inherited from entertainment, familiarity, humour, attractiveness, lifestyle advice, or personal connection rather than earned through transparent evidence and verification.
 
@@ -403,178 +403,178 @@ The central challenge is not that creators discuss the news. It is that trust ca
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When influencers become accidental news sources. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When influencers become accidental news sources. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how social media personalities and platform dynamics shape what people treat as news.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how social media personalities and platform dynamics shape what people treat as news.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how online attention systems can elevate unreliable information sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how online attention systems can elevate unreliable information sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Encourages re-evaluating trusted sources and beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages re-evaluating trusted sources and beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="influencers-8c81b7-when-influencers-become-accidental-news-sources-critical-thinking-in-the-age-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The central challenge is not that creators discuss the news. It is that trust ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The central challenge is not that creators discuss the news. It is that trust ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The central challenge is not that creators discuss the news. It is that trust ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The central challenge is not that creators discuss the news. It is that trust ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The central challenge is not that creators discuss the news. It is that trust ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,156 +780,156 @@ The central challenge is not that creators discuss the news. It is that trust ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalParasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — The concept has provided a framework for...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalParasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — The concept has provided a framework for...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352926879_The_effects_of_social_media_influencers%27_self-disclosure_on_behavioral_intentions_The_role_of_source_credibility_parasocial_relationships_and_brand_trust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352926879_The_effects_of_social_media_influencers%27_self-disclosure_on_behavioral_intentions_The_role_of_source_credibility_parasocial_relationships_and_brand_trust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of social media influencers&#x27; self-disclosure on...The effects of social media influencers&#x27; self-disclosure on behavioral int...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/352926879_The_effects_of_social_media_influencers%27_self-disclosure_on_behavioral_intentions_The_role_of_source_credibility_parasocial_relationships_and_brand_trust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352926879_The_effects_of_social_media_influencers%27_self-disclosure_on_behavioral_intentions_The_role_of_source_credibility_parasocial_relationships_and_brand_trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of social media influencers&#x27; self-disclosure on...The effects of social media influencers&#x27; self-disclosure on behavioral int...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: mapping news creators and influencers social and video networks  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping news creators and influencers in social and video...28 Oct 2025 — In this report we aim to show how the trend towards online and...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping news creators and influencers in social and video...28 Oct 2025 — In this report we aim to show how the trend towards online and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: understanding young news audiences time rapid change  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brand Attribution in Distributed Environments: Do People Know Where They Get Their News?Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brand Attribution in Distributed Environments: Do People Know Where They Get Their News?Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/brand-and-trust-fragmented-news-environment" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/brand-and-trust-fragmented-news-environment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/brand-and-trust-fragmented-news-environment" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/brand-and-trust-fragmented-news-environment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and trust in a fragmented news environmentThe qualitative study explored issues of brand and trust in an increasingly fragmented news env...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and trust in a fragmented news environmentThe qualitative study explored issues of brand and trust in an increasingly fragmented news env...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and key findings of the 2025 Digital News Report17 Jun 2025 — The proportion that say social media are their main source of news, for exa...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and key findings of the 2025 Digital News Report17 Jun 2025 — The proportion that say social media are their main source of news, for exa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>physical attractiveness, social attractiveness...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387359523_Increasing_Social_Media_Stickiness_Through_Parasocial_Interaction_and_Influencer_Source_Credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>physical attractiveness, social attractiveness...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391157239_Influencing_the_news_how_social_media_influencers_affect_news_media_trust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391157239_Influencing_the_news_how_social_media_influencers_affect_news_media_trust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMI followers reported more trust than non-followers.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391157239_Influencing_the_news_how_social_media_influencers_affect_news_media_trust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391157239_Influencing_the_news_how_social_media_influencers_affect_news_media_trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SMI followers reported more trust than non-followers.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Expertise to Trust: How Parasocial Relationships and...7 Jan 2026 — In this research, influencer expertise and influencer popularit...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399535883_From_Expertise_to_Trust_How_Parasocial_Relationships_and_Influencer_Popularity_Shape_New_Energy_Vehicle_Purchase_Intention_in_China</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Expertise to Trust: How Parasocial Relationships and...7 Jan 2026 — In this research, influencer expertise and influencer popularit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1461444818801313" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1461444818801313</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We call this “news brand attribution...Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1461444818801313" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1461444818801313</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We call this “news brand attribution...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251373020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251373020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineCommercialization of influencer content on social mediaby WM Lim · 2025 · Cited by 12 — This study provides valuab...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0965254X.2025.2510384</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineCommercialization of influencer content on social mediaby WM Lim · 2025 · Cited by 12 — This study provides valuab...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14413582241306130" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14413582241306130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIncreasing Social Media Stickiness Through Parasocial...by VC Vu · 2025 · Cited by 25 — Social media influencers (SMIs) pre...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14413582241306130" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14413582241306130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIncreasing Social Media Stickiness Through Parasocial...by VC Vu · 2025 · Cited by 25 — Social media influencers (SMIs) pre...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/07395329221105507" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/07395329221105507</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legacy news consumption was found to be a predictor of getting news from social media influencers (SMIs) among respondents.Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/07395329221105507" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/07395329221105507</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legacy news consumption was found to be a predictor of getting news from social media influencers (SMIs) among respondents.Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: natcen.ac.uk  
-   Link: <a href="https://natcen.ac.uk/publications/bsa-42-politics-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://natcen.ac.uk/publications/bsa-42-politics-and-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BSA 42 | Politics and social mediaby J Curtice · Cited by 2 — This report examines whether social media platforms are reshaping political...</p></details>
+   Link:<a href="https://natcen.ac.uk/publications/bsa-42-politics-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://natcen.ac.uk/publications/bsa-42-politics-and-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BSA 42 | Politics and social mediaby J Curtice · Cited by 2 — This report examines whether social media platforms are reshaping political...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships and Source CredibilityThe increasing prominence of social media influencers (SMIs) has transformed how brands cultivate tru...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships and Source CredibilityThe increasing prominence of social media influencers (SMIs) has transformed how brands cultivate tru...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=0d2ALco_9eE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0d2ALco_9eE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Institute young people [news influencers](&amp;#123;&amp;#123; &#x27;news-influencers/&#x27; | relative_url &amp;#125;&amp;#125;) digital news report Study: Influencers overtake journalists as news source | ANC ABS-CBN...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0d2ALco_9eE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0d2ALco_9eE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Institute young people [news influencers](&amp;#123;&amp;#123; &#x27;news-influencers/&#x27; | relative_url &amp;#125;&amp;#125;) digital news report Study: Influencers overtake journalists as news source | ANC ABS-CBN...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=u1chBqaGXXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u1chBqaGXXc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping news creators and influencers: online launch eventThe most comprehensive international study yet of news creators across 24 count...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u1chBqaGXXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u1chBqaGXXc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping news creators and influencers: online launch eventThe most comprehensive international study yet of news creators across 24 count...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arasocial relationship and purchase intention in a high-engagement digital context, while...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arasocial relationship and purchase intention in a high-engagement digital context, while...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchportal.hw.ac.uk  
    Title: parasocial relationship in relation to the impact of social media  
-   Link: <a href="https://researchportal.hw.ac.uk/en/publications/parasocial-relationship-in-relation-to-the-impact-of-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/en/publications/parasocial-relationship-in-relation-to-the-impact-of-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship in relation to the Impact of Social...by S Samadi · 2025 · Cited by 6 — This study aimed to explore the ways in which xenoc...</p></details>
+   Link:<a href="https://researchportal.hw.ac.uk/en/publications/parasocial-relationship-in-relation-to-the-impact-of-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/en/publications/parasocial-relationship-in-relation-to-the-impact-of-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship in relation to the Impact of Social...by S Samadi · 2025 · Cited by 6 — This study aimed to explore the ways in which xenoc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cmpf.eui.eu  
    Title: influencers as news creators implications for media regulation  
-   Link: <a href="https://cmpf.eui.eu/influencers-as-news-creators-implications-for-media-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/influencers-as-news-creators-implications-for-media-regulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as news creators: implications for media regulation1 Nov 2025 — Influencers as news creators, what are the implications for media regulat...</p></details>
+   Link:<a href="https://cmpf.eui.eu/influencers-as-news-creators-implications-for-media-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/influencers-as-news-creators-implications-for-media-regulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as news creators: implications for media regulation1 Nov 2025 — Influencers as news creators, what are the implications for media regulat...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Building relationship and trust on Tik Tok  
-   Link: <a href="http://www.youtube.com/watch?v=bY3VyqwlpFM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bY3VyqwlpFM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know About How People Get their NEWS Today: Trends and Huge Shifts Underway...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bY3VyqwlpFM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bY3VyqwlpFM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know About How People Get their NEWS Today: Trends and Huge Shifts Underway...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: observatory.tec.mx  
    Title: the impact of influencers on misinformation  
-   Link: <a href="https://observatory.tec.mx/edu-news/the-impact-of-influencers-on-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://observatory.tec.mx/edu-news/the-impact-of-influencers-on-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Influencers on Misinformation10 Feb 2025 — Many content creators do not verify the information they share, affecting their foll...</p></details>
+   Link:<a href="https://observatory.tec.mx/edu-news/the-impact-of-influencers-on-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://observatory.tec.mx/edu-news/the-impact-of-influencers-on-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Influencers on Misinformation10 Feb 2025 — Many content creators do not verify the information they share, affecting their foll...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/reutersinstitute_how-can-news-brands-respond-to-the-increasing-activity-7420456107489316864-90Ik" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/reutersinstitute_how-can-news-brands-respond-to-the-increasing-activity-7420456107489316864-90Ik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ding to the 2024 Reuters Digital News Report). So how...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/reutersinstitute_how-can-news-brands-respond-to-the-increasing-activity-7420456107489316864-90Ik" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/reutersinstitute_how-can-news-brands-respond-to-the-increasing-activity-7420456107489316864-90Ik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ding to the 2024 Reuters Digital News Report). So how...Read more...</p></details>

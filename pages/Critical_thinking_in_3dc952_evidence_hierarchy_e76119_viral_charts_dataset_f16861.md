@@ -302,7 +302,7 @@ A striking upward trend might be based on millions of observations or only a han
 
 The problem becomes even more significant on social media, where charts are frequently cropped, reposted, translated, or detached from their original context. Axis labels, methodological notes, sample descriptions and caveats may disappear during sharing, leaving only the visual impression.
 
-Research on misleading visualisations has shown that readers can be strongly influenced by chart design choices even when those choices distort the underlying evidence. Recent studies have also found that both humans and AI systems can be misled by deceptive chart presentations, highlighting how vulnerable visual interpretation can be when supporting data and methods are unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.21675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Is this chart lying to me? Automating the detection of misleading visualizationsAugust 29, 2025...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span>
+Research on misleading visualisations has shown that readers can be strongly influenced by chart design choices even when those choices distort the underlying evidence. Recent studies have also found that both humans and AI systems can be misled by deceptive chart presentations, highlighting how vulnerable visual interpretation can be when supporting data and methods are unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.21675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Is this chart lying to me? Automating the detection of misleading visualizationsAugust 29, 2025...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span>
 
 ## Questions to ask about datasets
 
@@ -321,13 +321,13 @@ Knowing the source helps readers judge whether the dataset is likely to be compr
 
 Sampling determines whether conclusions can be generalised beyond the observed cases. A chart may appear to describe an entire population while actually reflecting only a narrow subgroup.
 
-For example, online polls often measure the behaviour of people who chose to participate rather than a representative sample of the broader public. Statistical inference depends heavily on sampling methods because conclusions about larger populations are only as reliable as the sample used to estimate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotel.pressbooks.pub">[rotel.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotel.pressbooks.pub</span><span class="citation-popover-title">inferential statistics sampling methods</span><span class="citation-popover-snippet">Inferential Statistics: Sampling MethodsOctober 31, 2023 — Statistical inferential methods make predictions or inferences about a larger...</span><span class="citation-popover-meta">Published: October 31, 2023</span></span></span>
+For example, online polls often measure the behaviour of people who chose to participate rather than a representative sample of the broader public. Statistical inference depends heavily on sampling methods because conclusions about larger populations are only as reliable as the sample used to estimate them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotel.pressbooks.pub">[rotel.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotel.pressbooks.pub</span><span class="citation-popover-title">inferential statistics sampling methods</span><span class="citation-popover-snippet">Inferential Statistics: Sampling MethodsOctober 31, 2023 — Statistical inferential methods make predictions or inferences about a larger...</span><span class="citation-popover-meta">Published: October 31, 2023</span></span></span>
 
 ### What is missing?
 
 Missing data can matter as much as included data.
 
-A chart may not reveal whether records were unavailable, excluded, or filtered out. If particular groups are systematically absent from the dataset, the resulting pattern can be distorted. Readers should look for documentation describing missing values, exclusions and data-cleaning decisions rather than assuming the chart presents a complete picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Impact of Missing Data on Statistical Analysis and How...August 23, 2025 — Learn effective techniques for handling missing dat...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+A chart may not reveal whether records were unavailable, excluded, or filtered out. If particular groups are systematically absent from the dataset, the resulting pattern can be distorted. Readers should look for documentation describing missing values, exclusions and data-cleaning decisions rather than assuming the chart presents a complete picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Impact of Missing Data on Statistical Analysis and How...August 23, 2025 — Learn effective techniques for handling missing dat...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_viral_charts_dataset_f16861-Illustration-2-dark.svg" | relative_url }}" alt="Viral Charts illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_viral_charts_dataset_f16861-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_viral_charts_dataset_f16861-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -368,7 +368,7 @@ The chart may therefore communicate a pattern that exists within a curated colle
 
 A classic lesson from statistics demonstrates why access to data matters.
 
-In 1973, statistician Francis Anscombe created four datasets that shared nearly identical summary statistics, including means, variances, correlations and regression lines. Yet when plotted, the datasets looked dramatically different. One showed a roughly linear relationship, another a curved pattern, another was heavily influenced by a single outlier, and another derived much of its apparent relationship from one influential data point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Matplotlib]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anscombe&#x27;s quartet</span><span class="citation-popover-snippet">Anscombe&#x27;s quartet</span></span></span>
+In 1973, statistician Francis Anscombe created four datasets that shared nearly identical summary statistics, including means, variances, correlations and regression lines. Yet when plotted, the datasets looked dramatically different. One showed a roughly linear relationship, another a curved pattern, another was heavily influenced by a single outlier, and another derived much of its apparent relationship from one influential data point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Matplotlib]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anscombe&#x27;s quartet</span><span class="citation-popover-snippet">Anscombe&#x27;s quartet</span></span></span>
 
 The lesson is often presented as an argument for visualisation, but it also illustrates the reverse principle: summaries alone can conceal important features of the underlying data.
 
@@ -380,7 +380,7 @@ A viral chart can create a similarly incomplete picture. The visible graph may l
 
 AI tools can now generate charts rapidly from spreadsheets, prompts and automated analyses. This increases the volume of visual claims circulating online and lowers the cost of producing persuasive-looking graphics.
 
-Recent research has highlighted concerns that misleading charts can be generated at scale and that both human viewers and advanced AI systems can be influenced by deceptive visual presentations. In some cases, the underlying data remains unchanged while design choices alter interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.12983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart GenerationJanuary 19, 2026...</span><span class="citation-popover-meta">Published: January 19, 2026</span></span></span>
+Recent research has highlighted concerns that misleading charts can be generated at scale and that both human viewers and advanced AI systems can be influenced by deceptive visual presentations. In some cases, the underlying data remains unchanged while design choices alter interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.12983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart GenerationJanuary 19, 2026...</span><span class="citation-popover-meta">Published: January 19, 2026</span></span></span>
 
 As chart creation becomes easier, the evidential value of the dataset becomes more important, not less. A polished graphic is no longer strong evidence that careful analysis occurred. Readers increasingly need access to the numbers, methods and assumptions behind the image.
 
@@ -397,194 +397,194 @@ In an online environment where images travel faster than documentation, the data
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Before you trust the chart. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Before you trust the chart. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Explains misleading graphs and statistical presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains misleading graphs and statistical presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches skepticism toward unsupported visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skepticism toward unsupported visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates how data patterns can be misunderstood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how data patterns can be misunderstood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="viral-charts-before-you-trust-the-chart-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ In an online environment where images travel faster than documentation, the data
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ In an online environment where images travel faster than documentation, the data
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ In an online environment where images travel faster than documentation, the data
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ In an online environment where images travel faster than documentation, the data
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ In an online environment where images travel faster than documentation, the data
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,133 +790,133 @@ In an online environment where images travel faster than documentation, the data
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.21675" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.21675</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this chart lying to me? Automating the detection of misleading visualizationsAugust 29, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2508.21675" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.21675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is this chart lying to me? Automating the detection of misleading visualizationsAugust 29, 2025...</p></details>
    Published: August 29, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.18172" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.18172</a>  
+   Link:<a href="https://arxiv.org/abs/2503.18172" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.18172</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rotel.pressbooks.pub  
    Title: inferential statistics sampling methods  
-   Link: <a href="https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/" target="_blank" rel="noopener noreferrer nofollow">https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential Statistics: Sampling MethodsOctober 31, 2023 — Statistical inferential methods make predictions or inferences about a larger...</p></details>
+   Link:<a href="https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/" target="_blank" rel="noopener noreferrer nofollow">https://rotel.pressbooks.pub/statisticsthroughequitylens1/chapter/inferential-statistics-sampling-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential Statistics: Sampling MethodsOctober 31, 2023 — Statistical inferential methods make predictions or inferences about a larger...</p></details>
    Published: October 31, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Missing Data on Statistical Analysis and How...August 23, 2025 — Learn effective techniques for handling missing dat...</p></details>
+   Link:<a href="https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tarangds/the-impact-of-missing-data-on-statistical-analysis-and-how-to-fix-it-3498ad084bfe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Missing Data on Statistical Analysis and How...August 23, 2025 — Learn effective techniques for handling missing dat...</p></details>
    Published: August 23, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Anscombe's quartet  
-   Link: <a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anscombe%27s_quartet</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anscombe%27s_quartet</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: matplotlib.org  
-   Link: <a href="https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html" target="_blank" rel="noopener noreferrer nofollow">https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s quartet — Matplotlib 3.10.9 documentationAnscombe&#x27;s quartet is a group of datasets (x, y) that have the same mean, standard de...</p></details>
+   Link:<a href="https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html" target="_blank" rel="noopener noreferrer nofollow">https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s quartet — Matplotlib 3.10.9 documentationAnscombe&#x27;s quartet is a group of datasets (x, y) that have the same mean, standard de...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.12983" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.12983</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart GenerationJanuary 19, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.12983" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.12983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart GenerationJanuary 19, 2026...</p></details>
    Published: January 19, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.09716" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.09716</a>  
+   Link:<a href="https://arxiv.org/abs/2508.09716" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.09716</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: Is this chart lying to me?  
-   Link: <a href="https://arxiv.org/html/2508.21675v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.21675v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating the detection of...29 Aug 2025 — Misleading visualizations are charts that distort the underlying data, typically by violatin...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.21675v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.21675v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automating the detection of...29 Aug 2025 — Misleading visualizations are charts that distort the underlying data, typically by violatin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1808.09913" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09913</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Same Stats, Different Graphs (Graph Statistics and Why We...by H Chen · 2018 · Cited by 13 — To study the relationships between differen...</p></details>
+   Link:<a href="https://arxiv.org/abs/1808.09913" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09913</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Same Stats, Different Graphs (Graph Statistics and Why We...by H Chen · 2018 · Cited by 13 — To study the relationships between differen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2408.11160" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2408.11160</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Problems with Image Datasetsby J Goldman · 2024 · Cited by 5 — We discuss empirical work demonstrating the bias in current co...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2408.11160" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2408.11160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Problems with Image Datasetsby J Goldman · 2024 · Cited by 5 — We discuss empirical work demonstrating the bias in current co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/analytics-vidhya/beating-anscombes-quartet-using-data-visualization-and-summary-statistics-to-understand-your-data-b2c709c244e9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/analytics-vidhya/beating-anscombes-quartet-using-data-visualization-and-summary-statistics-to-understand-your-data-b2c709c244e9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary statistics to understand your data · Anscombe&#x27;s Quartet, plotting in Python using...Read more...</p></details>
+   Link:<a href="https://medium.com/analytics-vidhya/beating-anscombes-quartet-using-data-visualization-and-summary-statistics-to-understand-your-data-b2c709c244e9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/analytics-vidhya/beating-anscombes-quartet-using-data-visualization-and-summary-statistics-to-understand-your-data-b2c709c244e9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary statistics to understand your data · Anscombe&#x27;s Quartet, plotting in Python using...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/analytics-vidhya/anscombes-quartet-an-importance-of-data-visualization-856b3d1bd403" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/analytics-vidhya/anscombes-quartet-an-importance-of-data-visualization-856b3d1bd403</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s Quartet — An Importance of Data VisualizationVisualizing our data allows us to revisit our summary statistics and re-contextua...</p></details>
+   Link:<a href="https://medium.com/analytics-vidhya/anscombes-quartet-an-importance-of-data-visualization-856b3d1bd403" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/analytics-vidhya/anscombes-quartet-an-importance-of-data-visualization-856b3d1bd403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s Quartet — An Importance of Data VisualizationVisualizing our data allows us to revisit our summary statistics and re-contextua...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Ana_kin/graphs-gone-wrong-misleading-data-visualizations-d4805d1c4700" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Ana_kin/graphs-gone-wrong-misleading-data-visualizations-d4805d1c4700</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let me show the most popular misleading graphs and how anyone can easily identify those!Read more...</p></details>
+   Link:<a href="https://medium.com/%40Ana_kin/graphs-gone-wrong-misleading-data-visualizations-d4805d1c4700" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Ana_kin/graphs-gone-wrong-misleading-data-visualizations-d4805d1c4700</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let me show the most popular misleading graphs and how anyone can easily identify those!Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230621909_Statistical_process_control_for_data_without_inherent_order" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230621909_Statistical_process_control_for_data_without_inherent_order</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical process control for data without inherent orderThe XmR chart is a powerful analytical tool in statistical process control (SP...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230621909_Statistical_process_control_for_data_without_inherent_order" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230621909_Statistical_process_control_for_data_without_inherent_order</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical process control for data without inherent orderThe XmR chart is a powerful analytical tool in statistical process control (SP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pearson.com  
-   Link: <a href="https://www.pearson.com/channels/business-statistics/study-guides/chapter-1-using-graphs-to-describe-data" target="_blank" rel="noopener noreferrer nofollow">https://www.pearson.com/channels/business-statistics/study-guides/chapter-1-using-graphs-to-describe-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics for Business Study Guide: Graphs &amp; Data AnalysisThis study guide covers key statistics concepts for business, including data t...</p></details>
+   Link:<a href="https://www.pearson.com/channels/business-statistics/study-guides/chapter-1-using-graphs-to-describe-data" target="_blank" rel="noopener noreferrer nofollow">https://www.pearson.com/channels/business-statistics/study-guides/chapter-1-using-graphs-to-describe-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics for Business Study Guide: Graphs &amp; Data AnalysisThis study guide covers key statistics concepts for business, including data t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kThRTrsBr9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kThRTrsBr9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Ready Part 7: Misleading Data VisualizationsThis video will go over common misleading tactics used in data visualizations and how to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kThRTrsBr9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kThRTrsBr9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Ready Part 7: Misleading Data VisualizationsThis video will go over common misleading tactics used in data visualizations and how to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/why-visualizing-data-matters-anscombes-quartet-real-world-akila-86otc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-visualizing-data-matters-anscombes-quartet-real-world-akila-86otc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary statistics alone may not be sufficient to capture the essence of a dataset, and visual...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/why-visualizing-data-matters-anscombes-quartet-real-world-akila-86otc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-visualizing-data-matters-anscombes-quartet-real-world-akila-86otc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary statistics alone may not be sufficient to capture the essence of a dataset, and visual...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: r-bloggers.com  
    Title: the importance of graphing your data anscombes clever quartet  
-   Link: <a href="https://www.r-bloggers.com/2019/03/the-importance-of-graphing-your-data-anscombes-clever-quartet/" target="_blank" rel="noopener noreferrer nofollow">https://www.r-bloggers.com/2019/03/the-importance-of-graphing-your-data-anscombes-clever-quartet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of Graphing Your Data – Anscombe&#x27;s...Mar 19, 2019 — He demonstrates this by generating four different data sets (Anscombe...</p></details>
+   Link:<a href="https://www.r-bloggers.com/2019/03/the-importance-of-graphing-your-data-anscombes-clever-quartet/" target="_blank" rel="noopener noreferrer nofollow">https://www.r-bloggers.com/2019/03/the-importance-of-graphing-your-data-anscombes-clever-quartet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of Graphing Your Data – Anscombe&#x27;s...Mar 19, 2019 — He demonstrates this by generating four different data sets (Anscombe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dev.to  
    Title: importance of data visualization anscombe s quartet way 5693  
-   Link: <a href="https://dev.to/imsparsh/importance-of-data-visualization-anscombe-s-quartet-way-5693" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/imsparsh/importance-of-data-visualization-anscombe-s-quartet-way-5693</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Data Visualization — Anscombe&#x27;s Quartet WayJul 27, 2020 — It was constructed in 1973 by statistician Francis Anscombe to il...</p></details>
+   Link:<a href="https://dev.to/imsparsh/importance-of-data-visualization-anscombe-s-quartet-way-5693" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/imsparsh/importance-of-data-visualization-anscombe-s-quartet-way-5693</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Data Visualization — Anscombe&#x27;s Quartet WayJul 27, 2020 — It was constructed in 1973 by statistician Francis Anscombe to il...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: useproactiveai.com  
    Title: good and bad examples of data visualization in 2026  
-   Link: <a href="https://www.useproactiveai.com/blog/good-and-bad-examples-of-data-visualization-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.useproactiveai.com/blog/good-and-bad-examples-of-data-visualization-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Mar 2026 — Explore good and bad data visualization examples, misleading graph examples, and design principles that help businesses pre...</p></details>
+   Link:<a href="https://www.useproactiveai.com/blog/good-and-bad-examples-of-data-visualization-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.useproactiveai.com/blog/good-and-bad-examples-of-data-visualization-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Mar 2026 — Explore good and bad data visualization examples, misleading graph examples, and design principles that help businesses pre...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nveil.com  
    Title: anscombe quartet statistics visualization  
-   Link: <a href="https://www.nveil.com/anscombe-quartet-statistics-visualization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nveil.com/anscombe-quartet-statistics-visualization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s Quartet: Four Datasets, One Blind Spot.Mar 31, 2026 — In 1973, statistician Francis Anscombe constructed four small datasets t...</p></details>
+   Link:<a href="https://www.nveil.com/anscombe-quartet-statistics-visualization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nveil.com/anscombe-quartet-statistics-visualization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anscombe&#x27;s Quartet: Four Datasets, One Blind Spot.Mar 31, 2026 — In 1973, statistician Francis Anscombe constructed four small datasets t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/158265424752351/posts/931182650793954/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/158265424752351/posts/931182650793954/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to find the probability that it falls within the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/158265424752351/posts/931182650793954/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/158265424752351/posts/931182650793954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to find the probability that it falls within the...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: analythical.com  
    Title: examples of awful data visualization  
-   Link: <a href="https://analythical.com/blog/examples-of-awful-data-visualization" target="_blank" rel="noopener noreferrer nofollow">https://analythical.com/blog/examples-of-awful-data-visualization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Examples of Awful Data Visualization19 Jan 2026 — Explore examples of poorly designed dataviz and learn how to fix them, discovering va...</p></details>
+   Link:<a href="https://analythical.com/blog/examples-of-awful-data-visualization" target="_blank" rel="noopener noreferrer nofollow">https://analythical.com/blog/examples-of-awful-data-visualization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Examples of Awful Data Visualization19 Jan 2026 — Explore examples of poorly designed dataviz and learn how to fix them, discovering va...</p></details>

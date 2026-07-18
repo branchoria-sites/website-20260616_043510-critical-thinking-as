@@ -284,7 +284,7 @@ A screenshot posted by a stranger on a public platform may attract scepticism. T
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-1-dark.svg" | relative_url }}" alt="Local Groups illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many local claims now circulate through semi-closed online communities rather than through directly verifiable public sources. A screenshot of an alleged council decision, police warning, school notice or neighbourhood incident may spread rapidly before anyone checks where it came from. Research on online groups consistently finds that trust within communities encourages information sharing, while studies of local news shortages suggest that people increasingly rely on community groups when trusted local reporting is unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv When Do People Trust Their Social Groups?</span><span class="citation-popover-snippet">When Do People Trust Their Social Groups?May 13, 2019...</span><span class="citation-popover-meta">Published: May 13, 2019</span></span></span>
+This matters because many local claims now circulate through semi-closed online communities rather than through directly verifiable public sources. A screenshot of an alleged council decision, police warning, school notice or neighbourhood incident may spread rapidly before anyone checks where it came from. Research on online groups consistently finds that trust within communities encourages information sharing, while studies of local news shortages suggest that people increasingly rely on community groups when trusted local reporting is unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv When Do People Trust Their Social Groups?</span><span class="citation-popover-snippet">When Do People Trust Their Social Groups?May 13, 2019...</span><span class="citation-popover-meta">Published: May 13, 2019</span></span></span>
 
 The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) challenge is not to distrust neighbours. It is to recognise that familiarity changes how people judge evidence. A claim does not become more reliable simply because it comes from someone local.
 
@@ -292,7 +292,7 @@ The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
 
 Neighbourhood groups operate differently from large public social networks. Members often recognise each other's names, know where they live, share local concerns and interact repeatedly over months or years. Those social connections create a useful sense of community, but they can also lower the level of scrutiny applied to claims.
 
-Research into trust in Facebook groups found that users tend to trust smaller, more exclusive and socially connected groups more than large anonymous ones. That trust can improve cooperation, yet it also means information may be accepted because of who shared it rather than because the evidence is strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv When Do People Trust Their Social Groups?</span><span class="citation-popover-snippet">When Do People Trust Their Social Groups?May 13, 2019...</span><span class="citation-popover-meta">Published: May 13, 2019</span></span></span>
+Research into trust in Facebook groups found that users tend to trust smaller, more exclusive and socially connected groups more than large anonymous ones. That trust can improve cooperation, yet it also means information may be accepted because of who shared it rather than because the evidence is strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv When Do People Trust Their Social Groups?</span><span class="citation-popover-snippet">When Do People Trust Their Social Groups?May 13, 2019...</span><span class="citation-popover-meta">Published: May 13, 2019</span></span></span>
 
 A typical example is a screenshot claiming that:
 
@@ -308,7 +308,7 @@ A typical example is a screenshot claiming that:
 
 In many cases, group members do not see the original document, post or statement. They see a screenshot accompanied by a message such as "Just sharing what I was sent" or "My neighbour told me this is happening." The chain of verification becomes unclear, yet the claim gains credibility from social proximity.
 
-The mechanism is powerful because local information feels personally relevant. A questionable claim about a distant town may be ignored. The same claim attached to a familiar street, school or shopping area can trigger immediate sharing. Research on rumours and misinformation in closed messaging environments notes that information spreads quickly when it travels through trusted peer networks rather than through unknown sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">Rumors and Misinformation</span><span class="citation-popover-snippet">Rumors and MisinformationNovember 5, 2021 — Rumors can spread rapidly on Messaging Apps, in part because information is usually shar...</span><span class="citation-popover-meta">Published: November 5, 2021</span></span></span>
+The mechanism is powerful because local information feels personally relevant. A questionable claim about a distant town may be ignored. The same claim attached to a familiar street, school or shopping area can trigger immediate sharing. Research on rumours and misinformation in closed messaging environments notes that information spreads quickly when it travels through trusted peer networks rather than through unknown sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">Rumors and Misinformation</span><span class="citation-popover-snippet">Rumors and MisinformationNovember 5, 2021 — Rumors can spread rapidly on Messaging Apps, in part because information is usually shar...</span><span class="citation-popover-meta">Published: November 5, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bcME3JJIGo8" title="A Large Scale Study of Misinformation on WhatsApp - Dr Kiran Garimella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bcME3JJIGo8" target="_blank" rel="noopener noreferrer">A Large Scale Study of Misinformation on WhatsApp - Dr Kiran Garimella</a></p><p class="youtube-embed-meta">Channel: International Multimodal Communication Centre &middot; Views: 165 &middot; Uploaded: March 2021 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bcME3JJIGo8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bcME3JJIGo8">Open on YouTube</a></p></div></div></div>
@@ -331,7 +331,7 @@ This creates a particular problem for screenshots. Once an image leaves its orig
 
 </div>
 
-Research on misinformation ecosystems has shown that communities can become increasingly reliant on information generated and circulated within the platform itself rather than on external sources. In such environments, reposts and screenshots may gain authority simply because they have been repeatedly shared within the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.14542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Information Ecosystem of Conspiracy Theory: Examining the QAnon Narrative on FacebookNovember 26, 2022...</span><span class="citation-popover-meta">Published: November 26, 2022</span></span></span>
+Research on misinformation ecosystems has shown that communities can become increasingly reliant on information generated and circulated within the platform itself rather than on external sources. In such environments, reposts and screenshots may gain authority simply because they have been repeatedly shared within the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.14542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Information Ecosystem of Conspiracy Theory: Examining the QAnon Narrative on FacebookNovember 26, 2022...</span><span class="citation-popover-meta">Published: November 26, 2022</span></span></span>
 
 Local groups are especially vulnerable to this dynamic because members often value speed over verification. If a post appears to concern local safety, schools, planning decisions or public services, many people feel pressure to warn others immediately.
 
@@ -342,9 +342,9 @@ Local groups are especially vulnerable to this dynamic because members often val
 
 The problem becomes more serious when communities lack strong local journalism.
 
-A growing body of research on "[news deserts]({{ 'news-deserts/' | relative_url }})"—areas with little or no independent local news coverage—suggests that residents increasingly turn to social media groups and neighbourhood forums for local information. Studies in the UK, North America and elsewhere have documented how reductions in local reporting can leave communities more dependent on informal online networks. The Guardian+3City St George's, University of London+3MDPI <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[citystgeorges.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-snippet">City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</span></span></span>
+A growing body of research on "[news deserts]({{ 'news-deserts/' | relative_url }})"—areas with little or no independent local news coverage—suggests that residents increasingly turn to social media groups and neighbourhood forums for local information. Studies in the UK, North America and elsewhere have documented how reductions in local reporting can leave communities more dependent on informal online networks. The Guardian+3City St George's, University of London+3MDPI<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[citystgeorges.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-snippet">City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</span></span></span>
 
-Recent UK research by the Social Market Foundation analysed more than 125,000 posts across local online communities and found misinformation substantially more common in areas with weak local journalism. Researchers reported that misinformation was nearly three times more prevalent in local news deserts and increased around election periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+Recent UK research by the Social Market Foundation analysed more than 125,000 posts across local online communities and found misinformation substantially more common in areas with weak local journalism. Researchers reported that misinformation was nearly three times more prevalent in local news deserts and increased around election periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 This does not mean local groups are inherently unreliable. Many provide valuable updates about road closures, weather disruptions, lost pets and community events. The issue is that when professional reporting becomes scarce, community groups often inherit functions they were never designed to perform:
 
@@ -359,7 +359,7 @@ This does not mean local groups are inherently unreliable. Many provide valuable
 
 </div>
 
-When those functions weaken, screenshots and reposts can become substitutes for evidence rather than starting points for investigation. Taylor &amp; Francis Online+2The Expanding News Desert <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">news deserts (n = 1,007) with a content analysis of posts (n = 3,010) from Facebook pages...Read more...</span></span></span>
+When those functions weaken, screenshots and reposts can become substitutes for evidence rather than starting points for investigation. Taylor &amp; Francis Online+2The Expanding News Desert<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">news deserts (n = 1,007) with a content analysis of posts (n = 3,010) from Facebook pages...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-2-dark.svg" | relative_url }}" alt="Local Groups illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_local_group_screensh_0d4640-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -369,9 +369,9 @@ One of the most common mistakes in local groups is treating independent sharing 
 
 Imagine a screenshot appears in five neighbourhood groups. To a casual observer, this may look like five separate sources. In reality, all five posts may trace back to the same unverified image.
 
-This creates what can be called a "local echo" effect. The claim appears repeatedly, from different neighbours, in different groups. Each repost increases familiarity. Familiarity can be mistaken for truth, especially when people encounter the same claim multiple times from socially trusted contacts. Research on misinformation consistently identifies repeated exposure as an important factor in perceived credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">For example, several incidents of public health</span><span class="citation-popover-snippet">The disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 576 — The spread of misinformation in...</span></span></span>
+This creates what can be called a "local echo" effect. The claim appears repeatedly, from different neighbours, in different groups. Each repost increases familiarity. Familiarity can be mistaken for truth, especially when people encounter the same claim multiple times from socially trusted contacts. Research on misinformation consistently identifies repeated exposure as an important factor in perceived credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">For example, several incidents of public health</span><span class="citation-popover-snippet">The disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 576 — The spread of misinformation in...</span></span></span>
 
-The danger is particularly acute when screenshots involve allegations against identifiable individuals or groups. Community forums have repeatedly faced criticism for allowing unverified accusations to spread rapidly, creating reputational damage long before facts are established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Originating in the U.S. and spreading to the UK since 2022, these groups allow anonymous users to post photos and details of men they are...</span></span></span>
+The danger is particularly acute when screenshots involve allegations against identifiable individuals or groups. Community forums have repeatedly faced criticism for allowing unverified accusations to spread rapidly, creating reputational damage long before facts are established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Originating in the U.S. and spreading to the UK since 2022, these groups allow anonymous users to post photos and details of men they are...</span></span></span>
 
 ## Checks for Council, Police and Community Claims
 
@@ -385,7 +385,7 @@ A genuine council decision, planning notice, consultation document or public ann
 
 **Does the police force actually say this?**
 
-Many recurring [safety warnings]({{ 'safety-warnings/' | relative_url }}) circulate for years after being debunked. Police services frequently publish clarifications when false alerts spread through community networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Once again, an &#x27;official&#x27; warning by the police set social...Once again, an &#x27;official&#x27; warning by the police set social media al...</span></span></span>
+Many recurring [safety warnings]({{ 'safety-warnings/' | relative_url }}) circulate for years after being debunked. Police services frequently publish clarifications when false alerts spread through community networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Once again, an &#x27;official&#x27; warning by the police set social...Once again, an &#x27;official&#x27; warning by the police set social media al...</span></span></span>
 
 **Is the screenshot current?**
 
@@ -420,194 +420,194 @@ In the age of social media and AI-generated content, this distinction becomes in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Local Screenshots Feel So Trustworthy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Local Screenshots Feel So Trustworthy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how social trust can substitute for evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how social trust can substitute for evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Helps readers resist intuition-driven judgments in community discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers resist intuition-driven judgments in community discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating community-shared claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating community-shared claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="local-groups-51a489-why-local-screenshots-feel-so-trustworthy-critical-thinking-in-the-age-of-so-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ In the age of social media and AI-generated content, this distinction becomes in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ In the age of social media and AI-generated content, this distinction becomes in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ In the age of social media and AI-generated content, this distinction becomes in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ In the age of social media and AI-generated content, this distinction becomes in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ In the age of social media and AI-generated content, this distinction becomes in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,167 +813,167 @@ In the age of social media and AI-generated content, this distinction becomes in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv When Do People Trust Their Social Groups?  
-   Link: <a href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.05270</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Do People Trust Their Social Groups?May 13, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1905.05270" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.05270</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Do People Trust Their Social Groups?May 13, 2019...</p></details>
    Published: May 13, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unhcr.org  
    Title: Rumors and Misinformation  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors and MisinformationNovember 5, 2021 — Rumors can spread rapidly on Messaging Apps, in part because information is usually shar...</p></details>
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors and MisinformationNovember 5, 2021 — Rumors can spread rapidly on Messaging Apps, in part because information is usually shar...</p></details>
    Published: November 5, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.14542" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.14542</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Information Ecosystem of Conspiracy Theory: Examining the QAnon Narrative on FacebookNovember 26, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.14542" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.14542</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Information Ecosystem of Conspiracy Theory: Examining the QAnon Narrative on FacebookNovember 26, 2022...</p></details>
    Published: November 26, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-5172/5/3/78" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/5/3/78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sourcing Local Information in News Desertsby L Torre · 2024 · Cited by 14 — News deserts are communities without a local news outlet, or...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-5172/5/3/78" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/5/3/78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sourcing Local Information in News Desertsby L Torre · 2024 · Cited by 14 — News deserts are communities without a local news outlet, or...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news nearly three times more common in areas...5 days ago — Analysis of four Facebook groups in Gorton and Denton during the recent...</p></details>
+   Link:<a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news nearly three times more common in areas...5 days ago — Analysis of four Facebook groups in Gorton and Denton during the recent...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformation6 days ago — Our analysis of over 125,000 social media posts reveals the extent of...</p></details>
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformation6 days ago — Our analysis of over 125,000 social media posts reveals the extent of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: For example, several incidents of public health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 576 — The spread of misinformation in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 576 — The spread of misinformation in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Once again, an &#x27;official&#x27; warning by the police set social...Once again, an &#x27;official&#x27; warning by the police set social media al...</p></details>
+   Link:<a href="https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/roodepoortrecord/posts/once-again-an-official-warning-by-the-police-set-social-media-alight-the-past-fe/1768617833200533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Once again, an &#x27;official&#x27; warning by the police set social...Once again, an &#x27;official&#x27; warning by the police set social media al...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>l news outlets, a new report has found. Research from the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l news outlets, a new report has found. Research from the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/whyypublicmedia/posts/during-trust-truth-and-the-future-of-local-news-panel-discussions-examined-how-n/1441087901363273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whyypublicmedia/posts/during-trust-truth-and-the-future-of-local-news-panel-discussions-examined-how-n/1441087901363273/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d communities known as “news deserts.” While the role of trusted...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/whyypublicmedia/posts/during-trust-truth-and-the-future-of-local-news-panel-discussions-examined-how-n/1441087901363273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whyypublicmedia/posts/during-trust-truth-and-the-future-of-local-news-panel-discussions-examined-how-n/1441087901363273/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d communities known as “news deserts.” While the role of trusted...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: news deserts social media local news medill survey  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local News InitiativeWith no local news, those in news deserts turn to social media...10 Feb 2026 — The results showed that among news d...</p></details>
+   Link:<a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local News InitiativeWith no local news, those in news deserts turn to social media...10 Feb 2026 — The results showed that among news d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: citystgeorges.ac.uk  
-   Link: <a href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</p></details>
+   Link:<a href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/article/2024/jun/22/news-deserts-local-newspapers-democracy-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/article/2024/jun/22/news-deserts-local-newspapers-democracy-facebook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many local newspapers have closed, leading to fewer journalists covering larger areas and a significant reduction in local news coverage...</p></details>
+   Link:<a href="https://www.theguardian.com/media/article/2024/jun/22/news-deserts-local-newspapers-democracy-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/article/2024/jun/22/news-deserts-local-newspapers-democracy-facebook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many local newspapers have closed, leading to fewer journalists covering larger areas and a significant reduction in local news coverage...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts (n = 1,007) with a content analysis of posts (n = 3,010) from Facebook pages...Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts (n = 1,007) with a content analysis of posts (n = 3,010) from Facebook pages...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usnewsdeserts.com  
-   Link: <a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</p></details>
+   Link:<a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originating in the U.S. and spreading to the UK since 2022, these groups allow anonymous users to post photos and details of men they are...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35067105/toxic-facebook-groups-posting-lies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Originating in the U.S. and spreading to the UK since 2022, these groups allow anonymous users to post photos and details of men they are...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Without local papers, people turn...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Without local papers, people turn...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an understanding of whether users trust community...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an understanding of whether users trust community...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: esafety.gov.au  
    Title: deal with sextortion  
-   Link: <a href="https://www.esafety.gov.au/key-topics/image-based-abuse/deal-with-sextortion" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/image-based-abuse/deal-with-sextortion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dealing with sexual extortion27 May 2026 — Sexual extortion or &#x27;sextortion&#x27; is a form of blackmail where someone threatens to share a nud...</p></details>
+   Link:<a href="https://www.esafety.gov.au/key-topics/image-based-abuse/deal-with-sextortion" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/image-based-abuse/deal-with-sextortion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dealing with sexual extortion27 May 2026 — Sexual extortion or &#x27;sextortion&#x27; is a form of blackmail where someone threatens to share a nud...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lemonde.fr  
-   Link: <a href="https://www.lemonde.fr/en/opinion/article/2026/04/21/the-decline-of-local-journalism-is-a-challenge-for-democracy_6752650_23.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/opinion/article/2026/04/21/the-decline-of-local-journalism-is-a-challenge-for-democracy_6752650_23.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since December 2025, nearly 1,000 jobs have been lost in French print media, contributing to a broader loss of around 10,500 positions si...</p></details>
+   Link:<a href="https://www.lemonde.fr/en/opinion/article/2026/04/21/the-decline-of-local-journalism-is-a-challenge-for-democracy_6752650_23.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/opinion/article/2026/04/21/the-decline-of-local-journalism-is-a-challenge-for-democracy_6752650_23.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since December 2025, nearly 1,000 jobs have been lost in French print media, contributing to a broader loss of around 10,500 positions si...</p></details>
    Published: December 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pa.media  
-   Link: <a href="https://pa.media/pa-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://pa.media/pa-fact-check/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PA Fact CheckTo contact the PA Fact Check team, or to request that we fact check a particular high-profile claim, you can email us at: Fa...</p></details>
+   Link:<a href="https://pa.media/pa-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://pa.media/pa-fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PA Fact CheckTo contact the PA Fact Check team, or to request that we fact check a particular high-profile claim, you can email us at: Fa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: x.com  
-   Link: <a href="https://x.com/pressgazette/status/2064262530579476726" target="_blank" rel="noopener noreferrer nofollow">https://x.com/pressgazette/status/2064262530579476726</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformationA report from the Social Market Foundation has found areas deemed local news deserts h...</p></details>
+   Link:<a href="https://x.com/pressgazette/status/2064262530579476726" target="_blank" rel="noopener noreferrer nofollow">https://x.com/pressgazette/status/2064262530579476726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformationA report from the Social Market Foundation has found areas deemed local news deserts h...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/video/social-media-news-desert-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/video/social-media-news-desert-june-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the voidHowever, these platforms lack journalistic integrity, leading to rampant misinform...</p></details>
+   Link:<a href="https://www.wral.com/video/social-media-news-desert-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/video/social-media-news-desert-june-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the voidHowever, these platforms lack journalistic integrity, leading to rampant misinform...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media groups fuel misinformation in UK, report findsLocal social media groups are fuelling misinformation in areas with no reliabl...</p></details>
+   Link:<a href="https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>social media groups fuel misinformation in UK, report findsLocal social media groups are fuelling misinformation in areas with no reliabl...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: policyalternatives.ca  
    Title: quality not just quantity of news outlets matter especially in rural canada  
-   Link: <a href="https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts appear to be no more susceptible to misinformation than those who are served by local news media. This may have a lot to do...</p></details>
+   Link:<a href="https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts appear to be no more susceptible to misinformation than those who are served by local news media. This may have a lot to do...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mediaengagement.org  
-   Link: <a href="https://mediaengagement.org/wp-content/uploads/2022/12/Even-in-News-Deserts-People-Still-Get-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediaengagement.org/wp-content/uploads/2022/12/Even-in-News-Deserts-People-Still-Get-News.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using both methods, we identified a total of 386 local news Facebook pages or...Read mor...</p></details>
+   Link:<a href="https://mediaengagement.org/wp-content/uploads/2022/12/Even-in-News-Deserts-People-Still-Get-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediaengagement.org/wp-content/uploads/2022/12/Even-in-News-Deserts-People-Still-Get-News.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using both methods, we identified a total of 386 local news Facebook pages or...Read mor...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: smartthinking.org.uk  
-   Link: <a href="https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al media, the proliferation of misinformation, spam and extreme material in...Read more...</p></details>
+   Link:<a href="https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al media, the proliferation of misinformation, spam and extreme material in...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cmpf.eui.eu  
    Title: news deserts on the rise and local media across the eu  
-   Link: <a href="https://cmpf.eui.eu/news-deserts-on-the-rise-and-local-media-across-the-eu/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/news-deserts-on-the-rise-and-local-media-across-the-eu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deserts on the rise: a first comparative study indicates...28 Feb 2024 — New study indicates the fragile situation for local media acros...</p></details>
+   Link:<a href="https://cmpf.eui.eu/news-deserts-on-the-rise-and-local-media-across-the-eu/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/news-deserts-on-the-rise-and-local-media-across-the-eu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deserts on the rise: a first comparative study indicates...28 Feb 2024 — New study indicates the fragile situation for local media acros...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: localnewsresearchproject.ca  
    Title: the rise of news deserts local journalism in crisis  
-   Link: <a href="https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2025, 603 local news outlets closed in 388 communities across Canada. Only 264 have launched and survived over the...Read more...</p></details>
+   Link:<a href="https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2025, 603 local news outlets closed in 388 communities across Canada. Only 264 have launched and survived over the...Read more...</p></details>

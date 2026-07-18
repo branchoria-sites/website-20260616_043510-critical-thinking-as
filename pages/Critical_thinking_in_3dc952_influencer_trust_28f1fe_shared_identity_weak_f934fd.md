@@ -284,17 +284,17 @@ A claim does not become true because it comes from “one of us”. Yet on socia
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-1-dark.svg" | relative_url }}" alt="Shared Identity illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty arises when identity shifts from a reason to listen to a reason to stop questioning. In those moments, weak claims can receive less scrutiny than they would if they came from a stranger. Research on social identity, trust and misinformation suggests that people frequently judge information through social belonging as well as factual content, especially in online environments where credibility cues are limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-snippet">Previous research suggests that interpersonal perceptions of...Read more...</span></span></span>
+The difficulty arises when identity shifts from a reason to listen to a reason to stop questioning. In those moments, weak claims can receive less scrutiny than they would if they came from a stranger. Research on social identity, trust and misinformation suggests that people frequently judge information through social belonging as well as factual content, especially in online environments where credibility cues are limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-snippet">Previous research suggests that interpersonal perceptions of...Read more...</span></span></span>
 
 ## Why Belonging Changes Credibility Judgments
 
 People rarely evaluate every claim from scratch. Social media presents more information than anyone can fully verify, so audiences rely on shortcuts. One of the strongest shortcuts is group membership.
 
-A person who seems to share our experiences can feel more trustworthy because we expect them to understand our concerns and act in ways that benefit the group. Social identity research has long found that people are more willing to trust those they perceive as members of their own group. Shared identity creates expectations of reciprocity, understanding and common interests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-snippet">Previous research suggests that interpersonal perceptions of...Read more...</span></span></span>
+A person who seems to share our experiences can feel more trustworthy because we expect them to understand our concerns and act in ways that benefit the group. Social identity research has long found that people are more willing to trust those they perceive as members of their own group. Shared identity creates expectations of reciprocity, understanding and common interests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-snippet">Previous research suggests that interpersonal perceptions of...Read more...</span></span></span>
 
 This becomes especially important in online spaces. A creator may signal identity through language, humour, appearance, profession, health status, political affiliation, religion, location or personal history. Once audiences classify someone as “people like us”, the question can subtly change from “Is this claim supported?” to “Why would one of us mislead us?” That shift lowers the perceived need for verification.
 
-Research on misinformation susceptibility also shows that social cues influence judgments when they create a sense that trusted others accept the information. People often use perceived consensus as [evidence]({{ 'evidence/' | relative_url }}), even when consensus itself may be unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — Each of these studies aimed to...</span></span></span>
+Research on misinformation susceptibility also shows that social cues influence judgments when they create a sense that trusted others accept the information. People often use perceived consensus as [evidence]({{ 'evidence/' | relative_url }}), even when consensus itself may be unreliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — Each of these studies aimed to...</span></span></span>
 
 The result is a protective effect around certain claims. Evidence standards become uneven. A weak claim from an in-group source may receive the benefit of the doubt, while a stronger claim from an outsider may face harsher scrutiny.
 
@@ -302,16 +302,16 @@ The result is a protective effect around certain claims. Evidence standards beco
 
 One of the most common misunderstandings in discussions of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) is the idea that recognising the limits of lived experience means dismissing lived experience. It does not.
 
-Lived experience can provide information that formal expertise cannot. Patients may notice patterns in healthcare systems. Teachers may understand classroom realities better than distant policymakers. Residents may identify local problems before journalists or officials do. Research on lived-experience roles increasingly recognises that personal experience can generate valuable forms of knowledge that institutions need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcomeopenresearch.org/documents/9-373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcomeopenresearch.org">[wellcomeopenresearch.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcomeopenresearch.org</span><span class="citation-popover-snippet">Document: How lived experience expertise shapes...13 Jul 2024 — Read the full document on Wellcome Open Research: How lived experience e...</span></span></span>
+Lived experience can provide information that formal expertise cannot. Patients may notice patterns in healthcare systems. Teachers may understand classroom realities better than distant policymakers. Residents may identify local problems before journalists or officials do. Research on lived-experience roles increasingly recognises that personal experience can generate valuable forms of knowledge that institutions need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcomeopenresearch.org/documents/9-373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcomeopenresearch.org">[wellcomeopenresearch.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcomeopenresearch.org</span><span class="citation-popover-snippet">Document: How lived experience expertise shapes...13 Jul 2024 — Read the full document on Wellcome Open Research: How lived experience e...</span></span></span>
 
-However, lived experience answers different questions from evidence-based claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lived experience researchers and...</span></span></span>
+However, lived experience answers different questions from evidence-based claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lived experience researchers and...</span></span></span>
 
 For example:
 
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
-* Lived experience can show that a problem exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lived experience researchers and...</span></span></span>
+* Lived experience can show that a problem exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lived experience researchers and...</span></span></span>
 * It can reveal how a policy affects people.
 * It can identify overlooked harms or benefits.
 * It cannot by itself establish how common something is.
@@ -324,7 +324,7 @@ A person may accurately describe what happened to them while drawing an incorrec
 
 Consider a creator who says, “I experienced this treatment and it harmed me.” That is a claim about experience. If the creator then says, “Therefore the treatment harms most people and experts are hiding it,” the second claim requires additional evidence. Shared identity can make audiences accept both claims together even though they require different standards of proof.
 
-Scholars examining lived expertise have repeatedly noted that experience is valuable but not unlimited. It contributes a perspective; it does not automatically settle factual disputes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristoluniversitypressdigital.com">[Bristol University Press Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristoluniversitypressdigital.com</span><span class="citation-popover-title">article p578.xml</span><span class="citation-popover-snippet">Bristol University Press DigitalDisability lived experience and expertise: recognising the...by S Clifton · 2025 · Cited by 12 — As peop...</span></span></span>
+Scholars examining lived expertise have repeatedly noted that experience is valuable but not unlimited. It contributes a perspective; it does not automatically settle factual disputes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristoluniversitypressdigital.com">[Bristol University Press Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristoluniversitypressdigital.com</span><span class="citation-popover-title">article p578.xml</span><span class="citation-popover-snippet">Bristol University Press DigitalDisability lived experience and expertise: recognising the...by S Clifton · 2025 · Cited by 12 — As peop...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uzHgtTN7JSo" title="Why do people fall for disinformation?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uzHgtTN7JSo" target="_blank" rel="noopener noreferrer">Why do people fall for disinformation?</a></p><p class="youtube-embed-meta">Channel: Cambridge Disinformation Summit &middot; Views: 346 &middot; Uploaded: December 2024 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uzHgtTN7JSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uzHgtTN7JSo">Open on YouTube</a></p></div></div></div>
@@ -345,11 +345,11 @@ A weak claim can become resistant to scrutiny when several factors combine:
 
 **Defensive framing.** Criticism is portrayed as an attack on the group rather than an evaluation of the evidence.
 
-Research on identity-driven misinformation highlights how narratives can become embedded in group loyalties and grievances, making factual challenges feel socially threatening rather than informative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/07439156221103852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDisinformation and Echo Chambersby C Diaz Ruiz · 2023 · Cited by 344 — This article investigates how disinformation circulat...</span></span></span>
+Research on identity-driven misinformation highlights how narratives can become embedded in group loyalties and grievances, making factual challenges feel socially threatening rather than informative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/07439156221103852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDisinformation and Echo Chambersby C Diaz Ruiz · 2023 · Cited by 344 — This article investigates how disinformation circulat...</span></span></span>
 
 At that point, scrutiny becomes harder. A request for evidence may be interpreted as disrespect. A correction may be seen as siding with outsiders. The discussion shifts from “Is this true?” to “Whose side are you on?”
 
-That transformation is particularly common in tightly connected online communities where trust is built through ongoing interaction rather than formal expertise. Studies of social media credibility show that trustworthiness, relatability and social influence often shape judgments alongside, and sometimes ahead of, evidence quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Assessing the Credibility of Health Information from Social</span><span class="citation-popover-snippet">Assessing the Credibility of Health Information from Social...October 16, 2025 — Findings show that credibility judgments ar...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+That transformation is particularly common in tightly connected online communities where trust is built through ongoing interaction rather than formal expertise. Studies of social media credibility show that trustworthiness, relatability and social influence often shape judgments alongside, and sometimes ahead of, evidence quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Assessing the Credibility of Health Information from Social</span><span class="citation-popover-snippet">Assessing the Credibility of Health Information from Social...October 16, 2025 — Findings show that credibility judgments ar...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-2-dark.svg" | relative_url }}" alt="Shared Identity illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_shared_identity_weak_f934fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,7 +357,7 @@ That transformation is particularly common in tightly connected online communiti
 
 Identity-based trust has become more influential as information environments become more personalised.
 
-Many people now encounter news, health advice, financial guidance and AI-related claims through creators who feel familiar rather than through traditional institutions. Local online groups, niche communities and influencer networks can become [primary sources]({{ 'primary-sources/' | relative_url }}) of information. Recent research in the UK has warned that highly trusted local online communities can become significant channels for misinformation when strong verification norms are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+Many people now encounter news, health advice, financial guidance and AI-related claims through creators who feel familiar rather than through traditional institutions. Local online groups, niche communities and influencer networks can become [primary sources]({{ 'primary-sources/' | relative_url }}) of information. Recent research in the UK has warned that highly trusted local online communities can become significant channels for misinformation when strong verification norms are absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 AI may intensify this dynamic. Generative tools make it easier to create persuasive content that imitates the language, concerns and cultural style of particular groups. A message does not need to be factually strong if it feels socially authentic. The appearance of shared identity can be manufactured at scale.
 
@@ -426,194 +426,194 @@ Shared identity can be an excellent reason to listen. It can reveal experiences,
 The central critical-thinking challenge is recognising the difference between a claim that deserves attention and a claim that has been demonstrated. Social media often compresses those two steps into one. When “people like us” becomes evidence in itself, weak claims can survive longer than they should. The most reliable response is [not cynicism]({{ 'not-cynicism/' | relative_url }}) toward identity, but consistency: listen carefully, value experience, and then ask the same question that every claim ultimately faces—what supports it?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When &#x27;People Like US&#x27; Becomes Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When &#x27;People Like US&#x27; Becomes Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Examines misinformation through social and psychological mechanisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines misinformation through social and psychological mechanisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based thinking beyond identity cues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based thinking beyond identity cues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collective Illusions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collective Illusions">Collective Illusions</a>
-        </h4>
-        <p class="fr-book-author">By Todd Rose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collective Illusions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collective Illusions">Collective Illusions</a>
+</h4>
+<p class="fr-book-author">By Todd Rose</p>
         
-        <p class="fr-book-desc">Directly addresses social pressure and perceived consensus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses social pressure and perceived consensus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Collective+Illusions+Todd+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="shared-identity-when-people-like-us-becomes-proof-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ The central critical-thinking challenge is recognising the difference between a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ The central critical-thinking challenge is recognising the difference between a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ The central critical-thinking challenge is recognising the difference between a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ The central critical-thinking challenge is recognising the difference between a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ The central critical-thinking challenge is recognising the difference between a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,118 +819,118 @@ The central critical-thinking challenge is recognising the difference between a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — Misinformation has been identified as...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — Misinformation has been identified as...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335950236_Your_fake_news_our_facts_Identity-based_motivation_shapes_what_we_believe_share_and_accept" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335950236_Your_fake_news_our_facts_Identity-based_motivation_shapes_what_we_believe_share_and_accept</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Your fake news, our facts: Identity-based motivation...20 Sept 2019 — The psychology of fake news: Accepting, sharing...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335950236_Your_fake_news_our_facts_Identity-based_motivation_shapes_what_we_believe_share_and_accept" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335950236_Your_fake_news_our_facts_Identity-based_motivation_shapes_what_we_believe_share_and_accept</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Your fake news, our facts: Identity-based motivation...20 Sept 2019 — The psychology of fake news: Accepting, sharing...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — Each of these studies aimed to...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 74 — Each of these studies aimed to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wellcomeopenresearch.org  
-   Link: <a href="https://wellcomeopenresearch.org/documents/9-373" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/documents/9-373</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Document: How lived experience expertise shapes...13 Jul 2024 — Read the full document on Wellcome Open Research: How lived experience e...</p></details>
+   Link:<a href="https://wellcomeopenresearch.org/documents/9-373" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/documents/9-373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document: How lived experience expertise shapes...13 Jul 2024 — Read the full document on Wellcome Open Research: How lived experience e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lived experience researchers and...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10127294/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lived experience researchers and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate Assessing the Credibility of Health Information from Social  
-   Link: <a href="https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Credibility of Health Information from Social...October 16, 2025 — Findings show that credibility judgments ar...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396635279_Assessing_the_Credibility_of_Health_Information_from_Social_Media_Influencers_A_Systematic_Review_and_a_Model_of_Young_Adults%27_Evaluation_Behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Credibility of Health Information from Social...October 16, 2025 — Findings show that credibility judgments ar...</p></details>
    Published: October 16, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385002756_The_Roles_of_Identity-_and_Belief-Driven_Motivated_Reasoning_and_Source_Credibility_in_Persuasion_on_Climate_Change_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385002756_The_Roles_of_Identity-_and_Belief-Driven_Motivated_Reasoning_and_Source_Credibility_in_Persuasion_on_Climate_Change_Policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>credibility but because credibility judgments are equally susceptible to directional motivated reasoning.... misinformation with pre-emp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385002756_The_Roles_of_Identity-_and_Belief-Driven_Motivated_Reasoning_and_Source_Credibility_in_Persuasion_on_Climate_Change_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385002756_The_Roles_of_Identity-_and_Belief-Driven_Motivated_Reasoning_and_Source_Credibility_in_Persuasion_on_Climate_Change_Policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>credibility but because credibility judgments are equally susceptible to directional motivated reasoning.... misinformation with pre-emp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research suggests that interpersonal perceptions of...Read more...</p></details>
+   Link:<a href="https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/portalfiles/portal/2077094/178795.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research suggests that interpersonal perceptions of...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bristoluniversitypressdigital.com  
    Title: article p578.xml  
-   Link: <a href="https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml" target="_blank" rel="noopener noreferrer nofollow">https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bristol University Press DigitalDisability lived experience and expertise: recognising the...by S Clifton · 2025 · Cited by 12 — As peop...</p></details>
+   Link:<a href="https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml" target="_blank" rel="noopener noreferrer nofollow">https://bristoluniversitypressdigital.com/view/journals/evp/21/4/article-p578.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bristol University Press DigitalDisability lived experience and expertise: recognising the...by S Clifton · 2025 · Cited by 12 — As peop...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/07439156221103852" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/07439156221103852</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDisinformation and Echo Chambersby C Diaz Ruiz · 2023 · Cited by 344 — This article investigates how disinformation circulat...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/07439156221103852" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/07439156221103852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDisinformation and Echo Chambersby C Diaz Ruiz · 2023 · Cited by 344 — This article investigates how disinformation circulat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: natoassociation.ca  
-   Link: <a href="https://natoassociation.ca/why-we-believe-the-psychology-of-misinformation-and-the-fragility-of-collective-consciousness/" target="_blank" rel="noopener noreferrer nofollow">https://natoassociation.ca/why-we-believe-the-psychology-of-misinformation-and-the-fragility-of-collective-consciousness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Believe: The Psychology of Misinformation and...3 Feb 2026 — A growing body of research suggests that susceptibility to misinform...</p></details>
+   Link:<a href="https://natoassociation.ca/why-we-believe-the-psychology-of-misinformation-and-the-fragility-of-collective-consciousness/" target="_blank" rel="noopener noreferrer nofollow">https://natoassociation.ca/why-we-believe-the-psychology-of-misinformation-and-the-fragility-of-collective-consciousness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Believe: The Psychology of Misinformation and...3 Feb 2026 — A growing body of research suggests that susceptibility to misinform...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sicherheitsrelevante-forschung.org  
-   Link: <a href="https://www.sicherheitsrelevante-forschung.org/the-persuasive-effects-of-social-cues-and-source-effects-on-misinformation-susceptibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.sicherheitsrelevante-forschung.org/the-persuasive-effects-of-social-cues-and-source-effects-on-misinformation-susceptibility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source...10 Jul 2024 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinforma...</p></details>
+   Link:<a href="https://www.sicherheitsrelevante-forschung.org/the-persuasive-effects-of-social-cues-and-source-effects-on-misinformation-susceptibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.sicherheitsrelevante-forschung.org/the-persuasive-effects-of-social-cues-and-source-effects-on-misinformation-susceptibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source...10 Jul 2024 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinforma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsun.org.uk  
    Title: understanding the identity of lived experience researchers and providers  
-   Link: <a href="https://www.nsun.org.uk/understanding-the-identity-of-lived-experience-researchers-and-providers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsun.org.uk/understanding-the-identity-of-lived-experience-researchers-and-providers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSUN websiteUnderstanding the identity of lived experience researchers...11 Aug 2022 — Lived experience researcher and provider roles re...</p></details>
+   Link:<a href="https://www.nsun.org.uk/understanding-the-identity-of-lived-experience-researchers-and-providers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsun.org.uk/understanding-the-identity-of-lived-experience-researchers-and-providers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSUN websiteUnderstanding the identity of lived experience researchers...11 Aug 2022 — Lived experience researcher and provider roles re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: livrepository.liverpool.ac.uk  
    Title: UNDERSTANDING THE IDENTITY OF LIVED EXPERIENCE RESEARCHERS  
-   Link: <a href="https://livrepository.liverpool.ac.uk/3169342/1/UNDERSTANDING%20THE%20IDENTITY%20OF%20LIVED%20EXPERIENCE%20RESEARCHERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3169342/1/UNDERSTANDING%20THE%20IDENTITY%20OF%20LIVED%20EXPERIENCE%20RESEARCHERS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the identity of lived experience researchers...by V Gupta · 2022 · Cited by 116 — The aim of the review is to identify how identity has...</p></details>
+   Link:<a href="https://livrepository.liverpool.ac.uk/3169342/1/UNDERSTANDING%20THE%20IDENTITY%20OF%20LIVED%20EXPERIENCE%20RESEARCHERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3169342/1/UNDERSTANDING%20THE%20IDENTITY%20OF%20LIVED%20EXPERIENCE%20RESEARCHERS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the identity of lived experience researchers...by V Gupta · 2022 · Cited by 116 — The aim of the review is to identify how identity has...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2026.2635512" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2026.2635512</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Enhancing mis- and disinformation detection...by MT Whitty · 2026 — Unlike disinformation, which is intentionally misleadi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2026.2635512" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2026.2635512</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Enhancing mis- and disinformation detection...by MT Whitty · 2026 — Unlike disinformation, which is intentionally misleadi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/experience-social-media-credibility-what-actually-counts-castle-low-ig4bc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/experience-social-media-credibility-what-actually-counts-castle-low-ig4bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>any one person&#x27;s experience with their therapist is extremely subjective...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/experience-social-media-credibility-what-actually-counts-castle-low-ig4bc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/experience-social-media-credibility-what-actually-counts-castle-low-ig4bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>any one person&#x27;s experience with their therapist is extremely subjective...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: henryjacksonsociety.org  
    Title: HJS The Psychology of Disinformation Report  
-   Link: <a href="https://henryjacksonsociety.org/wp-content/uploads/2026/05/HJS-The-Psychology-of-Disinformation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://henryjacksonsociety.org/wp-content/uploads/2026/05/HJS-The-Psychology-of-Disinformation-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HJS &#x27;The Psychology of Disinformation&#x27; Report.indd14 May 2026 — Unlike misinformation (which is shared in the misguided belief that it is...</p></details>
+   Link:<a href="https://henryjacksonsociety.org/wp-content/uploads/2026/05/HJS-The-Psychology-of-Disinformation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://henryjacksonsociety.org/wp-content/uploads/2026/05/HJS-The-Psychology-of-Disinformation-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HJS &#x27;The Psychology of Disinformation&#x27; Report.indd14 May 2026 — Unlike misinformation (which is shared in the misguided belief that it is...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: royalsocietypublishing.org  
    Title: The Misleading count an identity based  
-   Link: <a href="https://royalsocietypublishing.org/rstb/article/379/1897/20230040/109417/The-Misleading-count-an-identity-based" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rstb/article/379/1897/20230040/109417/The-Misleading-count-an-identity-based</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misleading count: an identity-based intervention to...by C Pretus · 2024 · Cited by 44 — For instance, actual reporting of fake news...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rstb/article/379/1897/20230040/109417/The-Misleading-count-an-identity-based" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rstb/article/379/1897/20230040/109417/The-Misleading-count-an-identity-based</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misleading count: an identity-based intervention to...by C Pretus · 2024 · Cited by 44 — For instance, actual reporting of fake news...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why People Believe Misinformation: The Psychology of Fear | Beyond the Books  
-   Link: <a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Why do people fall for disinformation?[https://www.youtube.com/watch?v=uzHgtTN7JSo...&quot;](https://www.youtube.com/watch?v=uzHgtTN7JSo...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Why do people fall for disinformation?[https://www.youtube.com/watch?v=uzHgtTN7JSo...&quot;](https://www.youtube.com/watch?v=uzHgtTN7JSo...&quot;)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11588074/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11588074/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to online misinformation: A systematic meta...by M Sultan · 2024 · Cited by 131 — We synthesized 31 studies to uncover how key demograph...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11588074/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11588074/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to online misinformation: A systematic meta...by M Sultan · 2024 · Cited by 131 — We synthesized 31 studies to uncover how key demograph...</p></details>

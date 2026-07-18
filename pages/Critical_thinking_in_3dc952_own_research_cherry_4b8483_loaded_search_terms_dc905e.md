@@ -284,7 +284,7 @@ When people say they are “doing their [own research]({{ 'own-research/' | rela
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_loaded_search_terms_dc905e-Illustration-1-dark.svg" | relative_url }}" alt="Loaded Search illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_loaded_search_terms_dc905e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_loaded_search_terms_dc905e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The words used in a search query can quietly steer the investigation before any [evidence]({{ 'evidence/' | relative_url }}) is examined. A search for “evidence that climate data is manipulated” follows a different path from “how climate data is collected and audited”. A search for “vaccine dangers being hidden” differs from “evidence on vaccine risks and benefits”. In each case, the query already contains assumptions about what is likely to be true. Research on both academic and general search systems suggests that biased or confirmation-seeking queries can produce correspondingly biased result sets, reinforcing the user's starting belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday+2First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</span></span></span>
+The words used in a search query can quietly steer the investigation before any [evidence]({{ 'evidence/' | relative_url }}) is examined. A search for “evidence that climate data is manipulated” follows a different path from “how climate data is collected and audited”. A search for “vaccine dangers being hidden” differs from “evidence on vaccine risks and benefits”. In each case, the query already contains assumptions about what is likely to be true. Research on both academic and general search systems suggests that biased or confirmation-seeking queries can produce correspondingly biased result sets, reinforcing the user's starting belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday+2First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</span></span></span>
 
 This matters because personal research can become distorted long before the first article is opened. The search terms themselves may be choosing the route through the information landscape.
 
@@ -305,7 +305,7 @@ Consider three searches about the same topic:
 
 The first query asks the search engine to find material consistent with a scam narrative. The second seeks mixed evaluations. The third explicitly requests competing evidence. Even when all three searches concern the same claim, they are likely to produce noticeably different result sets.
 
-This is not merely a theoretical concern. An audit of Google Scholar and Semantic Scholar found that queries framed around risks or benefits produced results aligned with the embedded bias. The researchers concluded that biased queries affected search outcomes in the direction of the bias contained within the query. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</span></span></span>
+This is not merely a theoretical concern. An audit of Google Scholar and Semantic Scholar found that queries framed around risks or benefits produced results aligned with the embedded bias. The researchers concluded that biased queries affected search outcomes in the direction of the bias contained within the query.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</span></span></span>
 
 The key point is that search engines are generally responding to the user's wording rather than independently balancing the evidence.
 
@@ -333,7 +333,7 @@ First, it narrows the retrieval process. The search engine looks for documents c
 
 Second, it frames interpretation. If a person repeatedly searches using terms such as “cover-up” or “suppressed evidence”, they encounter information through a lens that assumes concealment. Every result is then evaluated within that frame.
 
-Researchers studying online search behaviour have also shown that users' prior beliefs influence the search terms they choose, creating a feedback loop in which beliefs shape queries and queries shape the information encountered. Recent work describes this as a “narrow search effect”, where belief-driven query choices can limit exposure to alternative evidence and reduce meaningful belief updating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+Researchers studying online search behaviour have also shown that users' prior beliefs influence the search terms they choose, creating a feedback loop in which beliefs shape queries and queries shape the information encountered. Recent work describes this as a “narrow search effect”, where belief-driven query choices can limit exposure to alternative evidence and reduce meaningful belief updating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
 The distortion often occurs gradually. A user may believe they are following the evidence, while the search process is repeatedly filtering evidence through assumption-laden wording.
 
@@ -410,7 +410,7 @@ Emotional wording often functions as a conclusion disguised as a question. Descr
 
 Search distortion does not always begin with the user's final query. It can start while the query is being typed.
 
-Autocomplete systems suggest likely completions based on patterns in previous searches and other signals. Researchers have noted that query suggestions can influence search behaviour by steering users towards particular formulations of a topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.02620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Reducing Misinformation in Query Autocompletions</span><span class="citation-popover-snippet">Reducing Misinformation in Query AutocompletionsJuly 6, 2020...</span><span class="citation-popover-meta">Published: July 6, 2020</span></span></span>
+Autocomplete systems suggest likely completions based on patterns in previous searches and other signals. Researchers have noted that query suggestions can influence search behaviour by steering users towards particular formulations of a topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.02620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Reducing Misinformation in Query Autocompletions</span><span class="citation-popover-snippet">Reducing Misinformation in Query AutocompletionsJuly 6, 2020...</span><span class="citation-popover-meta">Published: July 6, 2020</span></span></span>
 
 For example, someone beginning with a neutral query may encounter suggested phrases that imply controversy, fraud or scandal. Clicking a suggestion can move the search from exploration towards a predetermined narrative without the user consciously deciding to make that shift.
 
@@ -453,7 +453,7 @@ AI-assisted search tools introduce a related challenge. Large language models of
 
 A prompt such as “Explain why this theory is true” encourages a different response from “What is the strongest evidence for and against this theory?” The first invites a supportive narrative; the second asks for comparison.
 
-Researchers studying fact-checking tools and information retrieval have found that even small wording changes can lead to substantially different results and evidence paths. Variations in claim phrasing may retrieve different fact-checking records or different supporting materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Are Fact-Checking Tools Helpful? An Evaluation of Google...19 Jul 2024 — Google Fact Check is a promising search engine that facili...</span></span></span>
+Researchers studying fact-checking tools and information retrieval have found that even small wording changes can lead to substantially different results and evidence paths. Variations in claim phrasing may retrieve different fact-checking records or different supporting materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Are Fact-Checking Tools Helpful? An Evaluation of Google...19 Jul 2024 — Google Fact Check is a promising search engine that facili...</span></span></span>
 
 For this reason, the discipline of query reformulation remains important even when AI appears to be doing the searching on the user's behalf.
 
@@ -473,178 +473,178 @@ If the answer to the first question is yes, the search may already be steering t
 The strongest personal research habit is not finding more sources. It is learning to recognise when a search term has quietly embedded a conclusion. Once that happens, the research process risks becoming an exercise in locating support rather than discovering what the evidence actually shows.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Your Search Terms Choosing the Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Your Search Terms Choosing the Answer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that influence search wording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that influence search wording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of evidence returned by searches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of evidence returned by searches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="loaded-search-are-your-search-terms-choosing-the-answer-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -660,7 +660,7 @@ The strongest personal research habit is not finding more sources. It is learnin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -680,7 +680,7 @@ The strongest personal research habit is not finding more sources. It is learnin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -712,7 +712,7 @@ The strongest personal research habit is not finding more sources. It is learnin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -764,7 +764,7 @@ The strongest personal research habit is not finding more sources. It is learnin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -809,7 +809,7 @@ The strongest personal research habit is not finding more sources. It is learnin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,118 +850,118 @@ The strongest personal research habit is not finding more sources. It is learnin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
+   Link:<a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audit of academic search engines 1 The final version of...by C Kacperski · 2023 · Cited by 12 — This study examines whether confirmation...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audit of academic search engines 1 The final version of...by C Kacperski · 2023 · Cited by 12 — This study examines whether confirmation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.17286" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.17286</a>  
+   Link:<a href="https://arxiv.org/abs/2403.17286" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.17286</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Reducing Misinformation in Query Autocompletions  
-   Link: <a href="https://arxiv.org/abs/2007.02620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2007.02620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Misinformation in Query AutocompletionsJuly 6, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2007.02620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2007.02620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Misinformation in Query AutocompletionsJuly 6, 2020...</p></details>
    Published: July 6, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.13244v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Fact-Checking Tools Helpful? An Evaluation of Google...19 Jul 2024 — Google Fact Check is a promising search engine that facili...</p></details>
+   Link:<a href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.13244v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Fact-Checking Tools Helpful? An Evaluation of Google...19 Jul 2024 — Google Fact Check is a promising search engine that facili...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.13244</a>  
+   Link:<a href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.13244</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Check (ClaimReview) Markup for SearchDiscover how you can use ClaimReview structured data to enable a summarized fact check to display in...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Check (ClaimReview) Markup for SearchDiscover how you can use ClaimReview structured data to enable a summarized fact check to display in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check ToolsThis tool allows you to easily browse and search for [fact checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;). For example, you can search for a politician&#x27;s statemen...</p></details>
+   Link:<a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check ToolsThis tool allows you to easily browse and search for [fact checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;). For example, you can search for a politician&#x27;s statemen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/intl/en_us/search/howsearchworks/information-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/information-quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helping you evaluate information onlineCritically evaluate information online. Discover tools from Google, like &quot;About this Result&quot; and F...</p></details>
+   Link:<a href="https://www.google.com/intl/en_us/search/howsearchworks/information-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/information-quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helping you evaluate information onlineCritically evaluate information online. Discover tools from Google, like &quot;About this Result&quot; and F...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/13730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</p></details>
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/view/13730" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/13730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First MondayExamining bias perpetuation in academic search enginesby C Kacperski · 2024 · Cited by 12 — This study examines whether confi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/download/13730/11709" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/download/13730/11709</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmation biased qu...</p></details>
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/download/13730/11709" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/download/13730/11709</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmation biased qu...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385538931_Examining_bias_perpetuation_in_academic_search_engines_An_algorithm_audit_of_Google_and_Semantic_Scholar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385538931_Examining_bias_perpetuation_in_academic_search_engines_An_algorithm_audit_of_Google_and_Semantic_Scholar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining bias perpetuation in academic search enginesThis study examines whether confirmation biased queries prompted into Google Schola...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385538931_Examining_bias_perpetuation_in_academic_search_engines_An_algorithm_audit_of_Google_and_Semantic_Scholar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385538931_Examining_bias_perpetuation_in_academic_search_engines_An_algorithm_audit_of_Google_and_Semantic_Scholar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining bias perpetuation in academic search enginesThis study examines whether confirmation biased queries prompted into Google Schola...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verifying online information: The absolute essentials14 Oct 2019 — This is your little condensed guide to the wizardry of verification...</p></details>
+   Link:<a href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verifying online information: The absolute essentials14 Oct 2019 — This is your little condensed guide to the wizardry of verification...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Tech Policy Press  
    Title: new research suggests online search can increase belief in misinformation  
-   Link: <a href="https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Research Suggests Online Search Can Increase...20 Dec 2023 — The paper, titled “Online searches to evaluate misinformation can incre...</p></details>
+   Link:<a href="https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Research Suggests Online Search Can Increase...20 Dec 2023 — The paper, titled “Online searches to evaluate misinformation can incre...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LTJygQwYV84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LTJygQwYV84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Research: Tips for Effective Search StrategiesGo to channel Learning and Technology with Frank &amp;middot; How to research on the Int...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LTJygQwYV84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LTJygQwYV84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Research: Tips for Effective Search StrategiesGo to channel Learning and Technology with Frank &amp;middot; How to research on the Int...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blog.google  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/evaluating-information-online-tools/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/evaluating-information-online-tools/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful Search tools for evaluating information online29 Sept 2021 — We highlight relevant fact checks on results in Search, News and Goo...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/evaluating-information-online-tools/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/evaluating-information-online-tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful Search tools for evaluating information online29 Sept 2021 — We highlight relevant fact checks on results in Search, News and Goo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/when-to-worry-about-sensitivity-bias-a-social-reference-theory-and-evidence-from-30-years-of-list-experiments/3B922CC54881BA694E4D4B07FD286060" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/american-political-science-review/article/when-to-worry-about-sensitivity-bias-a-social-reference-theory-and-evidence-from-30-years-of-list-experiments/3B922CC54881BA694E4D4B07FD286060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When to Worry about Sensitivity Bias: A Social Reference...by G BLAIR · 2020 · Cited by 349 — We find that sensitivity biases are typica...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/when-to-worry-about-sensitivity-bias-a-social-reference-theory-and-evidence-from-30-years-of-list-experiments/3B922CC54881BA694E4D4B07FD286060" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/american-political-science-review/article/when-to-worry-about-sensitivity-bias-a-social-reference-theory-and-evidence-from-30-years-of-list-experiments/3B922CC54881BA694E4D4B07FD286060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When to Worry about Sensitivity Bias: A Social Reference...by G BLAIR · 2020 · Cited by 349 — We find that sensitivity biases are typica...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: apa.org  
    Title: how why misinformation spreads  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation when it aligns with personal identity...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation when it aligns with personal identity...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
    Title: Google, How Should I Vote?  
-   Link: <a href="https://www.researchgate.net/publication/384563048_Google_How_Should_I_Vote_How_Users_Formulate_Search_Queries_to_Find_Political_Information_on_Search_Engines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384563048_Google_How_Should_I_Vote_How_Users_Formulate_Search_Queries_to_Find_Political_Information_on_Search_Engines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Formulate Search...by V Vziatysheva · 2024 · Cited by 1 — This study examines how users formulate search queries related to th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384563048_Google_How_Should_I_Vote_How_Users_Formulate_Search_Queries_to_Find_Political_Information_on_Search_Engines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384563048_Google_How_Should_I_Vote_How_Users_Formulate_Search_Queries_to_Find_Political_Information_on_Search_Engines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Formulate Search...by V Vziatysheva · 2024 · Cited by 1 — This study examines how users formulate search queries related to th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ofcom.org.uk  
    Title: rea online misinformation  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021 — The review is focused on studies that measure the effectiveness of...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021 — The review is focused on studies that measure the effectiveness of...</p></details>

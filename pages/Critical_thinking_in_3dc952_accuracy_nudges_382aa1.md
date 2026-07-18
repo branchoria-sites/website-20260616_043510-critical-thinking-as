@@ -416,13 +416,13 @@ Accuracy nudges are small prompts that ask people to think about truth before th
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1-overview.webp" | relative_url }}" alt="Overview image for Accuracy Nudge" loading="eager" decoding="sync" fetchpriority="high">
-The idea is not that users are foolish or that one pop-up can fix misinformation. It is that social feeds often push accuracy out of focus. Experiments led by Gordon Pennycook and David Rand found that headline truth strongly affected people’s accuracy judgements, but had much less effect on their sharing intentions; when attention was shifted back to accuracy, sharing discernment improved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
+The idea is not that users are foolish or that one pop-up can fix misinformation. It is that social feeds often push accuracy out of focus. Experiments led by Gordon Pennycook and David Rand found that headline truth strongly affected people’s accuracy judgements, but had much less effect on their sharing intentions; when attention was shifted back to accuracy, sharing discernment improved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
 
 ## Why sharing changes judgement
 
 A person reading a headline in private may ask, “Is this true?” A person about to repost it may be answering a different question: “Will my friends care?”, “Does this expose hypocrisy?”, “Will this help my side?”, or “Do I need to warn people quickly?” That shift is central to why accuracy nudges are interesting. They do not primarily add new facts; they change which value is salient at the instant of amplification.
 
-The Nature study “Shifting attention to accuracy can reduce misinformation online” is important because it separates belief from sharing. Its authors report that people’s accuracy judgements were much more sensitive to whether headlines were true or false than their sharing intentions were. Many participants also said that sharing only accurate news was important to them, suggesting a gap between values and platform behaviour rather than simple indifference to truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
+The Nature study “Shifting attention to accuracy can reduce misinformation online” is important because it separates belief from sharing. Its authors report that people’s accuracy judgements were much more sensitive to whether headlines were true or false than their sharing intentions were. Many participants also said that sharing only accurate news was important to them, suggesting a gap between values and platform behaviour rather than simple indifference to truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
 
 This matters for [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) because viral posts often arrive wrapped in urgency. A claim about a public health threat, an election rule, a local crime, a war image or an AI-generated scandal may feel too consequential to ignore. But urgency is exactly when a feed’s incentives can be most distorting: the post rewards speed, while verification requires friction.
 
@@ -434,13 +434,13 @@ Accuracy nudges try to insert that friction at the least intrusive point. Instea
 
 The strongest case for accuracy nudges is that they are simple, scalable and content-neutral. They do not require a platform to pre-label every post as true or false. They ask users to bring their own truth standards back into the sharing decision.
 
-A 2022 Nature Communications paper reported that [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) were replicable and generalisable across a large set of experiments. Across 20 experiments with 26,863 participants, prompts increased the quality of news people said they would share, mainly by reducing sharing intentions for false headlines. The reported reduction in false-headline sharing intentions was about 10% relative to control conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased the quality of news that people share (sharing discernment)...</span></span></span>
+A 2022 Nature Communications paper reported that [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) were replicable and generalisable across a large set of experiments. Across 20 experiments with 26,863 participants, prompts increased the quality of news people said they would share, mainly by reducing sharing intentions for false headlines. The reported reduction in false-headline sharing intentions was about 10% relative to control conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased the quality of news that people share (sharing discernment)...</span></span></span>
 
 The prompt does not have to be complicated. In some studies, users were simply asked to judge the accuracy of a headline before continuing. That kind of prompt appears to work because it reminds people of a standard they often already endorse. It is less like teaching a whole media literacy course and more like moving the “accuracy” question from the back of the mind to the front of the screen.
 
-A later simulated-newsfeed study tested accuracy prompts in a more realistic environment containing true news, false news and ordinary social posts. It found that prompts improved the quality of news sharing without affecting sharing of social, non-news posts or “liking” behaviour. That distinction is useful for implementation: a prompt may be most appropriate before a user shares news-like claims, not before every emotional reaction or personal update. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</span></span></span>
+A later simulated-newsfeed study tested accuracy prompts in a more realistic environment containing true news, false news and ordinary social posts. It found that prompts improved the quality of news sharing without affecting sharing of social, non-news posts or “liking” behaviour. That distinction is useful for implementation: a prompt may be most appropriate before a user shares news-like claims, not before every emotional reaction or personal update.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</span></span></span>
 
-The same study also tested coloured borders around news posts. Borders increased attention to news, but did not improve the effectiveness of accuracy prompts; in some cases they increased engagement with news regardless of whether it was true or false. The lesson is practical: not every design feature that attracts attention improves judgement. A good accuracy nudge should direct attention towards verification, not merely make news content more visually prominent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</span></span></span>
+The same study also tested coloured borders around news posts. Borders increased attention to news, but did not improve the effectiveness of accuracy prompts; in some cases they increased engagement with news regardless of whether it was true or false. The lesson is practical: not every design feature that attracts attention improves judgement. A good accuracy nudge should direct attention towards verification, not merely make news content more visually prominent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uC4JZ7TKAmc" title="How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer">How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 8.3K &middot; Uploaded: January 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uC4JZ7TKAmc">Open on YouTube</a></p></div></div></div>
@@ -449,7 +449,7 @@ The same study also tested coloured borders around news posts. Borders increased
 
 Accuracy nudges are most valuable before a post is shared, quote-posted or forwarded into another network. Once a claim has been amplified, later [corrections]({{ 'corrections/' | relative_url }}) must chase it through screenshots, group chats, copied captions and algorithmic recommendations. The intervention point matters because viral spread is front-loaded: many posts receive much of their engagement early, before formal fact-checking can catch up.
 
-Community Notes on X shows the same timing problem from a different angle. A 2026 Nature Communications study found that once community notes were displayed, they reduced the subsequent spread of misleading posts by an average of 61.2% and increased the odds that users deleted misleading posts. But the study also found that notes often appeared too late for the earliest viral phase, making the system-wide reduction in total engagement more modest at 14.9%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of misleading posts on X (formerly Twitter) &#124; Nature Communications...</span></span></span>
+Community Notes on X shows the same timing problem from a different angle. A 2026 Nature Communications study found that once community notes were displayed, they reduced the subsequent spread of misleading posts by an average of 61.2% and increased the odds that users deleted misleading posts. But the study also found that notes often appeared too late for the earliest viral phase, making the system-wide reduction in total engagement more modest at 14.9%.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of misleading posts on X (formerly Twitter) &#124; Nature Communications...</span></span></span>
 
 That finding supports the logic of pre-share nudges. Community [fact-checks]({{ 'fact-checks/' | relative_url }}) can be powerful after context appears, but a pre-share prompt acts before the repost. It asks the user to slow down at the point where their action can still prevent a false claim from entering another audience.
 
@@ -480,9 +480,9 @@ Accuracy nudges are not a full misinformation policy. They are weakest when user
 
 They can also fail through fatigue. If prompts appear constantly, users may treat them like cookie banners: another obstacle to click past. If prompts appear only on politically sensitive topics, they may be interpreted as partisan suppression. If prompts appear too late, after a post has already gone viral, they lose much of their preventive value.
 
-Evidence on political differences is mixed but important. A 2024 Psychological Science paper found that accuracy prompts improved sharing discernment among Republicans and conservatives across all 70 tested models, while some models suggested weaker effects among Republicans or Trump voters than among Democrats or Clinton/Biden voters. The practical implication is not that nudges only work for one side; it is that implementation should be tested across audiences, topics and political contexts rather than assumed to generalise perfectly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/09567976241232905" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">We observed significant partisan moderation</span><span class="citation-popover-snippet">Sage JournalsOn the Efficacy of Accuracy Prompts Across Partisan Linesby C Martel · 2024 · Cited by 56 — In all 70 models, accuracy promp...</span></span></span>
+Evidence on political differences is mixed but important. A 2024 Psychological Science paper found that accuracy prompts improved sharing discernment among Republicans and conservatives across all 70 tested models, while some models suggested weaker effects among Republicans or Trump voters than among Democrats or Clinton/Biden voters. The practical implication is not that nudges only work for one side; it is that implementation should be tested across audiences, topics and political contexts rather than assumed to generalise perfectly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/09567976241232905" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">We observed significant partisan moderation</span><span class="citation-popover-snippet">Sage JournalsOn the Efficacy of Accuracy Prompts Across Partisan Linesby C Martel · 2024 · Cited by 56 — In all 70 models, accuracy promp...</span></span></span>
 
-There is also a policy risk in overclaiming. Accuracy nudges can reduce some careless sharing, but they do not replace fact-checking, source transparency, media literacy, platform enforcement against coordinated manipulation, or better access to trustworthy information. The OECD has framed misinformation as a behavioural and governance problem, not merely an individual literacy problem, and has examined behavioural interventions alongside broader policy responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation and disinformation. An international effort using behavioural science to tackle the s...</span></span></span>
+There is also a policy risk in overclaiming. Accuracy nudges can reduce some careless sharing, but they do not replace fact-checking, source transparency, media literacy, platform enforcement against coordinated manipulation, or better access to trustworthy information. The OECD has framed misinformation as a behavioural and governance problem, not merely an individual literacy problem, and has examined behavioural interventions alongside broader policy responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation and disinformation. An international effort using behavioural science to tackle the s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy Nudge illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -515,194 +515,194 @@ Accuracy nudges are best understood as a low-cost first line of defence. They ar
 For platforms, the implementation challenge is to make the prompt timely enough to matter, narrow enough to feel legitimate, and varied enough to avoid fatigue. For policymakers, the lesson is that behavioural design should be evaluated in real conditions, not treated as a slogan. For users, the lesson is even simpler: the share button is not just expression. It is distribution. A one-second accuracy check can stop a false claim from borrowing your trust.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can One Pause Stop a False Share?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can One Pause Stop a False Share?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows practical methods for evaluating claims before sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical methods for evaluating claims before sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Covers prebunking, attention, and reducing misinformation spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers prebunking, attention, and reducing misinformation spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9352570-M.jpg" alt="Cover for Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illustrated Book of Bad Arguments">Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9352570-M.jpg" alt="Cover for Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illustrated Book of Bad Arguments">Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Helps readers identify flawed thinking behind misleading claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify flawed thinking behind misleading claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Book of Bad Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Book of Bad Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="accuracy-nudge-can-one-pause-stop-a-false-share-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -718,7 +718,7 @@ For platforms, the implementation challenge is to make the prompt timely enough 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -738,7 +738,7 @@ For platforms, the implementation challenge is to make the prompt timely enough 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -770,7 +770,7 @@ For platforms, the implementation challenge is to make the prompt timely enough 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -822,7 +822,7 @@ For platforms, the implementation challenge is to make the prompt timely enough 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -867,7 +867,7 @@ For platforms, the implementation challenge is to make the prompt timely enough 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -908,70 +908,70 @@ For platforms, the implementation challenge is to make the prompt timely enough 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
    Title: Shifting attention to accuracy can reduce misinformation online | Nature  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased the quality of news that people share (sharing discernment)...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased the quality of news that people share (sharing discernment)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of misleading posts on X (formerly Twitter) | Nature Communications...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of misleading posts on X (formerly Twitter) | Nature Communications...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation and disinformation. An international effort using behavioural science to tackle the s...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/an-international-effort-using-behavioural-science-to-tackle-the-spread-of-misinformation_b7709d4f-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation and disinformation. An international effort using behavioural science to tackle the s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewExamining accuracy-prompt efficacy in combination with using colored borders to differentiate news and social conten...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
    Title: We observed significant partisan moderation  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/09567976241232905" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09567976241232905</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOn the Efficacy of Accuracy Prompts Across Partisan Linesby C Martel · 2024 · Cited by 56 — In all 70 models, accuracy promp...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/09567976241232905" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09567976241232905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOn the Efficacy of Accuracy Prompts Across Partisan Linesby C Martel · 2024 · Cited by 56 — In all 70 models, accuracy promp...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Understanding the Science Behind Human Stupidity with Gordon Pennycook  
-   Link: <a href="https://www.youtube.com/watch?v=UYMCX6V7NeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UYMCX6V7NeI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David G. Rand | How polarization can help solve the misinformation problem...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UYMCX6V7NeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UYMCX6V7NeI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David G. Rand | How polarization can help solve the misinformation problem...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How You Can Help Combat Fake News | David Rand | TEDx Cambridge Salon  
-   Link: <a href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uC4JZ7TKAmc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Science Behind Human Stupidity with Gordon Pennycook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uC4JZ7TKAmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Science Behind Human Stupidity with Gordon Pennycook...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: S3D Distinguished Speaker Series: David Rand  
-   Link: <a href="https://www.youtube.com/watch?v=Ptn7jUPCAyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ptn7jUPCAyQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Laws: The Persuasion Machine: David Rand on How LLMs Can Reshape Political Beliefs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ptn7jUPCAyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ptn7jUPCAyQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Laws: The Persuasion Machine: David Rand on How LLMs Can Reshape Political Beliefs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Why do smart people believe dumb things?  
-   Link: <a href="https://www.youtube.com/watch?v=Zc75W18DKRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zc75W18DKRk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S3D Distinguished Speaker Series: David Rand...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zc75W18DKRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zc75W18DKRk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S3D Distinguished Speaker Series: David Rand...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5s1IuQe311I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5s1IuQe311I</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5s1IuQe311I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5s1IuQe311I</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: David G. Rand | How polarization can help solve the misinformation problem  
-   Link: <a href="https://www.youtube.com/watch?v=dINKXTsI_hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dINKXTsI_hc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=dINKXTsI_hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dINKXTsI_hc</a>  

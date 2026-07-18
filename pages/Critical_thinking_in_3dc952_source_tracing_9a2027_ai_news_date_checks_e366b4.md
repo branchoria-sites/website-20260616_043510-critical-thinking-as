@@ -284,7 +284,7 @@ AI-generated news answers can sound current even when they are built from outdat
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-1-dark.svg" | relative_url }}" alt="News checks illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because AI systems increasingly act as intermediaries between readers and journalism. News consumers are beginning to use chatbots and AI-powered search tools as news sources, especially younger audiences. Yet multiple studies and audits have found that AI systems can confuse publication dates, misidentify original reporting, cite the wrong article, or present stale information as current fact. reutersinstitute.politics.ox.ac.uk+2Columbia Journalism Review <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">The numbers are...</span></span></span>
+This matters because AI systems increasingly act as intermediaries between readers and journalism. News consumers are beginning to use chatbots and AI-powered search tools as news sources, especially younger audiences. Yet multiple studies and audits have found that AI systems can confuse publication dates, misidentify original reporting, cite the wrong article, or present stale information as current fact. reutersinstitute.politics.ox.ac.uk+2Columbia Journalism Review<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">dnr executive</span><span class="citation-popover-snippet">The numbers are...</span></span></span>
 
 For news-related questions, a date is not a minor detail. It is often the difference between a developing report, a corrected report, and a report that is no longer true.
 
@@ -292,11 +292,11 @@ For news-related questions, a date is not a minor detail. It is often the differ
 
 AI systems do not read news the way journalists or researchers do. They typically retrieve information from multiple sources, summarise it, and generate a coherent answer. This process can create several failure modes that are especially dangerous for news.
 
-One problem is source confusion. A 2025 audit by the Tow Center for Digital Journalism found that leading AI search tools frequently cited the wrong news article or credited information to the wrong publisher. In many tests, systems correctly recognised a piece of information but failed to identify its original source. Across a large set of evaluations, the tools failed to provide correct citation information in more than 60% of tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">For instance, DeepSeek misattributed the source of the...Read more...</span></span></span>
+One problem is source confusion. A 2025 audit by the Tow Center for Digital Journalism found that leading AI search tools frequently cited the wrong news article or credited information to the wrong publisher. In many tests, systems correctly recognised a piece of information but failed to identify its original source. Across a large set of evaluations, the tools failed to provide correct citation information in more than 60% of tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">For instance, DeepSeek misattributed the source of the...Read more...</span></span></span>
 
 Another problem is source synthesis. Rather than presenting one article, an AI system may combine details from several reports published at different times. A reader receives a smooth narrative, but important distinctions between early reporting, later [corrections]({{ 'corrections/' | relative_url }}), and updated information can disappear.
 
-Research into AI search systems also suggests that source selection itself can vary significantly from one system to another. Different systems may retrieve different news outlets for the same question, and the sources surfaced by generative search can differ substantially from those shown in traditional search results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.27790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI OverviewsApril 30, 2026...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
+Research into AI search systems also suggests that source selection itself can vary significantly from one system to another. Different systems may retrieve different news outlets for the same question, and the sources surfaced by generative search can differ substantially from those shown in traditional search results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.27790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI OverviewsApril 30, 2026...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
 
 The result is that a confident answer may conceal uncertainty about both the origin and timing of the information.
 
@@ -311,7 +311,7 @@ Consider a breaking political story. Early reports may identify a suspect, estim
 
 The same problem appears in public policy, elections, [court cases]({{ 'court-cases/' | relative_url }}), scientific announcements, corporate earnings, and international conflicts. A headline that was accurate before a vote, ruling, settlement, or ceasefire may become misleading after events develop.
 
-Studies examining AI responses to current affairs have repeatedly identified this issue. Research reported by the BBC found that major AI assistants produced factual distortions and errors in news-related answers, including incorrect dates, outdated roles for public figures, and missing contextual updates. Later research by the European Broadcasting Union and the BBC found that many news responses contained sourcing problems and outdated information, including claims that no longer reflected current circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Over half of the AI-generated responses were judged to have significant issues, including erroneous statements about political figures, m...</span></span></span>
+Studies examining AI responses to current affairs have repeatedly identified this issue. Research reported by the BBC found that major AI assistants produced factual distortions and errors in news-related answers, including incorrect dates, outdated roles for public figures, and missing contextual updates. Later research by the European Broadcasting Union and the BBC found that many news responses contained sourcing problems and outdated information, including claims that no longer reflected current circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Over half of the AI-generated responses were judged to have significant issues, including erroneous statements about political figures, m...</span></span></span>
 
 A simple date check can therefore answer a critical question: is the source describing the present situation, or merely a past stage of it?
 
@@ -334,7 +334,7 @@ A practical method is:
 
 </div>
 
-This approach mirrors professional verification practices. Journalistic verification guides emphasise that accurate reporting requires confirmation from multiple sources and that reliable information often emerges more slowly than online rumours or viral claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verificationhandbook.com">[verificationhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verificationhandbook.com</span><span class="citation-popover-snippet">Authored by leading journalists from the BBC, Storyful, ABC, Digital First Media and...Read more...</span></span></span>
+This approach mirrors professional verification practices. Journalistic verification guides emphasise that accurate reporting requires confirmation from multiple sources and that reliable information often emerges more slowly than online rumours or viral claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verificationhandbook.com">[verificationhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verificationhandbook.com</span><span class="citation-popover-snippet">Authored by leading journalists from the BBC, Storyful, ABC, Digital First Media and...Read more...</span></span></span>
 
 Independent confirmation is particularly important when a story involves:
 
@@ -359,7 +359,7 @@ In these cases, one article—even from a reputable outlet—may reflect only a 
 
 Many misinformation cases are not entirely fabricated. Instead, they recycle genuine content from the wrong time period.
 
-An old video may be presented as footage from a current protest. A photograph from a previous disaster may be attached to a new event. A politician's past statement may be shared as if it were made yesterday. Fact-checking organisations repeatedly encounter these patterns when examining viral claims tied to current news events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+An old video may be presented as footage from a current protest. A photograph from a previous disaster may be attached to a new event. A politician's past statement may be shared as if it were made yesterday. Fact-checking organisations repeatedly encounter these patterns when examining viral claims tied to current news events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 AI systems can inadvertently amplify this problem because they often focus on semantic similarity rather than temporal relevance. If an older article closely matches a query, it may be retrieved and summarised even when newer reporting exists.
 
@@ -372,7 +372,7 @@ For readers, this means that verifying a claim often starts with verifying its t
 
 Citations create an impression of transparency, but a citation is only useful if it leads to the correct source and the source actually supports the claim being made.
 
-Recent audits of AI search and citation systems have identified recurring problems, including incorrect attribution, inaccurate source identification, citation errors, and the use of questionable sources. Researchers have also found [evidence]({{ 'evidence/' | relative_url }}) that generative search systems sometimes cite AI-generated material and may repeatedly rely on a narrow set of sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[arXiv+3Columbia Journalism Review+3Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">For instance, DeepSeek misattributed the source of the...Read more...</span></span></span>
+Recent audits of AI search and citation systems have identified recurring problems, including incorrect attribution, inaccurate source identification, citation errors, and the use of questionable sources. Researchers have also found [evidence]({{ 'evidence/' | relative_url }}) that generative search systems sometimes cite AI-generated material and may repeatedly rely on a narrow set of sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[arXiv+3Columbia Journalism Review+3Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">For instance, DeepSeek misattributed the source of the...Read more...</span></span></span>
 
 For news questions, independent verification serves as a safeguard against these weaknesses. A reader who checks the original article, confirms the publication date, and compares reporting from another reputable outlet gains information that no citation alone can guarantee.
 
@@ -382,194 +382,194 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-3-dark.svg" | relative_url }}" alt="News checks illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_ai_news_date_checks_e366b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI news answers need a date check. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI news answers need a date check. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate news claims critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate news claims critically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explores how online platforms shape news consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how online platforms shape news consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of current events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of current events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="news-checks-why-ai-news-answers-need-a-date-check-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,138 +775,138 @@ The key habit is simple: treat every news answer as a time-stamped claim. Ask wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The numbers are...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The numbers are...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.27790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.27790</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI OverviewsApril 30, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.27790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.27790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI OverviewsApril 30, 2026...</p></details>
    Published: April 30, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv News Source Citing Patterns in AI Search Systems  
-   Link: <a href="https://arxiv.org/abs/2507.05301" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.05301</a>  
+   Link:<a href="https://arxiv.org/abs/2507.05301" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.05301</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An analysis of 3,000 responses by AI tools—such as ChatGPT, Copilot, Gemini, and Perplexity—in 14 languages showed that 81% of responses...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An analysis of 3,000 responses by AI tools—such as ChatGPT, Copilot, Gemini, and Perplexity—in 14 languages showed that 81% of responses...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: verificationhandbook.com  
-   Link: <a href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow">https://verificationhandbook.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authored by leading journalists from the BBC, Storyful, ABC, Digital First Media and...Read more...</p></details>
+   Link:<a href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow">https://verificationhandbook.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authored by leading journalists from the BBC, Storyful, ABC, Digital First Media and...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.23684" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.23684</a>  
+   Link:<a href="https://arxiv.org/abs/2605.23684" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.23684</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.14034" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.14034</a>  
+   Link:<a href="https://arxiv.org/abs/2405.14034" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.14034</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking International News &amp; ViewsFind latest news from every corner of the globe at Reuters.com, your online source for break...</p></details>
+   Link:<a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking International News &amp; ViewsFind latest news from every corner of the globe at Reuters.com, your online source for break...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.05301v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.05301v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Source Citing Patterns in AI Search Systems7 Jul 2025 — We find that while models from different providers cite distinct news source...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.05301v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.05301v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Source Citing Patterns in AI Search Systems7 Jul 2025 — We find that while models from different providers cite distinct news source...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cjr.org  
    Title: we compared eight ai search engines theyre all bad at citing news  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For instance, DeepSeek misattributed the source of the...Read more...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For instance, DeepSeek misattributed the source of the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines failed to...</p></details>
+   Link:<a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines failed to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over half of the AI-generated responses were judged to have significant issues, including erroneous statements about political figures, m...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over half of the AI-generated responses were judged to have significant issues, including erroneous statements about political figures, m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/solutions/verification-services/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/solutions/verification-services/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; Fact Checking ServicesReuters Fact Check team monitors the media, social media, and digital platforms for misinformation t...</p></details>
+   Link:<a href="https://reutersagency.com/solutions/verification-services/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/solutions/verification-services/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; Fact Checking ServicesReuters Fact Check team monitors the media, social media, and digital platforms for misinformation t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is a British news agency wholly owned by Thomson Reuters, a multinational information conglomerate. It employs around 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is a British news agency wholly owned by Thomson Reuters, a multinational information conglomerate. It employs around 2...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newslit.org  
-   Link: <a href="https://newslit.org/wp-content/uploads/2023/12/Breaking-News_Infographic_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/wp-content/uploads/2023/12/Breaking-News_Infographic_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHECKLISTQUALITY JOURNALISM AND VERIFICATION TAKE. TIME. Journalists have to interview people, gather documentation and confirm details w...</p></details>
+   Link:<a href="https://newslit.org/wp-content/uploads/2023/12/Breaking-News_Infographic_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/wp-content/uploads/2023/12/Breaking-News_Infographic_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHECKLISTQUALITY JOURNALISM AND VERIFICATION TAKE. TIME. Journalists have to interview people, gather documentation and confirm details w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalnewsauthority.com  
-   Link: <a href="https://nationalnewsauthority.com/news-reporting-standards" target="_blank" rel="noopener noreferrer nofollow">https://nationalnewsauthority.com/news-reporting-standards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Reporting Standards: Accuracy, Fairness, and VerificationIndividual-level obligations include the duty to independently verify claim...</p></details>
+   Link:<a href="https://nationalnewsauthority.com/news-reporting-standards" target="_blank" rel="noopener noreferrer nofollow">https://nationalnewsauthority.com/news-reporting-standards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Reporting Standards: Accuracy, Fairness, and VerificationIndividual-level obligations include the duty to independently verify claim...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/pedro-rodriguez-521b081_here-is-a-prompt-i-made-that-may-be-helpful-activity-7335715601593651201-Nr_n" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/pedro-rodriguez-521b081_here-is-a-prompt-i-made-that-may-be-helpful-activity-7335715601593651201-Nr_n</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You are a professional-grade AI fact-checker events. archival sources to verify authenticity. Providers must report...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/pedro-rodriguez-521b081_here-is-a-prompt-i-made-that-may-be-helpful-activity-7335715601593651201-Nr_n" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/pedro-rodriguez-521b081_here-is-a-prompt-i-made-that-may-be-helpful-activity-7335715601593651201-Nr_n</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You are a professional-grade AI fact-checker events. archival sources to verify authenticity. Providers must report...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: denverlibrary.org  
-   Link: <a href="https://www.denverlibrary.org/research-topics/spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.denverlibrary.org/research-topics/spotting-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This page is a guide to trustworthy resources for learning about, spotting, and fighting misinformation.Read more...</p></details>
+   Link:<a href="https://www.denverlibrary.org/research-topics/spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.denverlibrary.org/research-topics/spotting-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This page is a guide to trustworthy resources for learning about, spotting, and fighting misinformation.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve compiled a toolkit with fact-checking websites, verification tools and media literacy...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve compiled a toolkit with fact-checking websites, verification tools and media literacy...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: geobarta.com  
    Title: verify news sources spot misinformation 2026  
-   Link: <a href="https://geobarta.com/en/blog/verify-news-sources-spot-misinformation-2026" target="_blank" rel="noopener noreferrer nofollow">https://geobarta.com/en/blog/verify-news-sources-spot-misinformation-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify News Sources: A 2026 Guide to Spotting...7 Jan 2026 — Learn essential skills for verifying news sources and spotting misin...</p></details>
+   Link:<a href="https://geobarta.com/en/blog/verify-news-sources-spot-misinformation-2026" target="_blank" rel="noopener noreferrer nofollow">https://geobarta.com/en/blog/verify-news-sources-spot-misinformation-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify News Sources: A 2026 Guide to Spotting...7 Jan 2026 — Learn essential skills for verifying news sources and spotting misin...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxFact Check Tools RecentsClaim by x.com: Video shows masked, armed anti-immigrant &quot;New Republican Movement&quot; responding to Be...</p></details>
+   Link:<a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxFact Check Tools RecentsClaim by x.com: Video shows masked, armed anti-immigrant &quot;New Republican Movement&quot; responding to Be...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: writer.com  
    Title: fact checking in the age of ai  
-   Link: <a href="https://writer.com/blog/fact-checking-in-the-age-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://writer.com/blog/fact-checking-in-the-age-of-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking in the age of AI24 May 2023 — Learn how to fact-check AI-generated content and prevent the spread of misinformation with pr...</p></details>
+   Link:<a href="https://writer.com/blog/fact-checking-in-the-age-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://writer.com/blog/fact-checking-in-the-age-of-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking in the age of AI24 May 2023 — Learn how to fact-check AI-generated content and prevent the spread of misinformation with pr...</p></details>
    Published: May 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: govtech.com  
    Title: how often do ai search engines cite incorrect sources  
-   Link: <a href="https://www.govtech.com/question-of-the-day/how-often-do-ai-search-engines-cite-incorrect-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/question-of-the-day/how-often-do-ai-search-engines-cite-incorrect-sources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?14 Mar 2025 — A recent study from the Columbia Journalism Review&#x27;s Tow Center for Digital Journalism has found that GenAI-powered search...</p></details>
+   Link:<a href="https://www.govtech.com/question-of-the-day/how-often-do-ai-search-engines-cite-incorrect-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/question-of-the-day/how-often-do-ai-search-engines-cite-incorrect-sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?14 Mar 2025 — A recent study from the Columbia Journalism Review&#x27;s Tow Center for Digital Journalism has found that GenAI-powered search...</p></details>

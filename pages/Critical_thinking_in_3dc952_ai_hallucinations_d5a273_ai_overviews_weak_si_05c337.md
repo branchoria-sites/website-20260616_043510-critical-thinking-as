@@ -280,25 +280,25 @@ image: /assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_ov
 
 ## Introduction
 
-When Google rolled out AI Overviews in 2024, the promise was simple: instead of forcing users to sift through multiple links, Search would synthesise information from across the web and provide a direct answer. The problem was that the system sometimes transformed weak, ambiguous or joking web content into authoritative-sounding advice. In several highly publicised cases, AI Overviews appeared to recommend adding glue to pizza, eating rocks, or following other obviously bad guidance. These failures became important not because they were absurd, but because they revealed a deeper issue: when a search engine rewrites information into a single fluent answer, uncertainty can disappear even when the underlying [evidence]({{ 'evidence/' | relative_url }}) is fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: platformer.news">[Platformer+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">platformer.news</span><span class="citation-popover-title">Google&#x27;s AI search setback</span><span class="citation-popover-snippet">Google&#x27;s AI search setbackMay 29, 2024 — 28 May 2024 — The AI Overviews debacle and leaked search ranking documents tell a comm...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span>
+When Google rolled out AI Overviews in 2024, the promise was simple: instead of forcing users to sift through multiple links, Search would synthesise information from across the web and provide a direct answer. The problem was that the system sometimes transformed weak, ambiguous or joking web content into authoritative-sounding advice. In several highly publicised cases, AI Overviews appeared to recommend adding glue to pizza, eating rocks, or following other obviously bad guidance. These failures became important not because they were absurd, but because they revealed a deeper issue: when a search engine rewrites information into a single fluent answer, uncertainty can disappear even when the underlying [evidence]({{ 'evidence/' | relative_url }}) is fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: platformer.news">[Platformer+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">platformer.news</span><span class="citation-popover-title">Google&#x27;s AI search setback</span><span class="citation-popover-snippet">Google&#x27;s AI search setbackMay 29, 2024 — 28 May 2024 — The AI Overviews debacle and leaked search ranking documents tell a comm...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-1-dark.svg" | relative_url }}" alt="Search Summaries illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader problem of [AI hallucinations]({{ 'hallucinations/' | relative_url }}) and fluent wrong answers, AI Overviews demonstrated how retrieval and generation can combine to create a new failure mode. The system was not always inventing facts from nothing. Often it was taking scattered signals from forums, jokes, satire, outdated pages or thinly supported claims and turning them into a polished response that looked more certain than the source material justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+Within the broader problem of [AI hallucinations]({{ 'hallucinations/' | relative_url }}) and fluent wrong answers, AI Overviews demonstrated how retrieval and generation can combine to create a new failure mode. The system was not always inventing facts from nothing. Often it was taking scattered signals from forums, jokes, satire, outdated pages or thinly supported claims and turning them into a polished response that looked more certain than the source material justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 ## What Went Wrong in the Early AI Overview Rollout
 
-The most famous examples from the first weeks of AI Overviews were not traditional hallucinations. Investigations found that some bizarre answers could be traced to real web content, including joke posts and sarcastic comments. A Reddit joke about using glue to keep cheese attached to pizza, for example, appeared to be treated as a relevant source and incorporated into a search-generated answer. Similar failures occurred when humorous, satirical or intentionally absurd content was interpreted literally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Google explains why AI Overviews couldn&#x27;t understand a...1 Jun 2024 — Other nonsensical and silly AI Overviews pulled details f...</span></span></span>
+The most famous examples from the first weeks of AI Overviews were not traditional hallucinations. Investigations found that some bizarre answers could be traced to real web content, including joke posts and sarcastic comments. A Reddit joke about using glue to keep cheese attached to pizza, for example, appeared to be treated as a relevant source and incorporated into a search-generated answer. Similar failures occurred when humorous, satirical or intentionally absurd content was interpreted literally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Google explains why AI Overviews couldn&#x27;t understand a...1 Jun 2024 — Other nonsensical and silly AI Overviews pulled details f...</span></span></span>
 
-Google later acknowledged that some problematic responses arose from unusual queries, weak information available on the web, and failures to understand nuance or humour. The company stated that it had introduced changes to reduce such outcomes after the launch attracted widespread criticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Google makes adjustments to AI Overviews after a rocky</span><span class="citation-popover-snippet">ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+Google later acknowledged that some problematic responses arose from unusual queries, weak information available on the web, and failures to understand nuance or humour. The company stated that it had introduced changes to reduce such outcomes after the launch attracted widespread criticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Google makes adjustments to AI Overviews after a rocky</span><span class="citation-popover-snippet">ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
-What made these incidents notable was not merely that the answers were wrong. Search engines have occasionally surfaced bad information for decades. The difference was that traditional search displayed links, leaving users to inspect sources themselves. AI Overviews instead presented a synthesised answer at the top of the page. The result looked less like a collection of possibilities and more like a settled conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Google makes adjustments to AI Overviews after a rocky</span><span class="citation-popover-snippet">ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+What made these incidents notable was not merely that the answers were wrong. Search engines have occasionally surfaced bad information for decades. The difference was that traditional search displayed links, leaving users to inspect sources themselves. AI Overviews instead presented a synthesised answer at the top of the page. The result looked less like a collection of possibilities and more like a settled conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Google makes adjustments to AI Overviews after a rocky</span><span class="citation-popover-snippet">ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 This changed the psychological experience of searching. A forum joke buried in a discussion thread carries visible cues that it might not be reliable. Once rewritten into a concise answer paragraph, many of those cues disappear.
 
 ## How Search AI Turns Snippets Into Certainty
 
-AI Overviews belong to a family of systems often described as retrieval-augmented generation (RAG). Instead of relying solely on a language model's internal training, the system first retrieves web content and then generates a summary from what it finds. The goal is to improve factuality by grounding answers in current sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.cloud.google.com">[Google Cloud Documentation+2Public Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.cloud.google.com</span><span class="citation-popover-snippet">Google Cloud DocumentationGrounding overview &#124; Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</span></span></span>
+AI Overviews belong to a family of systems often described as retrieval-augmented generation (RAG). Instead of relying solely on a language model's internal training, the system first retrieves web content and then generates a summary from what it finds. The goal is to improve factuality by grounding answers in current sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.cloud.google.com">[Google Cloud Documentation+2Public Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.cloud.google.com</span><span class="citation-popover-snippet">Google Cloud DocumentationGrounding overview &#124; Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</span></span></span>
 
 The weakness is that retrieval only guarantees access to information, not its quality. Several things can go wrong:
 
@@ -312,7 +312,7 @@ The weakness is that retrieval only guarantees access to information, not its qu
 
 </div>
 
-Research on retrieval-augmented systems has shown that integrating external sources reduces some hallucinations but introduces new vulnerabilities, including susceptibility to misleading retrieved content and source manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.19417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">June 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+Research on retrieval-augmented systems has shown that integrating external sources reduces some hallucinations but introduces new vulnerabilities, including susceptibility to misleading retrieved content and source manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.19417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">June 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 The AI Overview incidents illustrated this problem in public view. The model did not merely repeat a joke. It transformed a weak signal into an answer format that implied endorsement.
 
@@ -323,11 +323,11 @@ The AI Overview incidents illustrated this problem in public view. The model did
 
 A common assumption is that citations or source links automatically make an AI-generated answer trustworthy. The early AI Overview experience showed why that assumption is too simple.
 
-Grounding means connecting an answer to identifiable sources, and it can reduce invented content. However, a grounded answer can still be misleading if the cited material is misunderstood, incomplete or insufficiently representative. Google itself describes grounding as a way to reduce, rather than eliminate, factual errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.cloud.google.com">[Google Cloud Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.cloud.google.com</span><span class="citation-popover-snippet">Google Cloud DocumentationGrounding overview &#124; Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</span></span></span>
+Grounding means connecting an answer to identifiable sources, and it can reduce invented content. However, a grounded answer can still be misleading if the cited material is misunderstood, incomplete or insufficiently representative. Google itself describes grounding as a way to reduce, rather than eliminate, factual errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.cloud.google.com">[Google Cloud Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.cloud.google.com</span><span class="citation-popover-snippet">Google Cloud DocumentationGrounding overview &#124; Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</span></span></span>
 
-More recent research on AI Overviews has found that source quality and answer fidelity are not the same thing. One large-scale study reported that although AI Overviews often cited credible sources, a significant share of individual claims were unsupported by the cited pages. The researchers found that omission and transformation during summarisation could create inaccuracies even when source selection appeared reasonable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+More recent research on AI Overviews has found that source quality and answer fidelity are not the same thing. One large-scale study reported that although AI Overviews often cited credible sources, a significant share of individual claims were unsupported by the cited pages. The researchers found that omission and transformation during summarisation could create inaccuracies even when source selection appeared reasonable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Another study examining AI-mediated search found that generated summaries tend to reduce hedging and uncertainty language. In other words, the system may preserve the conclusion while removing many of the verbal signals that communicate doubt, debate or limited evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Answer Bubbles: Information Exposure in AI-Mediated Search</span><span class="citation-popover-snippet">Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+Another study examining AI-mediated search found that generated summaries tend to reduce hedging and uncertainty language. In other words, the system may preserve the conclusion while removing many of the verbal signals that communicate doubt, debate or limited evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Answer Bubbles: Information Exposure in AI-Mediated Search</span><span class="citation-popover-snippet">Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
 This helps explain why readers may feel that a search-generated answer is more definitive than the underlying web pages. The links remain available, but the summary becomes the primary object of attention.
 
@@ -337,7 +337,7 @@ The shift from links to answers changes how people evaluate information.
 
 In traditional search, users encounter multiple pages that may disagree. They see competing headlines, different organisations and varying levels of evidence. The search engine helps locate information, but the user still performs part of the judgement process.
 
-With AI Overviews, much of that synthesis occurs before the user arrives. Researchers have argued that this gives the search platform greater editorial influence because it determines not only which sources are visible but also how they are combined and interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+With AI Overviews, much of that synthesis occurs before the user arrives. Researchers have argued that this gives the search platform greater editorial influence because it determines not only which sources are visible but also how they are combined and interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This becomes especially important when the available evidence is:
 
@@ -375,14 +375,14 @@ Multiple websites repeating the same claim do not necessarily provide independen
 
 ### Watch for Missing Uncertainty
 
-If a topic is genuinely debated or evolving, an answer that sounds completely settled may deserve extra scrutiny. Generated summaries can remove the caveats present in source material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Answer Bubbles: Information Exposure in AI-Mediated Search</span><span class="citation-popover-snippet">Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+If a topic is genuinely debated or evolving, an answer that sounds completely settled may deserve extra scrutiny. Generated summaries can remove the caveats present in source material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Answer Bubbles: Information Exposure in AI-Mediated Search</span><span class="citation-popover-snippet">Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/opa_srRMeGg" title="Did AI Really Tell Us to Eat Rocks?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=opa_srRMeGg" target="_blank" rel="noopener noreferrer">Did AI Really Tell Us to Eat Rocks?</a></p><p class="youtube-embed-meta">Channel: 2kliksphilip &middot; Views: 34.9K &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=opa_srRMeGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=opa_srRMeGg">Open on YouTube</a></p></div></div></div>
 
 ### Be Extra Careful With Advice Queries
 
-Health, legal, financial and safety-related searches deserve direct verification from authoritative sources. Early AI Overview failures demonstrated that even obviously flawed guidance can occasionally pass through automated systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsw.edu.au">[UNSW Sites+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsw.edu.au</span><span class="citation-popover-snippet">Google&#x27;s AI Overviews may damage the tech giant&#x27;s reputation for providing reliable...Read more...</span></span></span>
+Health, legal, financial and safety-related searches deserve direct verification from authoritative sources. Early AI Overview failures demonstrated that even obviously flawed guidance can occasionally pass through automated systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsw.edu.au">[UNSW Sites+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsw.edu.au</span><span class="citation-popover-snippet">Google&#x27;s AI Overviews may damage the tech giant&#x27;s reputation for providing reliable...Read more...</span></span></span>
 
 ### Treat Citations as a Starting Point
 
@@ -392,200 +392,200 @@ Links show where information may have come from. They do not prove that the summ
 
 The AI Overview controversy was not simply a story about funny mistakes. It exposed a broader shift in how knowledge is presented online. Search engines increasingly do more than retrieve information; they interpret it, compress it and present it as a finished answer.
 
-That creates a new critical-thinking task. Readers must evaluate not only whether a source is reliable, but also whether the system summarising that source has preserved its meaning. The danger is not just fabricated information. It is the conversion of weak signals, jokes, outdated snippets and partial evidence into confident conclusions that feel more certain than the web ever was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[arXiv+3The Guardian+3TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+That creates a new critical-thinking task. Readers must evaluate not only whether a source is reliable, but also whether the system summarising that source has preserved its meaning. The danger is not just fabricated information. It is the conversion of weak signals, jokes, outdated snippets and partial evidence into confident conclusions that feel more certain than the web ever was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[arXiv+3The Guardian+3TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-3-dark.svg" | relative_url }}" alt="Search Summaries illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_ai_hallucinations_d5a273_ai_overviews_weak_si_05c337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Search AI Turns Snippets Into Certainty. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Search AI Turns Snippets Into Certainty. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides verification habits applicable to search-generated answers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides verification habits applicable to search-generated answers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how online systems can amplify weak information into confident conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how online systems can amplify weak information into confident conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)">Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Less...</a>
-        </h4>
-        <p class="fr-book-author">By Yuval Noah Harari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)">Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Less...</a>
+</h4>
+<p class="fr-book-author">By Yuval Noah Harari</p>
         
-        <p class="fr-book-desc">Examines how information networks shape belief and understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how information networks shape belief and understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+by+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print"><img src="{{ '/assets/images/marketplace-covers/8c68506fe8573ac3e084.jpg' | relative_url }}" alt="Listing image for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print"><img src="{{ '/assets/images/marketplace-covers/8c68506fe8573ac3e084.jpg' | relative_url }}" alt="Listing image for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Group Photo Modern Music Poster"><img src="{{ '/assets/images/marketplace-covers/d51b656a120d3000d4a4.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Group Photo Modern Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Group Photo Modern Music Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Group Photo Modern Music Poster"><img src="{{ '/assets/images/marketplace-covers/d51b656a120d3000d4a4.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Group Photo Modern Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Group Photo Modern Music Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="search-summaries-how-search-ai-turns-snippets-into-certainty-critical-thinking-in-the-age-of-soc-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,145 +791,145 @@ That creates a new critical-thinking task. Readers must evaluate not only whethe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: platformer.news  
    Title: Google's AI search setback  
-   Link: <a href="https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/" target="_blank" rel="noopener noreferrer nofollow">https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI search setbackMay 29, 2024 — 28 May 2024 — The AI Overviews debacle and leaked search [ranking](&amp;#123;&amp;#123; &#x27;ranking/&#x27; | relative_url &amp;#125;&amp;#125;) documents tell a comm...</p></details>
+   Link:<a href="https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/" target="_blank" rel="noopener noreferrer nofollow">https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI search setbackMay 29, 2024 — 28 May 2024 — The AI Overviews debacle and leaked search [ranking](&amp;#123;&amp;#123; &#x27;ranking/&#x27; | relative_url &amp;#125;&amp;#125;) documents tell a comm...</p></details>
    Published: May 29, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google explains why AI Overviews couldn&#x27;t understand a...1 Jun 2024 — Other nonsensical and silly AI Overviews pulled details f...</p></details>
+   Link:<a href="https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/computing/artificial-intelligence/google-explains-why-ai-overviews-couldnt-understand-a-joke-and-told-users-to-eat-one-rock-a-day-and-promises-itll-get-better</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google explains why AI Overviews couldn&#x27;t understand a...1 Jun 2024 — Other nonsensical and silly AI Overviews pulled details f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ahrefs.com  
    Title: google ai overviews  
-   Link: <a href="https://ahrefs.com/blog/google-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/google-ai-overviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need to Know27 May 2025 — Google&#x27;s AI Overviews are AI-generated summaries for search queries. Example of an AI Overview They app...</p></details>
+   Link:<a href="https://ahrefs.com/blog/google-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/google-ai-overviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need to Know27 May 2025 — Google&#x27;s AI Overviews are AI-generated summaries for search queries. Example of an AI Overview They app...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14021</a>  
+   Link:<a href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14021</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: docs.cloud.google.com  
-   Link: <a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow">https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud DocumentationGrounding overview | Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</p></details>
+   Link:<a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview" target="_blank" rel="noopener noreferrer nofollow">https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud DocumentationGrounding overview | Gemini Enterprise Agent PlatformIn generative AI, grounding is the ability to connect mode...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.19417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.19417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.19417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.19417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2024...</p></details>
    Published: June 26, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cloud.google.com  
    Title: how vertex ai grounding helps build more reliable models  
-   Link: <a href="https://cloud.google.com/blog/products/ai-machine-learning/how-vertex-ai-grounding-helps-build-more-reliable-models" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/blog/products/ai-machine-learning/how-vertex-ai-grounding-helps-build-more-reliable-models</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google CloudHow Vertex AI grounding helps build more reliable models3 Dec 2024 — By tapping into your enterprise truth, grounded LLMs can...</p></details>
+   Link:<a href="https://cloud.google.com/blog/products/ai-machine-learning/how-vertex-ai-grounding-helps-build-more-reliable-models" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/blog/products/ai-machine-learning/how-vertex-ai-grounding-helps-build-more-reliable-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google CloudHow Vertex AI grounding helps build more reliable models3 Dec 2024 — By tapping into your enterprise truth, grounded LLMs can...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Answer Bubbles: Information Exposure in AI-Mediated Search  
-   Link: <a href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.16138</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.16138" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.16138</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answer Bubbles: Information Exposure in AI-Mediated SearchMarch 17, 2026...</p></details>
    Published: March 17, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/technology/comments/1czqx8c/glue_pizza_and_eat_rocks_google_ai_search_errors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1czqx8c/glue_pizza_and_eat_rocks_google_ai_search_errors/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>make cheese stick to pizza better that they could use &quot;non-toxic...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/technology/comments/1czqx8c/glue_pizza_and_eat_rocks_google_ai_search_errors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1czqx8c/glue_pizza_and_eat_rocks_google_ai_search_errors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>make cheese stick to pizza better that they could use &quot;non-toxic...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/1guot7a/googles_ai_overview_feature_is_blatantly_wrong_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1guot7a/googles_ai_overview_feature_is_blatantly_wrong_so/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and if that data is incomplete, biased, or not representative of...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/singularity/comments/1guot7a/googles_ai_overview_feature_is_blatantly_wrong_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1guot7a/googles_ai_overview_feature_is_blatantly_wrong_so/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and if that data is incomplete, biased, or not representative of...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: google ai overviews wrong  
-   Link: <a href="https://www.washingtonpost.com/technology/2024/05/24/google-ai-overviews-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2024/05/24/google-ai-overviews-wrong/</a>  
+   Link:<a href="https://www.washingtonpost.com/technology/2024/05/24/google-ai-overviews-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2024/05/24/google-ai-overviews-wrong/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unsw.edu.au  
-   Link: <a href="https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI Overviews may damage the tech giant&#x27;s reputation for providing reliable...Read more...</p></details>
+   Link:<a href="https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2024/05/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI Overviews may damage the tech giant&#x27;s reputation for providing reliable...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGoogle to refine AI-generated search summaries in...May 31, 2024 — 31 May 2024 — The AI Overviews feature, which Google rele...</p></details>
    Published: May 31, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abcnews.com  
    Title: ABC News Google makes adjustments to AI Overviews after a rocky  
-   Link: <a href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</p></details>
+   Link:<a href="https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/google-makes-adjustments-ai-overviews-after-rocky-rollout/story?id=110710227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGoogle makes adjustments to AI Overviews after a rocky...June 3, 2024 — 3 Jun 2024 — Google technology expert Alex Joseph told A...</p></details>
    Published: June 3, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: publicpolicy.google  
    Title: answering the biggest questions about generative ai at google  
-   Link: <a href="https://publicpolicy.google/article/answering-the-biggest-questions-about-generative-ai-at-google/" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.google/article/answering-the-biggest-questions-about-generative-ai-at-google/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misconceptions and answering questions...30 Sept 2024 — While it&#x27;s true that LLMs do not retrieve information, AI Overviews...</p></details>
+   Link:<a href="https://publicpolicy.google/article/answering-the-biggest-questions-about-generative-ai-at-google/" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.google/article/answering-the-biggest-questions-about-generative-ai-at-google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misconceptions and answering questions...30 Sept 2024 — While it&#x27;s true that LLMs do not retrieve information, AI Overviews...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using nontoxic school glue, he executed this dubious cooking tip despite warnings. The author humorously narrates his preparation process...</p></details>
+   Link:<a href="https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using nontoxic school glue, he executed this dubious cooking tip despite warnings. The author humorously narrates his preparation process...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/my-dive-google-ai-overviews-wylie-stilwell-gvhve" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/my-dive-google-ai-overviews-wylie-stilwell-gvhve</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My Dive Into Google AI OverviewsA key aspect of Google&#x27;s RAG implementation is that the generation process is constrained to be grounded...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/my-dive-google-ai-overviews-wylie-stilwell-gvhve" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/my-dive-google-ai-overviews-wylie-stilwell-gvhve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My Dive Into Google AI OverviewsA key aspect of Google&#x27;s RAG implementation is that the generation process is constrained to be grounded...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: androidcentral.com  
    Title: google ai overviews led users astray some phone numbers are scams report  
-   Link: <a href="https://www.androidcentral.com/apps-software/ai/google-ai-overviews-led-users-astray-some-phone-numbers-are-scams-report" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/apps-software/ai/google-ai-overviews-led-users-astray-some-phone-numbers-are-scams-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Users searching for customer support, such as for Swiggy Instamart and Royal Caribbean, were given scam numbers through the AI-generated...</p></details>
+   Link:<a href="https://www.androidcentral.com/apps-software/ai/google-ai-overviews-led-users-astray-some-phone-numbers-are-scams-report" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/apps-software/ai/google-ai-overviews-led-users-astray-some-phone-numbers-are-scams-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Users searching for customer support, such as for Swiggy Instamart and Royal Caribbean, were given scam numbers through the AI-generated...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/emilprotalinski_googles-ai-overview-feature-is-a-joke-activity-7199809486801309699-yEPu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/emilprotalinski_googles-ai-overview-feature-is-a-joke-activity-7199809486801309699-yEPu</a>  
+   Link:<a href="https://www.linkedin.com/posts/emilprotalinski_googles-ai-overview-feature-is-a-joke-activity-7199809486801309699-yEPu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/emilprotalinski_googles-ai-overview-feature-is-a-joke-activity-7199809486801309699-yEPu</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research.google  
    Title: grounding ai in reality with a little help from data commons  
-   Link: <a href="https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Sept 2024 — Google&#x27;s DataGemma models bridge the gap between large language models (LLMs) and real-world data by leveraging the Data C...</p></details>
+   Link:<a href="https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Sept 2024 — Google&#x27;s DataGemma models bridge the gap between large language models (LLMs) and real-world data by leveraging the Data C...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hughstephensblog.net  
    Title: it took glue on pizza to spotlight googles ai problem  
-   Link: <a href="https://hughstephensblog.net/2024/06/10/it-took-glue-on-pizza-to-spotlight-googles-ai-problem/" target="_blank" rel="noopener noreferrer nofollow">https://hughstephensblog.net/2024/06/10/it-took-glue-on-pizza-to-spotlight-googles-ai-problem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Took Glue on Pizza to Spotlight Google&#x27;s AI Problem10 Jun 2024 — Google&#x27;s new Gemini “AI Overview” service scored another own goal wit...</p></details>
+   Link:<a href="https://hughstephensblog.net/2024/06/10/it-took-glue-on-pizza-to-spotlight-googles-ai-problem/" target="_blank" rel="noopener noreferrer nofollow">https://hughstephensblog.net/2024/06/10/it-took-glue-on-pizza-to-spotlight-googles-ai-problem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Took Glue on Pizza to Spotlight Google&#x27;s AI Problem10 Jun 2024 — Google&#x27;s new Gemini “AI Overview” service scored another own goal wit...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-generator/how-satire-crippled-googles-most-powerful-ai-1f90d2691840" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-generator/how-satire-crippled-googles-most-powerful-ai-1f90d2691840</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summarize that content, often without any context.Read more...</p></details>
+   Link:<a href="https://medium.com/the-generator/how-satire-crippled-googles-most-powerful-ai-1f90d2691840" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-generator/how-satire-crippled-googles-most-powerful-ai-1f90d2691840</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summarize that content, often without any context.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: qwestyon.com  
-   Link: <a href="https://www.qwestyon.com/blog/the-top-10-hilarious-and-dangerous-mistakes-from-google-s-new-ai-overview-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.qwestyon.com/blog/the-top-10-hilarious-and-dangerous-mistakes-from-google-s-new-ai-overview-feature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI Overview Mistakes &amp; Errors: 2026 Ultimate GuideAI Overviews retrieve pages that match your query, then a language model...</p></details>
+   Link:<a href="https://www.qwestyon.com/blog/the-top-10-hilarious-and-dangerous-mistakes-from-google-s-new-ai-overview-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.qwestyon.com/blog/the-top-10-hilarious-and-dangerous-mistakes-from-google-s-new-ai-overview-feature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI Overview Mistakes &amp; Errors: 2026 Ultimate GuideAI Overviews retrieve pages that match your query, then a language model...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: forbes.com.au  
    Title: googles ai overview appears to produce misleading answers  
-   Link: <a href="https://www.forbes.com.au/news/innovation/googles-ai-overview-appears-to-produce-misleading-answers/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com.au/news/innovation/googles-ai-overview-appears-to-produce-misleading-answers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI under fire over misleading answers26 May 2024 — AI-generated summaries on search results—has become the subject of scrutiny a...</p></details>
+   Link:<a href="https://www.forbes.com.au/news/innovation/googles-ai-overview-appears-to-produce-misleading-answers/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com.au/news/innovation/googles-ai-overview-appears-to-produce-misleading-answers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s AI under fire over misleading answers26 May 2024 — AI-generated summaries on search results—has become the subject of scrutiny a...</p></details>
    Published: May 2024  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: contentdecoded.com  
    Title: how google ai overview chooses sources  
-   Link: <a href="https://contentdecoded.com/how-google-ai-overview-chooses-sources/" target="_blank" rel="noopener noreferrer nofollow">https://contentdecoded.com/how-google-ai-overview-chooses-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Google Picks AI Overview Sources (Explained Simply)19 Apr 2026 — Discover how Google selects AI Overview sources—ranking, extraction...</p></details>
+   Link:<a href="https://contentdecoded.com/how-google-ai-overview-chooses-sources/" target="_blank" rel="noopener noreferrer nofollow">https://contentdecoded.com/how-google-ai-overview-chooses-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Google Picks AI Overview Sources (Explained Simply)19 Apr 2026 — Discover how Google selects AI Overview sources—ranking, extraction...</p></details>

@@ -280,21 +280,21 @@ image: /assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_paraso
 
 ## Introduction
 
-A familiar influencer can make a public claim feel less like a broadcast and more like advice from someone you already know. That feeling is the core of parasocial trust. Social media creators appear repeatedly in daily life, share personal stories, speak directly to the camera, and often reveal details that resemble the give-and-take of friendship. Over time, followers can develop a sense of familiarity, closeness and confidence in the creator, even though the relationship remains largely one-sided. Researchers describe these bonds as parasocial relationships: emotional connections with media personalities who do not know the audience personally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+A familiar influencer can make a public claim feel less like a broadcast and more like advice from someone you already know. That feeling is the core of parasocial trust. Social media creators appear repeatedly in daily life, share personal stories, speak directly to the camera, and often reveal details that resemble the give-and-take of friendship. Over time, followers can develop a sense of familiarity, closeness and confidence in the creator, even though the relationship remains largely one-sided. Researchers describe these bonds as parasocial relationships: emotional connections with media personalities who do not know the audience personally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-1-dark.svg" | relative_url }}" alt="Parasocial Trust illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the broader challenge of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI, parasocial trust matters because it can change how people evaluate information. Claims are no longer encountered as isolated facts. They arrive wrapped in a relationship, making audiences more likely to rely on feelings of familiarity when judging credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</span></span></span>
+In the broader challenge of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI, parasocial trust matters because it can change how people evaluate information. Claims are no longer encountered as isolated facts. They arrive wrapped in a relationship, making audiences more likely to rely on feelings of familiarity when judging credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</span></span></span>
 
 ## How Repeated Exposure Builds Felt Familiarity
 
-Parasocial trust begins with [repetition]({{ 'repetition/' | relative_url }}). Seeing the same creator day after day allows followers to learn their habits, expressions, routines and values. Psychologists have long recognised that repeated exposure tends to increase feelings of familiarity and comfort. Social media intensifies this effect because creators appear in highly personal settings rather than distant studio environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+Parasocial trust begins with [repetition]({{ 'repetition/' | relative_url }}). Seeing the same creator day after day allows followers to learn their habits, expressions, routines and values. Psychologists have long recognised that repeated exposure tends to increase feelings of familiarity and comfort. Social media intensifies this effect because creators appear in highly personal settings rather than distant studio environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
-Unlike traditional celebrities, influencers often narrate ordinary moments: commuting, shopping, exercising, parenting or working. These fragments create what feels like accumulated personal knowledge. Followers may know a creator's favourite foods, relationship milestones, frustrations and aspirations. Although this information flows in only one direction, the brain can process it using some of the same social mechanisms involved in real relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+Unlike traditional celebrities, influencers often narrate ordinary moments: commuting, shopping, exercising, parenting or working. These fragments create what feels like accumulated personal knowledge. Followers may know a creator's favourite foods, relationship milestones, frustrations and aspirations. Although this information flows in only one direction, the brain can process it using some of the same social mechanisms involved in real relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
-Research on parasocial interaction identifies familiarity, intimacy and guidance as key dimensions of these relationships. People often begin to see creators as role models, trusted companions or sources of advice. The result is not necessarily blind loyalty, but a feeling that the creator is no longer a stranger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Exploring Parasocial Interaction in College...by M Tsay · 2012 · Cited by 108 — The goals of the present study are twofold in that it...</span></span></span>
+Research on parasocial interaction identifies familiarity, intimacy and guidance as key dimensions of these relationships. People often begin to see creators as role models, trusted companions or sources of advice. The result is not necessarily blind loyalty, but a feeling that the creator is no longer a stranger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Exploring Parasocial Interaction in College...by M Tsay · 2012 · Cited by 108 — The goals of the present study are twofold in that it...</span></span></span>
 
-This helps explain why an influencer's recommendation can feel personal. A statement such as "This worked for me" may be processed differently when it comes from a creator whose life a follower has watched unfold over hundreds of posts. The claim becomes embedded within a narrative the audience already knows and trusts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn in-depth analysis of fashion and beauty influencers</span><span class="citation-popover-snippet">by X Zhou · 2024 · Cited by 12 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</span></span></span>
+This helps explain why an influencer's recommendation can feel personal. A statement such as "This worked for me" may be processed differently when it comes from a creator whose life a follower has watched unfold over hundreds of posts. The claim becomes embedded within a narrative the audience already knows and trusts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn in-depth analysis of fashion and beauty influencers</span><span class="citation-popover-snippet">by X Zhou · 2024 · Cited by 12 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MrM0KPqZ78I" title="Practicing Safe Parasocializing | Sarah Schreck | TEDxPointParkUniversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MrM0KPqZ78I" target="_blank" rel="noopener noreferrer">Practicing Safe Parasocializing | Sarah Schreck | TEDxPointParkUniversity</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 3.4K &middot; Uploaded: March 2023 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MrM0KPqZ78I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MrM0KPqZ78I">Open on YouTube</a></p></div></div></div>
@@ -320,9 +320,9 @@ Parasocial trust introduces different questions:
 
 </div>
 
-Those questions are socially meaningful, but they are not the same as evaluating evidence. A creator can feel trustworthy because they seem relatable, vulnerable or authentic, even when discussing subjects outside their expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</span></span></span>
+Those questions are socially meaningful, but they are not the same as evaluating evidence. A creator can feel trustworthy because they seem relatable, vulnerable or authentic, even when discussing subjects outside their expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</span></span></span>
 
-Social platforms actively encourage this dynamic. Direct address, livestreams, comment replies and personal storytelling create the impression of interaction. Followers may feel recognised even when communication is actually occurring at scale. Researchers note that social media blurs the boundary between public performance and interpersonal connection more than earlier forms of mass media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+Social platforms actively encourage this dynamic. Direct address, livestreams, comment replies and personal storytelling create the impression of interaction. Followers may feel recognised even when communication is actually occurring at scale. Researchers note that social media blurs the boundary between public performance and interpersonal connection more than earlier forms of mass media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
 As a result, audiences can experience an influencer's claims as recommendations from a familiar acquaintance rather than statements from a public figure speaking to thousands or millions of people.
 
@@ -332,9 +332,9 @@ As a result, audiences can experience an influencer's claims as recommendations 
 
 One of the most important features of parasocial trust is that emotional closeness and subject-matter expertise are separate qualities.
 
-A fitness creator may build trust through years of useful workout content. Followers may then extend that trust into unrelated areas such as nutrition, medicine, politics, investing or AI. The audience's confidence often stems from the relationship rather than from verified competence in the new topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/uc/item/2fc2v1tr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">Influencer Marketing and Parasocial Relationshipsby J Yi · 2023 · Cited by 4 — This paper presents a systematic literature re...</span></span></span>
+A fitness creator may build trust through years of useful workout content. Followers may then extend that trust into unrelated areas such as nutrition, medicine, politics, investing or AI. The audience's confidence often stems from the relationship rather than from verified competence in the new topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/uc/item/2fc2v1tr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">Influencer Marketing and Parasocial Relationshipsby J Yi · 2023 · Cited by 4 — This paper presents a systematic literature re...</span></span></span>
 
-Research on influencer credibility consistently finds that perceived trustworthiness and parasocial connection can significantly affect attitudes and decision-making. In many situations, followers respond not only to expertise but also to authenticity, similarity and emotional connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Sequential mediation of parasocial relationships for purchase intention: PLS-SEM and machine learning approachJune 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
+Research on influencer credibility consistently finds that perceived trustworthiness and parasocial connection can significantly affect attitudes and decision-making. In many situations, followers respond not only to expertise but also to authenticity, similarity and emotional connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Sequential mediation of parasocial relationships for purchase intention: PLS-SEM and machine learning approachJune 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
 
 This does not mean followers are irrational. In everyday life, people routinely rely on trusted individuals to filter information. The difficulty arises when warmth, familiarity and consistency are unconsciously treated as evidence.
 
@@ -349,20 +349,20 @@ A useful distinction is:
 
 </div>
 
-Parasocial trust can strengthen the first judgement while leaving the second and third insufficiently examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</span></span></span>
+Parasocial trust can strengthen the first judgement while leaving the second and third insufficiently examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bhoLHWo8lVY" title="Examining “Parasocial Relationships” – Dr. Jennifer Hartstein" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bhoLHWo8lVY" target="_blank" rel="noopener noreferrer">Examining “Parasocial Relationships” – Dr. Jennifer Hartstein</a></p><p class="youtube-embed-meta">Channel: DrJenHartstein &middot; Views: 289 &middot; Uploaded: October 2024 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bhoLHWo8lVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bhoLHWo8lVY">Open on YouTube</a></p></div></div></div>
 
 ## The Illusion of Knowing Someone
 
-Many followers describe creators using language normally associated with friendship: "I feel like I know them" or "They've been part of my life for years." These reactions are common enough that parasocial relationships have been studied for decades, beginning with work by Donald Horton and Richard Wohl in the 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+Many followers describe creators using language normally associated with friendship: "I feel like I know them" or "They've been part of my life for years." These reactions are common enough that parasocial relationships have been studied for decades, beginning with work by Donald Horton and Richard Wohl in the 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
 The crucial point is that familiarity is real while mutual knowledge is not.
 
-A follower may know hundreds of details about a creator. The creator, however, usually knows little or nothing about that individual follower. The relationship therefore feels personal without being reciprocal. Social media can obscure this distinction because occasional replies, likes or community interactions create moments that resemble genuine interpersonal exchange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+A follower may know hundreds of details about a creator. The creator, however, usually knows little or nothing about that individual follower. The relationship therefore feels personal without being reciprocal. Social media can obscure this distinction because occasional replies, likes or community interactions create moments that resemble genuine interpersonal exchange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
-This perceived closeness can increase resilience against contradictory information. When trusted creators make mistakes, audiences may initially defend them, reinterpret criticism or give them more benefit of the doubt than they would give an unfamiliar source. Researchers and commentators have observed that strong parasocial bonds can encourage loyalty that persists even when concerns emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Parasocial is the word of a year led by influencers and chatbots</span><span class="citation-popover-snippet">The term describes a one-sided emotional connection people develop with public figures, fictional characters, or AI technologies. Origina...</span></span></span>
+This perceived closeness can increase resilience against contradictory information. When trusted creators make mistakes, audiences may initially defend them, reinterpret criticism or give them more benefit of the doubt than they would give an unfamiliar source. Researchers and commentators have observed that strong parasocial bonds can encourage loyalty that persists even when concerns emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Parasocial is the word of a year led by influencers and chatbots</span><span class="citation-popover-snippet">The term describes a one-sided emotional connection people develop with public figures, fictional characters, or AI technologies. Origina...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xdT5J-3R5hg" title="What Is a Parasocial Relationship? Understanding the One-Sided Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xdT5J-3R5hg" target="_blank" rel="noopener noreferrer">What Is a Parasocial Relationship? Understanding the One-Sided Connection</a></p><p class="youtube-embed-meta">Channel: RelationshipWiki &middot; Views: 329 &middot; Uploaded: December 2024 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xdT5J-3R5hg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xdT5J-3R5hg">Open on YouTube</a></p></div></div></div>
@@ -386,7 +386,7 @@ When a creator makes an important factual assertion, useful questions include:
 
 Another helpful test is to imagine the same claim delivered by someone you dislike. If the evidence suddenly seems weaker, that may indicate that relationship cues are influencing judgement.
 
-Recent evidence suggests many younger users are already becoming more cautious, often placing substantial weight on independent research, expert opinion and peer reviews rather than relying solely on influencer endorsements. That trend reflects a growing awareness that trust and evidence are not identical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Out of 2,000 respondents, 72% ranked customer reviews as the most credible factor when engaging with a brand. Independent research and ex...</span></span></span>
+Recent evidence suggests many younger users are already becoming more cautious, often placing substantial weight on independent research, expert opinion and peer reviews rather than relying solely on influencer endorsements. That trend reflects a growing awareness that trust and evidence are not identical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Out of 2,000 respondents, 72% ranked customer reviews as the most credible factor when engaging with a brand. Independent research and ex...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-3-dark.svg" | relative_url }}" alt="Parasocial Trust illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_influencer_trust_28f1fe_parasocial_trust_cla_e69982-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -394,197 +394,197 @@ Recent evidence suggests many younger users are already becoming more cautious, 
 
 Parasocial trust is powerful because it transforms public communication into something that feels interpersonal. Influencers can become recurring companions in people's daily routines, and claims delivered through those relationships can feel unusually credible, memorable and emotionally relevant.
 
-The key lesson is not that parasocial relationships are inherently harmful. They can provide entertainment, inspiration, community and even social support. The challenge arises when familiarity becomes a substitute for verification. In environments saturated with social media content, algorithmic recommendations and AI-assisted communication, recognising the difference between "I trust this person" and "this claim is well supported" is an increasingly important critical-thinking skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Parasocial relationships, social support and well-beingby N Ravi · 2025 · Cited by 12 — The purpose of this study was to explore the rela...</span></span></span>
+The key lesson is not that parasocial relationships are inherently harmful. They can provide entertainment, inspiration, community and even social support. The challenge arises when familiarity becomes a substitute for verification. In environments saturated with social media content, algorithmic recommendations and AI-assisted communication, recognising the difference between "I trust this person" and "this claim is well supported" is an increasingly important critical-thinking skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Parasocial relationships, social support and well-beingby N Ravi · 2025 · Cited by 12 — The purpose of this study was to explore the rela...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Familiar Creators Feel So Trustworthy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Familiar Creators Feel So Trustworthy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Shows how platforms intensify emotional attachment and engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how platforms intensify emotional attachment and engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Examines why trust judgments often go wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why trust judgments often go wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influencer Industry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13423533-M.jpg" alt="Cover for Influencer Industry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influencer Industry">Influencer Industry</a>
-        </h4>
-        <p class="fr-book-author">By Emily Hund</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influencer Industry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13423533-M.jpg" alt="Cover for Influencer Industry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influencer Industry">Influencer Industry</a>
+</h4>
+<p class="fr-book-author">By Emily Hund</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influencer+Industry+Emily+Hund&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="parasocial-trust-why-familiar-creators-feel-so-trustworthy-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ The key lesson is not that parasocial relationships are inherently harmful. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ The key lesson is not that parasocial relationships are inherently harmful. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ The key lesson is not that parasocial relationships are inherently harmful. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ The key lesson is not that parasocial relationships are inherently harmful. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ The key lesson is not that parasocial relationships are inherently harmful. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,140 +790,140 @@ The key lesson is not that parasocial relationships are inherently harmful. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Parasocial interaction  
-   Link: <a href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parasocial_interaction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parasocial_interaction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/uc/item/2fc2v1tr" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/2fc2v1tr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing and Parasocial Relationshipsby J Yi · 2023 · Cited by 4 — This paper presents a systematic literature re...</p></details>
+   Link:<a href="https://escholarship.org/uc/item/2fc2v1tr" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/2fc2v1tr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing and Parasocial Relationshipsby J Yi · 2023 · Cited by 4 — This paper presents a systematic literature re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341605230_How_Social_Media_Influencers_Foster_Relationships_with_Followers_The_Roles_of_Source_Credibility_and_Fairness_in_Parasocial_Relationship_and_Product_Interest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341605230_How_Social_Media_Influencers_Foster_Relationships_with_Followers_The_Roles_of_Source_Credibility_and_Fairness_in_Parasocial_Relationship_and_Product_Interest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Source Credibility and Fairness in Parasocial...13 Jul 2020 — Repeated media exposure, perceived similarity, an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341605230_How_Social_Media_Influencers_Foster_Relationships_with_Followers_The_Roles_of_Source_Credibility_and_Fairness_in_Parasocial_Relationship_and_Product_Interest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341605230_How_Social_Media_Influencers_Foster_Relationships_with_Followers_The_Roles_of_Source_Credibility_and_Fairness_in_Parasocial_Relationship_and_Product_Interest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Source Credibility and Fairness in Parasocial...13 Jul 2020 — Repeated media exposure, perceived similarity, an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Parasocial Interaction in College...by M Tsay · 2012 · Cited by 108 — The goals of the present study are twofold in that it...</p></details>
+   Link:<a href="https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ppmc/fulltext/10.1037/a0028120~exploring-parasocial-interaction-in-college-students-as-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Parasocial Interaction in College...by M Tsay · 2012 · Cited by 108 — The goals of the present study are twofold in that it...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn in-depth analysis of fashion and beauty influencers  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zhou · 2024 · Cited by 12 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11550666/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zhou · 2024 · Cited by 12 — This study focuses on beauty and fashion influencers on Instagram and examines how changes in the cat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389832333_The_test_of_time_A_longitudinal_study_of_parasocial_relationships_with_social_media_influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389832333_The_test_of_time_A_longitudinal_study_of_parasocial_relationships_with_social_media_influencers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The test of time: A longitudinal study of parasocial...6 Mar 2025 — This study examines the long-term sustainability o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389832333_The_test_of_time_A_longitudinal_study_of_parasocial_relationships_with_social_media_influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389832333_The_test_of_time_A_longitudinal_study_of_parasocial_relationships_with_social_media_influencers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The test of time: A longitudinal study of parasocial...6 Mar 2025 — This study examines the long-term sustainability o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398795240_The_influence_of_perceived_credibility_and_parasocial_relationships_on_consumer_trust_in_influencer-endorsed_brand_messages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The influence of perceived credibility and parasocial...This research project aims to discover the psychological facto...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394691746_The_Future_of_Influencer_Marketing_Trust_Authenticity_and_Consumer_Behavior_in_the_Social_Media_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394691746_The_Future_of_Influencer_Marketing_Trust_Authenticity_and_Consumer_Behavior_in_the_Social_Media_Age</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Influencer Marketing: Trust, Authenticity, and...26 Jun 2025 — This study explores how consumers perceive and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394691746_The_Future_of_Influencer_Marketing_Trust_Authenticity_and_Consumer_Behavior_in_the_Social_Media_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394691746_The_Future_of_Influencer_Marketing_Trust_Authenticity_and_Consumer_Behavior_in_the_Social_Media_Age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Influencer Marketing: Trust, Authenticity, and...26 Jun 2025 — This study explores how consumers perceive and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399532593_Trust_Authenticity_and_Parasocial_Interaction_in_Influencer_Marketing_A_Facebook-Instagram_Comparison</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, Authenticity, and Parasocial Interaction in Influencer...12 Jan 2026 — This study examines the roles of trust, authen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.00005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sequential mediation of parasocial relationships for purchase intention: PLS-SEM and machine learning approachJune 8, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sequential mediation of parasocial relationships for purchase intention: PLS-SEM and machine learning approachJune 8, 2023...</p></details>
    Published: June 8, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Source Credibility Dimensions of Social Media...7 Nov 2025 — Influence of Source Credibility Dimensions of Soci...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Source Credibility Dimensions of Social Media...7 Nov 2025 — Influence of Source Credibility Dimensions of Soci...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.03671" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.03671</a>  
+   Link:<a href="https://arxiv.org/abs/2302.03671" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.03671</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relationships, social support and well-beingby N Ravi · 2025 · Cited by 12 — The purpose of this study was to explore the rela...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relationships, social support and well-beingby N Ravi · 2025 · Cited by 12 — The purpose of this study was to explore the rela...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251373020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14614448251373020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251373020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMe, myself, and the influencer: Examining how parasocial...6 Oct 2025 — This study examined how these influencer–follower r...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.com  
    Title: The Times Parasocial is the word of a year led by influencers and chatbots  
-   Link: <a href="https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The term describes a one-sided emotional connection people develop with public figures, fictional characters, or AI technologies. Origina...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/social-media/article/parasocial-word-year-2025-cambridge-9r0tqck7b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The term describes a one-sided emotional connection people develop with public figures, fictional characters, or AI technologies. Origina...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of 2,000 respondents, 72% ranked customer reviews as the most credible factor when engaging with a brand. Independent research and ex...</p></details>
+   Link:<a href="https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/24/lifestyle/gen-z-finds-reviews-more-credible-than-influencers-new-study-shows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out of 2,000 respondents, 72% ranked customer reviews as the most credible factor when engaging with a brand. Independent research and ex...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vogue.com  
-   Link: <a href="https://www.vogue.com/article/what-is-a-parasocial-relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/what-is-a-parasocial-relationship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Une relation parasociale est une connexion émotionnelle unilatérale que les gens forment avec des célébrités, des personnages médiatiques...</p></details>
+   Link:<a href="https://www.vogue.com/article/what-is-a-parasocial-relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/what-is-a-parasocial-relationship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Une relation parasociale est une connexion émotionnelle unilatérale que les gens forment avec des célébrités, des personnages médiatiques...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/parasocial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PARASOCIAL Definition &amp; Meaning5 days ago — The meaning of PARASOCIAL is relating to or involving a one-sided emotional co...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/parasocial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PARASOCIAL Definition &amp; Meaning5 days ago — The meaning of PARASOCIAL is relating to or involving a one-sided emotional co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/commentisfree/2024/feb/27/angry-anti-fans-turn-on-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2024/feb/27/angry-anti-fans-turn-on-influencers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Once devoted followers, anti-fans feel neglected when influencers increase their privacy or stop engaging with them. Their frustration ma...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2024/feb/27/angry-anti-fans-turn-on-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2024/feb/27/angry-anti-fans-turn-on-influencers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Once devoted followers, anti-fans feel neglected when influencers increase their privacy or stop engaging with them. Their frustration ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/what-is-a-parasocial-relationship-5210770" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-a-parasocial-relationship-5210770</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First introduced by Donald Horton and R. Richard Wohl in 1956, these relationships can feel like real-life interactions and can be friend...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-a-parasocial-relationship-5210770" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-a-parasocial-relationship-5210770</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First introduced by Donald Horton and R. Richard Wohl in 1956, these relationships can feel like real-life interactions and can be friend...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Examining “Parasocial Relationships” – Dr. Jennifer Hartstein  
-   Link: <a href="https://www.youtube.com/watch?v=bhoLHWo8lVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bhoLHWo8lVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relationships influencers trust psychology The Science Behind Fan Obsession &amp; Parasocial Relationships – Heated Rivalry DrJenH...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bhoLHWo8lVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bhoLHWo8lVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relationships influencers trust psychology The Science Behind Fan Obsession &amp; Parasocial Relationships – Heated Rivalry DrJenH...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Practicing Safe Parasocializing | Sarah Schreck | TEDx Point Park University  
-   Link: <a href="https://www.youtube.com/watch?v=MrM0KPqZ78I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrM0KPqZ78I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Trust Influencers More Than Brands| Parasocial Relationships Explained | Marketing Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MrM0KPqZ78I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrM0KPqZ78I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Trust Influencers More Than Brands| Parasocial Relationships Explained | Marketing Psychology...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PBfwY6vD7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBfwY6vD7d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Trick That Makes You Trust Influencers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PBfwY6vD7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBfwY6vD7d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Trick That Makes You Trust Influencers...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: What Is a Parasocial Relationship? Understanding the One-Sided Connection  
-   Link: <a href="https://www.youtube.com/watch?v=xdT5J-3R5hg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdT5J-3R5hg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining “Parasocial Relationships” – Dr. Jennifer Hartstein...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xdT5J-3R5hg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdT5J-3R5hg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining “Parasocial Relationships” – Dr. Jennifer Hartstein...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Psychological Trick That Makes You Trust Influencers  
-   Link: <a href="https://www.youtube.com/watch?v=XVduNXq-rIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVduNXq-rIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Parasocial Relationship? Understanding the One-Sided Connection...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XVduNXq-rIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVduNXq-rIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Parasocial Relationship? Understanding the One-Sided Connection...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/0718-1876/21/4/112" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/21/4/112</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencers&#x27; Persuasive Power and Parasocial...by A Damaj · 2026 — Parasocial relationships are defined as the perceived sense of cl...</p></details>
+   Link:<a href="https://www.mdpi.com/0718-1876/21/4/112" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/21/4/112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencers&#x27; Persuasive Power and Parasocial...by A Damaj · 2026 — Parasocial relationships are defined as the perceived sense of cl...</p></details>

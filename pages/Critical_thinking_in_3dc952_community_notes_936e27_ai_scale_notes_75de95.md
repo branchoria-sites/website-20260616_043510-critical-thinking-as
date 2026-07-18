@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_community_notes_936e27_ai_scal
 
 ## Introduction
 
-Generative AI has changed the economics of misinformation. A convincing fake image, fabricated quote, synthetic voice clip or polished false narrative can now be created in seconds and distributed to millions of people at negligible cost. Community Notes and similar public-correction systems were designed for a world in which misleading content was produced mainly by humans. The central challenge today is scale: AI can generate misleading content faster than human contributors can review, investigate and annotate it. As a result, even effective note systems face a growing race between creation and correction. Research on AI-generated misinformation identified through Community Notes shows that such content can achieve substantial virality despite often originating from relatively [small accounts]({{ 'small-accounts/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+Generative AI has changed the economics of misinformation. A convincing fake image, fabricated quote, synthetic voice clip or polished false narrative can now be created in seconds and distributed to millions of people at negligible cost. Community Notes and similar public-correction systems were designed for a world in which misleading content was produced mainly by humans. The central challenge today is scale: AI can generate misleading content faster than human contributors can review, investigate and annotate it. As a result, even effective note systems face a growing race between creation and correction. Research on AI-generated misinformation identified through Community Notes shows that such content can achieve substantial virality despite often originating from relatively [small accounts]({{ 'small-accounts/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27_ai_scale_notes_75de95-Illustration-1-dark.svg" | relative_url }}" alt="AI Scale illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27_ai_scale_notes_75de95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27_ai_scale_notes_75de95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ This does not mean public notes are ineffective. Rather, it highlights a practic
 
 ## Can human notes keep up with AI fakes?
 
-The most important shift introduced by generative AI is volume. Previous misinformation campaigns often required specialised skills, coordination or significant labour. Modern image generators, video generators and large language models allow individuals to create many variations of misleading content in minutes. Reviews of generative AI and misinformation repeatedly identify increased production speed and lower creation costs as major concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-025-02620-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Generative AI and misinformation: a scoping review of the role...by S Park · 2025 · Cited by 48 — Analyzing 24 empirical studies...</span></span></span>
+The most important shift introduced by generative AI is volume. Previous misinformation campaigns often required specialised skills, coordination or significant labour. Modern image generators, video generators and large language models allow individuals to create many variations of misleading content in minutes. Reviews of generative AI and misinformation repeatedly identify increased production speed and lower creation costs as major concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-025-02620-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Generative AI and misinformation: a scoping review of the role...by S Park · 2025 · Cited by 48 — Analyzing 24 empirical studies...</span></span></span>
 
 For Community Notes-style systems, every misleading post creates a potential workload:
 
@@ -298,9 +298,9 @@ For Community Notes-style systems, every misleading post creates a potential wor
 
 </div>
 
-That process can work well for individual claims, but generative AI increases the number of claims entering the pipeline. Even when contributors are highly motivated, review capacity grows much more slowly than content generation capacity. Researchers analysing AI-generated misinformation on X explicitly note that crowd-based identification methods help address scalability limits faced by traditional human review systems, yet the underlying challenge remains that misleading content can appear at enormous volume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — Our work: In this study, we characterize AI-generated misinf...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+That process can work well for individual claims, but generative AI increases the number of claims entering the pipeline. Even when contributors are highly motivated, review capacity grows much more slowly than content generation capacity. Researchers analysing AI-generated misinformation on X explicitly note that crowd-based identification methods help address scalability limits faced by traditional human review systems, yet the underlying challenge remains that misleading content can appear at enormous volume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — Our work: In this study, we characterize AI-generated misinf...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The timing problem is equally important. Studies of Community Notes have found meaningful delays between the appearance of a misleading post and the appearance of a publicly visible correction. In one analysis of health-related notes, the median delay before a note achieved helpful status was more than 17 hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.11423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond the Crowd: LLM-Augmented Community Notes for Governing Health MisinformationOctober 13, 2025...</span><span class="citation-popover-meta">Published: October 13, 2025</span></span></span>
+The timing problem is equally important. Studies of Community Notes have found meaningful delays between the appearance of a misleading post and the appearance of a publicly visible correction. In one analysis of health-related notes, the median delay before a note achieved helpful status was more than 17 hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.11423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond the Crowd: LLM-Augmented Community Notes for Governing Health MisinformationOctober 13, 2025...</span><span class="citation-popover-meta">Published: October 13, 2025</span></span></span>
 
 For many viral posts, the largest audience arrives long before that.
 
@@ -310,7 +310,7 @@ Not all misinformation creates the same burden.
 
 A false textual claim can often be checked against documents, statistics or previous reporting. AI-generated images, videos and audio introduce additional challenges because reviewers must first determine whether the media itself is authentic.
 
-Recent research suggests that realistic AI-generated imagery can increase belief in false headlines and make [corrections]({{ 'corrections/' | relative_url }}) harder to remember. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with...November 11, 2025 — by S Guo · 2025 · Cited by 2 — In a pre-re...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span> Human observers also struggle to distinguish increasingly sophisticated [synthetic images]({{ 'synthetic-images/' | relative_url }}) from genuine ones. Studies on AI-generated faces, for example, show that even highly skilled recognisers can perform poorly without specialised training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science AI is getting better and better at generating faces</span><span class="citation-popover-snippet">These faces often appear more realistic than actual human faces, a phenomenon termed &quot;hyperrealism.&quot; In a series of experiments, super re...</span></span></span>
+Recent research suggests that realistic AI-generated imagery can increase belief in false headlines and make [corrections]({{ 'corrections/' | relative_url }}) harder to remember.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with...November 11, 2025 — by S Guo · 2025 · Cited by 2 — In a pre-re...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span> Human observers also struggle to distinguish increasingly sophisticated [synthetic images]({{ 'synthetic-images/' | relative_url }}) from genuine ones. Studies on AI-generated faces, for example, show that even highly skilled recognisers can perform poorly without specialised training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science AI is getting better and better at generating faces</span><span class="citation-popover-snippet">These faces often appear more realistic than actual human faces, a phenomenon termed &quot;hyperrealism.&quot; In a series of experiments, super re...</span></span></span>
 
 This creates a double burden for note contributors:
 
@@ -334,7 +334,7 @@ A correction written for one version may not automatically apply to dozens of re
 
 ### Lower barriers for small accounts
 
-Research examining more than 91,000 misleading posts identified through Community Notes found that AI-generated misinformation frequently originates from smaller accounts yet still achieves significant viral reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+Research examining more than 91,000 misleading posts identified through Community Notes found that AI-generated misinformation frequently originates from smaller accounts yet still achieves significant viral reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 Historically, moderation systems could focus attention on a relatively limited set of influential accounts. AI-generated content allows many smaller actors to produce professional-looking misinformation that can spread widely if it aligns with audience interests or current events.
 
@@ -354,7 +354,7 @@ Generative AI does not merely produce false statements. It can create convincing
 
 </div>
 
-The resulting content may appear more complete and credible than older forms of misinformation. Reviews of generative [AI misinformation]({{ 'ai-virality/' | relative_url }}) consistently identify its ability to produce persuasive, polished and context-rich false narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-title">CCS Concepts</span><span class="citation-popover-snippet">ACM Digital LibraryUnderstanding AI-Generated Misinformation and...by J Zhou · 2023 · Cited by 551 — We discuss implications for practit...</span></span></span>
+The resulting content may appear more complete and credible than older forms of misinformation. Reviews of generative [AI misinformation]({{ 'ai-virality/' | relative_url }}) consistently identify its ability to produce persuasive, polished and context-rich false narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-title">CCS Concepts</span><span class="citation-popover-snippet">ACM Digital LibraryUnderstanding AI-Generated Misinformation and...by J Zhou · 2023 · Cited by 551 — We discuss implications for practit...</span></span></span>
 
 The challenge for note writers is that correcting a polished false story often requires substantially more effort than creating it.
 
@@ -364,7 +364,7 @@ The challenge for note writers is that correcting a polished false story often r
 
 One response to the scale problem is to use AI on the correction side as well.
 
-Several research projects have explored systems that help contributors draft notes, organise evidence and identify claims requiring verification. Experimental work suggests that AI-assisted note-writing tools can improve note quality and help less experienced contributors produce corrections comparable to those written by more experienced [fact-checkers]({{ 'fact-checkers/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
+Several research projects have explored systems that help contributors draft notes, organise evidence and identify claims requiring verification. Experimental work suggests that AI-assisted note-writing tools can improve note quality and help less experienced contributors produce corrections comparable to those written by more experienced [fact-checkers]({{ 'fact-checkers/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
 
 Potential advantages include:
 
@@ -379,7 +379,7 @@ Potential advantages include:
 
 </div>
 
-Some platforms have also explored allowing AI systems to propose notes that humans subsequently evaluate. Supporters argue that this could dramatically increase correction capacity and reduce response times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post X will let AI bots fact-check posts</span><span class="citation-popover-snippet">It isn&#x27;t as crazy as it sounds.July 3, 2025 — X, the social media platform formerly known as Twitter, is expanding its Community Notes fa...</span></span></span>
+Some platforms have also explored allowing AI systems to propose notes that humans subsequently evaluate. Supporters argue that this could dramatically increase correction capacity and reduce response times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post X will let AI bots fact-check posts</span><span class="citation-popover-snippet">It isn&#x27;t as crazy as it sounds.July 3, 2025 — X, the social media platform formerly known as Twitter, is expanding its Community Notes fa...</span></span></span>
 
 In theory, this creates a more symmetrical contest: AI generates misinformation, while AI helps generate corrections.
 
@@ -390,9 +390,9 @@ In theory, this creates a more symmetrical contest: AI generates misinformation,
 
 However, AI-generated notes introduce their own dangers.
 
-Language models are capable of producing persuasive but inaccurate explanations. They may misunderstand context, cite unreliable sources or generate plausible-sounding errors. Critics of AI-written Community Notes have warned that fluency can be mistaken for accuracy and that automated systems may appear authoritative even when wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[cetas.turing.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-title">everything could go wrong xs new ai written community notes</span><span class="citation-popover-snippet">Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — AI chatbots often struggle with nuance and context but are good at...</span></span></span>
+Language models are capable of producing persuasive but inaccurate explanations. They may misunderstand context, cite unreliable sources or generate plausible-sounding errors. Critics of AI-written Community Notes have warned that fluency can be mistaken for accuracy and that automated systems may appear authoritative even when wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[cetas.turing.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-title">everything could go wrong xs new ai written community notes</span><span class="citation-popover-snippet">Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — AI chatbots often struggle with nuance and context but are good at...</span></span></span>
 
-The broader problem is familiar from other domains. Researchers continue to document fabricated citations, distorted references and confidently presented inaccuracies in AI-generated content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar A major KPMG report on AI was found to be chock-full of...AI hallucinations Yesterday — A recent investigation by GPTZero has</span><span class="citation-popover-snippet">The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</span></span></span>
+The broader problem is familiar from other domains. Researchers continue to document fabricated citations, distorted references and confidently presented inaccuracies in AI-generated content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar A major KPMG report on AI was found to be chock-full of...AI hallucinations Yesterday — A recent investigation by GPTZero has</span><span class="citation-popover-snippet">The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</span></span></span>
 
 If correction systems rely too heavily on automation, they risk creating a new bottleneck: humans reviewing large volumes of machine-generated notes whose factual quality is uncertain.
 
@@ -400,7 +400,7 @@ If correction systems rely too heavily on automation, they risk creating a new b
 
 The temptation in an AI-heavy environment is to treat misinformation detection as a purely technical problem. In practice, many of the hardest cases remain fundamentally human.
 
-A note often succeeds not because it identifies a factual error, but because it provides context that readers from different viewpoints recognise as useful. Community Notes was designed around this principle, requiring agreement across contributors with differing rating histories rather than simple majority support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Birdwatch to Community Notes, from Twitter to X13 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large-s...</span></span></span>
+A note often succeeds not because it identifies a factual error, but because it provides context that readers from different viewpoints recognise as useful. Community Notes was designed around this principle, requiring agreement across contributors with differing rating histories rather than simple majority support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Birdwatch to Community Notes, from Twitter to X13 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large-s...</span></span></span>
 
 Human judgment remains particularly important in three situations.
 
@@ -414,7 +414,7 @@ An image may be genuine but years old. A statistic may be accurate but misleadin
 
 ### Ambiguous evidence
 
-AI detection tools are imperfect and can degrade as generation methods improve. Recent research on multimodal misinformation found that detection systems face growing difficulty distinguishing synthetic from authentic content over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal MisinformationApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+AI detection tools are imperfect and can degrade as generation methods improve. Recent research on multimodal misinformation found that detection systems face growing difficulty distinguishing synthetic from authentic content over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal MisinformationApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 When automated tools disagree, human reviewers must decide how much confidence to place in the available evidence.
 
@@ -422,208 +422,208 @@ When automated tools disagree, human reviewers must decide how much confidence t
 
 Public correction systems do more than identify inaccuracies. They also signal why a correction should be trusted.
 
-Research suggests that readers often view community-generated explanatory notes as more trustworthy than simple warning labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Here, we presented Americans wit...</span></span></span> That trust depends on visible reasoning, transparent sources and accountable human participation. Fully automated corrections may struggle to achieve the same legitimacy, especially in politically contested or emotionally charged situations.
+Research suggests that readers often view community-generated explanatory notes as more trustworthy than simple warning labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Here, we presented Americans wit...</span></span></span> That trust depends on visible reasoning, transparent sources and accountable human participation. Fully automated corrections may struggle to achieve the same legitimacy, especially in politically contested or emotionally charged situations.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iUHalPd9C7k" title="How X (Formerly Twitter) Algorithm Works | Educational Explainer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iUHalPd9C7k" target="_blank" rel="noopener noreferrer">How X (Formerly Twitter) Algorithm Works | Educational Explainer</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 2.0K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iUHalPd9C7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iUHalPd9C7k">Open on YouTube</a></p></div></div></div>
 
 ## The likely future: hybrid correction at AI speed
 
-The most plausible response to AI-generated misinformation is neither purely human review nor fully automated moderation. Instead, emerging evidence points toward hybrid systems in which AI assists with detection, triage, evidence gathering and draft generation, while humans retain responsibility for judgment and final approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
+The most plausible response to AI-generated misinformation is neither purely human review nor fully automated moderation. Instead, emerging evidence points toward hybrid systems in which AI assists with detection, triage, evidence gathering and draft generation, while humans retain responsibility for judgment and final approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
 
 Such systems may help close part of the speed gap between misinformation production and public correction. Yet the underlying asymmetry remains. Generative AI can create content almost instantly, while trustworthy correction still requires verification, deliberation and evidence.
 
 For critical thinkers, that reality carries an important lesson. A visible note beneath a post can be valuable context, but the absence of a note should never be treated as proof that a claim is true. In an environment where AI can generate misleading content at unprecedented scale, correction systems are increasingly essential—but they are also increasingly likely to be outnumbered.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can human notes keep up with AI fakes?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can human notes keep up with AI fakes?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains how misleading information scales in data-rich environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how misleading information scales in data-rich environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses challenges created by rapidly scaling AI technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses challenges created by rapidly scaling AI technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides enduring principles for assessing extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides enduring principles for assessing extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Examines how platform incentives amplify questionable content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how platform incentives amplify questionable content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ai-scale-can-human-notes-keep-up-with-ai-fakes-critical-thinking-in-the-age-of-social-media-and-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ For critical thinkers, that reality carries an important lesson. A visible note 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ For critical thinkers, that reality carries an important lesson. A visible note 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ For critical thinkers, that reality carries an important lesson. A visible note 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ For critical thinkers, that reality carries an important lesson. A visible note 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ For critical thinkers, that reality carries an important lesson. A visible note 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,163 +829,163 @@ For critical thinkers, that reality carries an important lesson. A visible note 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Characterizing AI-Generated Misinformation on Social Media  
-   Link: <a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
    Published: May 15, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — Our work: In this study, we characterize AI-generated misinf...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — Our work: In this study, we characterize AI-generated misinf...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-025-02620-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02620-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and misinformation: a scoping review of the role...by S Park · 2025 · Cited by 48 — Analyzing 24 empirical studies...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-025-02620-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02620-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and misinformation: a scoping review of the role...by S Park · 2025 · Cited by 48 — Analyzing 24 empirical studies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.11423" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.11423</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Crowd: LLM-Augmented Community Notes for Governing Health MisinformationOctober 13, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.11423" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.11423</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Crowd: LLM-Augmented Community Notes for Governing Health MisinformationOctober 13, 2025...</p></details>
    Published: October 13, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dl.acm.org  
    Title: CCS Concepts  
-   Link: <a href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryUnderstanding AI-Generated Misinformation and...by J Zhou · 2023 · Cited by 551 — We discuss implications for practit...</p></details>
+   Link:<a href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryUnderstanding AI-Generated Misinformation and...by J Zhou · 2023 · Cited by 551 — We discuss implications for practit...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.07101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2606.07101" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.07101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI CollaborationJune 5, 2026...</p></details>
    Published: June 5, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cetas.turing.ac.uk  
    Title: everything could go wrong xs new ai written community notes  
-   Link: <a href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — AI chatbots often struggle with nuance and context but are good at...</p></details>
+   Link:<a href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — AI chatbots often struggle with nuance and context but are good at...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</p></details>
+   Link:<a href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Birdwatch to Community Notes, from Twitter to X13 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large-s...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Birdwatch to Community Notes, from Twitter to X13 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large-s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal MisinformationApril 15, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal MisinformationApril 15, 2026...</p></details>
    Published: April 15, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Here, we presented Americans wit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Here, we presented Americans wit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — In this paper, we perform a large-scale empirical study to analyze whet...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — In this paper, we perform a large-scale empirical study to analyze whet...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with...November 11, 2025 — by S Guo · 2025 · Cited by 2 — In a pre-re...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with...November 11, 2025 — by S Guo · 2025 · Cited by 2 — In a pre-re...</p></details>
    Published: November 11, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: livescience.com  
    Title: Live Science AI is getting better and better at generating faces  
-   Link: <a href="https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These faces often appear more realistic than actual human faces, a phenomenon termed &quot;hyperrealism.&quot; In a series of experiments, super re...</p></details>
+   Link:<a href="https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These faces often appear more realistic than actual human faces, a phenomenon termed &quot;hyperrealism.&quot; In a series of experiments, super re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: washingtonpost.com  
    Title: The Washington Post X will let AI bots fact-check posts  
-   Link: <a href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-[fact-checks" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-[fact-checks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It isn&#x27;t as crazy as it sounds.July 3, 2025 — X, the social media platform formerly known as Twitter, is expanding its Community Notes fa...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-[fact-checks" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-[fact-checks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It isn&#x27;t as crazy as it sounds.July 3, 2025 — X, the social media platform formerly known as Twitter, is expanding its Community Notes fa...</p></details>
    Published: July 3, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Glauser · 2026 — Misinformation is increasingly spread with single clicks, bots, and artificial intelligence (AI) deepfakes. AI-g...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by W Glauser · 2026 — Misinformation is increasingly spread with single clicks, bots, and artificial intelligence (AI) deepfakes. AI-g...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and health misinformation - PMC - NIHby HR Saeidnia · 2026 · Cited by 9 — This systematic review synthesizes evidence on how generativ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12924558/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and health misinformation - PMC - NIHby HR Saeidnia · 2026 · Cited by 9 — This systematic review synthesizes evidence on how generativ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reloaded? Fears about the impact of...by FM Simon · 2023 · Cited by 198 — We argue that current concerns about the effects of generative...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reloaded? Fears about the impact of...by FM Simon · 2023 · Cited by 198 — We argue that current concerns about the effects of generative...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tsjournal.org  
-   Link: <a href="https://tsjournal.org/index.php/jots/article/view/139/57" target="_blank" rel="noopener noreferrer nofollow">https://tsjournal.org/index.php/jots/article/view/139/57</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Effective is Community Notes in Moderating Content across Twitter? The Future of Crowdsourced Content Moderation.R...</p></details>
+   Link:<a href="https://tsjournal.org/index.php/jots/article/view/139/57" target="_blank" rel="noopener noreferrer nofollow">https://tsjournal.org/index.php/jots/article/view/139/57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Effective is Community Notes in Moderating Content across Twitter? The Future of Crowdsourced Content Moderation.R...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ntia.gov  
-   Link: <a href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/societal-risks-well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/societal-risks-well-being</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Societal Risks and Well-BeingMisinformation reloaded? Fears about the impact of generative AI on misinformation are overblown. Harvard Ke...</p></details>
+   Link:<a href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/societal-risks-well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/societal-risks-well-being</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Societal Risks and Well-BeingMisinformation reloaded? Fears about the impact of generative AI on misinformation are overblown. Harvard Ke...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) From Birdwatch to Community Notes, from Twitter to X10 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) From Birdwatch to Community Notes, from Twitter to X10 Oct 2025 — Community Notes (formerly known as Birdwatch) is the first large...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: liverpool.ac.uk  
-   Link: <a href="https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/safer-world/challenge-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/safer-world/challenge-of-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of LiverpoolGenerative AI and the challenge of misinformation | ResearchStudies have shown that GAI systems can fake academic...</p></details>
+   Link:<a href="https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/safer-world/challenge-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/safer-world/challenge-of-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of LiverpoolGenerative AI and the challenge of misinformation | ResearchStudies have shown that GAI systems can fake academic...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rnNcmW0b5U0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnNcmW0b5U0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misinformation and deepfakes in the mediaThis webinar is being organized as part of the activities of the AI and Multimedia st...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnNcmW0b5U0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnNcmW0b5U0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misinformation and deepfakes in the mediaThis webinar is being organized as part of the activities of the AI and Multimedia st...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: orbilu.uni.lu  
-   Link: <a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — In this paper, we perform a large-scale empirical...</p></details>
+   Link:<a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — In this paper, we perform a large-scale empirical...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/From-Birdwatch-to-Community-Notes%2C-from-Twitter-to-Mohammadi-Chinichian/d9e71e044c4f95c74fc0c35f9e703e8c9beb35d9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/From-Birdwatch-to-Community-Notes%2C-from-Twitter-to-Mohammadi-Chinichian/d9e71e044c4f95c74fc0c35f9e703e8c9beb35d9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes, and a major curated dataset and accompanying source code to support...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/From-Birdwatch-to-Community-Notes%2C-from-Twitter-to-Mohammadi-Chinichian/d9e71e044c4f95c74fc0c35f9e703e8c9beb35d9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/From-Birdwatch-to-Community-Notes%2C-from-Twitter-to-Mohammadi-Chinichian/d9e71e044c4f95c74fc0c35f9e703e8c9beb35d9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes, and a major curated dataset and accompanying source code to support...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DEpbolcuwZz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEpbolcuwZz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecking re: Meta&#x27;s move towards community notes...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DEpbolcuwZz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEpbolcuwZz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecking re: Meta&#x27;s move towards community notes...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: europarl.europa.eu  
    Title: EPRS BRI(2025)779259 EN  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation in the age of generative artificial...11 Dec 2025 — It will assist deployers using deepfakes or AI-generated content to cle...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779259/EPRS_BRI%282025%29779259_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation in the age of generative artificial...11 Dec 2025 — It will assist deployers using deepfakes or AI-generated content to cle...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H_ZO_F4u0fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_ZO_F4u0fs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Justin Ling: We Lost the Fight Against Disinformation | Forum TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_ZO_F4u0fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_ZO_F4u0fs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Justin Ling: We Lost the Fight Against Disinformation | Forum TV...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: firstdraftnews.org  
    Title: What is Birdwatch?  
-   Link: <a href="https://firstdraftnews.org/articles/what-is-birdwatch/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/what-is-birdwatch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft News4 Feb 2021 — Birdwatch is a new program launched by Twitter to combat misinformation on the platform, using volunteers to...</p></details>
+   Link:<a href="https://firstdraftnews.org/articles/what-is-birdwatch/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/what-is-birdwatch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft News4 Feb 2021 — Birdwatch is a new program launched by Twitter to combat misinformation on the platform, using volunteers to...</p></details>

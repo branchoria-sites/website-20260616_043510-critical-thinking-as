@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_plat
 
 ## Introduction
 
-In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), credibility is often inferred before it is evaluated. A post may look trustworthy not because readers have checked its [evidence]({{ 'evidence/' | relative_url }}), source, or accuracy, but because the platform surrounds it with signals that resemble authority. Verification badges, view counts, follower numbers, professional-looking video formats, and polished account profiles can create an impression of reliability even when they mainly indicate visibility, identity confirmation, or popularity rather than truthfulness. This matters because social platforms place journalism, advertising, opinion, entertainment, activism, and AI-generated content inside nearly identical visual containers. As a result, readers can mistake attention signals for evidence and familiarity for verification. Research on social media credibility, source attribution, and platform design shows that these cues shape trust judgments, sometimes independently of the underlying quality of the information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">this paper proposed to empower</span><span class="citation-popover-snippet">Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</span></span></span>
+In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), credibility is often inferred before it is evaluated. A post may look trustworthy not because readers have checked its [evidence]({{ 'evidence/' | relative_url }}), source, or accuracy, but because the platform surrounds it with signals that resemble authority. Verification badges, view counts, follower numbers, professional-looking video formats, and polished account profiles can create an impression of reliability even when they mainly indicate visibility, identity confirmation, or popularity rather than truthfulness. This matters because social platforms place journalism, advertising, opinion, entertainment, activism, and AI-generated content inside nearly identical visual containers. As a result, readers can mistake attention signals for evidence and familiarity for verification. Research on social media credibility, source attribution, and platform design shows that these cues shape trust judgments, sometimes independently of the underlying quality of the information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">this paper proposed to empower</span><span class="citation-popover-snippet">Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_platform_cues_credib_dd8e56-Illustration-1-dark.svg" | relative_url }}" alt="Platform cues illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_platform_cues_credib_dd8e56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_platform_cues_credib_dd8e56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), credibility is oft
 
 The most influential credibility cues on social platforms are often not evidence-related cues at all. They are shortcuts that help users make rapid decisions in environments overloaded with information.
 
-A verification badge is a useful example. Originally, badges were designed to help distinguish authentic accounts from impersonators. They indicate that an account has met platform-specific verification requirements, not that every post from that account is accurate. Yet studies have found that verification markers can increase trust and encourage sharing because users interpret the badge as a broader signal of credibility and authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Does the verified badge of social media matter? The...13 Dec 2023 — This research aims to investigate the impact of verified badg...</span></span></span>
+A verification badge is a useful example. Originally, badges were designed to help distinguish authentic accounts from impersonators. They indicate that an account has met platform-specific verification requirements, not that every post from that account is accurate. Yet studies have found that verification markers can increase trust and encourage sharing because users interpret the badge as a broader signal of credibility and authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Does the verified badge of social media matter? The...13 Dec 2023 — This research aims to investigate the impact of verified badg...</span></span></span>
 
-Engagement metrics operate in a similar way. Large numbers of likes, shares, comments, views, or followers can function as forms of [social proof]({{ 'social-proof/' | relative_url }}). People often assume that if many others have engaged with content, it must have value or legitimacy. Research on virality metrics has shown that high engagement can affect perceptions of influence and importance, even when the engagement itself says little about factual accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">They Liked and Shared: Effects of Social Media Virality...Social Media Virality Metrics: High shares of a posting on Faceboo...</span></span></span>
+Engagement metrics operate in a similar way. Large numbers of likes, shares, comments, views, or followers can function as forms of [social proof]({{ 'social-proof/' | relative_url }}). People often assume that if many others have engaged with content, it must have value or legitimacy. Research on virality metrics has shown that high engagement can affect perceptions of influence and importance, even when the engagement itself says little about factual accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">They Liked and Shared: Effects of Social Media Virality...Social Media Virality Metrics: High shares of a posting on Faceboo...</span></span></span>
 
 Other weak cues include:
 
@@ -310,7 +310,7 @@ The key issue is that these cues are not meaningless. Verification can help iden
 
 Humans rarely evaluate every claim from first principles. In uncertain situations, people often look to the behaviour of others as a guide. Psychologists refer to this tendency as social proof.
 
-Social platforms are built around displaying social proof continuously. Every post arrives accompanied by visible metrics showing what other people have watched, liked, shared, or discussed. These numbers create an impression that collective attention itself carries informational value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristolcreativeindustries.com">[Bristol Creative Industries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristolcreativeindustries.com</span><span class="citation-popover-title">Bristol Creative Industries Social Proof: the psychology behind marketing</span><span class="citation-popover-snippet">Bristol Creative Industries Social Proof: the psychology behind marketing</span></span></span>
+Social platforms are built around displaying social proof continuously. Every post arrives accompanied by visible metrics showing what other people have watched, liked, shared, or discussed. These numbers create an impression that collective attention itself carries informational value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristolcreativeindustries.com">[Bristol Creative Industries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristolcreativeindustries.com</span><span class="citation-popover-title">Bristol Creative Industries Social Proof: the psychology behind marketing</span><span class="citation-popover-snippet">Bristol Creative Industries Social Proof: the psychology behind marketing</span></span></span>
 
 In practice, however, attention and accuracy are different things. A dramatic rumour may attract enormous engagement because it is surprising. An emotional video may spread because it provokes [outrage]({{ 'outrage/' | relative_url }}). A misleading claim may accumulate shares because people are arguing about it rather than endorsing it. Engagement measures activity, not verification.
 
@@ -325,7 +325,7 @@ One of the most important design features of modern feeds is standardisation. Po
 
 A report from a major newsroom, a government announcement, a parody account, an influencer opinion, a sponsored promotion, and an AI-generated video may all appear with the same profile image format, text layout, interaction buttons, and recommendation system. The platform's design language creates visual equivalence even when the underlying sources differ greatly in expertise, accountability, and editorial oversight.
 
-Research from the Reuters Institute shows that people are significantly less likely to correctly identify the originating news organisation when they encounter stories through social media or search rather than directly. In distributed environments, source attribution weakens because platform presentation becomes more prominent than publisher identity. reutersinstitute.politics.ox.ac.uk+2reutersinstitute.politics.ox.ac.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+Research from the Reuters Institute shows that people are significantly less likely to correctly identify the originating news organisation when they encounter stories through social media or search rather than directly. In distributed environments, source attribution weakens because platform presentation becomes more prominent than publisher identity. reutersinstitute.politics.ox.ac.uk+2reutersinstitute.politics.ox.ac.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 This creates a subtle but important shift. Instead of asking, "Who produced this information?", readers may first encounter signals such as:
 
@@ -388,201 +388,201 @@ Established institutions, journalists, and official bodies usually have clearer 
 
 The central mechanism is not that users are irrational. It is that platform design encourages fast judgements using highly visible signals. Verification badges, engagement counts, follower numbers, and polished presentation are easy to process in a fraction of a second. Evidence quality, sourcing, and verification standards require more effort to evaluate.
 
-In mixed social feeds, these two forms of information often compete. The platform foregrounds visibility cues because they are simple, measurable, and engaging. Credibility cues tied to evidence are frequently less prominent. [Critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) therefore begins with recognising that popularity, reach, and professional appearance may explain why content is visible, but they do not by themselves explain why it should be believed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">this paper proposed to empower</span><span class="citation-popover-snippet">Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</span></span></span>
+In mixed social feeds, these two forms of information often compete. The platform foregrounds visibility cues because they are simple, measurable, and engaging. Credibility cues tied to evidence are frequently less prominent. [Critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) therefore begins with recognising that popularity, reach, and professional appearance may explain why content is visible, but they do not by themselves explain why it should be believed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">this paper proposed to empower</span><span class="citation-popover-snippet">Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kim9ujIU874" title="How to Fact-Check Online Sources | Authentication 101 | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kim9ujIU874" target="_blank" rel="noopener noreferrer">How to Fact-Check Online Sources | Authentication 101 | Reality Check</a></p><p class="youtube-embed-meta">Channel: MediaSmarts | HabiloMédias &middot; Views: 49.7K &middot; Uploaded: September 2018 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kim9ujIU874" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kim9ujIU874">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why popularity can look like proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why popularity can look like proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how platform signals influence credibility judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how platform signals influence credibility judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how popularity metrics can be mistaken for truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how popularity metrics can be mistaken for truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Promotes revising assumptions based on evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes revising assumptions based on evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
         
-        <p class="fr-book-desc">Explores how media formats shape public understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how media formats shape public understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="platform-cues-why-popularity-can-look-like-proof-critical-thinking-in-the-age-of-social-media-an-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ In mixed social feeds, these two forms of information often compete. The platfor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ In mixed social feeds, these two forms of information often compete. The platfor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ In mixed social feeds, these two forms of information often compete. The platfor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ In mixed social feeds, these two forms of information often compete. The platfor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ In mixed social feeds, these two forms of information often compete. The platfor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,132 +788,132 @@ In mixed social feeds, these two forms of information often compete. The platfor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: this paper proposed to empower  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11135712/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virtual lab coats: The effects of verified source information on...by J Geels · 2024 · Cited by 22 — this paper aims to explore how v...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the verified badge of social media matter? The...13 Dec 2023 — This research aims to investigate the impact of verified badg...</p></details>
+   Link:<a href="https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jrim/article/18/6/1017/1235205/Does-the-verified-badge-of-social-media-matter-The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the verified badge of social media matter? The...13 Dec 2023 — This research aims to investigate the impact of verified badg...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385212979_Does_the_verified_badge_of_social_media_matter_The_perspective_of_trust_transfer_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385212979_Does_the_verified_badge_of_social_media_matter_The_perspective_of_trust_transfer_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the verified badge of social media matter...Platform signals reinstate thresholds: verification badges boost trust and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385212979_Does_the_verified_badge_of_social_media_matter_The_perspective_of_trust_transfer_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385212979_Does_the_verified_badge_of_social_media_matter_The_perspective_of_trust_transfer_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the verified badge of social media matter...Platform signals reinstate thresholds: verification badges boost trust and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They Liked and Shared: Effects of Social Media Virality...Social Media Virality Metrics: High shares of a posting on Faceboo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322911633_They_Liked_and_Shared_Effects_of_Social_Media_Virality_Metrics_on_Perceptions_of_Message_Influence_and_Behavioral_Intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They Liked and Shared: Effects of Social Media Virality...Social Media Virality Metrics: High shares of a posting on Faceboo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 4 — This study extends ELM by linking information credi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 4 — This study extends ELM by linking information credi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-07/Brand%20attributions%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-07/Brand%20attributions%20report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This compares with an attribution rate of 81% for users who arrived directly from...Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-07/Brand%20attributions%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-07/Brand%20attributions%20report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This compares with an attribution rate of 81% for users who arrived directly from...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 313737416 Social proof in social media shopping An experimental design research  
-   Link: <a href="https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in social media shopping: An experimental...29 Apr 2026 — This study empirically compares the effect of number of followers...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313737416_Social_proof_in_social_media_shopping_An_experimental_design_research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in social media shopping: An experimental...29 Apr 2026 — This study empirically compares the effect of number of followers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331625988_The_Blue_Check_of_Credibility_Does_Account_Verification_Matter_When_Evaluating_News_on_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331625988_The_Blue_Check_of_Credibility_Does_Account_Verification_Matter_When_Evaluating_News_on_Twitter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion and account credibility among news organizations.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/331625988_The_Blue_Check_of_Credibility_Does_Account_Verification_Matter_When_Evaluating_News_on_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331625988_The_Blue_Check_of_Credibility_Does_Account_Verification_Matter_When_Evaluating_News_on_Twitter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion and account credibility among news organizations.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News brand attribution in distributed environmentsWe call this “news brand attribution.” Based on a unique combination of passive trackin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327942993_News_brand_attribution_in_distributed_environments_Do_people_know_where_they_get_their_news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News brand attribution in distributed environmentsWe call this “news brand attribution.” Based on a unique combination of passive trackin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and trust in a fragmented news environmentThe qualitative study explored issues of brand and trust in an increasingly fragmented news env...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and trust in a fragmented news environmentThe qualitative study explored issues of brand and trust in an increasingly fragmented news env...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bristolcreativeindustries.com  
    Title: Bristol Creative Industries Social Proof: the psychology behind marketing  
-   Link: <a href="https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/</a>  
+   Link:<a href="https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://bristolcreativeindustries.com/social-proof-the-psychology-behind-marketing/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Ranjith · 2025 · Cited by 7 — Firstly, the study aims to evaluate the impact of source credibility on perceived risk. Secondly, i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12543200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Ranjith · 2025 · Cited by 7 — Firstly, the study aims to evaluate the impact of source credibility on perceived risk. Secondly, i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>related to meeting and spending time with other people for pleasure: He had almost no...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>related to meeting and spending time with other people for pleasure: He had almost no...Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/brand-attribution-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/brand-attribution-guidelines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Brand Attribution Guidelines ExplainedThe Reuters Brand Attribution Guidelines are part of your Agreement with Reuters and protec...</p></details>
+   Link:<a href="https://reutersagency.com/brand-attribution-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/brand-attribution-guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Brand Attribution Guidelines ExplainedThe Reuters Brand Attribution Guidelines are part of your Agreement with Reuters and protec...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mediareform.org.uk  
-   Link: <a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Handbook of Journalism Standards and ValuesReuters will publish news from a single, anonymous source in exceptional cases, when i...</p></details>
+   Link:<a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Handbook of Journalism Standards and ValuesReuters will publish news from a single, anonymous source in exceptional cases, when i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: socialfinance.org.uk  
-   Link: <a href="https://www.socialfinance.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialfinance.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Finance | We are here for goodBringing people, ideas, and money together, we tackle society&#x27;s toughest challenges and help improve...</p></details>
+   Link:<a href="https://www.socialfinance.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialfinance.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Finance | We are here for goodBringing people, ideas, and money together, we tackle society&#x27;s toughest challenges and help improve...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thesocial.com  
-   Link: <a href="https://www.thesocial.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocial.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Social LondonOfficial Website for The Social London. Find all Upcoming Events with Lineups and set times, latest news and announcemen...</p></details>
+   Link:<a href="https://www.thesocial.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocial.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Social LondonOfficial Website for The Social London. Find all Upcoming Events with Lineups and set times, latest news and announcemen...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thesocial.com  
-   Link: <a href="https://www.thesocial.com/events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocial.com/events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Social London | EventsFind all Upcoming Events at The Social London. Find full event information including, lineups, set times, entry...</p></details>
+   Link:<a href="https://www.thesocial.com/events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocial.com/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Social London | EventsFind all Upcoming Events at The Social London. Find full event information including, lineups, set times, entry...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/social" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/social</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL Definition &amp; MeaningThe meaning of SOCIAL is marked by or passed in pleasant companionship with friends or associates. How to use...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/social" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/social</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL Definition &amp; MeaningThe meaning of SOCIAL is marked by or passed in pleasant companionship with friends or associates. How to use...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wavesdigitalmarketing.co.uk  
-   Link: <a href="https://www.wavesdigitalmarketing.co.uk/blogs/the-blue-tick" target="_blank" rel="noopener noreferrer nofollow">https://www.wavesdigitalmarketing.co.uk/blogs/the-blue-tick</a>  
+   Link:<a href="https://www.wavesdigitalmarketing.co.uk/blogs/the-blue-tick" target="_blank" rel="noopener noreferrer nofollow">https://www.wavesdigitalmarketing.co.uk/blogs/the-blue-tick</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wadedigital.co.uk  
    Title: using social proof to build trust and credibility on your website  
-   Link: <a href="https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Showcase Customer Testimonials and Reviews · 2. Use Case Studies to Tell Stories That Sell · 3. Display Client Logos and Media Mentions ·...</p></details>
+   Link:<a href="https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://wadedigital.co.uk/advice/using-social-proof-to-build-trust-and-credibility-on-your-website/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Showcase Customer Testimonials and Reviews · 2. Use Case Studies to Tell Stories That Sell · 3. Display Client Logos and Media Mentions ·...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: copelandsocial.com  
-   Link: <a href="https://copelandsocial.com/" target="_blank" rel="noopener noreferrer nofollow">https://copelandsocial.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t of Peckham&#x27;s local creative talent, serving coffee by day and top-notch cocktails by...Read more...</p></details>
+   Link:<a href="https://copelandsocial.com/" target="_blank" rel="noopener noreferrer nofollow">https://copelandsocial.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t of Peckham&#x27;s local creative talent, serving coffee by day and top-notch cocktails by...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wsiworld.com  
    Title: Learn how brands can build trust and visibility without chasing  
-   Link: <a href="https://www.wsiworld.com/blog/the-new-role-of-social-media-what-builds-trust-and-credibility-now" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiworld.com/blog/the-new-role-of-social-media-what-builds-trust-and-credibility-now</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Role of Social Media: What Builds Trust and...Jan 20, 2026 — Social media now rewards credibility, community, and real human voices...</p></details>
+   Link:<a href="https://www.wsiworld.com/blog/the-new-role-of-social-media-what-builds-trust-and-credibility-now" target="_blank" rel="noopener noreferrer nofollow">https://www.wsiworld.com/blog/the-new-role-of-social-media-what-builds-trust-and-credibility-now</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Role of Social Media: What Builds Trust and...Jan 20, 2026 — Social media now rewards credibility, community, and real human voices...</p></details>

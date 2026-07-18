@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-community/
 description: Focused pages that expand on Community Notes.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_community_notes_936e27
 parent_title: Community Notes
@@ -16,7 +16,7 @@ parent_permalink: /community-notes/
 
 # Explore Topics in Community Notes
 
-The following pages expand on the main **[Community Notes]({{ '/community-notes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Community Notes]({{ '/community-notes/' | relative_url }})** page and cover its key branches in.
 
 - [AI Scale]({{ '/ai-scale/' | relative_url }})
 - [Bridging]({{ '/bridging/' | relative_url }})

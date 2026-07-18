@@ -280,31 +280,31 @@ image: /assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_sha
 
 ## Introduction
 
-[Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) work best in the narrow window immediately before a person shares, reposts, quote-posts, forwards, or otherwise amplifies a claim. The evidence behind these interventions suggests that timing is not a minor design detail but the central mechanism. A prompt shown after a post has already been shared may help with correction or reflection, but it cannot prevent the initial act of amplification. By contrast, a prompt that appears at the moment a user is about to spread a claim can redirect attention from [social rewards]({{ 'social-rewards/' | relative_url }}), outrage, identity signalling, or urgency back to a simple question: “Is this actually true?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+[Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) work best in the narrow window immediately before a person shares, reposts, quote-posts, forwards, or otherwise amplifies a claim. The evidence behind these interventions suggests that timing is not a minor design detail but the central mechanism. A prompt shown after a post has already been shared may help with correction or reflection, but it cannot prevent the initial act of amplification. By contrast, a prompt that appears at the moment a user is about to spread a claim can redirect attention from [social rewards]({{ 'social-rewards/' | relative_url }}), outrage, identity signalling, or urgency back to a simple question: “Is this actually true?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-1-dark.svg" | relative_url }}" alt="Best Timing illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [accuracy nudges]({{ 'accuracy-nudge/' | relative_url }}) consistently finds that making accuracy salient just before a sharing decision improves the quality of information people say they would share. The intervention is effective not because it teaches new facts in real time, but because it reaches users at the precise moment when accuracy is most likely to be overlooked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+Research on [accuracy nudges]({{ 'accuracy-nudge/' | relative_url }}) consistently finds that making accuracy salient just before a sharing decision improves the quality of information people say they would share. The intervention is effective not because it teaches new facts in real time, but because it reaches users at the precise moment when accuracy is most likely to be overlooked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 ## Why Pre-Share Timing Matters
 
-The strongest [evidence]({{ 'evidence/' | relative_url }}) for accuracy prompts comes from studies examining the gap between what people believe and what they choose to share. Researchers have repeatedly found that people are often better at judging whether information is true or false than their sharing behaviour would suggest. The problem is frequently one of attention rather than complete inability to distinguish truth from falsehood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+The strongest [evidence]({{ 'evidence/' | relative_url }}) for accuracy prompts comes from studies examining the gap between what people believe and what they choose to share. Researchers have repeatedly found that people are often better at judging whether information is true or false than their sharing behaviour would suggest. The problem is frequently one of attention rather than complete inability to distinguish truth from falsehood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 A reposting decision is a distinct psychological event. While reading a post, a user may focus on its plausibility. When deciding whether to share it, different considerations can take over:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Will this get attention? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prosocialdesign.org">[prosocialdesign.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prosocialdesign.org</span><span class="citation-popover-snippet">Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</span></span></span>
+* Will this get attention?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prosocialdesign.org">[prosocialdesign.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prosocialdesign.org</span><span class="citation-popover-snippet">Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</span></span></span>
 * Does it support my side?
 * Is it emotionally powerful?
 * Should people see this immediately?
 
 </div>
 
-These motivations can crowd out accuracy concerns. A prompt inserted directly before the sharing action interrupts that shift in attention and reintroduces truthfulness into the decision process. Studies in both survey environments and real-world social media settings have found that subtle reminders about accuracy improve the quality of subsequent sharing decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+These motivations can crowd out accuracy concerns. A prompt inserted directly before the sharing action interrupts that shift in attention and reintroduces truthfulness into the decision process. Studies in both survey environments and real-world social media settings have found that subtle reminders about accuracy improve the quality of subsequent sharing decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
-This explains why the intervention is considered proactive rather than reactive. Instead of trying to limit damage after misinformation spreads, it seeks to stop some of that spread from occurring in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
+This explains why the intervention is considered proactive rather than reactive. Instead of trying to limit damage after misinformation spreads, it seeks to stop some of that spread from occurring in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uC4JZ7TKAmc" title="How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer">How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 8.3K &middot; Uploaded: January 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uC4JZ7TKAmc">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ This explains why the intervention is considered proactive rather than reactive.
 
 From an implementation perspective, the moment just before a share button is activated is especially valuable because it is the last point at which a platform can introduce reflection without blocking expression.
 
-Several experimental designs have exploited this principle. Some ask users to evaluate the accuracy of a headline before continuing. Others integrate accuracy language into sharing interfaces themselves. Researchers have even tested prompts embedded near sharing controls, finding that making accuracy salient at the point of action can reduce willingness to share false content while preserving engagement with legitimate information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMC“I Think This News Is Accurate”: Endorsing Accuracy</span><span class="citation-popover-snippet">by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</span></span></span>
+Several experimental designs have exploited this principle. Some ask users to evaluate the accuracy of a headline before continuing. Others integrate accuracy language into sharing interfaces themselves. Researchers have even tested prompts embedded near sharing controls, finding that making accuracy salient at the point of action can reduce willingness to share false content while preserving engagement with legitimate information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMC“I Think This News Is Accurate”: Endorsing Accuracy</span><span class="citation-popover-snippet">by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</span></span></span>
 
 The timing matters because attention is limited. A reminder delivered minutes earlier may be forgotten. A reminder delivered after publication arrives too late to influence the decision that caused the spread.
 
@@ -321,7 +321,7 @@ The timing matters because attention is limited. A reminder delivered minutes ea
 
 Not all amplification occurs in public feeds. A claim can spread through public reposts, private messages, group chats, email forwarding, or closed communities. The same timing logic applies across these contexts, but the stakes differ.
 
-Public reposts can rapidly expose claims to large audiences. In these situations, a pre-share prompt may prevent a single action from triggering much wider circulation. Because social platforms often encourage rapid engagement, the moment before a public repost is particularly important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+Public reposts can rapidly expose claims to large audiences. In these situations, a pre-share prompt may prevent a single action from triggering much wider circulation. Because social platforms often encourage rapid engagement, the moment before a public repost is particularly important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 Private forwarding presents a different challenge. Users often regard messages sent to friends or family as informal and trustworthy. As a result, they may feel less need to verify information before forwarding it. Yet misinformation frequently travels through private networks before reaching broader public attention.
 
@@ -343,7 +343,7 @@ The best moment is usually one in which a user has already expressed interest in
 
 </div>
 
-Once a user has publicly endorsed a claim, psychological pressures such as consistency and reputation management can make reconsideration harder. A prompt shown beforehand avoids those complications and works with existing preferences for accuracy rather than against a public commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+Once a user has publicly endorsed a claim, psychological pressures such as consistency and reputation management can make reconsideration harder. A prompt shown beforehand avoids those complications and works with existing preferences for accuracy rather than against a public commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNPvOYU9Y74" title="Fake News with Dr. Gordon Pennycook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer">Fake News with Dr. Gordon Pennycook</a></p><p class="youtube-embed-meta">Channel: Opinion Science &middot; Views: 448 &middot; Uploaded: July 2023 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNPvOYU9Y74">Open on YouTube</a></p></div></div></div>
@@ -352,213 +352,213 @@ Once a user has publicly endorsed a claim, psychological pressures such as consi
 
 The effectiveness of timing becomes clearer when considering the alternatives.
 
-After misinformation has gone viral, platforms typically rely on [corrections]({{ 'corrections/' | relative_url }}), warning labels, [fact-checks]({{ 'fact-checks/' | relative_url }}), downranking, contextual information, or user reports. These approaches can be valuable, but they address a different stage of the information lifecycle. They respond after exposure and sharing have already occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
+After misinformation has gone viral, platforms typically rely on [corrections]({{ 'corrections/' | relative_url }}), warning labels, [fact-checks]({{ 'fact-checks/' | relative_url }}), downranking, contextual information, or user reports. These approaches can be valuable, but they address a different stage of the information lifecycle. They respond after exposure and sharing have already occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
 
 Once a false claim has accumulated millions of views, every corrective intervention faces a harder task. Some users may never see the correction. Others may remember the original claim more strongly than the later rebuttal. In network terms, the information has already travelled.
 
-Accuracy prompts aim at a narrower but strategically important objective: reducing the number of sharing events that create those cascades in the first place. This is one reason researchers describe them as preventative interventions. Their value lies less in changing minds after widespread exposure and more in reducing the chance that questionable claims gain momentum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
+Accuracy prompts aim at a narrower but strategically important objective: reducing the number of sharing events that create those cascades in the first place. This is one reason researchers describe them as preventative interventions. Their value lies less in changing minds after widespread exposure and more in reducing the chance that questionable claims gain momentum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-3-dark.svg" | relative_url }}" alt="Best Timing illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_accuracy_nudges_382aa1_pre_share_timing_dd5ffb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Limits of Late Intervention
 
-This does not mean post-viral measures are useless. Corrections remain necessary because some misinformation will spread regardless of preventative efforts. However, evidence suggests that the greatest advantage of accuracy prompts comes from reaching users before amplification begins. Meta-analyses of accuracy-prompt experiments have found that these interventions improve sharing discernment primarily by reducing intentions to share false headlines, demonstrating the value of acting at the decision point rather than after dissemination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
+This does not mean post-viral measures are useless. Corrections remain necessary because some misinformation will spread regardless of preventative efforts. However, evidence suggests that the greatest advantage of accuracy prompts comes from reaching users before amplification begins. Meta-analyses of accuracy-prompt experiments have found that these interventions improve sharing discernment primarily by reducing intentions to share false headlines, demonstrating the value of acting at the decision point rather than after dissemination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</span></span></span>
 
-In practice, the lesson is straightforward: if the goal is to slow the spread of a viral claim, the most valuable moment is not after thousands of reposts, but in the few seconds before the next one. The closer an accuracy prompt is placed to the act of sharing, the greater its opportunity to prevent amplification rather than merely react to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
+In practice, the lesson is straightforward: if the goal is to slow the spread of a viral claim, the most valuable moment is not after thousands of reposts, but in the few seconds before the next one. The closer an accuracy prompt is placed to the act of sharing, the greater its opportunity to prevent amplification rather than merely react to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mu5f-hLb668" title="Tatiana Celadin | “I think this news is accurate”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mu5f-hLb668" target="_blank" rel="noopener noreferrer">Tatiana Celadin | “I think this news is accurate”</a></p><p class="youtube-embed-meta">Channel: PERITIA &middot; Views: 60 &middot; Uploaded: June 2022 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mu5f-hLb668" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mu5f-hLb668">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Best Moment to Slow a Viral Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Best Moment to Slow a Viral Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Discusses proactive approaches before misinformation spreads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses proactive approaches before misinformation spreads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why slowing down can improve judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why slowing down can improve judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Promotes verification before amplification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes verification before amplification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses proactive approaches before misinformation spreads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses proactive approaches before misinformation spreads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="best-timing-the-best-moment-to-slow-a-viral-claim-critical-thinking-in-the-age-of-social-media-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,99 +764,99 @@ In practice, the lesson is straightforward: if the goal is to slow the spread of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1584 — The results show that subtly sh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Overall, accuracy prompts increased t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracy - PMC - NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracy - PMC - NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 360 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 360 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 2 — The results showed that a subtle shift of a...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 2 — The results showed that a subtle shift of a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-39555-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-39555-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-supported real-time news evaluation reveals effects of...by S Yury · 2026 — In the literature, the concept of misinformation coexists...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-026-39555-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-39555-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-supported real-time news evaluation reveals effects of...by S Yury · 2026 — In the literature, the concept of misinformation coexists...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 24 — These trends may exacerbate polarization, ra...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 24 — These trends may exacerbate polarization, ra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC“I Think This News Is Accurate”: Endorsing Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...14 Apr 2022 — Accuracy prompts increased the quality of news that people share (sh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...14 Apr 2022 — Accuracy prompts increased the quality of news that people share (sh...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mediawell.ssrc.org  
-   Link: <a href="https://mediawell.ssrc.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation-2/" target="_blank" rel="noopener noreferrer nofollow">https://mediawell.ssrc.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...Overall, accuracy prompts increased the quality of news that people share...</p></details>
+   Link:<a href="https://mediawell.ssrc.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation-2/" target="_blank" rel="noopener noreferrer nofollow">https://mediawell.ssrc.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...Overall, accuracy prompts increased the quality of news that people share...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</p></details>
+   Link:<a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Recent research sugges...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Recent research sugges...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: chicagopolicyreview.org  
    Title: try accuracy prompts to reduce the spread of misinformation online  
-   Link: <a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...4 Jan 2022 — These accuracy prompts were modest interventions that encouraged participant...</p></details>
+   Link:<a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...4 Jan 2022 — These accuracy prompts were modest interventions that encouraged participant...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: peasec.de  
-   Link: <a href="https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>were designed as accuracy prompts [e.g., 27, 54, 84] or social norm nudges [41, 46...Read more...</p></details>
+   Link:<a href="https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>were designed as accuracy prompts [e.g., 27, 54, 84] or social norm nudges [41, 46...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the importance of accuracy reduced...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the importance of accuracy reduced...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Accuracy-prompts-are-a-replicable-and-generalizable-Pennycook-Rand/aa6c54ab0515105d0722a49f20b4997f65a2389b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Accuracy-prompts-are-a-replicable-and-generalizable-Pennycook-Rand/aa6c54ab0515105d0722a49f20b4997f65a2389b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y of the accuracy prompt effect on sharing discernment, which is replicable and...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Accuracy-prompts-are-a-replicable-and-generalizable-Pennycook-Rand/aa6c54ab0515105d0722a49f20b4997f65a2389b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Accuracy-prompts-are-a-replicable-and-generalizable-Pennycook-Rand/aa6c54ab0515105d0722a49f20b4997f65a2389b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y of the accuracy prompt effect on sharing discernment, which is replicable and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a promising approach for reducing misinformation sharing online.Read more...</p></details>
+   Link:<a href="https://www.prosocialdesign.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/citations/accuracy-prompts-are-a-replicable-and-generalizable-approach-for-reducing-the-spread-of-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a promising approach for reducing misinformation sharing online.Read more...</p></details>

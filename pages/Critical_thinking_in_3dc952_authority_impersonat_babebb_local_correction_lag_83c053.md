@@ -278,7 +278,7 @@ False local notices rarely succeed because they are perfectly convincing. They s
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-1-dark.svg" | relative_url }}" alt="Correction Lag illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This correction lag is a governance challenge as much as a communication challenge. Local authorities operate through verification, legal review and formal approval processes. False posts do not. A fabricated council notice or misleading screenshot can circulate through multiple Facebook groups and WhatsApp chains in minutes, while an official response may take hours or days to assemble and publish. Research on misinformation consistently shows that first exposure matters and that [corrections]({{ 'corrections/' | relative_url }}) often struggle to fully erase the influence of an initial false claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</span></span></span>
+This correction lag is a governance challenge as much as a communication challenge. Local authorities operate through verification, legal review and formal approval processes. False posts do not. A fabricated council notice or misleading screenshot can circulate through multiple Facebook groups and WhatsApp chains in minutes, while an official response may take hours or days to assemble and publish. Research on misinformation consistently shows that first exposure matters and that [corrections]({{ 'corrections/' | relative_url }}) often struggle to fully erase the influence of an initial false claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</span></span></span>
 
 ## How False Posts Exploit the First-Sharing Window
 
@@ -288,9 +288,9 @@ In local groups, people frequently share information as a public service. A resi
 
 This creates a structural advantage for misinformation. Councils must confirm facts before speaking. They may need to consult planning officers, legal teams, communications staff or elected members. The rumour faces no such constraints. By the time an official rebuttal appears, the false claim may already have been repeated in dozens of discussions and private chats.
 
-Recent UK research by the Social Market Foundation found that local issues such as planning decisions, transport, council services and local politics account for a significant share of misinformation circulating in Facebook groups. The study also identified fabricated local authority communications among the misleading content being shared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">local issues, including planning, transport, local services and council...Read more...</span></span></span>
+Recent UK research by the Social Market Foundation found that local issues such as planning decisions, transport, council services and local politics account for a significant share of misinformation circulating in Facebook groups. The study also identified fabricated local authority communications among the misleading content being shared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">local issues, including planning, transport, local services and council...Read more...</span></span></span>
 
-The problem is amplified by a well-documented psychological effect: information that people have seen before can feel more familiar and therefore more credible. Even a single exposure can increase perceived accuracy later, meaning that a correction is often competing against an already familiar story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</span></span></span>
+The problem is amplified by a well-documented psychological effect: information that people have seen before can feel more familiar and therefore more credible. Even a single exposure can increase perceived accuracy later, meaning that a correction is often competing against an already familiar story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lVkJsTY_n8Q" title="Social media and the age of AI misinformation | Aishwarya Reganti | TEDxJacksonville" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lVkJsTY_n8Q" target="_blank" rel="noopener noreferrer">Social media and the age of AI misinformation | Aishwarya Reganti | TEDxJacksonville</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 8.5K &middot; Uploaded: March 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lVkJsTY_n8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lVkJsTY_n8Q">Open on YouTube</a></p></div></div></div>
@@ -311,9 +311,9 @@ Several factors contribute to correction lag:
 
 </div>
 
-The Local Government Association has warned that misinformation can affect council operations, public trust and community cohesion. Its guidance encourages authorities to identify topics that are particularly vulnerable to misinformation and to monitor emerging narratives before they become crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">They do this by...Read more...</span></span></span>
+The Local Government Association has warned that misinformation can affect council operations, public trust and community cohesion. Its guidance encourages authorities to identify topics that are particularly vulnerable to misinformation and to monitor emerging narratives before they become crises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">They do this by...Read more...</span></span></span>
 
-The challenge is especially acute where local journalism has declined. If fewer reporters are routinely checking local claims, residents may rely more heavily on social-media groups for civic information. Research published in 2026 found substantially higher levels of misinformation in areas with weaker local-news ecosystems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds A report by the Social Market Foundation (SMF</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+The challenge is especially acute where local journalism has declined. If fewer reporters are routinely checking local claims, residents may rely more heavily on social-media groups for civic information. Research published in 2026 found substantially higher levels of misinformation in areas with weaker local-news ecosystems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds A report by the Social Market Foundation (SMF</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: August 2015 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
@@ -332,23 +332,23 @@ However, official credibility does not always guarantee reach. A council stateme
 
 Local reporters can play an important [bridging]({{ 'bridging/' | relative_url }}) role because they often translate official information into language that residents already follow. Where active local journalism exists, false claims may be challenged more quickly and independently.
 
-The decline of local news organisations has therefore created more opportunities for unchecked rumours to spread before scrutiny arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds A report by the Social Market Foundation (SMF</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+The decline of local news organisations has therefore created more opportunities for unchecked rumours to spread before scrutiny arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds A report by the Social Market Foundation (SMF</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-2-dark.svg" | relative_url }}" alt="Correction Lag illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_local_correction_lag_83c053-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Police and Emergency Services
 
-For public-safety incidents, police forces and emergency services often possess information unavailable to other institutions. Research examining misinformation after major UK incidents has highlighted the value of rapid, factual communication from police and local officials before speculation fills the information vacuum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</span></span></span>
+For public-safety incidents, police forces and emergency services often possess information unavailable to other institutions. Research examining misinformation after major UK incidents has highlighted the value of rapid, factual communication from police and local officials before speculation fills the information vacuum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</span></span></span>
 
 ### Community Leaders and Trusted Local Figures
 
-Evidence from studies of crisis communication suggests that trusted community voices can sometimes reach audiences that distrust official channels. Local councillors, faith leaders, neighbourhood organisers and respected residents may therefore help carry corrections into networks where formal institutional messaging has limited influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</span></span></span>
+Evidence from studies of crisis communication suggests that trusted community voices can sometimes reach audiences that distrust official channels. Local councillors, faith leaders, neighbourhood organisers and respected residents may therefore help carry corrections into networks where formal institutional messaging has limited influence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</span></span></span>
 
 ## Why Corrections Do Not Fully Undo the Damage
 
 Many people assume that once a council publishes a rebuttal, the problem is solved. Research on misinformation suggests otherwise.
 
-The original claim may continue influencing beliefs even after people encounter a correction. Scholars describe this as the "continued influence" effect: the false information remains mentally available and can still shape later judgments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</span></span></span>
+The original claim may continue influencing beliefs even after people encounter a correction. Scholars describe this as the "continued influence" effect: the false information remains mentally available and can still shape later judgments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</span></span></span>
 
 In local contexts, this means residents may continue saying:
 
@@ -363,7 +363,7 @@ In local contexts, this means residents may continue saying:
 
 Corrections also face distribution problems. The people who saw the original post are not necessarily the same people who see the correction. Screenshots of the rumour can persist long after the original content has been removed.
 
-Research further suggests that simply labelling information as false may be more important than lengthy explanations about whether the misinformation originated from error or deliberate deception. The practical challenge is ensuring that the correction reaches people quickly enough to matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-022-01354-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Does explaining the origins of misinformation improve the...by S Connor Desai · 2023 · Cited by 26 — The present study examined...</span></span></span>
+Research further suggests that simply labelling information as false may be more important than lengthy explanations about whether the misinformation originated from error or deliberate deception. The practical challenge is ensuring that the correction reaches people quickly enough to matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-022-01354-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Does explaining the origins of misinformation improve the...by S Connor Desai · 2023 · Cited by 26 — The present study examined...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YklLqBKhf4c" title="Misinformation spreads as Travis County recovers from devastating floods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YklLqBKhf4c" target="_blank" rel="noopener noreferrer">Misinformation spreads as Travis County recovers from devastating floods</a></p><p class="youtube-embed-meta">Channel: KXAN &middot; Views: 6.0K &middot; Uploaded: July 2025 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YklLqBKhf4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YklLqBKhf4c">Open on YouTube</a></p></div></div></div>
@@ -385,7 +385,7 @@ Before sharing a supposedly official local notice:
 
 </div>
 
-If a correction later appears, sharing the correction can be as important as deleting the original post. Research indicates that even simple public corrections can slow the spread of misinformation and reduce further sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidson.edu">[Davidson College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidson.edu</span><span class="citation-popover-title">research finds simple corrections can slow spread misinformation online</span><span class="citation-popover-snippet">Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...2 Oct 2024 — But according to new research, the key to slowing th...</span></span></span>
+If a correction later appears, sharing the correction can be as important as deleting the original post. Research indicates that even simple public corrections can slow the spread of misinformation and reduce further sharing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidson.edu">[Davidson College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidson.edu</span><span class="citation-popover-title">research finds simple corrections can slow spread misinformation online</span><span class="citation-popover-snippet">Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...2 Oct 2024 — But according to new research, the key to slowing th...</span></span></span>
 
 A useful rule is to judge information by its source rather than its appearance. A council logo, official-looking formatting or a screenshot of a supposed notice does not prove authenticity. In local groups, the decisive question is not whether a post looks official, but whether it can be traced back to a genuine official source.
 
@@ -398,194 +398,194 @@ Correction lag reveals a basic asymmetry of the social-media era. False local in
 For residents trying to think critically online, recognising that gap is often more valuable than attempting to identify every false claim individually. When a dramatic local announcement appears first in a Facebook group rather than through an identifiable official channel, the safest assumption is not that it is true or false, but that the verification process has not yet caught up. In many local misinformation incidents, that short period between claim and correction is where most of the damage occurs.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Local Corrections Arrive Too Late. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Local Corrections Arrive Too Late. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how false information can outrun corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how false information can outrun corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Supports evidence-based evaluation before sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based evaluation before sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Counters emotional reactions to fast-moving claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters emotional reactions to fast-moving claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="correction-lag-why-local-corrections-arrive-too-late-critical-thinking-in-the-age-of-social-medi-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ For residents trying to think critically online, recognising that gap is often m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ For residents trying to think critically online, recognising that gap is often m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ For residents trying to think critically online, recognising that gap is often m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ For residents trying to think critically online, recognising that gap is often m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ For residents trying to think critically online, recognising that gap is often m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,143 +791,143 @@ For residents trying to think critically online, recognising that gap is often m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1997 — We show that even a single exposure in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>local issues, including planning, transport, local services and council...Read more...</p></details>
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>local issues, including planning, transport, local services and council...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he UK in Facebook... social-media-local-misinformation/ on 8th June 2026.Read more...</p></details>
+   Link:<a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he UK in Facebook... social-media-local-misinformation/ on 8th June 2026.Read more...</p></details>
    Published: June 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-022-01354-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-022-01354-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does explaining the origins of misinformation improve the...by S Connor Desai · 2023 · Cited by 26 — The present study examined...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-022-01354-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-022-01354-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does explaining the origins of misinformation improve the...by S Connor Desai · 2023 · Cited by 26 — The present study examined...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: davidson.edu  
    Title: research finds simple corrections can slow spread misinformation online  
-   Link: <a href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...2 Oct 2024 — But according to new research, the key to slowing th...</p></details>
+   Link:<a href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...2 Oct 2024 — But according to new research, the key to slowing th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cts a UK “city council members meeting”...</p></details>
+   Link:<a href="https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cts a UK “city council members meeting”...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1151418412308961/posts/2189659128484879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1151418412308961/posts/2189659128484879/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>26 news -related posts on Facebook contained misinformation.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1151418412308961/posts/2189659128484879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1151418412308961/posts/2189659128484879/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 news -related posts on Facebook contained misinformation.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They do this by...Read more...</p></details>
+   Link:<a href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They do this by...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationA guide to disinformation for local councillorsThe LGA has developed this guide in response to interest from...</p></details>
+   Link:<a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationA guide to disinformation for local councillorsThe LGA has developed this guide in response to interest from...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/article/2024/may/23/call-for-stricter-rules-to-stop-uk-mps-repeating-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/article/2024/may/23/call-for-stricter-rules-to-stop-uk-mps-repeating-conspiracy-theories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demos criticized the central government&#x27;s inconsistent stance, initially promoting LTNs during the Covid-19 lockdown and then retracting...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/article/2024/may/23/call-for-stricter-rules-to-stop-uk-mps-repeating-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/article/2024/may/23/call-for-stricter-rules-to-stop-uk-mps-repeating-conspiracy-theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demos criticized the central government&#x27;s inconsistent stance, initially promoting LTNs during the Covid-19 lockdown and then retracting...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Due to low public trust in UK government and law enforcement, researchers argue non-governmental voices are crucial in sharing factual in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This move follows concerns about the fast proliferation of misinformation during critical incidents, notably the 2024 summer riots and th...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This move follows concerns about the fast proliferation of misinformation during critical incidents, notably the 2024 summer riots and th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unimelb.edu.au  
-   Link: <a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For cities and local governments, this invites reflection and a...Read more...</p></details>
+   Link:<a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For cities and local governments, this invites reflection and a...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: norfolk-pcc.gov.uk  
-   Link: <a href="https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(LGA), which outlines definitions of mis/dis/malinformation and its...Read more...</p></details>
+   Link:<a href="https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(LGA), which outlines definitions of mis/dis/malinformation and its...Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation and Its Correction Continued...We first examine the mechanisms by which such misinformation is disseminated in soci...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation and Its Correction Continued...We first examine the mechanisms by which such misinformation is disseminated in soci...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media groups fuel misinformation in UK, report findsLocal social media groups are fuelling misinformation in areas with no reliabl...</p></details>
+   Link:<a href="https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uknews/comments/1u01sz6/killer_of_trust_social_media_groups_fuel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>social media groups fuel misinformation in UK, report findsLocal social media groups are fuelling misinformation in areas with no reliabl...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fullfact.org  
    Title: science committees report on social media misinformation and harmful algorithms  
-   Link: <a href="https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Urgent Call for Action: Committee Report on Social...11 Jul 2025 — Full Fact responds to the Science, Innovation and Technology Commi...</p></details>
+   Link:<a href="https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Urgent Call for Action: Committee Report on Social...11 Jul 2025 — Full Fact responds to the Science, Innovation and Technology Commi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: publicsectorexecutive.com  
    Title: lga launches video series help councils tackle deepfake and ai disinformation  
-   Link: <a href="https://www.publicsectorexecutive.com/articles/lga-launches-video-series-help-councils-tackle-deepfake-and-ai-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsectorexecutive.com/articles/lga-launches-video-series-help-councils-tackle-deepfake-and-ai-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LGA launches video series to help councils tackle...20 May 2026 — The LGA has launched a new video series to help councillors and office...</p></details>
+   Link:<a href="https://www.publicsectorexecutive.com/articles/lga-launches-video-series-help-councils-tackle-deepfake-and-ai-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsectorexecutive.com/articles/lga-launches-video-series-help-councils-tackle-deepfake-and-ai-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LGA launches video series to help councils tackle...20 May 2026 — The LGA has launched a new video series to help councillors and office...</p></details>
    Published: May 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lgiu.org  
    Title: misinformation and disinformation how can local government tackle it  
-   Link: <a href="https://lgiu.org/misinformation-and-disinformation-how-can-local-government-tackle-it/" target="_blank" rel="noopener noreferrer nofollow">https://lgiu.org/misinformation-and-disinformation-how-can-local-government-tackle-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformation: how can local...16 Nov 2021 — This blog introduces some of the insights from LGIU&#x27;s online training s...</p></details>
+   Link:<a href="https://lgiu.org/misinformation-and-disinformation-how-can-local-government-tackle-it/" target="_blank" rel="noopener noreferrer nofollow">https://lgiu.org/misinformation-and-disinformation-how-can-local-government-tackle-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformation: how can local...16 Nov 2021 — This blog introduces some of the insights from LGIU&#x27;s online training s...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: zencity.io  
    Title: combating election misinformation strategies for local governments  
-   Link: <a href="https://zencity.io/combating-election-misinformation-strategies-for-local-governments/" target="_blank" rel="noopener noreferrer nofollow">https://zencity.io/combating-election-misinformation-strategies-for-local-governments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Combating Election Misinformation16 Sept 2024 — Learn how local governments can use data and AI-driven strategies to comba...</p></details>
+   Link:<a href="https://zencity.io/combating-election-misinformation-strategies-for-local-governments/" target="_blank" rel="noopener noreferrer nofollow">https://zencity.io/combating-election-misinformation-strategies-for-local-governments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Combating Election Misinformation16 Sept 2024 — Learn how local governments can use data and AI-driven strategies to comba...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rkellygarrett.com  
    Title: Garrett and Weeks Promise and peril of real time corrections  
-   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 230 — Computer scientists have responded to th...</p></details>
+   Link:<a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 230 — Computer scientists have responded to th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ccre-cemr.org  
    Title: Local truth shared trust EN  
-   Link: <a href="https://ccre-cemr.org/wp-content/uploads/2025/10/Local-truth-shared-trust-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccre-cemr.org/wp-content/uploads/2025/10/Local-truth-shared-trust-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local Truth, Shared Trust6 Oct 2025 — We are battling deliberate manipulation, distortion, and deception, visible within communities, inc...</p></details>
+   Link:<a href="https://ccre-cemr.org/wp-content/uploads/2025/10/Local-truth-shared-trust-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccre-cemr.org/wp-content/uploads/2025/10/Local-truth-shared-trust-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local Truth, Shared Trust6 Oct 2025 — We are battling deliberate manipulation, distortion, and deception, visible within communities, inc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why Facts Fail: The Backfire Effect Explained  
-   Link: <a href="http://www.youtube.com/watch?v=Ix2QjbH8VoU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ix2QjbH8VoU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Misinformation&quot; &quot;correction&quot; delay local government or council Cllr Rebecca Shoob: Misinformation by and breach of the Housing Act - She...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ix2QjbH8VoU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ix2QjbH8VoU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Misinformation&quot; &quot;correction&quot; delay local government or council Cllr Rebecca Shoob: Misinformation by and breach of the Housing Act - She...</p></details>

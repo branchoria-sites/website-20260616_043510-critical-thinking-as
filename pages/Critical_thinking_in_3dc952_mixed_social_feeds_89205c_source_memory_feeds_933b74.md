@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_sour
 
 ## Introduction
 
-Many people can remember a striking headline, a shocking claim, or a dramatic image they saw online, yet struggle to remember where it came from. This is not simply a failure of attention. Social feeds are designed around posts, recommendations, and engagement rather than around publishers. As a result, the context that once travelled with a news story—its masthead, layout, editorial identity, and reputation—is often weakened or removed. Research from the Reuters Institute has repeatedly found that people are much less likely to correctly identify the news organisation behind a story when they encounter it through social media or search rather than by visiting the publisher directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+Many people can remember a striking headline, a shocking claim, or a dramatic image they saw online, yet struggle to remember where it came from. This is not simply a failure of attention. Social feeds are designed around posts, recommendations, and engagement rather than around publishers. As a result, the context that once travelled with a news story—its masthead, layout, editorial identity, and reputation—is often weakened or removed. Research from the Reuters Institute has repeatedly found that people are much less likely to correctly identify the news organisation behind a story when they encounter it through social media or search rather than by visiting the publisher directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_source_memory_feeds_933b74-Illustration-1-dark.svg" | relative_url }}" alt="Source memory illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_source_memory_feeds_933b74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_source_memory_feeds_933b74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Traditional news products are built around brand visibility. A newspaper, broadc
 
 When a story appears in a feed, the platform's design becomes more visible than the publisher's identity. The user sees familiar interface elements—profile pictures, share buttons, reaction counts, comments, and recommendation labels—regardless of whether the content comes from a major newsroom, a government agency, an activist group, or an individual creator. The platform becomes the dominant visual frame.
 
-Researchers studying news brand attribution describe this as a “distributed” news environment. Instead of visiting a news outlet directly, users discover stories through intermediaries such as social networks and search engines. In these settings, correct attribution drops significantly because attention is focused on the content and the sharing context rather than on the original producer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
+Researchers studying news brand attribution describe this as a “distributed” news environment. Instead of visiting a news outlet directly, users discover stories through intermediaries such as social networks and search engines. In these settings, correct attribution drops significantly because attention is focused on the content and the sharing context rather than on the original producer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">a news brand if they accessed it directly rather than via search or social.Read more...</span></span></span>
 
 The effect becomes even stronger when content is reshared multiple times. A news article may appear as:
 
@@ -316,7 +316,7 @@ Each step increases distance from the original publisher while preserving some v
 
 Human memory treats content and source information differently.
 
-Psychologists distinguish between remembering information itself and remembering where that information came from. Source memory is often more fragile than memory for the message. People may accurately recall a fact or statement while forgetting who said it, where they encountered it, or whether it came from a trustworthy source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading the news on Twitter: Source and item memory</span><span class="citation-popover-snippet">by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</span></span></span>
+Psychologists distinguish between remembering information itself and remembering where that information came from. Source memory is often more fragile than memory for the message. People may accurately recall a fact or statement while forgetting who said it, where they encountered it, or whether it came from a trustworthy source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading the news on Twitter: Source and item memory</span><span class="citation-popover-snippet">by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</span></span></span>
 
 Social feeds encourage exactly this pattern. Users often consume information rapidly, scrolling through dozens or hundreds of posts in a single session. Under these conditions, attention is directed toward the novelty, emotional impact, or relevance of a claim rather than toward publisher details.
 
@@ -332,7 +332,7 @@ A feed also mixes many information types together:
 
 Because all of these appear within a similar visual format, the brain receives fewer signals that a source deserves special attention. The claim becomes memorable while the source fades into the background.
 
-Research examining news presented in social-media-style formats has found that the presentation environment can affect source memory independently of the information itself. The way content is packaged influences what people later remember about its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading the news on Twitter: Source and item memory</span><span class="citation-popover-snippet">by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</span></span></span>
+Research examining news presented in social-media-style formats has found that the presentation environment can affect source memory independently of the information itself. The way content is packaged influences what people later remember about its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading the news on Twitter: Source and item memory</span><span class="citation-popover-snippet">by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</span></span></span>
 
 ## Why source memory matters for trust decisions
 
@@ -347,7 +347,7 @@ Most readers do not independently verify every claim they encounter. Instead, th
 
 When source memory weakens, those shortcuts become harder to use.
 
-This creates a situation where a person may remember a claim but not remember whether it originated from a respected newsroom, a partisan activist, an anonymous account, or a fabricated post. The result is not necessarily immediate belief. Often it is uncertainty. However, uncertainty itself can make reliable and unreliable information appear more similar than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">Brand and trust in a fragmented news environment</span><span class="citation-popover-snippet">October 11, 2016 — The qualitative study explored issues of brand and trust in an increasingly fragmented news environment, and specifica...</span><span class="citation-popover-meta">Published: October 11, 2016</span></span></span>
+This creates a situation where a person may remember a claim but not remember whether it originated from a respected newsroom, a partisan activist, an anonymous account, or a fabricated post. The result is not necessarily immediate belief. Often it is uncertainty. However, uncertainty itself can make reliable and unreliable information appear more similar than they really are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">Brand and trust in a fragmented news environment</span><span class="citation-popover-snippet">October 11, 2016 — The qualitative study explored issues of brand and trust in an increasingly fragmented news environment, and specifica...</span><span class="citation-popover-meta">Published: October 11, 2016</span></span></span>
 
 The problem becomes especially important when stories circulate for days or weeks. A claim can continue spreading long after users have forgotten where they first encountered it.
 
@@ -357,19 +357,19 @@ The problem becomes especially important when stories circulate for days or week
 
 When source information fades, people may rely on a different signal: familiarity.
 
-Research on the illusory truth effect shows that repeated statements are often judged as more accurate than unfamiliar ones, even when they are false. [Repetition]({{ 'repetition/' | relative_url }}) increases processing fluency—the feeling that information is easy to recognise and understand—which people sometimes mistake for [evidence]({{ 'evidence/' | relative_url }}) of truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+Research on the illusory truth effect shows that repeated statements are often judged as more accurate than unfamiliar ones, even when they are false. [Repetition]({{ 'repetition/' | relative_url }}) increases processing fluency—the feeling that information is easy to recognise and understand—which people sometimes mistake for [evidence]({{ 'evidence/' | relative_url }}) of truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 Social feeds are particularly effective repetition machines. Users may encounter the same claim:
 
 * in multiple reposts,
-* from different accounts, <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[mitsloan.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-snippet">Given that the fake news stories circulating on social media are quite different from the...Read more...</span></span></span>
+* from different accounts,<span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[mitsloan.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-snippet">Given that the fake news stories circulating on social media are quite different from the...Read more...</span></span></span>
 * in screenshots,
 * in videos,
 * in recommendation feeds.
 
 Over time, people may forget where the information came from while retaining a strong sense that they have seen it before.
 
-Studies have found that prior exposure can increase perceived accuracy and willingness to share information, including misinformation. Reliance on social media for news can amplify these effects because repeated exposure occurs frequently within feed-based environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — That is, repeated information seem...</span></span></span>
+Studies have found that prior exposure can increase perceived accuracy and willingness to share information, including misinformation. Reliance on social media for news can amplify these effects because repeated exposure occurs frequently within feed-based environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — That is, repeated information seem...</span></span></span>
 
 This does not mean repetition automatically creates belief. Rather, it shifts attention away from source evaluation and towards familiarity as a judgement cue.
 
@@ -382,7 +382,7 @@ One of the clearest examples of source loss is the rise of screenshot culture.
 
 Screenshots are convenient because they allow information to travel across platforms. Yet they often remove metadata that would normally help readers evaluate authenticity. Logos, links, publication dates, correction notices, and surrounding context may disappear.
 
-Researchers studying social-media misattribution have highlighted how screenshots make it harder to verify authorship and trace material back to its original source. Once detached from its original environment, content can be reassigned to a different person, organisation, or publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Categorizing Social Media Screenshots for Identifying Author MisattributionOctober 9, 2024...</span><span class="citation-popover-meta">Published: October 9, 2024</span></span></span>
+Researchers studying social-media misattribution have highlighted how screenshots make it harder to verify authorship and trace material back to its original source. Once detached from its original environment, content can be reassigned to a different person, organisation, or publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Categorizing Social Media Screenshots for Identifying Author MisattributionOctober 9, 2024...</span><span class="citation-popover-meta">Published: October 9, 2024</span></span></span>
 
 A screenshot of a headline can therefore continue circulating even after:
 
@@ -414,7 +414,7 @@ Several habits are especially useful:
 
 **Notice when multiple posts trace back to the same original report.** Apparent agreement across many accounts may reflect repetition rather than independent confirmation.
 
-**Separate familiarity from credibility.** Seeing a claim repeatedly is evidence of exposure, not evidence that it is true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+**Separate familiarity from credibility.** Seeing a claim repeatedly is evidence of exposure, not evidence that it is true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking often begins with a simple question: not “Have I seen this before?” but “Who produced this, and can I still identify them?” Remembering the source restores information that modern platforms frequently push into the background, yet that remains essential for informed trust decisions.
 
@@ -423,194 +423,194 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why you forget where a story came from. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why you forget where a story came from. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
         
-        <p class="fr-book-desc">Explains why source identification matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why source identification matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Explores how online environments affect memory and cognition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how online environments affect memory and cognition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides insight into memory shortcuts and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into memory shortcuts and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="source-memory-why-you-forget-where-a-story-came-from-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,128 +816,128 @@ In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), critical thinking 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-brand-attribution-distributed-environments-do-people-know-where-they-get-their</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a news brand if they accessed it directly rather than via search or social.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/i-saw-news-facebook-brand-attribution-when-accessing-news-distributed-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cular story when coming from search engines or social media.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReading the news on Twitter: Source and item memory  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7072077/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by KA Bourne · 2020 · Cited by 22 — This study examined how the presentation of news-like content in social media affected both item a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Brand and trust in a fragmented news environment  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 11, 2016 — The qualitative study explored issues of brand and trust in an increasingly fragmented news environment, and specifica...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/Brand%2520and%2520trust%2520in%2520a%2520fragmented%2520news%2520environment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 11, 2016 — The qualitative study explored issues of brand and trust in an increasingly fragmented news environment, and specifica...</p></details>
    Published: October 11, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — That is, repeated information seem...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — That is, repeated information seem...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.06443</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Categorizing Social Media Screenshots for Identifying Author MisattributionOctober 9, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.06443</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Categorizing Social Media Screenshots for Identifying Author MisattributionOctober 9, 2024...</p></details>
    Published: October 9, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>young news audiences at a time of rapid...24 Mar 2026 — &#x27;News Brand Attribution in Distributed Environments: Do People Know Where They G...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>young news audiences at a time of rapid...24 Mar 2026 — &#x27;News Brand Attribution in Distributed Environments: Do People Know Where They G...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tandfonline.com  
    Title: The grim conclusions of the largest-ever study of fake news.Read more  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08838151.2024.2410783" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08838151.2024.2410783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineSocial Media News Use Amplifies the Illusory Truth Effects...by S Ahmed · 2024 · Cited by 20 — Distinguishing the...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08838151.2024.2410783" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08838151.2024.2410783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineSocial Media News Use Amplifies the Illusory Truth Effects...by S Ahmed · 2024 · Cited by 20 — Distinguishing the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The perception of repetition and explicit memory for the prior presentation might enhance the...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The perception of repetition and explicit memory for the prior presentation might enhance the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...This article is an in-depth look at the phenomenon of fake news: where most of it is coming from, why it spreads so easil...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...This article is an in-depth look at the phenomenon of fake news: where most of it is coming from, why it spreads so easil...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News: Overview;Hindsight bias;Social Media+ more. 2 of 3. Related...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News: Overview;Hindsight bias;Social Media+ more. 2 of 3. Related...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectThe results of a 2015 study suggests that the illusory truth effect can... &quot;The science behind why fake news is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectThe results of a 2015 study suggests that the illusory truth effect can... &quot;The science behind why fake news is...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385037614_Social_Media_News_Use_Amplifies_the_Illusory_Truth_Effects_of_Viral_[Deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385037614_Social_Media_News_Use_Amplifies_the_Illusory_Truth_Effects_of_Viral_[Deepfakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media News Use Amplifies the Illusory Truth Effects...17 Oct 2024 — The illusory truth effect, in which repeated exposure increas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385037614_Social_Media_News_Use_Amplifies_the_Illusory_Truth_Effects_of_Viral_[Deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385037614_Social_Media_News_Use_Amplifies_the_Illusory_Truth_Effects_of_Viral_[Deepfakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media News Use Amplifies the Illusory Truth Effects...17 Oct 2024 — The illusory truth effect, in which repeated exposure increas...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/rasmus-kleis-nielsen-5b97663_in-a-new-reuters-institute-for-the-study-activity-7267804763583348737-Ok9q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rasmus-kleis-nielsen-5b97663_in-a-new-reuters-institute-for-the-study-activity-7267804763583348737-Ok9q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rasmus Kleis Nielsen&#x27;s PostIn a new Reuters Institute for the Study of Journalism report led by Waqas Ejaz, PhD we document &quot;platform amb...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/rasmus-kleis-nielsen-5b97663_in-a-new-reuters-institute-for-the-study-activity-7267804763583348737-Ok9q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rasmus-kleis-nielsen-5b97663_in-a-new-reuters-institute-for-the-study-activity-7267804763583348737-Ok9q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rasmus Kleis Nielsen&#x27;s PostIn a new Reuters Institute for the Study of Journalism report led by Waqas Ejaz, PhD we document &quot;platform amb...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339935257_Reading_the_news_on_Twitter_Source_and_item_memory_for_social_media_in_younger_and_older_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339935257_Reading_the_news_on_Twitter_Source_and_item_memory_for_social_media_in_younger_and_older_adults</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source and item memory for social media in younger...This study examined how the presentation of news-like content in social media affec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339935257_Reading_the_news_on_Twitter_Source_and_item_memory_for_social_media_in_younger_and_older_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339935257_Reading_the_news_on_Twitter_Source_and_item_memory_for_social_media_in_younger_and_older_adults</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source and item memory for social media in younger...This study examined how the presentation of news-like content in social media affec...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.vanderbilt.edu  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often...Oct 6, 2020 — When adults hear a statement repeated twice, th...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often...Oct 6, 2020 — When adults hear a statement repeated twice, th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mitsloan.mit.edu  
-   Link: <a href="https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Given that the fake news stories circulating on social media are quite different from the...Read more...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Given that the fake news stories circulating on social media are quite different from the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/nkpgz/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/nkpgz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causes and consequences of mainstream media dissemination of fake news: literature.Read mor...</p></details>
+   Link:<a href="https://osf.io/download/nkpgz/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/nkpgz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causes and consequences of mainstream media dissemination of fake news: literature.Read mor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316418350_Fake_News_On_Social_Media_Illusory_Truth_and_the_2016_Presidential_Election" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316418350_Fake_News_On_Social_Media_Illusory_Truth_and_the_2016_Presidential_Election</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantitative and qualitative surveys of a sample of voters from across the United...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316418350_Fake_News_On_Social_Media_Illusory_Truth_and_the_2016_Presidential_Election" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316418350_Fake_News_On_Social_Media_Illusory_Truth_and_the_2016_Presidential_Election</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantitative and qualitative surveys of a sample of voters from across the United...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: misq.umn.edu  
    Title: Fake News on Social Media People Believe What They  
-   Link: <a href="https://misq.umn.edu/misq/article/43/4/1343/1791/Fake-News-on-Social-Media-People-Believe-What-They" target="_blank" rel="noopener noreferrer nofollow">https://misq.umn.edu/misq/article/43/4/1343/1791/Fake-News-on-Social-Media-People-Believe-What-They</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News on Social Media: People Believe What They...Fake news (i.e., misinformation) on social media has sharply increased in the past few...</p></details>
+   Link:<a href="https://misq.umn.edu/misq/article/43/4/1343/1791/Fake-News-on-Social-Media-People-Believe-What-They" target="_blank" rel="noopener noreferrer nofollow">https://misq.umn.edu/misq/article/43/4/1343/1791/Fake-News-on-Social-Media-People-Believe-What-They</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News on Social Media: People Believe What They...Fake news (i.e., misinformation) on social media has sharply increased in the past few...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 388067519 Repeating Statements Increases Source Credibility  
-   Link: <a href="https://www.researchgate.net/publication/388067519_Repeating_Statements_Increases_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388067519_Repeating_Statements_Increases_Source_Credibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Illusory truth effect has almost exclusively investigated how repetition. changes participants...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388067519_Repeating_Statements_Increases_Source_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388067519_Repeating_Statements_Increases_Source_Credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Illusory truth effect has almost exclusively investigated how repetition. changes participants...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/22013568/Source_misattributions_may_increase_the_accuracy_of_source_judgments" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/22013568/Source_misattributions_may_increase_the_accuracy_of_source_judgments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rom one source with another, which can affect memory accuracy.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/22013568/Source_misattributions_may_increase_the_accuracy_of_source_judgments" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/22013568/Source_misattributions_may_increase_the_accuracy_of_source_judgments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rom one source with another, which can affect memory accuracy.Read more...</p></details>

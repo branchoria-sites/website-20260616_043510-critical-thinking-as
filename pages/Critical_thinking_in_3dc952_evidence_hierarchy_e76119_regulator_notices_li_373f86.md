@@ -301,9 +301,9 @@ This matters because online discussions often collapse several different questio
 
 </div>
 
-For example, the U.S. Food and Drug Administration (FDA) states that warning letters are used when it believes significant violations have occurred and wants the recipient to address those concerns. The letters identify specific issues and request corrective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
+For example, the U.S. Food and Drug Administration (FDA) states that warning letters are used when it believes significant violations have occurred and wants the recipient to address those concerns. The letters identify specific issues and request corrective action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
 
-Similarly, the U.S. Federal Trade Commission (FTC) explains that warning letters are issued when the agency believes conduct is likely unlawful and that failure to correct it could lead to legal consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</span></span></span>
+Similarly, the U.S. Federal Trade Commission (FTC) explains that warning letters are issued when the agency believes conduct is likely unlawful and that failure to correct it could lead to legal consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</span></span></span>
 
 For critical thinkers, this means a regulator notice can strongly support a claim such as:
 
@@ -315,7 +315,7 @@ If the notice exists and says exactly that, the claim is supported by a primary 
 
 A common mistake online is treating a regulator notice as equivalent to a court judgment. In many regulatory systems, it is not.
 
-The FDA explicitly states that warning letters are advisory and are not final agency action. They communicate the agency's position but do not commit the agency to taking enforcement action. The agency may later escalate, modify its position, accept corrective actions or close the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">compliance enforcement</span><span class="citation-popover-snippet">Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</span></span></span>
+The FDA explicitly states that warning letters are advisory and are not final agency action. They communicate the agency's position but do not commit the agency to taking enforcement action. The agency may later escalate, modify its position, accept corrective actions or close the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">compliance enforcement</span><span class="citation-popover-snippet">Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</span></span></span>
 
 This distinction is important because several separate questions can exist at the same time:
 
@@ -330,7 +330,7 @@ This distinction is important because several separate questions can exist at th
 
 </div>
 
-Courts in the United States have repeatedly recognised this distinction. FDA warning letters have often been treated as non-final regulatory communications rather than final legal determinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duanemorris.com">[Duane Morris+2lexology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duanemorris.com</span><span class="citation-popover-title">Duane Morris U.S</span><span class="citation-popover-snippet">Court of Appeals for the District of Columbia Circuit...Jan 20, 2012 — &quot;Warning letters&quot; do not constitute &quot;final agency action&quot; subject...</span></span></span>
+Courts in the United States have repeatedly recognised this distinction. FDA warning letters have often been treated as non-final regulatory communications rather than final legal determinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duanemorris.com">[Duane Morris+2lexology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duanemorris.com</span><span class="citation-popover-title">Duane Morris U.S</span><span class="citation-popover-snippet">Court of Appeals for the District of Columbia Circuit...Jan 20, 2012 — &quot;Warning letters&quot; do not constitute &quot;final agency action&quot; subject...</span></span></span>
 
 As a result, social-media posts that claim “the regulator proved fraud” or “the regulator proved the company broke the law” may overstate what the document actually establishes. The notice may show that regulators believe violations occurred, but the legal process may still be incomplete.
 
@@ -345,11 +345,11 @@ A regulator notice generally proves:
 
 **The regulator acted.**
 
-The existence of the document demonstrates that the authority reviewed information and decided formal communication was warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
+The existence of the document demonstrates that the authority reviewed information and decided formal communication was warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
 
 **Specific concerns were identified.**
 
-Notices normally describe the conduct, product, advertisement, process or practice that triggered concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://federal-lawyer.com/healthcare/fda/warning-letters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federal-lawyer.com">[Federal Lawyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federal-lawyer.com</span><span class="citation-popover-title">warning letters</span><span class="citation-popover-snippet">Federal LawyerFDA Warning Letters (Overview &amp; Response Strategies)Jun 8, 2023 — These warning letters inform recipients that the FDA beli...</span></span></span>
+Notices normally describe the conduct, product, advertisement, process or practice that triggered concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://federal-lawyer.com/healthcare/fda/warning-letters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federal-lawyer.com">[Federal Lawyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federal-lawyer.com</span><span class="citation-popover-title">warning letters</span><span class="citation-popover-snippet">Federal LawyerFDA Warning Letters (Overview &amp; Response Strategies)Jun 8, 2023 — These warning letters inform recipients that the FDA beli...</span></span></span>
 
 **Named parties were notified.**
 
@@ -361,7 +361,7 @@ The date is evidence that the regulator held that position when the notice was i
 
 **Potential consequences were contemplated.**
 
-Many notices explain possible enforcement paths if problems are not corrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</span></span></span>
+Many notices explain possible enforcement paths if problems are not corrected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</span></span></span>
 
 These are powerful evidential points because they rely on official records rather than hearsay.
 
@@ -375,11 +375,11 @@ A notice typically does not prove:
 
 **That all allegations were ultimately sustained.**
 
-Recipients may challenge findings, submit evidence, correct deficiencies or persuade regulators to revise their assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duanemorris.com">[Duane Morris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duanemorris.com</span><span class="citation-popover-title">In other words, a Warning Letter is not “final agency action.Read more</span><span class="citation-popover-snippet">Duane MorrisFDA Warning Letters Explained: An Opportunity, Not a ThreatNov 21, 2023 — The Warning Letter also does not necessarily repres...</span></span></span>
+Recipients may challenge findings, submit evidence, correct deficiencies or persuade regulators to revise their assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duanemorris.com">[Duane Morris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duanemorris.com</span><span class="citation-popover-title">In other words, a Warning Letter is not “final agency action.Read more</span><span class="citation-popover-snippet">Duane MorrisFDA Warning Letters Explained: An Opportunity, Not a ThreatNov 21, 2023 — The Warning Letter also does not necessarily repres...</span></span></span>
 
 **That enforcement occurred.**
 
-Many matters end with voluntary correction rather than lawsuits, fines or other sanctions. Regulators often issue notices specifically to encourage compliance before escalation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">compliance enforcement</span><span class="citation-popover-snippet">Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</span></span></span>
+Many matters end with voluntary correction rather than lawsuits, fines or other sanctions. Regulators often issue notices specifically to encourage compliance before escalation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">compliance enforcement</span><span class="citation-popover-snippet">Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</span></span></span>
 
 **That current conditions remain the same.**
 
@@ -416,11 +416,11 @@ A notice directed at one subsidiary, product line or facility does not automatic
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_regulator_notices_li_373f86-Illustration-3-dark.svg" | relative_url }}" alt="Regulator Notices illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_regulator_notices_li_373f86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_regulator_notices_li_373f86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Was there a response?
 
-Many regulatory systems publish company responses, corrective-action plans or follow-up correspondence. These documents can provide important context about disputed facts or remediation efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationWarning LettersLearn about the types of warning letters on FDA&#x27;s website. Search Filter by Issuing Offic...</span></span></span>
+Many regulatory systems publish company responses, corrective-action plans or follow-up correspondence. These documents can provide important context about disputed facts or remediation efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationWarning LettersLearn about the types of warning letters on FDA&#x27;s website. Search Filter by Issuing Offic...</span></span></span>
 
 ### Was the matter closed?
 
-Some agencies issue close-out letters or other records indicating that identified concerns have been addressed. Looking only at the original warning can create a misleading picture of the final outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
+Some agencies issue close-out letters or other records indicating that identified concerns have been addressed. Looking only at the original warning can create a misleading picture of the final outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">about warning and close out letters</span><span class="citation-popover-snippet">Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</span></span></span>
 
 ## A practical rule for social-media claims
 
@@ -441,194 +441,194 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What a warning letter really proves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What a warning letter really proves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Useful for understanding what official notices do and do not prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding what official notices do and do not prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation rather than assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation rather than assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains reasoning errors that affect interpretation of regulatory actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reasoning errors that affect interpretation of regulatory actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Illustrates how evidence can be overstated or misread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how evidence can be overstated or misread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="regulator-notices-what-a-warning-letter-really-proves-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -644,7 +644,7 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -664,7 +664,7 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -696,7 +696,7 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -748,7 +748,7 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -793,7 +793,7 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -834,109 +834,109 @@ That distinction may sound small, but it is central to [critical thinking]({{ 'c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fda.gov  
    Title: about warning and close out letters  
-   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</p></details>
+   Link:<a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/about-warning-and-close-out-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationWarning Letters - About Warning and Close-Out LettersMar 20, 2024 — The Warning Letter identifies the concern...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: federal-lawyer.com  
    Title: warning letters  
-   Link: <a href="https://federal-lawyer.com/healthcare/fda/warning-letters/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/healthcare/fda/warning-letters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal LawyerFDA Warning Letters (Overview &amp; Response Strategies)Jun 8, 2023 — These warning letters inform recipients that the FDA beli...</p></details>
+   Link:<a href="https://federal-lawyer.com/healthcare/fda/warning-letters/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/healthcare/fda/warning-letters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal LawyerFDA Warning Letters (Overview &amp; Response Strategies)Jun 8, 2023 — These warning letters inform recipients that the FDA beli...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/warning-letters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/warning-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionLegal Library: Warning LettersThe purpose of FTC warning letters is to warn companies that their conduct is likel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fda.gov  
    Title: compliance enforcement  
-   Link: <a href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/animal-veterinary/compliance-enforcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</p></details>
+   Link:<a href="https://www.fda.gov/animal-veterinary/compliance-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/animal-veterinary/compliance-enforcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationCompliance &amp; EnforcementJan 27, 2026 — Warning letters are not final agency action. They communicate the agen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lexology.com  
-   Link: <a href="https://www.lexology.com/library/detail.aspx?g=6557360a-134e-43ab-ab9b-37aba4f3fe60" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=6557360a-134e-43ab-ab9b-37aba4f3fe60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It communicates the agency&#x27;s position on a matter, but it does not commit FDA to taking enforcement action.Read more...</p></details>
+   Link:<a href="https://www.lexology.com/library/detail.aspx?g=6557360a-134e-43ab-ab9b-37aba4f3fe60" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=6557360a-134e-43ab-ab9b-37aba4f3fe60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It communicates the agency&#x27;s position on a matter, but it does not commit FDA to taking enforcement action.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationWarning LettersLearn about the types of warning letters on FDA&#x27;s website. Search Filter by Issuing Offic...</p></details>
+   Link:<a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationWarning LettersLearn about the types of warning letters on FDA&#x27;s website. Search Filter by Issuing Offic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fda.gov  
    Title: Regulatory Procedures Manual  
-   Link: <a href="https://www.fda.gov/downloads/ICECI/ComplianceManuals/RegulatoryProceduresManual/UCM074330.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/downloads/ICECI/ComplianceManuals/RegulatoryProceduresManual/UCM074330.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4A Warning Letter constitutes official but not final agency action. Inspections will be classified Official Action Indicated (OAI...</p></details>
+   Link:<a href="https://www.fda.gov/downloads/ICECI/ComplianceManuals/RegulatoryProceduresManual/UCM074330.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/downloads/ICECI/ComplianceManuals/RegulatoryProceduresManual/UCM074330.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4A Warning Letter constitutes official but not final agency action. Inspections will be classified Official Action Indicated (OAI...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: duanemorris.com  
    Title: Duane Morris U.S  
-   Link: <a href="https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html" target="_blank" rel="noopener noreferrer nofollow">https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Court of Appeals for the District of Columbia Circuit...Jan 20, 2012 — &quot;Warning letters&quot; do not constitute &quot;final agency action&quot; subject...</p></details>
+   Link:<a href="https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html" target="_blank" rel="noopener noreferrer nofollow">https://www.duanemorris.com/alerts/dc_circuit_determines_that_FDA_warning_letters_are_not_final_agency_action_4337.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Court of Appeals for the District of Columbia Circuit...Jan 20, 2012 — &quot;Warning letters&quot; do not constitute &quot;final agency action&quot; subject...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: duanemorris.com  
    Title: In other words, a Warning Letter is not “final agency action.Read more  
-   Link: <a href="https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html" target="_blank" rel="noopener noreferrer nofollow">https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duane MorrisFDA Warning Letters Explained: An Opportunity, Not a ThreatNov 21, 2023 — The Warning Letter also does not necessarily repres...</p></details>
+   Link:<a href="https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html" target="_blank" rel="noopener noreferrer nofollow">https://www.duanemorris.com/alerts/fda_warning_letters_explained_an_opportunity_not_threat_1123.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duane MorrisFDA Warning Letters Explained: An Opportunity, Not a ThreatNov 21, 2023 — The Warning Letter also does not necessarily repres...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: codacorpusa.com  
-   Link: <a href="https://codacorpusa.com/warning-letters-roadmap-to-corrective-action-2/" target="_blank" rel="noopener noreferrer nofollow">https://codacorpusa.com/warning-letters-roadmap-to-corrective-action-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coda Corp USAWarning Letters: Roadmap to Corrective ActionA Warning Letter constitutes official but not final, agency action.... In case...</p></details>
+   Link:<a href="https://codacorpusa.com/warning-letters-roadmap-to-corrective-action-2/" target="_blank" rel="noopener noreferrer nofollow">https://codacorpusa.com/warning-letters-roadmap-to-corrective-action-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coda Corp USAWarning Letters: Roadmap to Corrective ActionA Warning Letter constitutes official but not final, agency action.... In case...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hoganlovells.com  
-   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-sends-dozens-of-warning-letters-to-companies-over-advertising-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-sends-dozens-of-warning-letters-to-companies-over-advertising-disclosures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Sends Dozens of Warning Letters to Companies Over...The warnings serve as a reminder that organizations should review their disclaim...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/ftc-sends-dozens-of-warning-letters-to-companies-over-advertising-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-sends-dozens-of-warning-letters-to-companies-over-advertising-disclosures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Sends Dozens of Warning Letters to Companies Over...The warnings serve as a reminder that organizations should review their disclaim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: consumerfinancialserviceslawmonitor.com  
-   Link: <a href="https://www.consumerfinancialserviceslawmonitor.com/2026/04/ftc-warning-letters-signal-continued-federal-focus-on-debanking-and-financial-access/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinancialserviceslawmonitor.com/2026/04/ftc-warning-letters-signal-continued-federal-focus-on-debanking-and-financial-access/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Warning Letters Signal Continued Federal Focus on...3 Apr 2026 — &#x27;” The letters emphasize that denying law‑abiding individuals acces...</p></details>
+   Link:<a href="https://www.consumerfinancialserviceslawmonitor.com/2026/04/ftc-warning-letters-signal-continued-federal-focus-on-debanking-and-financial-access/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinancialserviceslawmonitor.com/2026/04/ftc-warning-letters-signal-continued-federal-focus-on-debanking-and-financial-access/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Warning Letters Signal Continued Federal Focus on...3 Apr 2026 — &#x27;” The letters emphasize that denying law‑abiding individuals acces...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: classdismissed.mofo.com  
-   Link: <a href="https://classdismissed.mofo.com/topics/under-review-ftc-puts-companies-on-notice-with-consumer-reviews-rule-warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://classdismissed.mofo.com/topics/under-review-ftc-puts-companies-on-notice-with-consumer-reviews-rule-warning-letters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Puts Companies on Notice with Consumer Reviews Rule...2 Feb 2026 — The FTC&#x27;s warning-letter template outlining practices the agency view...</p></details>
+   Link:<a href="https://classdismissed.mofo.com/topics/under-review-ftc-puts-companies-on-notice-with-consumer-reviews-rule-warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://classdismissed.mofo.com/topics/under-review-ftc-puts-companies-on-notice-with-consumer-reviews-rule-warning-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Puts Companies on Notice with Consumer Reviews Rule...2 Feb 2026 — The FTC&#x27;s warning-letter template outlining practices the agency view...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCChanges in FDA enforcement activities following  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3582490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3582490/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Nguyen · 2013 · Cited by 20 — A regulatory letter can result from awareness of a FDCA violation from an inspection or other sourc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3582490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3582490/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Nguyen · 2013 · Cited by 20 — A regulatory letter can result from awareness of a FDCA violation from an inspection or other sourc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wiley.law  
    Title: alert FTC Sends Warning Letters to Data Brokers on PADFA Compliance  
-   Link: <a href="https://www.wiley.law/alert-FTC-Sends-Warning-Letters-to-Data-Brokers-on-PADFA-Compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Sends-Warning-Letters-to-Data-Brokers-on-PADFA-Compliance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Sends Warning Letters to Data Brokers on PADFA...10 Feb 2026 — The Federal Trade Commission (FTC) announced it sent warning letters...</p></details>
+   Link:<a href="https://www.wiley.law/alert-FTC-Sends-Warning-Letters-to-Data-Brokers-on-PADFA-Compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Sends-Warning-Letters-to-Data-Brokers-on-PADFA-Compliance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Sends Warning Letters to Data Brokers on PADFA...10 Feb 2026 — The Federal Trade Commission (FTC) announced it sent warning letters...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: insideprivacy.com  
    Title: ftc issues warning letters for violations of consumer reviews rule  
-   Link: <a href="https://www.insideprivacy.com/united-states/federal-trade-commission/ftc-issues-warning-letters-for-violations-of-consumer-reviews-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/united-states/federal-trade-commission/ftc-issues-warning-letters-for-violations-of-consumer-reviews-rule/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Warning Letters for Violations of Consumer...2 Jan 2026 — According to the letter template, the FTC&#x27;s warnings were based on...</p></details>
+   Link:<a href="https://www.insideprivacy.com/united-states/federal-trade-commission/ftc-issues-warning-letters-for-violations-of-consumer-reviews-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/united-states/federal-trade-commission/ftc-issues-warning-letters-for-violations-of-consumer-reviews-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Warning Letters for Violations of Consumer...2 Jan 2026 — According to the letter template, the FTC&#x27;s warnings were based on...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jjccgroup.org  
-   Link: <a href="https://jjccgroup.org/fda-483-response-guide/" target="_blank" rel="noopener noreferrer nofollow">https://jjccgroup.org/fda-483-response-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get step-by-step guidance, response templates, and CAPA tips to protect your business in 2025...</p></details>
+   Link:<a href="https://jjccgroup.org/fda-483-response-guide/" target="_blank" rel="noopener noreferrer nofollow">https://jjccgroup.org/fda-483-response-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get step-by-step guidance, response templates, and CAPA tips to protect your business in 2025...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gmp-compliance.org  
    Title: fda warning letters structure and the lessons learnt effect  
-   Link: <a href="https://www.gmp-compliance.org/gmp-news/fda-warning-letters-structure-and-the-lessons-learnt-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.gmp-compliance.org/gmp-news/fda-warning-letters-structure-and-the-lessons-learnt-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warning Letters: Structure and the &quot;Lessons Learnt...9 Sept 2020 — The Warning Letters are official deficiency letters from the FDA...</p></details>
+   Link:<a href="https://www.gmp-compliance.org/gmp-news/fda-warning-letters-structure-and-the-lessons-learnt-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.gmp-compliance.org/gmp-news/fda-warning-letters-structure-and-the-lessons-learnt-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warning Letters: Structure and the &quot;Lessons Learnt...9 Sept 2020 — The Warning Letters are official deficiency letters from the FDA...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: michiganlawreview.org  
-   Link: <a href="https://michiganlawreview.org/journal/the-new-frontier-of-guidance-reviewability/" target="_blank" rel="noopener noreferrer nofollow">https://michiganlawreview.org/journal/the-new-frontier-of-guidance-reviewability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neither the issuance nor the withdrawal of a no-action letter constitutes a...Read more...</p></details>
+   Link:<a href="https://michiganlawreview.org/journal/the-new-frontier-of-guidance-reviewability/" target="_blank" rel="noopener noreferrer nofollow">https://michiganlawreview.org/journal/the-new-frontier-of-guidance-reviewability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neither the issuance nor the withdrawal of a no-action letter constitutes a...Read more...</p></details>

@@ -278,7 +278,7 @@ A vague viral post becomes easier to evaluate when it is rewritten as a single c
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_vague_posts_checkabl_fc3aeb-Illustration-1-dark.svg" | relative_url }}" alt="Vague Posts illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_vague_posts_checkabl_fc3aeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_vague_posts_checkabl_fc3aeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because social media posts rarely present information in a clean, testable form. A meme, screenshot, caption, and emotional appeal may all point towards a conclusion without clearly stating it. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) often begin by identifying exactly what is being asserted before examining evidence. Full Fact describes its first task as understanding what has been said, including underlying assumptions, because even factually correct information can be used in a misleading way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</span></span></span>
+This matters because social media posts rarely present information in a clean, testable form. A meme, screenshot, caption, and emotional appeal may all point towards a conclusion without clearly stating it. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) often begin by identifying exactly what is being asserted before examining evidence. Full Fact describes its first task as understanding what has been said, including underlying assumptions, because even factually correct information can be used in a misleading way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</span></span></span>
 
 The practical goal is simple: transform a post that triggers a reaction into a question that evidence could answer.
 
@@ -348,7 +348,7 @@ A good testable question usually has three characteristics:
 
 </div>
 
-Research into misinformation repeatedly finds that people often share content while focusing on factors other than accuracy. Simply redirecting attention towards whether a claim is true can improve the quality of information people choose to share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
+Research into misinformation repeatedly finds that people often share content while focusing on factors other than accuracy. Simply redirecting attention towards whether a claim is true can improve the quality of information people choose to share.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
 
 Turning a viral statement into a question helps create that shift in attention.
 
@@ -398,7 +398,7 @@ A broad narrative becomes manageable once reduced to a specific factual proposit
 
 A common mistake is assuming every claim must be either completely true or completely false.
 
-Professional fact-checking organisations frequently use more nuanced verdicts because reality is often mixed. A statement may contain an accurate detail while encouraging an incorrect conclusion. Full Fact explicitly notes that correct information can still be used to make a misleading point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</span></span></span>
+Professional fact-checking organisations frequently use more nuanced verdicts because reality is often mixed. A statement may contain an accurate detail while encouraging an incorrect conclusion. Full Fact explicitly notes that correct information can still be used to make a misleading point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</span></span></span>
 
 Before checking evidence, it helps to define the range of possible outcomes:
 
@@ -465,199 +465,199 @@ Only after reaching this stage does evidence gathering begin.
 
 Fact-checking is often imagined as a search problem: finding the right article, dataset, or document. In practice, the earlier step of defining the claim is frequently more important. If the claim is vague, the evidence search becomes directionless.
 
-Research on misinformation suggests that people frequently fail to focus on accuracy when engaging with online content. Accuracy-focused prompts can improve discernment and reduce the sharing of false information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
+Research on misinformation suggests that people frequently fail to focus on accuracy when engaging with online content. Accuracy-focused prompts can improve discernment and reduce the sharing of false information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
 
 Rewriting vague viral posts into precise, answerable questions creates exactly that shift. It forces attention away from the emotional package and towards the factual proposition. Once the claim is clear, evidence has something concrete to test. Without that step, fact-checking often becomes little more than arguing with a feeling.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How vague posts become checkable claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How vague posts become checkable claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to extract and test claims hidden inside persuasive language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to extract and test claims hidden inside persuasive language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Focuses on turning assertions into questions that evidence can address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on turning assertions into questions that evidence can address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes skeptical examination of claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes skeptical examination of claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="vague-posts-how-vague-posts-become-checkable-claims-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -822,7 +822,7 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -863,87 +863,87 @@ Rewriting vague viral posts into precise, answerable questions creates exactly t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 363 — [Accuracy prompts](&amp;#123;&amp;#123; &#x27;accuracy-prompts/&#x27; | relative_url &amp;#125;&amp;#125;) increased the qualit...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 363 — [Accuracy prompts](&amp;#123;&amp;#123; &#x27;accuracy-prompts/&#x27; | relative_url &amp;#125;&amp;#125;) increased the qualit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracy - PMC - NIHby G Pennycook · 2022 · Cited by 127 — We review research that shows how a simple nudge or prompt...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracy - PMC - NIHby G Pennycook · 2022 · Cited by 127 — We review research that shows how a simple nudge or prompt...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) through research on the spread of misinformation about COVID-19 in...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) through research on the spread of misinformation about COVID-19 in...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/how-we-fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</p></details>
+   Link:<a href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/how-we-fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactHow we fact check – Full FactFirst we need to understand what has been said or printed. We don&#x27;t only fact check the evidence us...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: educateagainsthate.com  
-   Link: <a href="https://www.educateagainsthate.com/wp-content/uploads/2025/04/How-to-Fact-Check-Online-Sources.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.educateagainsthate.com/wp-content/uploads/2025/04/How-to-Fact-Check-Online-Sources.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Fact Check Online SourcesUse this guide to get equipped with the tools and knowledge needed to navigate the sea of information and...</p></details>
+   Link:<a href="https://www.educateagainsthate.com/wp-content/uploads/2025/04/How-to-Fact-Check-Online-Sources.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.educateagainsthate.com/wp-content/uploads/2025/04/How-to-Fact-Check-Online-Sources.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Fact Check Online SourcesUse this guide to get equipped with the tools and knowledge needed to navigate the sea of information and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/people/matthew-pennycook" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/people/matthew-pennycook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennycook MPMatthew Pennycook was appointed Minister of State at the Ministry of Housing, Communities and Local Government on 6 July 2024...</p></details>
+   Link:<a href="https://www.gov.uk/government/people/matthew-pennycook" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/people/matthew-pennycook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennycook MPMatthew Pennycook was appointed Minister of State at the Ministry of Housing, Communities and Local Government on 6 July 2024...</p></details>
    Published: July 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: static.poder360.com.br  
    Title: pesquisa compartilhamento fake news estudo pennycook universidade regina  
-   Link: <a href="https://static.poder360.com.br/2022/03/pesquisa-compartilhamento-fake-news-estudo-pennycook-universidade-regina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.poder360.com.br/2022/03/pesquisa-compartilhamento-fake-news-estudo-pennycook-universidade-regina.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1596 — we find that headline veracity has 18 little impact o...</p></details>
+   Link:<a href="https://static.poder360.com.br/2022/03/pesquisa-compartilhamento-fake-news-estudo-pennycook-universidade-regina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.poder360.com.br/2022/03/pesquisa-compartilhamento-fake-news-estudo-pennycook-universidade-regina.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1596 — we find that headline veracity has 18 little impact o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.cornell.edu  
    Title: [accuracy nudges](&#123;&#123; 'accuracy-nudge/' | relative_url &#125;&#125;) decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — Pennycook said the idea for the “adversarial collaboration” – typical...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — Pennycook said the idea for the “adversarial collaboration” – typical...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: fact checking fact checkers a data driven approach  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Fact-checking” fact checkers: A data-driven approachby S Lee · 2023 · Cited by 62 — This study examined four fact checkers (S...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Fact-checking” fact checkers: A data-driven approachby S Lee · 2023 · Cited by 62 — This study examined four fact checkers (S...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 360387098 Nudging Social Media toward Accuracy  
-   Link: <a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Nudging Social Media toward Accuracyby G PENNYCOOK · 2022 · Cited by 127 — We review research that shows how a simple nudge or prom...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Nudging Social Media toward Accuracyby G PENNYCOOK · 2022 · Cited by 127 — We review research that shows how a simple nudge or prom...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ide.mit.edu  
    Title: Pennycook et al Shifting attention to accuracy  
-   Link: <a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1596 — The accuracy reminder consistently caused a larger de...</p></details>
+   Link:<a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1596 — The accuracy reminder consistently caused a larger de...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: chrispennycook.ca  
    Title: Chris Pennycook: Royal Le Page Dynamic Real  
-   Link: <a href="https://chrispennycook.ca/" target="_blank" rel="noopener noreferrer nofollow">https://chrispennycook.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WinnipegI make myself available at all times. When you are ready to see a listing in person, or just have a simple question, please don&#x27;t...</p></details>
+   Link:<a href="https://chrispennycook.ca/" target="_blank" rel="noopener noreferrer nofollow">https://chrispennycook.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WinnipegI make myself available at all times. When you are ready to see a listing in person, or just have a simple question, please don&#x27;t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: members.parliament.uk  
-   Link: <a href="https://members.parliament.uk/member/4520/contact" target="_blank" rel="noopener noreferrer nofollow">https://members.parliament.uk/member/4520/contact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>information for Matthew Pennycook - MPs and LordsMatthew Pennycook is the Labour MP for Greenwich and Woolwich, and has been an MP contin...</p></details>
+   Link:<a href="https://members.parliament.uk/member/4520/contact" target="_blank" rel="noopener noreferrer nofollow">https://members.parliament.uk/member/4520/contact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>information for Matthew Pennycook - MPs and LordsMatthew Pennycook is the Labour MP for Greenwich and Woolwich, and has been an MP contin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35558818/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracyby G Pennycook · 2022 · Cited by 127 — We review research that shows how a simple nudge or prompt that shifts...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35558818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracyby G Pennycook · 2022 · Cited by 127 — We review research that shows how a simple nudge or prompt that shifts...</p></details>

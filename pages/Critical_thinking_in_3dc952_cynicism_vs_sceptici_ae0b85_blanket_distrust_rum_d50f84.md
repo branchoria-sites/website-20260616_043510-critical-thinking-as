@@ -278,7 +278,7 @@ Blanket distrust feels protective. In an online environment full of manipulated 
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-1-dark.svg" | relative_url }}" alt="Blanket distrust illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key mechanism is not that distrust eliminates trust. It relocates it. People who reject established sources rarely stop believing things altogether. Instead, they often place confidence in alternative sources that feel more authentic, emotionally satisfying or socially familiar. As a result, misinformation can exploit distrust just as effectively as gullibility. Research consistently finds links between broad institutional distrust, conspiracy beliefs and greater susceptibility to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</span></span></span>
+The key mechanism is not that distrust eliminates trust. It relocates it. People who reject established sources rarely stop believing things altogether. Instead, they often place confidence in alternative sources that feel more authentic, emotionally satisfying or socially familiar. As a result, misinformation can exploit distrust just as effectively as gullibility. Research consistently finds links between broad institutional distrust, conspiracy beliefs and greater susceptibility to misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</span></span></span>
 
 ## Why cynicism feels safer than checking
 
@@ -286,7 +286,7 @@ The key mechanism is not that distrust eliminates trust. It relocates it. People
 
 If every institution is presumed deceptive, then difficult evaluation questions disappear. A person no longer has to decide whether a specific report is reliable, whether a correction is legitimate or whether a source has supporting evidence. The answer is already assumed: nobody can be trusted.
 
-Psychologists have long noted that people are motivated not only by accuracy but also by the desire to avoid being fooled. Cynicism satisfies that desire because it creates a sense of immunity. If you trust nobody, it feels impossible to be deceived. The emotional reward comes before any evidence is examined. Research on misinformation belief highlights how cognitive and emotional factors can shape acceptance of claims independently of their factual basis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the...</span></span></span>
+Psychologists have long noted that people are motivated not only by accuracy but also by the desire to avoid being fooled. Cynicism satisfies that desire because it creates a sense of immunity. If you trust nobody, it feels impossible to be deceived. The emotional reward comes before any evidence is examined. Research on misinformation belief highlights how cognitive and emotional factors can shape acceptance of claims independently of their factual basis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the...</span></span></span>
 
 This is one reason rumours can feel safer than verified information. Verified information often arrives with caveats, uncertainty and revisions. Rumours frequently offer certainty. A rumour that claims to reveal "what they don't want you to know" can feel psychologically cleaner than a careful explanation that acknowledges gaps in knowledge.
 
@@ -309,7 +309,7 @@ Someone who dismisses mainstream reporting may still trust:
 
 These sources often feel trustworthy because they seem independent of institutions. Yet independence alone says nothing about accuracy.
 
-Research increasingly shows that misinformation is frequently associated with distrust of institutions and established information channels. Studies examining conspiracy beliefs, misinformation susceptibility and trust find that lower trust in scientific and institutional authorities is linked to greater acceptance of unsupported claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</span></span></span>
+Research increasingly shows that misinformation is frequently associated with distrust of institutions and established information channels. Studies examining conspiracy beliefs, misinformation susceptibility and trust find that lower trust in scientific and institutional authorities is linked to greater acceptance of unsupported claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</span></span></span>
 
 This helps explain why rumours often spread through communities that see themselves as highly sceptical. Members may believe they are resisting manipulation, while actually relying on weaker verification systems. The trust has not disappeared; it has simply moved.
 
@@ -337,7 +337,7 @@ Many rumours share common themes:
 
 These themes are powerful because they are self-reinforcing. Evidence against the rumour can be interpreted as proof that the cover-up is working. Lack of evidence can be reinterpreted as evidence of concealment.
 
-Researchers studying conspiracy beliefs describe similar dynamics. Disrupted forms of what psychologists call "epistemic trust"—the ability to judge when information from others deserves consideration—are associated with greater endorsement of conspiracy narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMC“Trust me, do not trust anyone”: how epistemic mistrust and...by F Brauner · 2023 · Cited by 45 — Previous research shows that the pr...</span></span></span>
+Researchers studying conspiracy beliefs describe similar dynamics. Disrupted forms of what psychologists call "epistemic trust"—the ability to judge when information from others deserves consideration—are associated with greater endorsement of conspiracy narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMC“Trust me, do not trust anyone”: how epistemic mistrust and...by F Brauner · 2023 · Cited by 45 — Previous research shows that the pr...</span></span></span>
 
 This creates an asymmetry. Official information must continually prove itself. Rumours merely need to remain plausible within a framework of distrust.
 
@@ -364,7 +364,7 @@ Critical thinking depends on recognising differences. A peer-reviewed study, a g
 
 Cynicism flattens these differences. Everything becomes equally questionable.
 
-Research separating media scepticism from media cynicism finds that the two are not the same. Scepticism involves evaluation and evidence-seeking. Cynicism is a broad negative orientation towards information sources. Recent studies have found that higher news cynicism is associated with greater belief in misinformation, whereas knowledge-based scepticism is associated with better judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.eur.nl</span><span class="citation-popover-snippet">Erasmus University Rotterdamtsfati-barnoy-2025-media-cynicism-media-skepticism-and-...Today — 25 Mar 2025 — Conflating cynicism and skep...</span></span></span>
+Research separating media scepticism from media cynicism finds that the two are not the same. Scepticism involves evaluation and evidence-seeking. Cynicism is a broad negative orientation towards information sources. Recent studies have found that higher news cynicism is associated with greater belief in misinformation, whereas knowledge-based scepticism is associated with better judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.eur.nl</span><span class="citation-popover-snippet">Erasmus University Rotterdamtsfati-barnoy-2025-media-cynicism-media-skepticism-and-...Today — 25 Mar 2025 — Conflating cynicism and skep...</span></span></span>
 
 When distinctions disappear, rumours gain an advantage because they often have lower standards to satisfy. A carefully sourced explanation may appear no more credible than a dramatic unsupported claim if both are viewed through the same lens of blanket suspicion.
 
@@ -375,11 +375,11 @@ When distinctions disappear, rumours gain an advantage because they often have l
 
 Rumours become especially powerful when trusted information sources weaken or disappear.
 
-Recent research on local information ecosystems in the UK found substantially higher levels of misinformation in areas with limited local journalism. In these environments, unofficial social media groups increasingly fill the information gap, often without editorial oversight or verification standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+Recent research on local information ecosystems in the UK found substantially higher levels of misinformation in areas with limited local journalism. In these environments, unofficial social media groups increasingly fill the information gap, often without editorial oversight or verification standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 The pattern is important. People do not stop seeking information when trusted institutions lose credibility. They turn to whatever remains available.
 
-A similar dynamic has appeared in health misinformation crises. In the Democratic Republic of Congo, false health rumours spread through social media and community networks contributed to panic, violence and resistance to health interventions. Public health officials linked the spread of the rumours partly to existing mistrust of authorities and institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
+A similar dynamic has appeared in health misinformation crises. In the Democratic Republic of Congo, false health rumours spread through social media and community networks contributed to panic, violence and resistance to health interventions. Public health officials linked the spread of the rumours partly to existing mistrust of authorities and institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
 
 These examples illustrate the same mechanism: when distrust creates an information vacuum, rumours often rush in to fill it.
 
@@ -412,194 +412,194 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-3-dark.svg" | relative_url }}" alt="Blanket distrust illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_blanket_distrust_rum_d50f84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When distrust becomes its own trap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When distrust becomes its own trap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Distinguishes evidence-based skepticism from cynicism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes evidence-based skepticism from cynicism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains how to evaluate claims rather than defaulting to distrust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to evaluate claims rather than defaulting to distrust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how cognitive shortcuts affect judgments and trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how cognitive shortcuts affect judgments and trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Examines how societies build reliable knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how societies build reliable knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="blanket-distrust-when-distrust-becomes-its-own-trap-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,108 +805,108 @@ The goal is not to trust everything. It is to avoid replacing one shortcut with 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8856386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy beliefs and distrust of science predicts reluctance...by T Winter · 2022 · Cited by 59 — Our findings indicated that publi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-5172/7/1/61" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/7/1/61</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust in Scientists and Conspiracy Beliefs Predict Online...by A Katsiroumpa · 2026 · Cited by 1 — Our findings showed associations...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-5172/7/1/61" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/7/1/61</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust in Scientists and Conspiracy Beliefs Predict Online...by A Katsiroumpa · 2026 · Cited by 1 — Our findings showed associations...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC“Trust me, do not trust anyone”: how epistemic mistrust and...by F Brauner · 2023 · Cited by 45 — Previous research shows that the pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10782893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PMC“Trust me, do not trust anyone”: how epistemic mistrust and...by F Brauner · 2023 · Cited by 45 — Previous research shows that the pr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pure.eur.nl  
-   Link: <a href="https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University Rotterdamtsfati-barnoy-2025-media-cynicism-media-skepticism-and-...Today — 25 Mar 2025 — Conflating cynicism and skep...</p></details>
+   Link:<a href="https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/portalfiles/portal/187962991/tsfati-barnoy-2025-media-cynicism-media-skepticism-and-automatic-media-trust-explicating-their-connection-with-news.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University Rotterdamtsfati-barnoy-2025-media-cynicism-media-skepticism-and-...Today — 25 Mar 2025 — Conflating cynicism and skep...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — The actual effects that are measured vary from self-reported behaviors in response to inaccurate he...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — The actual effects that are measured vary from self-reported behaviors in response to inaccurate he...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dr.ntu.edu.sg  
-   Link: <a href="https://dr.ntu.edu.sg/server/api/core/bitstreams/73555724-4ba7-4fd7-a65a-d86053f33708/content" target="_blank" rel="noopener noreferrer nofollow">https://dr.ntu.edu.sg/server/api/core/bitstreams/73555724-4ba7-4fd7-a65a-d86053f33708/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>high-effort pragmatic scepticism to low effort cynicby C Fisher · 2024 · Cited by 9 — The current study examines how people manage the ov...</p></details>
+   Link:<a href="https://dr.ntu.edu.sg/server/api/core/bitstreams/73555724-4ba7-4fd7-a65a-d86053f33708/content" target="_blank" rel="noopener noreferrer nofollow">https://dr.ntu.edu.sg/server/api/core/bitstreams/73555724-4ba7-4fd7-a65a-d86053f33708/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>high-effort pragmatic scepticism to low effort cynicby C Fisher · 2024 · Cited by 9 — The current study examines how people manage the ov...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/snap-judgements-how-audiences-who-lack-trust-news-navigate-information-digital-platforms" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/snap-judgements-how-audiences-who-lack-trust-news-navigate-information-digital-platforms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>judgements: how audiences who lack trust in news...4 Apr 2022 — In this report, we qualitatively examine how audiences who lack trust in...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/snap-judgements-how-audiences-who-lack-trust-news-navigate-information-digital-platforms" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/snap-judgements-how-audiences-who-lack-trust-news-navigate-information-digital-platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>judgements: how audiences who lack trust in news...4 Apr 2022 — In this report, we qualitatively examine how audiences who lack trust in...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397783879_Trust_in_scientists_and_conspiracy_beliefs_predict_online_misinformation_susceptibility_and_fake_news_detection_a_cross-sectional_study_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397783879_Trust_in_scientists_and_conspiracy_beliefs_predict_online_misinformation_susceptibility_and_fake_news_detection_a_cross-sectional_study_in_Greece</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Trust in scientists and conspiracy beliefs predict...19 Nov 2025 — Objective: To examine the effect of trust in scientists and con...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397783879_Trust_in_scientists_and_conspiracy_beliefs_predict_online_misinformation_susceptibility_and_fake_news_detection_a_cross-sectional_study_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397783879_Trust_in_scientists_and_conspiracy_beliefs_predict_online_misinformation_susceptibility_and_fake_news_detection_a_cross-sectional_study_in_Greece</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Trust in scientists and conspiracy beliefs predict...19 Nov 2025 — Objective: To examine the effect of trust in scientists and con...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391772475_Conceptualisations_and_analyses_of_distrust_and_mistrust_in_news_media_Reviewing_research_from_a_decade_of_distrust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391772475_Conceptualisations_and_analyses_of_distrust_and_mistrust_in_news_media_Reviewing_research_from_a_decade_of_distrust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptualisations and analyses of distrust and mistrust in...PDF | This article provides a comprehensive review of research on distrust...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391772475_Conceptualisations_and_analyses_of_distrust_and_mistrust_in_news_media_Reviewing_research_from_a_decade_of_distrust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391772475_Conceptualisations_and_analyses_of_distrust_and_mistrust_in_news_media_Reviewing_research_from_a_decade_of_distrust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptualisations and analyses of distrust and mistrust in...PDF | This article provides a comprehensive review of research on distrust...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>news exposure is linked to lower trust in media...by K Ognyanova · 2020 · Cited by 515 — Research suggests that negative or biased repor...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news exposure is linked to lower trust in media...by K Ognyanova · 2020 · Cited by 515 — Research suggests that negative or biased repor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents of believing in...by F Wintterlin · 2025 — Research on media use and misperceptions suggests that belief in conspiracy theor...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents of believing in...by F Wintterlin · 2025 — Research on media use and misperceptions suggests that belief in conspiracy theor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.rug.nl  
    Title: lack of trust conspiracy beliefs and social media use predict cov  
-   Link: <a href="https://research.rug.nl/en/publications/lack-of-trust-conspiracy-beliefs-and-social-media-use-predict-cov/" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/lack-of-trust-conspiracy-beliefs-and-social-media-use-predict-cov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Trust, Conspiracy Beliefs, and Social Media Use...by W Jennings · 2021 · Cited by 728 — As COVID-19 vaccines are rolled out across th...</p></details>
+   Link:<a href="https://research.rug.nl/en/publications/lack-of-trust-conspiracy-beliefs-and-social-media-use-predict-cov/" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/lack-of-trust-conspiracy-beliefs-and-social-media-use-predict-cov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Trust, Conspiracy Beliefs, and Social Media Use...by W Jennings · 2021 · Cited by 728 — As COVID-19 vaccines are rolled out across th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/45419856" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45419856</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Cognitive Aspects of the Vulnerability to...by M Pantazi · 2021 · Cited by 90 — of misinformation, and many other social prob...</p></details>
+   Link:<a href="https://www.jstor.org/stable/45419856" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45419856</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Cognitive Aspects of the Vulnerability to...by M Pantazi · 2021 · Cited by 90 — of misinformation, and many other social prob...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ucl.ac.uk  
    Title: both mistrust and credulity linked believing conspiracies  
-   Link: <a href="https://www.ucl.ac.uk/news/2024/dec/both-mistrust-and-credulity-linked-believing-conspiracies" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2024/dec/both-mistrust-and-credulity-linked-believing-conspiracies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both mistrust and credulity linked to believing conspiracies5 Dec 2024 — People who are either too trusting or too mistrustful are more l...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/news/2024/dec/both-mistrust-and-credulity-linked-believing-conspiracies" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2024/dec/both-mistrust-and-credulity-linked-believing-conspiracies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both mistrust and credulity linked to believing conspiracies5 Dec 2024 — People who are either too trusting or too mistrustful are more l...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.ku.edu  
-   Link: <a href="https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Those with higher levels of...Read more...</p></details>
+   Link:<a href="https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Those with higher levels of...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why people fall for misinformation  
-   Link: <a href="http://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hz6GULbowAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of conspiracy theories and institutional distrust The Psychology of Conspiracy Theorists Psychology with Dr. Ana...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hz6GULbowAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of conspiracy theories and institutional distrust The Psychology of Conspiracy Theorists Psychology with Dr. Ana...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.11116v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.11116v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust in Disinformation Narratives: a Trust in the News...14 Mar 2025 — Understanding why people trust or distrust one another, institut...</p></details>
+   Link:<a href="https://arxiv.org/html/2503.11116v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.11116v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust in Disinformation Narratives: a Trust in the News...14 Mar 2025 — Understanding why people trust or distrust one another, institut...</p></details>

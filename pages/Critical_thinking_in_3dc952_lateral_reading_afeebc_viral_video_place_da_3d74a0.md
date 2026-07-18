@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_v
 
 ## Introduction
 
-A viral video can be completely real and still be misleading. The problem is often not whether the footage is genuine, but whether it is being presented with the correct date, place and context. Social media posts frequently strip away the original source, making an old video appear current or footage from one country appear to show events in another. Within the broader habit of lateral reading, the key move is to leave the post itself and look for independent [evidence]({{ 'evidence/' | relative_url }}) about where and when the video was actually recorded. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) routinely verify videos by tracing visual clues, locating earlier uploads and comparing the footage with reliable records rather than relying on captions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
+A viral video can be completely real and still be misleading. The problem is often not whether the footage is genuine, but whether it is being presented with the correct date, place and context. Social media posts frequently strip away the original source, making an old video appear current or footage from one country appear to show events in another. Within the broader habit of lateral reading, the key move is to leave the post itself and look for independent [evidence]({{ 'evidence/' | relative_url }}) about where and when the video was actually recorded. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) routinely verify videos by tracing visual clues, locating earlier uploads and comparing the footage with reliable records rather than relying on captions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-1-dark.svg" | relative_url }}" alt="Video Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ A viral video can be completely real and still be misleading. The problem is oft
 
 The fastest way to be misled by a viral video is to assume that the caption provides reliable context. A better starting question is: “What evidence inside the video supports the claimed location and date?”
 
-Video verification typically focuses on three elements: <span class="citation-chip-wrap"><a class="citation-chip" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[spotlight.ebu.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
+Video verification typically focuses on three elements:<span class="citation-chip-wrap"><a class="citation-chip" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[spotlight.ebu.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -293,7 +293,7 @@ Video verification typically focuses on three elements: <span class="citation-ch
 
 </div>
 
-Verification specialists often describe source, location and date as the core pillars of authenticating visual media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
+Verification specialists often describe source, location and date as the core pillars of authenticating visual media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
 
 Instead of asking whether a video “looks real”, ask whether there is independent evidence that it was filmed in the place and at the time being claimed. That shift in perspective is a classic example of lateral reading: moving beyond the post itself and checking the surrounding evidence landscape.
 
@@ -328,7 +328,7 @@ Visual clues inside the footage can often reveal more than the caption. Look for
 
 </div>
 
-Even small details can establish that a video predates the claimed event. Fact-checkers have repeatedly traced supposedly recent footage to much older events by identifying dates on banners, conference signage or publicly documented occasions visible in the background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factspace.org">[FactSpace West Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factspace.org</span><span class="citation-popover-title">Fact Space West Africa How to use In VID to verify videos</span><span class="citation-popover-snippet">Paste the video link or upload the video and click Submit. Perform Reverse Image Searches...</span></span></span>
+Even small details can establish that a video predates the claimed event. Fact-checkers have repeatedly traced supposedly recent footage to much older events by identifying dates on banners, conference signage or publicly documented occasions visible in the background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factspace.org">[FactSpace West Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factspace.org</span><span class="citation-popover-title">Fact Space West Africa How to use In VID to verify videos</span><span class="citation-popover-snippet">Paste the video link or upload the video and click Submit. Perform Reverse Image Searches...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L8273PrPSwA" title="FINDING: MODI – Find where &amp; when a photo was taken (geolocation &amp; chronolocation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L8273PrPSwA" target="_blank" rel="noopener noreferrer">FINDING: MODI – Find where &amp; when a photo was taken (geolocation &amp; chronolocation)</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 28.2K &middot; Uploaded: May 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L8273PrPSwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L8273PrPSwA">Open on YouTube</a></p></div></div></div>
@@ -339,11 +339,11 @@ The most effective way to verify a viral video is usually to break it into still
 
 ### Extract key frames
 
-Verification tools such as InVID-WeVerify allow users to split a video into multiple still frames. Those frames can then be examined individually for signs, buildings, landmarks, uniforms or other distinctive features. Journalists and investigators use this approach because a single frame often contains clues that are easy to miss when watching the video normally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invid-project.eu/tools-and-services/invid-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invid-project.eu">[InVID project+2Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invid-project.eu</span><span class="citation-popover-snippet">InVID projectInVID Verification PluginThis is a new feature (supported in v0.59) to access the InVID plugin and to help journalists to re...</span></span></span>
+Verification tools such as InVID-WeVerify allow users to split a video into multiple still frames. Those frames can then be examined individually for signs, buildings, landmarks, uniforms or other distinctive features. Journalists and investigators use this approach because a single frame often contains clues that are easy to miss when watching the video normally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invid-project.eu/tools-and-services/invid-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invid-project.eu">[InVID project+2Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invid-project.eu</span><span class="citation-popover-snippet">InVID projectInVID Verification PluginThis is a new feature (supported in v0.59) to access the InVID plugin and to help journalists to re...</span></span></span>
 
 ### Reverse-search the images
 
-Once a key frame has been extracted, it can be searched using image-search services. Investigators frequently discover that the same frame appeared months or years earlier in a different context. Reverse-image searching is considered one of the foundational techniques in video verification because recycled footage is common in misinformation campaigns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
+Once a key frame has been extracted, it can be searched using image-search services. Investigators frequently discover that the same frame appeared months or years earlier in a different context. Reverse-image searching is considered one of the foundational techniques in video verification because recycled footage is common in misinformation campaigns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
 
 If an identical frame appears in older news coverage, archived social media posts or earlier uploads, that is strong evidence that the current claim is misleading.
 
@@ -387,13 +387,13 @@ Determining when a video was recorded is sometimes called **chronolocation**. In
 
 </div>
 
-A video claiming to show a current event may turn out to contain a building that was demolished years earlier or an advertisement promoting a past event. These clues can narrow the recording date considerably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
+A video claiming to show a current event may turn out to contain a building that was demolished years earlier or an advertisement promoting a past event. These clues can narrow the recording date considerably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotlight.ebu.ch">[Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotlight.ebu.ch</span><span class="citation-popover-snippet">Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</span></span></span>
 
 ## What the Russia Voter-Fraud Example Teaches
 
 A useful lesson comes from election-related misinformation that spread widely online in the United States during 2024.
 
-Several viral videos circulated claiming to show voter fraud or election misconduct. Investigations by election officials, journalists and intelligence agencies found that some of these videos were fabricated or falsely contextualised. In one prominent case, officials concluded that a video alleging fraudulent voting in Georgia was part of a Russian influence operation and contained false identifying information. Other viral election videos were debunked after investigators examined details within the footage and compared them with [official records]({{ 'official-records/' | relative_url }}) and authentic election materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Diese Behauptung kam kurz vor der Präsidentschaftswahl zwischen Donald Trump und Kamala Harris. Das Video, das von russischen Trollfarmen...</span></span></span>
+Several viral videos circulated claiming to show voter fraud or election misconduct. Investigations by election officials, journalists and intelligence agencies found that some of these videos were fabricated or falsely contextualised. In one prominent case, officials concluded that a video alleging fraudulent voting in Georgia was part of a Russian influence operation and contained false identifying information. Other viral election videos were debunked after investigators examined details within the footage and compared them with [official records]({{ 'official-records/' | relative_url }}) and authentic election materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Diese Behauptung kam kurz vor der Präsidentschaftswahl zwischen Donald Trump und Kamala Harris. Das Video, das von russischen Trollfarmen...</span></span></span>
 
 The important lesson is methodological rather than political. Fact-checkers did not determine authenticity by judging whether the videos felt convincing. They examined specific evidence:
 
@@ -407,7 +407,7 @@ The important lesson is methodological rather than political. Fact-checkers did 
 
 </div>
 
-The same approach applies far beyond elections. A video claiming to show a protest, disaster, crime or military event should be checked against independent evidence before being accepted as current or correctly located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">officials confirmed that Russian actors were behind a fabricated video showing mail-in ballots for Trump being destroyed. The video quick...</span></span></span>
+The same approach applies far beyond elections. A video claiming to show a protest, disaster, crime or military event should be checked against independent evidence before being accepted as current or correctly located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">officials confirmed that Russian actors were behind a fabricated video showing mail-in ballots for Trump being destroyed. The video quick...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-3-dark.svg" | relative_url }}" alt="Video Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_viral_video_place_da_3d74a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -424,201 +424,201 @@ When encountering a viral video, a simple routine can prevent many mistakes:
 7. Compare the claim with reporting from reliable local sources.
 8. Ask whether the date and location are supported by evidence or merely asserted in the caption.
 
-This process rarely provides absolute certainty, but it often reveals whether a video is genuinely showing what people claim it shows. In an information environment filled with reposts, recycled footage and AI-assisted manipulation, verifying place and date is one of the most effective ways to separate authentic evidence from misleading context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat+2Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
+This process rarely provides absolute certainty, but it often reveals whether a video is genuinely showing what people claim it shows. In an information environment filled with reposts, recycled footage and AI-assisted manipulation, verifying place and date is one of the most effective ways to separate authentic evidence from misleading context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat+2Spotlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</span><span class="citation-popover-meta">Published: June 30, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7E6zinrkno" title="10 Minute Tip: How to geolocate from images and videos, Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7E6zinrkno" target="_blank" rel="noopener noreferrer">10 Minute Tip: How to geolocate from images and videos, Part 1</a></p><p class="youtube-embed-meta">Channel: The OSINT Curious Project &middot; Views: 47.8K &middot; Uploaded: November 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7E6zinrkno" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7E6zinrkno">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is This Viral Video From Here and Now?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is This Viral Video From Here and Now?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages cross-checking assumptions against data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages cross-checking assumptions against data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages independent checking of evidence and context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages independent checking of evidence and context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of viral claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of viral claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages independent checking of evidence and context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages independent checking of evidence and context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="video-checks-is-this-viral-video-from-here-and-now-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ This process rarely provides absolute certainty, but it often reveals whether a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ This process rarely provides absolute certainty, but it often reveals whether a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ This process rarely provides absolute certainty, but it often reveals whether a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ This process rarely provides absolute certainty, but it often reveals whether a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ This process rarely provides absolute certainty, but it often reveals whether a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,119 +824,119 @@ This process rarely provides absolute certainty, but it often reveals whether a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bellingcat.com  
    Title: Advanced Guide on Verifying Video Content  
-   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</p></details>
+   Link:<a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video ContentJune 30, 2017 — 30 Jun 2017 — The first step in verifying video content is the same as...</p></details>
    Published: June 30, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: factspace.org  
    Title: Fact Space West Africa How to use In VID to verify videos  
-   Link: <a href="https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/" target="_blank" rel="noopener noreferrer nofollow">https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paste the video link or upload the video and click Submit. Perform Reverse Image Searches...</p></details>
+   Link:<a href="https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/" target="_blank" rel="noopener noreferrer nofollow">https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paste the video link or upload the video and click Submit. Perform Reverse Image Searches...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: invid-project.eu  
-   Link: <a href="https://www.invid-project.eu/tools-and-services/invid-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/tools-and-services/invid-verification-plugin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID projectInVID Verification PluginThis is a new feature (supported in v0.59) to access the InVID plugin and to help journalists to re...</p></details>
+   Link:<a href="https://www.invid-project.eu/tools-and-services/invid-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/tools-and-services/invid-verification-plugin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InVID projectInVID Verification PluginThis is a new feature (supported in v0.59) to access the InVID plugin and to help journalists to re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diese Behauptung kam kurz vor der Präsidentschaftswahl zwischen Donald Trump und Kamala Harris. Das Video, das von russischen Trollfarmen...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-blame-russia-over-video-falsely-alleging-fraudulent-voting-georgia-wsj-2024-11-01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diese Behauptung kam kurz vor der Präsidentschaftswahl zwischen Donald Trump und Kamala Harris. Das Video, das von russischen Trollfarmen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/georgia-voter-fraud-video-labeled-russian-disinformation-uses-false-personal-2024-11-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/georgia-voter-fraud-video-labeled-russian-disinformation-uses-false-personal-2024-11-06/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check: Georgia voter fraud video labeled Russian disinformation uses false personal data. By Reuters Fact Check. November 6...Read...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/georgia-voter-fraud-video-labeled-russian-disinformation-uses-false-personal-2024-11-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/georgia-voter-fraud-video-labeled-russian-disinformation-uses-false-personal-2024-11-06/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check: Georgia voter fraud video labeled Russian disinformation uses false personal data. By Reuters Fact Check. November 6...Read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/fbi-warns-against-two-fake-videos-officials-combat-election-disinformation-2024-11-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fbi-warns-against-two-fake-videos-officials-combat-election-disinformation-2024-11-05/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US official sees little voting disruption tied to foreign...6 Nov 2024 — &quot;At this point, we are not currently tracking any national-leve...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/fbi-warns-against-two-fake-videos-officials-combat-election-disinformation-2024-11-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fbi-warns-against-two-fake-videos-officials-combat-election-disinformation-2024-11-05/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US official sees little voting disruption tied to foreign...6 Nov 2024 — &quot;At this point, we are not currently tracking any national-leve...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckFact Check Hero Image. Reuters. Fact Checkcategory· June 12, 2026. Fact Check: Data lag, not fraud, behind pause in Pra...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckFact Check Hero Image. Reuters. Fact Checkcategory· June 12, 2026. Fact Check: Data lag, not fraud, behind pause in Pra...</p></details>
    Published: June 12, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spotlight.ebu.ch  
-   Link: <a href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow">https://spotlight.ebu.ch/p/mastering-video-verification-and</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</p></details>
+   Link:<a href="https://spotlight.ebu.ch/p/mastering-video-verification-and" target="_blank" rel="noopener noreferrer nofollow">https://spotlight.ebu.ch/p/mastering-video-verification-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Verification: Chronolocation for Journalists4 Nov 2025 — The three key elements for verifying a piece of media are source...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bellingcat.gitbook.io  
    Title: Bellingcat In VID  
-   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID - Bellingcat&#x27;s Online Investigation Toolkit - GitBook3 May 2026 — The InVID Verification Plugin is a comprehensive toolki...</p></details>
+   Link:<a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InVID - Bellingcat&#x27;s Online Investigation Toolkit - GitBook3 May 2026 — The InVID Verification Plugin is a comprehensive toolki...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>officials confirmed that Russian actors were behind a fabricated video showing mail-in ballots for Trump being destroyed. The video quick...</p></details>
+   Link:<a href="https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d75fdc56c71d77c7a48d8fca96b03288</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>officials confirmed that Russian actors were behind a fabricated video showing mail-in ballots for Trump being destroyed. The video quick...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/99af1f80eb43d31966cae8e68dbc3415" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/99af1f80eb43d31966cae8e68dbc3415</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Several specific claims have been investigated and debunked: 1. A Kentucky voting machine allegedly misregistered votes due to user error...</p></details>
+   Link:<a href="https://apnews.com/article/99af1f80eb43d31966cae8e68dbc3415" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/99af1f80eb43d31966cae8e68dbc3415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several specific claims have been investigated and debunked: 1. A Kentucky voting machine allegedly misregistered votes due to user error...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: disinfo.eu  
-   Link: <a href="https://www.disinfo.eu/outreach/our-webinars/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/outreach/our-webinars/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU DisinfoLabInVID, a tool to assess video reliabilityThe contextual verification tool provides more information about the channel, locat...</p></details>
+   Link:<a href="https://www.disinfo.eu/outreach/our-webinars/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/outreach/our-webinars/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU DisinfoLabInVID, a tool to assess video reliabilityThe contextual verification tool provides more information about the channel, locat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: officials said the video that showed mail in ballots for trump being destroyed w  
-   Link: <a href="https://www.facebook.com/KARE11/posts/officials-said-the-video-that-showed-mail-in-ballots-for-trump-being-destroyed-w/1035359091967197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/officials-said-the-video-that-showed-mail-in-ballots-for-trump-being-destroyed-w/1035359091967197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials said the video that showed mail-in ballots for...KARE 11 working overtime to convince us there&#x27;s no fraud. “Check with Steve S...</p></details>
+   Link:<a href="https://www.facebook.com/KARE11/posts/officials-said-the-video-that-showed-mail-in-ballots-for-trump-being-destroyed-w/1035359091967197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/officials-said-the-video-that-showed-mail-in-ballots-for-trump-being-destroyed-w/1035359091967197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officials said the video that showed mail-in ballots for...KARE 11 working overtime to convince us there&#x27;s no fraud. “Check with Steve S...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/05/us-election-2024-russia-disinformation-operations-swing-states" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/05/us-election-2024-russia-disinformation-operations-swing-states</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These operations have involved spreading false claims of election fraud, with the potential to incite violence against election officials...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/05/us-election-2024-russia-disinformation-operations-swing-states" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/05/us-election-2024-russia-disinformation-operations-swing-states</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These operations have involved spreading false claims of election fraud, with the potential to incite violence against election officials...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: certh.gr  
-   Link: <a href="https://www.certh.gr/987AD931.en.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.certh.gr/987AD931.en.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The InVID project announces the release of a new...The InVID Verification Plugin is a plugin that can be easily installed in the web bro...</p></details>
+   Link:<a href="https://www.certh.gr/987AD931.en.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.certh.gr/987AD931.en.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The InVID project announces the release of a new...The InVID Verification Plugin is a plugin that can be easily installed in the web bro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/politics/u-s-intelligence-officials-say-video-falsely-depicting-voter-fraud-in-georgia-linked-to-russian-influence-actors" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/u-s-intelligence-officials-say-video-falsely-depicting-voter-fraud-in-georgia-linked-to-russian-influence-actors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officials say video falsely depicting voter...1 Nov 2024 — A video purporting to depict voter fraud in Georgia is fake and...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/u-s-intelligence-officials-say-video-falsely-depicting-voter-fraud-in-georgia-linked-to-russian-influence-actors" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/u-s-intelligence-officials-say-video-falsely-depicting-voter-fraud-in-georgia-linked-to-russian-influence-actors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officials say video falsely depicting voter...1 Nov 2024 — A video purporting to depict voter fraud in Georgia is fake and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: citizenevidence.org  
    Title: how to use invid the swiss army knife of digital verification  
-   Link: <a href="https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabHow to: Use InVid-WeVerify – the &#x27;Swiss Army Knife&#x27; of...11 Dec 2019 — It allows the user to retrieve contextual inf...</p></details>
+   Link:<a href="https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabHow to: Use InVid-WeVerify – the &#x27;Swiss Army Knife&#x27; of...11 Dec 2019 — It allows the user to retrieve contextual inf...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: digital.sandiego.edu  
-   Link: <a href="https://digital.sandiego.edu/cgi/viewcontent.cgi?article=3513&amp;context=sdlr" target="_blank" rel="noopener noreferrer nofollow">https://digital.sandiego.edu/cgi/viewcontent.cgi?article=3513&amp;context=sdlr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Statements Regarding...by MJ Marando · 2025 · Cited by 1 — Jason Morris et al., Raffensperger Says Viral Video of Alleged Vot...</p></details>
+   Link:<a href="https://digital.sandiego.edu/cgi/viewcontent.cgi?article=3513&amp;context=sdlr" target="_blank" rel="noopener noreferrer nofollow">https://digital.sandiego.edu/cgi/viewcontent.cgi?article=3513&amp;context=sdlr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Statements Regarding...by MJ Marando · 2025 · Cited by 1 — Jason Morris et al., Raffensperger Says Viral Video of Alleged Vot...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: innovation.dw.com  
    Title: supporting video verification with invid  
-   Link: <a href="https://innovation.dw.com/articles/supporting-video-verification-with-invid" target="_blank" rel="noopener noreferrer nofollow">https://innovation.dw.com/articles/supporting-video-verification-with-invid</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Verification with InVIDThe InVID research project releases a plug-in that supports journalists in verifying videos...</p></details>
+   Link:<a href="https://innovation.dw.com/articles/supporting-video-verification-with-invid" target="_blank" rel="noopener noreferrer nofollow">https://innovation.dw.com/articles/supporting-video-verification-with-invid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Verification with InVIDThe InVID research project releases a plug-in that supports journalists in verifying videos...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: 10 Minute Tip: How to geolocate from images and videos, Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=X7E6zinrkno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7E6zinrkno</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;OSINT at Home&quot; shadow video verification OSINT At Home #18 – How to track and find planes and flights Bendobrown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X7E6zinrkno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7E6zinrkno</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;OSINT at Home&quot; shadow video verification OSINT At Home #18 – How to track and find planes and flights Bendobrown...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=L8273PrPSwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L8273PrPSwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT At Home #6 – Find when an image was taken with satellite imagery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L8273PrPSwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L8273PrPSwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT At Home #6 – Find when an image was taken with satellite imagery...</p></details>

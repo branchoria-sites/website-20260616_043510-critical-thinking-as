@@ -280,17 +280,17 @@ image: /assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsor
 
 ## Introduction
 
-Sponsored content fools even careful readers because it is designed to blend into the environment around it. Unlike traditional advertisements, which are usually separated from editorial material, sponsored articles, videos and social media posts often mimic the appearance, tone and structure of news reporting. The result is a form of promotion that can be recognised in theory yet overlooked in practice. Research on digital literacy repeatedly shows that many readers focus on the content itself while missing the clues that reveal who paid for it. In an information environment shaped by social media feeds, recommendation algorithms and AI-generated summaries, recognising sponsored content has become a central part of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) and lateral reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">SHEG Evaluating Information Online</span><span class="citation-popover-snippet">Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</span></span></span>
+Sponsored content fools even careful readers because it is designed to blend into the environment around it. Unlike traditional advertisements, which are usually separated from editorial material, sponsored articles, videos and social media posts often mimic the appearance, tone and structure of news reporting. The result is a form of promotion that can be recognised in theory yet overlooked in practice. Research on digital literacy repeatedly shows that many readers focus on the content itself while missing the clues that reveal who paid for it. In an information environment shaped by social media feeds, recommendation algorithms and AI-generated summaries, recognising sponsored content has become a central part of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) and lateral reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">SHEG Evaluating Information Online</span><span class="citation-popover-snippet">Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-1-dark.svg" | relative_url }}" alt="Sponsored Content illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can You Tell News From Sponsored Content?
 
-The challenge is not that sponsored content always hides its identity. In many jurisdictions, advertisers are required to disclose paid relationships. The problem is that disclosure often competes with stronger visual and psychological signals. Readers see a familiar publication logo, a headline written in a journalistic style, quotations from experts, charts, photographs and a page layout that closely resembles ordinary reporting. These cues encourage people to process the material as journalism rather than marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hunton.com">[Hunton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hunton.com</span><span class="citation-popover-snippet">sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</span></span></span>
+The challenge is not that sponsored content always hides its identity. In many jurisdictions, advertisers are required to disclose paid relationships. The problem is that disclosure often competes with stronger visual and psychological signals. Readers see a familiar publication logo, a headline written in a journalistic style, quotations from experts, charts, photographs and a page layout that closely resembles ordinary reporting. These cues encourage people to process the material as journalism rather than marketing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hunton.com">[Hunton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hunton.com</span><span class="citation-popover-snippet">sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</span></span></span>
 
-Native advertising emerged specifically to reduce the interruption associated with conventional advertising. Instead of standing apart from surrounding content, it is designed to fit within it. Regulators have repeatedly warned that advertisements become misleading when they resemble news articles, reviews or editorial features so closely that readers may not recognise their commercial purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[www.hoganlovells.com+2Manatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-snippet">Signs Your Native Ad Needs a Disclosure: The FTC...15 Feb 2016 — Similarly, false claims or omissions about a speaker&#x27;s bias are presume...</span></span></span>
+Native advertising emerged specifically to reduce the interruption associated with conventional advertising. Instead of standing apart from surrounding content, it is designed to fit within it. Regulators have repeatedly warned that advertisements become misleading when they resemble news articles, reviews or editorial features so closely that readers may not recognise their commercial purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[www.hoganlovells.com+2Manatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-snippet">Signs Your Native Ad Needs a Disclosure: The FTC...15 Feb 2016 — Similarly, false claims or omissions about a speaker&#x27;s bias are presume...</span></span></span>
 
-Historically, advertisers have long experimented with formats that resemble non-commercial content, from advertorials in newspapers to television infomercials presented as programmes. Digital publishing expanded these techniques because websites can integrate sponsored material seamlessly into article feeds, search results and recommendation boxes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hunton.com">[Hunton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hunton.com</span><span class="citation-popover-snippet">sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</span></span></span>
+Historically, advertisers have long experimented with formats that resemble non-commercial content, from advertorials in newspapers to television infomercials presented as programmes. Digital publishing expanded these techniques because websites can integrate sponsored material seamlessly into article feeds, search results and recommendation boxes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hunton.com">[Hunton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hunton.com</span><span class="citation-popover-snippet">sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</span></span></span>
 
 ## Why Ad Labels Are Easy to Miss
 
@@ -302,22 +302,22 @@ Several factors make disclosures easy to overlook:
 * **Visual similarity reduces attention.** Sponsored content is frequently formatted to resemble neighbouring articles, making the disclosure one of the few elements that differs.
 * **Platform design encourages speed.** Social media feeds, news apps and search results reward rapid scrolling and clicking rather than careful inspection.
 * **Familiar brands create trust.** When sponsored content appears on a respected publication's website, readers may transfer trust from the publisher to the sponsored material itself.
-* **Ambiguous labels cause confusion.** Terms such as “Partner Content”, “Brand Voice”, “Presented By” or “From Around the Web” may be less immediately clear than a direct label such as “Advertisement”. Regulators have noted that some common disclosure formats can fail to communicate commercial intent effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP+2Loeb &amp; Loeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">navigating native advertising</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNavigating Native Advertising6 Jan 2016 — According to the FTC, disclosures in native advertising must often appe...</span></span></span>
+* **Ambiguous labels cause confusion.** Terms such as “Partner Content”, “Brand Voice”, “Presented By” or “From Around the Web” may be less immediately clear than a direct label such as “Advertisement”. Regulators have noted that some common disclosure formats can fail to communicate commercial intent effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP+2Loeb &amp; Loeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">navigating native advertising</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNavigating Native Advertising6 Jan 2016 — According to the FTC, disclosures in native advertising must often appe...</span></span></span>
 
-Research on digital advertising disclosures has found that subtle sponsorship labels often attract less attention than traditional advertising markers. Studies of influencer and affiliate marketing similarly show that short or unclear disclosures are frequently misunderstood or ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBlending in or standing out?</span><span class="citation-popover-snippet">The disclosure dilemma of ad...by M Hübner · 2025 · Cited by 9 — However, these disclosures often appear as subtle “sponsored” labels, r...</span></span></span>
+Research on digital advertising disclosures has found that subtle sponsorship labels often attract less attention than traditional advertising markers. Studies of influencer and affiliate marketing similarly show that short or unclear disclosures are frequently misunderstood or ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBlending in or standing out?</span><span class="citation-popover-snippet">The disclosure dilemma of ad...by M Hübner · 2025 · Cited by 9 — However, these disclosures often appear as subtle “sponsored” labels, r...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7c27ikbR20" title="History of Advertising 1of 9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7c27ikbR20" target="_blank" rel="noopener noreferrer">History of Advertising 1of 9</a></p><p class="youtube-embed-meta">Channel: Colleen Swinden &middot; Views: 60.4K &middot; Uploaded: October 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7c27ikbR20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7c27ikbR20">Open on YouTube</a></p></div></div></div>
 
 ## What Student Assessments Showed
 
-One of the most influential findings in media literacy research came from assessments conducted by the Stanford History Education Group, later known as the Digital Inquiry Group. Researchers examined how students evaluated online information and found widespread difficulty distinguishing advertising from journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">SHEG Evaluating Information Online</span><span class="citation-popover-snippet">Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</span></span></span>
+One of the most influential findings in media literacy research came from assessments conducted by the Stanford History Education Group, later known as the Digital Inquiry Group. Researchers examined how students evaluated online information and found widespread difficulty distinguishing advertising from journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">SHEG Evaluating Information Online</span><span class="citation-popover-snippet">Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</span></span></span>
 
-In a well-known assessment involving middle-school students, participants were shown a webpage containing a native advertisement labelled as sponsored content. More than 80 per cent treated the material as a genuine news story despite the disclosure. Some students even recognised the phrase “sponsored content” while still judging the article to be credible journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campustechnology.com">[Campus Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campustechnology.com</span><span class="citation-popover-snippet">Campus TechnologyReport: Digital Natives &#x27;Easily Duped&#x27; by Information Online7 Dec 2016 — More than 80 percent of students believed that...</span></span></span>
+In a well-known assessment involving middle-school students, participants were shown a webpage containing a native advertisement labelled as sponsored content. More than 80 per cent treated the material as a genuine news story despite the disclosure. Some students even recognised the phrase “sponsored content” while still judging the article to be credible journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campustechnology.com">[Campus Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campustechnology.com</span><span class="citation-popover-snippet">Campus TechnologyReport: Digital Natives &#x27;Easily Duped&#x27; by Information Online7 Dec 2016 — More than 80 percent of students believed that...</span></span></span>
 
 These findings are significant because the students were not being tested on obscure facts. They were being asked to recognise the nature of the source itself. The difficulty was not understanding the article's words; it was understanding its context.
 
-Researchers argued that traditional reading skills did not adequately prepare students for this task. Many students evaluated the article by examining its content and appearance while paying insufficient attention to who created it, who funded it and why it existed. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}), by contrast, tended to leave the page and investigate the publisher or sponsor before judging credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Unfortunately, our research at the Stanford History Education Group...Read more...</span></span></span>
+Researchers argued that traditional reading skills did not adequately prepare students for this task. Many students evaluated the article by examining its content and appearance while paying insufficient attention to who created it, who funded it and why it existed. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}), by contrast, tended to leave the page and investigate the publisher or sponsor before judging credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Unfortunately, our research at the Stanford History Education Group...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-2-dark.svg" | relative_url }}" alt="Sponsored Content illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,9 +327,9 @@ The common assumption is that sponsored content mainly deceives inattentive read
 
 Careful readers often focus on evaluating arguments, evidence and writing quality. Sponsored content exploits this tendency by presenting information that appears well researched and professionally produced. Because the material may contain many accurate facts, readers can conclude that it is trustworthy without recognising that the selection and framing of those facts serve a commercial objective.
 
-Another challenge is that modern sponsored content frequently avoids direct sales language. Instead of saying “buy this product”, it may discuss industry trends, health concerns, financial planning or technological developments. The promotional goal is embedded within the broader narrative. This can make the material appear informative rather than persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26992837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Challenges Native Advertising Posesby C Campbell · 2019 · Cited by 417 — The FTC&#x27;s (1983) “Policy Statement on Deception” addres...</span></span></span>
+Another challenge is that modern sponsored content frequently avoids direct sales language. Instead of saying “buy this product”, it may discuss industry trends, health concerns, financial planning or technological developments. The promotional goal is embedded within the broader narrative. This can make the material appear informative rather than persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26992837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Challenges Native Advertising Posesby C Campbell · 2019 · Cited by 417 — The FTC&#x27;s (1983) “Policy Statement on Deception” addres...</span></span></span>
 
-Social media adds a further complication. Influencers often build audiences through authenticity and personal connection. When sponsorship disclosures are weak or absent, promotional messages may be interpreted as genuine recommendations. Studies of affiliate marketing and influencer content have found that disclosures are often missing or ineffective, making it harder for audiences to recognise commercial relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Social media adds a further complication. Influencers often build audiences through authenticity and personal connection. When sponsorship disclosures are weak or absent, promotional messages may be interpreted as genuine recommendations. Studies of affiliate marketing and influencer content have found that disclosures are often missing or ineffective, making it harder for audiences to recognise commercial relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0bB401oDIgY" title="Is Your News Actually an Ad? Dr. Michelle Amazeen Explains Content Confusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0bB401oDIgY" target="_blank" rel="noopener noreferrer">Is Your News Actually an Ad? Dr. Michelle Amazeen Explains Content Confusion</a></p><p class="youtube-embed-meta">Channel: Business Talk &middot; Views: 45 &middot; Uploaded: January 2026 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0bB401oDIgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0bB401oDIgY">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ Lateral reading offers a practical approach:
 
 </div>
 
-The key move is leaving the page. Rather than judging credibility solely from design, tone or apparent professionalism, readers gather outside information about the source and its incentives. This mirrors the behaviour observed among professional fact-checkers, who often verify a source's identity before spending time analysing its content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Unfortunately, our research at the Stanford History Education Group...Read more...</span></span></span>
+The key move is leaving the page. Rather than judging credibility solely from design, tone or apparent professionalism, readers gather outside information about the source and its incentives. This mirrors the behaviour observed among professional fact-checkers, who often verify a source's identity before spending time analysing its content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Unfortunately, our research at the Stanford History Education Group...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-3-dark.svg" | relative_url }}" alt="Sponsored Content illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sponsored_content_co_e99cc9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,201 +359,201 @@ The key move is leaving the page. Rather than judging credibility solely from de
 
 Sponsored content demonstrates a broader lesson about online credibility: appearance is weak evidence. A polished layout, reputable-looking branding and sophisticated writing can signal professionalism without revealing the purpose behind the message.
 
-As social platforms, recommendation systems and AI tools increasingly mix journalism, commentary, promotion and generated content into the same streams, recognising source context becomes more important than recognising style alone. Sponsored content succeeds when readers focus only on what is being said. Lateral reading shifts attention to who is speaking, who is paying and why the message exists in the first place. That habit does not eliminate deception, but it makes one of the most effective forms of online persuasion much easier to spot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Education+2Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">researchers find students have trouble judging credibility information online</span><span class="citation-popover-snippet">Stanford EducationStanford researchers find students have trouble judging the...22 Nov 2016 — Education scholars say youth are duped by...</span></span></span>
+As social platforms, recommendation systems and AI tools increasingly mix journalism, commentary, promotion and generated content into the same streams, recognising source context becomes more important than recognising style alone. Sponsored content succeeds when readers focus only on what is being said. Lateral reading shifts attention to who is speaking, who is paying and why the message exists in the first place. That habit does not eliminate deception, but it makes one of the most effective forms of online persuasion much easier to spot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Education+2Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">researchers find students have trouble judging credibility information online</span><span class="citation-popover-snippet">Stanford EducationStanford researchers find students have trouble judging the...22 Nov 2016 — Education scholars say youth are duped by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=kZYH_MirvV8" target="_blank" rel="noopener noreferrer">YouTube&#x27;s Climate Denial Problem</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kZYH_MirvV8" target="_blank" rel="noopener noreferrer">YouTube&#x27;s Climate Denial Problem</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kZYH_MirvV8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kZYH_MirvV8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Tell News From Sponsored Content?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Tell News From Sponsored Content?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explains how promotional content can masquerade as independent coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how promotional content can masquerade as independent coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Explores advertising systems that blur editorial and commercial content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores advertising systems that blur editorial and commercial content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Supports evaluation of persuasive and potentially misleading material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evaluation of persuasive and potentially misleading material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Manufacturing Consent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kv_-bvCqgrEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Manufacturing Consent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
-        </h4>
-        <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Manufacturing Consent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kv_-bvCqgrEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Manufacturing Consent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
+</h4>
+<p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
         
-        <p class="fr-book-desc">Examines how media incentives shape information presentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how media incentives shape information presentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="sponsored-content-can-you-tell-news-from-sponsored-content-critical-thinking-in-the-age-of-socia-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,142 +759,142 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stacks.stanford.edu  
    Title: SHEG Evaluating Information Online  
-   Link: <a href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</p></details>
+   Link:<a href="https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Afv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Digital RepositoryThe Cornerstone of Civic Online Reasoning22 Nov 2016 — Over the last year and a half, the Stanford History Edu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ed.stanford.edu  
    Title: researchers find students have trouble judging credibility information online  
-   Link: <a href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford EducationStanford researchers find students have trouble judging the...22 Nov 2016 — Education scholars say youth are duped by...</p></details>
+   Link:<a href="https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford EducationStanford researchers find students have trouble judging the...22 Nov 2016 — Education scholars say youth are duped by...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hunton.com  
-   Link: <a href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</p></details>
+   Link:<a href="https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/hunton-retail-law-resource/ftc-issues-guidance-on-native-advertising-businesses-must-consider-the-likelihood-of-consumer-confusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sponsored content into surrounding editorial content and consumers&#x27; ability to share such ads.... False Advertising Claims, False Advert...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hoganlovells.com  
-   Link: <a href="https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs Your Native Ad Needs a Disclosure: The FTC...15 Feb 2016 — Similarly, false claims or omissions about a speaker&#x27;s bias are presume...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/three-signs-your-native-ad-needs-a-disclosure-the-ftc-issues-native-advertising-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs Your Native Ad Needs a Disclosure: The FTC...15 Feb 2016 — Similarly, false claims or omissions about a speaker&#x27;s bias are presume...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: manatt.com  
    Title: special focus ftc issues long awaited native adve  
-   Link: <a href="https://www.manatt.com/insights/newsletters/advertising-law/special-focus-ftc-issues-long-awaited-native-adve" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/special-focus-ftc-issues-long-awaited-native-adve</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Long-Awaited Native Advertising GuidanceDec 22, 2015 — The FTC makes clear that consumers must know before they choose to view...</p></details>
+   Link:<a href="https://www.manatt.com/insights/newsletters/advertising-law/special-focus-ftc-issues-long-awaited-native-adve" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/special-focus-ftc-issues-long-awaited-native-adve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Long-Awaited Native Advertising GuidanceDec 22, 2015 — The FTC makes clear that consumers must know before they choose to view...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kelleydrye.com  
    Title: navigating native advertising  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPNavigating Native Advertising6 Jan 2016 — According to the FTC, disclosures in native advertising must often appe...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/navigating-native-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPNavigating Native Advertising6 Jan 2016 — According to the FTC, disclosures in native advertising must often appe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: loeb.com  
-   Link: <a href="https://www.loeb.com/en/insights/publications/2015/12/ftc-issues-enforcement-statement-business-guide-__" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2015/12/ftc-issues-enforcement-statement-business-guide-__</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb &amp; LoebFTC Issues Enforcement Statement, Business Guide on...A disclosure also must be clear and prominent on all devices and platfo...</p></details>
+   Link:<a href="https://www.loeb.com/en/insights/publications/2015/12/ftc-issues-enforcement-statement-business-guide-__" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2015/12/ftc-issues-enforcement-statement-business-guide-__</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb &amp; LoebFTC Issues Enforcement Statement, Business Guide on...A disclosure also must be clear and prominent on all devices and platfo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBlending in or standing out?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The disclosure dilemma of ad...by M Hübner · 2025 · Cited by 9 — However, these disclosures often appear as subtle “sponsored” labels, r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12380683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The disclosure dilemma of ad...by M Hübner · 2025 · Cited by 9 — However, these disclosures often appear as subtle “sponsored” labels, r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26992837" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26992837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenges Native Advertising Posesby C Campbell · 2019 · Cited by 417 — The FTC&#x27;s (1983) “Policy Statement on Deception” addres...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26992837" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26992837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenges Native Advertising Posesby C Campbell · 2019 · Cited by 417 — The FTC&#x27;s (1983) “Policy Statement on Deception” addres...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Sponsorship Disclosure in Native Advertising: A Theoretical Framework  
-   Link: <a href="https://arxiv.org/abs/2311.01051" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.01051</a>  
+   Link:<a href="https://arxiv.org/abs/2311.01051" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.01051</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unfortunately, our research at the Stanford History Education Group...Read more...</p></details>
+   Link:<a href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unfortunately, our research at the Stanford History Education Group...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: campustechnology.com  
-   Link: <a href="https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx" target="_blank" rel="noopener noreferrer nofollow">https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campus TechnologyReport: Digital Natives &#x27;Easily Duped&#x27; by Information Online7 Dec 2016 — More than 80 percent of students believed that...</p></details>
+   Link:<a href="https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx" target="_blank" rel="noopener noreferrer nofollow">https://campustechnology.com/articles/2016/12/07/report-digital-natives-easily-duped-by-information-online.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campus TechnologyReport: Digital Natives &#x27;Easily Duped&#x27; by Information Online7 Dec 2016 — More than 80 percent of students believed that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It cannot cure a false claim. If a disclosure provides information that...Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It cannot cure a false claim. If a disclosure provides information that...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingWhether a particular disclosure is easy to understand or difficult to miss depends on the...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingWhether a particular disclosure is easy to understand or difficult to miss depends on the...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ftcdefenselawyer.com  
-   Link: <a href="https://ftcdefenselawyer.com/ftc-native-advertising-guideline-lawyer/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/ftc-native-advertising-guideline-lawyer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Native Advertising Guideline LawyerFTC Native Advertising Guideline Lawyer Defending Investigations Targeting Deceptively Formatted A...</p></details>
+   Link:<a href="https://ftcdefenselawyer.com/ftc-native-advertising-guideline-lawyer/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/ftc-native-advertising-guideline-lawyer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Native Advertising Guideline LawyerFTC Native Advertising Guideline Lawyer Defending Investigations Targeting Deceptively Formatted A...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nativeadvertisinginstitute.com  
-   Link: <a href="https://www.nativeadvertisinginstitute.com/native-advertising-glossary/ftc-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.nativeadvertisinginstitute.com/native-advertising-glossary/ftc-native-advertising-guidelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Native Advertising GuidelinesUse Clear Disclosures: Ensure that native ads are labeled with clear, prominent disclosures, such as “Sp...</p></details>
+   Link:<a href="https://www.nativeadvertisinginstitute.com/native-advertising-glossary/ftc-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.nativeadvertisinginstitute.com/native-advertising-glossary/ftc-native-advertising-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Native Advertising GuidelinesUse Clear Disclosures: Ensure that native ads are labeled with clear, prominent disclosures, such as “Sp...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ftc-publishes-policy-statement-business-guide-native-amanda-schreyer" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ftc-publishes-policy-statement-business-guide-native-amanda-schreyer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Publishes Policy Statement and Business Guide on...From time to time, the FTC issues guidance on what advertisers can do to avoid de...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ftc-publishes-policy-statement-business-guide-native-amanda-schreyer" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ftc-publishes-policy-statement-business-guide-native-amanda-schreyer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Publishes Policy Statement and Business Guide on...From time to time, the FTC issues guidance on what advertisers can do to avoid de...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instituteforpr.org  
-   Link: <a href="https://instituteforpr.org/wp-content/uploads/IPR-Native-Advertising-Edited-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://instituteforpr.org/wp-content/uploads/IPR-Native-Advertising-Edited-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Regulation of Native Advertising: How New Federal...by C Myers — While states may pass individual laws about false advertising, PR p...</p></details>
+   Link:<a href="https://instituteforpr.org/wp-content/uploads/IPR-Native-Advertising-Edited-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://instituteforpr.org/wp-content/uploads/IPR-Native-Advertising-Edited-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Regulation of Native Advertising: How New Federal...by C Myers — While states may pass individual laws about false advertising, PR p...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fkks.com  
-   Link: <a href="https://fkks.com/uploads/news/6.30.2015_Native_Advertising_-The_Old_Is_New_Again.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fkks.com/uploads/news/6.30.2015_Native_Advertising_-The_Old_Is_New_Again.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Native Advertising: The Old Is New AgainBy producing fake reviews, these com- panies violated multiple state laws against false adver- ti...</p></details>
+   Link:<a href="https://fkks.com/uploads/news/6.30.2015_Native_Advertising_-The_Old_Is_New_Again.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fkks.com/uploads/news/6.30.2015_Native_Advertising_-The_Old_Is_New_Again.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Native Advertising: The Old Is New AgainBy producing fake reviews, these com- panies violated multiple state laws against false adver- ti...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prweek.com  
-   Link: <a href="https://www.prweek.com/article/1378766/4-important-takeaways-ftcs-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.prweek.com/article/1378766/4-important-takeaways-ftcs-native-advertising-guidelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC guidelines on sponsored content &amp; native adsDisclosures need to appear in close proximity to (in front of or above) the native advert...</p></details>
+   Link:<a href="https://www.prweek.com/article/1378766/4-important-takeaways-ftcs-native-advertising-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.prweek.com/article/1378766/4-important-takeaways-ftcs-native-advertising-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC guidelines on sponsored content &amp; native adsDisclosures need to appear in close proximity to (in front of or above) the native advert...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bclplaw.com  
-   Link: <a href="https://www.bclplaw.com/en-US/events-insights-news/native-advertising-recent-ftc-cases-require-disclosure-of-paid-endorsements-on-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/native-advertising-recent-ftc-cases-require-disclosure-of-paid-endorsements-on-social-media.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Native Advertising: Recent FTC Cases Require Disclosure...12 May 2016 — Two recent cases by the Federal Trade Commission (“FTC”) demonst...</p></details>
+   Link:<a href="https://www.bclplaw.com/en-US/events-insights-news/native-advertising-recent-ftc-cases-require-disclosure-of-paid-endorsements-on-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/native-advertising-recent-ftc-cases-require-disclosure-of-paid-endorsements-on-social-media.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Native Advertising: Recent FTC Cases Require Disclosure...12 May 2016 — Two recent cases by the Federal Trade Commission (“FTC”) demonst...</p></details>
    Published: May 2016  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ssoar.info  
    Title: ssoar mediacomm 2022 1 balaban et al Adolescents Understanding of the Model  
-   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/79868/ssoar-mediacomm-2022-1-balaban_et_al-Adolescents_Understanding_of_the_Model.pdf?sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/79868/ssoar-mediacomm-2022-1-balaban_et_al-Adolescents_Understanding_of_the_Model.pdf?sequence=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adolescents&#x27; Understanding of the Model of Sponsored...by DC Balaban · 2022 · Cited by 47 — Our study stresses the importance of develop...</p></details>
+   Link:<a href="https://www.ssoar.info/ssoar/bitstream/handle/document/79868/ssoar-mediacomm-2022-1-balaban_et_al-Adolescents_Understanding_of_the_Model.pdf?sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/79868/ssoar-mediacomm-2022-1-balaban_et_al-Adolescents_Understanding_of_the_Model.pdf?sequence=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adolescents&#x27; Understanding of the Model of Sponsored...by DC Balaban · 2022 · Cited by 47 — Our study stresses the importance of develop...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wsj.com  
    Title: most students dont know when news is fake stanford study finds 1479752576  
-   Link: <a href="https://www.wsj.com/articles/most-students-dont-know-when-news-is-fake-stanford-study-finds-1479752576" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/most-students-dont-know-when-news-is-fake-stanford-study-finds-1479752576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wall Street JournalMost Students Don&#x27;t Know When News Is Fake, Stanford...21 Nov 2016 — Some 82% of middle-schoolers couldn&#x27;t distinguis...</p></details>
+   Link:<a href="https://www.wsj.com/articles/most-students-dont-know-when-news-is-fake-stanford-study-finds-1479752576" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/most-students-dont-know-when-news-is-fake-stanford-study-finds-1479752576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wall Street JournalMost Students Don&#x27;t Know When News Is Fake, Stanford...21 Nov 2016 — Some 82% of middle-schoolers couldn&#x27;t distinguis...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: siia.net  
    Title: ftc delivers stern warning on native advertising and sponsored content  
-   Link: <a href="https://www.siia.net/ftc-delivers-stern-warning-on-native-advertising-and-sponsored-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.siia.net/ftc-delivers-stern-warning-on-native-advertising-and-sponsored-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Delivers Stern Warning on Native Advertising and...6 Jan 2021 — With these new materials, the FTC maintains that not all native adve...</p></details>
+   Link:<a href="https://www.siia.net/ftc-delivers-stern-warning-on-native-advertising-and-sponsored-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.siia.net/ftc-delivers-stern-warning-on-native-advertising-and-sponsored-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Delivers Stern Warning on Native Advertising and...6 Jan 2021 — With these new materials, the FTC maintains that not all native adve...</p></details>

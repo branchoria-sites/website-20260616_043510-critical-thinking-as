@@ -422,7 +422,7 @@ image: /assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483-ove
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483-overview.webp" | relative_url }}" alt="Overview image for Own Research" loading="eager" decoding="sync" fetchpriority="high">
-Responsible personal research is not about collecting the most screenshots, threads, videos or search results. It is about asking a claim to survive contact with better sources, [opposing evidence]({{ 'opposing-evidence/' | relative_url }}), original context and uncertainty. Research on online misinformation shows why this is harder than it sounds: people can be pulled towards familiar or belief-confirming material, search results can reflect the wording of a biased query, and even attempts to verify false news online can sometimes increase belief in it when the surrounding search results are low quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</span></span></span>
+Responsible personal research is not about collecting the most screenshots, threads, videos or search results. It is about asking a claim to survive contact with better sources, [opposing evidence]({{ 'opposing-evidence/' | relative_url }}), original context and uncertainty. Research on online misinformation shows why this is harder than it sounds: people can be pulled towards familiar or belief-confirming material, search results can reflect the wording of a biased query, and even attempts to verify false news online can sometimes increase belief in it when the surrounding search results are low quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</span></span></span>
 
 ## Effort Is Not the Same as Method
 
@@ -430,7 +430,7 @@ A person can spend hours “researching” and still come away less informed if 
 
 The phrase “do your own research” often sounds empowering because it rejects blind trust. That is useful when it pushes people to check a source, read beyond a headline or compare claims across independent outlets. The problem begins when the phrase becomes a licence to treat every institution as suspect except the few sources that already agree with the researcher’s preferred conclusion. At that point, “research” becomes a story of personal awakening rather than a discipline of evidence.
 
-This is not just a problem of individual stubbornness. Search itself can be shaped by the way a question is phrased. An audit of Google Scholar and Semantic Scholar found that confirmation-biased academic queries could return results aligned with the bias embedded in the query, with disparities varying by topic and platform. That matters because even academic-looking search results are not neutral piles of truth; they are ranked outputs responding to the words the user supplied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayAn algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmati...</span></span></span>
+This is not just a problem of individual stubbornness. Search itself can be shaped by the way a question is phrased. An audit of Google Scholar and Semantic Scholar found that confirmation-biased academic queries could return results aligned with the bias embedded in the query, with disparities varying by topic and platform. That matters because even academic-looking search results are not neutral piles of truth; they are ranked outputs responding to the words the user supplied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">First MondayAn algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmati...</span></span></span>
 
 A better test is to ask: “What would I have to find for this claim to become weaker?” If the answer is “nothing”, the activity is not research. It is defence.
 
@@ -438,7 +438,7 @@ A better test is to ask: “What would I have to find for this claim to become w
 
 Confirmation bias is the tendency to search for, interpret, prefer or remember information that supports existing beliefs. Online, that bias does not need to operate as a conscious decision. It can appear in small choices: which search terms feel natural, which headline looks worth clicking, which expert seems “captured”, which correction feels suspicious, and which anecdote feels more real than a dataset.
 
-Social platforms intensify the trap because content usually arrives with social cues: likes, reposts, comments, reaction videos and group approval. A claim can begin to feel credible because many people appear to be engaging with it, even before the reader has checked whether it is true. Research on misinformation sharing has also found that people often share more accurately when their attention is directed towards accuracy, suggesting that social media environments can distract users from truth-checking rather than simply reveal a lack of reasoning ability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+Social platforms intensify the trap because content usually arrives with social cues: likes, reposts, comments, reaction videos and group approval. A claim can begin to feel credible because many people appear to be engaging with it, even before the reader has checked whether it is true. Research on misinformation sharing has also found that people often share more accurately when their attention is directed towards accuracy, suggesting that social media environments can distract users from truth-checking rather than simply reveal a lack of reasoning ability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
 Search engines add a second trap: the user can mistake finding something for confirming something. A search for “evidence that X is a scam” is likely to produce a different information path from “independent reviews of X”, “regulatory action against X”, or “best evidence for and against X”. The first query may still return real pages, but those pages are filtered through a question that already leans towards one conclusion.
 
@@ -461,11 +461,11 @@ The flaw is not that the person searched. The flaw is that the search was design
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483-Illustration-1-dark.svg" | relative_url }}" alt="Own Research illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “Just Google It” Can Backfire
 
-A striking finding from recent misinformation research is that searching online to evaluate false news can sometimes make people more likely to believe it. A Nature study across five experiments found consistent evidence that online search to assess the truthfulness of false news articles increased belief in those false articles, especially when users encountered lower-quality search results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</span></span></span>
+A striking finding from recent misinformation research is that searching online to evaluate false news can sometimes make people more likely to believe it. A Nature study across five experiments found consistent evidence that online search to assess the truthfulness of false news articles increased belief in those false articles, especially when users encountered lower-quality search results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</span></span></span>
 
 This does not mean verification is pointless. It means verification has to be done carefully. Searching a suspicious claim immediately after it appears can lead into a weak information environment where copies, partisan commentary, low-quality blogs or manipulated pages appear before strong reporting or expert correction has caught up.
 
-Data & Society’s work on “data voids” explains one reason this happens. A data void occurs when a search query has limited, non-existent or poor-quality results, leaving space for manipulators to fill the gap with misleading material. Obscure phrases, breaking events, newly coined slogans and oddly specific claims can all create conditions where the first available results look more authoritative than they deserve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids where missing data can easily be exploited</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids: Where Missing Data Can Easily Be Exploited11 May 2018 — Data Voids: Where Missing Data Can Easily Be Exploited...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+Data & Society’s work on “data voids” explains one reason this happens. A data void occurs when a search query has limited, non-existent or poor-quality results, leaving space for manipulators to fill the gap with misleading material. Obscure phrases, breaking events, newly coined slogans and oddly specific claims can all create conditions where the first available results look more authoritative than they deserve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids where missing data can easily be exploited</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids: Where Missing Data Can Easily Be Exploited11 May 2018 — Data Voids: Where Missing Data Can Easily Be Exploited...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 This is especially relevant in social media and AI environments. A viral post may include a distinctive phrase; thousands of people search that phrase; the available results may be dominated by people repeating or reacting to the same claim. The reader then sees many pages apparently “confirming” the claim, when in reality they may be seeing duplication, not independent [corroboration]({{ 'corroboration/' | relative_url }}).
 
@@ -473,11 +473,11 @@ The practical lesson is simple: do not verify a claim using only the vocabulary 
 
 ## AI Makes Cherry-Picking Look Cleaner
 
-Generative AI can help organise research, but it can also make cherry-picking more polished. A chatbot can summarise one-sided sources into balanced-sounding prose, produce confident explanations without visible uncertainty, and generate references that look credible until checked. UNESCO’s 2025 media and information literacy work emphasised that AI can make mistakes and that critical judgement remains necessary when engaging with AI-created content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">AI can make mistakes: Why media literacy matters more...24 Oct 2025 — media and information literacy (MIL) can help people think c...</span></span></span>
+Generative AI can help organise research, but it can also make cherry-picking more polished. A chatbot can summarise one-sided sources into balanced-sounding prose, produce confident explanations without visible uncertainty, and generate references that look credible until checked. UNESCO’s 2025 media and information literacy work emphasised that AI can make mistakes and that critical judgement remains necessary when engaging with AI-created content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">AI can make mistakes: Why media literacy matters more...24 Oct 2025 — media and information literacy (MIL) can help people think c...</span></span></span>
 
 AI also changes the emotional feel of research. Instead of scrolling through messy pages, a user receives a fluent answer in seconds. That fluency can create a false sense of closure: the topic feels settled because the answer reads smoothly. But a well-written answer is not the same as a well-supported answer.
 
-There is growing evidence that hallucinated or non-existent citations are a real problem in AI-assisted knowledge work. A 2026 large-scale preprint auditing 111 million references across major repositories estimated a sharp rise in non-existent references after widespread large language model adoption, including a conservative estimate of 146,932 hallucinated citations in 2025 alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+There is growing evidence that hallucinated or non-existent citations are a real problem in AI-assisted knowledge work. A 2026 large-scale preprint auditing 111 million references across major repositories estimated a sharp rise in non-existent references after widespread large language model adoption, including a conservative estimate of 146,932 hallucinated citations in 2025 alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For personal research, the implication is not “never use AI”. It is: never let AI be the final authority on whether its own claims are true. Use AI for brainstorming search terms, identifying possible counterarguments, summarising documents you can inspect, or explaining unfamiliar concepts. For factual claims, original sources still matter.
 
@@ -488,9 +488,9 @@ For personal research, the implication is not “never use AI”. It is: never l
 
 Good research does not require professional training, but it does require a routine that makes cherry-picking harder. The aim is to move from “Can I find support for this?” to “What is the best available evidence, and how much confidence does it justify?”
 
-One widely taught approach is lateral reading: leaving the page you are on and checking what other credible sources say about the source, author, organisation or claim. Stanford’s Civic Online Reasoning materials describe lateral reading as investigating who is behind an unfamiliar online source by opening new tabs and seeing what trusted sources say about it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Open source on inquirygroup.org.</span></span></span>
+One widely taught approach is lateral reading: leaving the page you are on and checking what other credible sources say about the source, author, organisation or claim. Stanford’s Civic Online Reasoning materials describe lateral reading as investigating who is behind an unfamiliar online source by opening new tabs and seeing what trusted sources say about it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Open source on inquirygroup.org.</span></span></span>
 
-Mike Caulfield’s SIFT method gives a compact version of this habit: stop, investigate the source, find better coverage, and trace claims, quotes or media back to their original context. University library guides and media literacy programmes continue to teach SIFT because it turns research into a sequence of checks rather than a vibe-based judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
+Mike Caulfield’s SIFT method gives a compact version of this habit: stop, investigate the source, find better coverage, and trace claims, quotes or media back to their original context. University library guides and media literacy programmes continue to teach SIFT because it turns research into a sequence of checks rather than a vibe-based judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
 
 A practical routine can look like this:
 
@@ -547,7 +547,7 @@ The difference between fair weighting and cherry-picking is method. Fair weighti
 
 This distinction matters because “both sides” can become its own trap. A reader may collect one mainstream source and one fringe source, then assume the truth lies halfway between them. But evidence does not work like a seesaw. A claim supported by many independent lines of evidence should not be treated as equal to a claim supported by speculation, misread statistics or a single viral anecdote.
 
-At the same time, majority agreement is not a substitute for checking. The right response is proportional confidence: stronger evidence earns more confidence; weaker evidence earns less; uncertainty remains visible. UNESCO frames media and information literacy as a way to engage critically with information, navigate digital environments safely and build trust in information ecosystems, not as a habit of reflexive distrust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+At the same time, majority agreement is not a substitute for checking. The right response is proportional confidence: stronger evidence earns more confidence; weaker evidence earns less; uncertainty remains visible. UNESCO frames media and information literacy as a way to engage critically with information, navigate digital environments safely and build trust in information ecosystems, not as a habit of reflexive distrust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PYyNqPLfu2o" title="How to ‘Do Your Own Research’ with Medical Journalist Dr. Trisha Pasricha (Part 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PYyNqPLfu2o" target="_blank" rel="noopener noreferrer">How to ‘Do Your Own Research’ with Medical Journalist Dr. Trisha Pasricha (Part 2)</a></p><p class="youtube-embed-meta">Channel: LinkedIn News &middot; Views: 251 &middot; Uploaded: March 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PYyNqPLfu2o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PYyNqPLfu2o">Open on YouTube</a></p></div></div></div>
@@ -571,194 +571,194 @@ That standard changes the feel of research. It turns searching from a hunt for a
 A claim that survives this process may still be uncertain, but it has earned more trust than a claim supported only by convenient links. In the age of social media and AI, “doing your own research” is responsible only when it includes the discipline to look for what would change your mind.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Research Becomes Cherry Picking. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Research Becomes Cherry Picking. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains confirmation bias and flawed decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation bias and flawed decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Directly combats cherry-picking and weak evidence practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly combats cherry-picking and weak evidence practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based assessment over intuition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based assessment over intuition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="own-research-when-research-becomes-cherry-picking-critical-thinking-in-the-age-of-social-media-a-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ A claim that survives this process may still be uncertain, but it has earned mor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ A claim that survives this process may still be uncertain, but it has earned mor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ A claim that survives this process may still be uncertain, but it has earned mor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ A claim that survives this process may still be uncertain, but it has earned mor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ A claim that survives this process may still be uncertain, but it has earned mor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,250 +964,250 @@ A claim that survives this process may still be uncertain, but it has earned mor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 170 — We present consistent evidence that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.17286" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.17286</a>  
+   Link:<a href="https://arxiv.org/abs/2403.17286" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.17286</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI can make mistakes: Why media literacy matters more...24 Oct 2025 — media and information literacy (MIL) can help people think c...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI can make mistakes: Why media literacy matters more...24 Oct 2025 — media and information literacy (MIL) can help people think c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.07723</a>  
+   Link:<a href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.07723</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
+   Link:<a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
    Title: strengthens media and information literacy across ukraine  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000388547" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000388547</a>  
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000388547" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000388547</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/sites/default/files/medias/fichiers/2023/10/Part_1_CI%20MIL_CURRICULUM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/sites/default/files/medias/fichiers/2023/10/Part_1_CI%20MIL_CURRICULUM.pdf</a>  
+   Link:<a href="https://www.unesco.org/mil4teachers/sites/default/files/medias/fichiers/2023/10/Part_1_CI%20MIL_CURRICULUM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/sites/default/files/medias/fichiers/2023/10/Part_1_CI%20MIL_CURRICULUM.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392035" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392035</a>  
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392035" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392035</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/ai-meets-governance-bhutan-civil-servants-trained-ai-and-media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-meets-governance-bhutan-civil-servants-trained-ai-and-media-information-literacy</a>  
+   Link:<a href="https://www.unesco.org/en/articles/ai-meets-governance-bhutan-civil-servants-trained-ai-and-media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-meets-governance-bhutan-civil-servants-trained-ai-and-media-information-literacy</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesco.org  
    Title: feature conference  
-   Link: <a href="https://www.unesco.org/en/weeks/media-information-literacy/feature-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/weeks/media-information-literacy/feature-conference</a>  
+   Link:<a href="https://www.unesco.org/en/weeks/media-information-literacy/feature-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/weeks/media-information-literacy/feature-conference</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000395373" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000395373</a>  
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000395373" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000395373</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2403.17286v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.17286v1</a>  
+   Link:<a href="https://arxiv.org/html/2403.17286v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.17286v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2504.13777v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.13777v1</a>  
+   Link:<a href="https://arxiv.org/html/2504.13777v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.13777v1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stacks.stanford.edu  
    Title: Civic Online Reasoning National Portrait  
-   Link: <a href="https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf</a>  
+   Link:<a href="https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scholar.google.com  
-   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ</a>  
+   Link:<a href="https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scholar.google.com  
-   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=NJwhbHoAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=NJwhbHoAAAAJ</a>  
+   Link:<a href="https://scholar.google.com/citations?hl=en&amp;user=NJwhbHoAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=NJwhbHoAAAAJ</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First MondayAn algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmati...</p></details>
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/13730/11709</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First MondayAn algorithm audit of Google and Semantic Scholarby C Kacperski · 2024 · Cited by 12 — This study examines whether confirmati...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datasociety.net  
    Title: data voids where missing data can easily be exploited  
-   Link: <a href="https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; SocietyData Voids: Where Missing Data Can Easily Be Exploited11 May 2018 — Data Voids: Where Missing Data Can Easily Be Exploited...</p></details>
+   Link:<a href="https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/library/data-voids-where-missing-data-can-easily-be-exploited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; SocietyData Voids: Where Missing Data Can Easily Be Exploited11 May 2018 — Data Voids: Where Missing Data Can Easily Be Exploited...</p></details>
    Published: May 2018  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cor.inquirygroup.org  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: guides.lib.uchicago.edu  
    Title: University of Chicago Library Guides The SIFT Method  
-   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: datasociety.net  
    Title: Data Society Data Voids Final 3  
-   Link: <a href="https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf</a>  
+   Link:<a href="https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cor.inquirygroup.org  
    Title: teaching lateral reading  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cor.inquirygroup.org  
    Title: lateral vs vertical reading  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-vs-vertical-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-vs-vertical-reading/</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-vs-vertical-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-vs-vertical-reading/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cor.inquirygroup.org  
-   Link: <a href="https://cor.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/</a>  
+   Link:<a href="https://cor.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9761900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9761900/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9761900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9761900/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38123685/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38123685/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12425422/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12425422/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12425422/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12425422/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: uscupstate.libguides.com  
    Title: Lateral Reading  
-   Link: <a href="https://uscupstate.libguides.com/LateralReading" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading</a>  
+   Link:<a href="https://uscupstate.libguides.com/LateralReading" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: mediahelpingmedia.org  
    Title: lateral reading  
-   Link: <a href="https://mediahelpingmedia.org/basics/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/lateral-reading/</a>  
+   Link:<a href="https://mediahelpingmedia.org/basics/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/lateral-reading/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: libguides.ucmerced.edu  
    Title: sift method  
-   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
+   Link:<a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: GOV.UK  
    Title: main report cdei review into bias in algorithmic decision making  
-   Link: <a href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making</a>  
+   Link:<a href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ojs.aaai.org  
-   Link: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42257/46218" target="_blank" rel="noopener noreferrer nofollow">https://ojs.aaai.org/index.php/AAAI/article/view/42257/46218</a>  
+   Link:<a href="https://ojs.aaai.org/index.php/AAAI/article/view/42257/46218" target="_blank" rel="noopener noreferrer nofollow">https://ojs.aaai.org/index.php/AAAI/article/view/42257/46218</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: scribbr.com  
    Title: confirmation bias  
-   Link: <a href="https://www.scribbr.com/research-bias/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/confirmation-bias/</a>  
+   Link:<a href="https://www.scribbr.com/research-bias/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/confirmation-bias/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: scienceofboosting.org  
    Title: Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PYyNqPLfu2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PYyNqPLfu2o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Scientific Knowledge and Doing Your Own Research (Confirmation Bias and the Internet Age)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PYyNqPLfu2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PYyNqPLfu2o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Scientific Knowledge and Doing Your Own Research (Confirmation Bias and the Internet Age)...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Overthinking About Doing Your Own Research  
-   Link: <a href="https://www.youtube.com/watch?v=VTNR6maU5Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTNR6maU5Ag</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to &#x27;Do Your Own Research&#x27; with Medical Journalist Dr. Trisha Pasricha (Part 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VTNR6maU5Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTNR6maU5Ag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to &#x27;Do Your Own Research&#x27; with Medical Journalist Dr. Trisha Pasricha (Part 2)...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
+   Link:<a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360253696_Accuracy_prompts_are_a_replicable_and_generalizable_approach_for_reducing_the_spread_of_misinformation</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: coachingforleaders.com  
-   Link: <a href="https://coachingforleaders.com/podcast/prevent-being-duped-mike-caulfield/" target="_blank" rel="noopener noreferrer nofollow">https://coachingforleaders.com/podcast/prevent-being-duped-mike-caulfield/</a>  
+   Link:<a href="https://coachingforleaders.com/podcast/prevent-being-duped-mike-caulfield/" target="_blank" rel="noopener noreferrer nofollow">https://coachingforleaders.com/podcast/prevent-being-duped-mike-caulfield/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/[accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/[accuracy-prompts</a>  
+   Link:<a href="https://www.prosocialdesign.org/library/[accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/[accuracy-prompts</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: brookings.edu  
-   Link: <a href="https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</a>  
+   Link:<a href="https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: ntu.ac.uk  
-   Link: <a href="https://www.ntu.ac.uk/studenthub/news/2025/10/navigating-ai-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.ac.uk/studenthub/news/2025/10/navigating-ai-and-misinformation</a>  
+   Link:<a href="https://www.ntu.ac.uk/studenthub/news/2025/10/navigating-ai-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.ac.uk/studenthub/news/2025/10/navigating-ai-and-misinformation</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: newslit.org  
-   Link: <a href="https://newslit.org/checkology-resources/" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/checkology-resources/</a>  
+   Link:<a href="https://newslit.org/checkology-resources/" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/checkology-resources/</a>  

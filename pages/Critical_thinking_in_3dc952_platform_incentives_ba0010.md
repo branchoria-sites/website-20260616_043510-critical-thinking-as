@@ -422,17 +422,17 @@ Shareability incentives are the rewards built around a social post: likes, comme
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010-overview.webp" | relative_url }}" alt="Overview image for Platform Incentives" loading="eager" decoding="sync" fetchpriority="high">
-The strongest [evidence]({{ 'evidence/' | relative_url }}) does not suggest that people are simply indifferent to truth. It points to a mechanism: social platforms repeatedly reward content that attracts attention, and users learn from those rewards. Experiments show that shifting attention towards accuracy improves the quality of what people share, while studies of platform [ranking]({{ 'ranking/' | relative_url }}) suggest that engagement-based systems can amplify emotionally charged or divisive material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
+The strongest [evidence]({{ 'evidence/' | relative_url }}) does not suggest that people are simply indifferent to truth. It points to a mechanism: social platforms repeatedly reward content that attracts attention, and users learn from those rewards. Experiments show that shifting attention towards accuracy improves the quality of what people share, while studies of platform [ranking]({{ 'ranking/' | relative_url }}) suggest that engagement-based systems can amplify emotionally charged or divisive material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
 
 ## Visible rewards teach people what “works”
 
 A social feed does not just display information. It displays social judgement. [Like counts]({{ 'like-counts/' | relative_url }}), repost numbers, replies and creator metrics make popularity visible before evidence has been checked. That changes how a post is read: a claim with thousands of shares can feel socially validated even when the underlying evidence is weak.
 
-Research on misinformation habits helps explain why this matters. A 2023 PNAS study by Gizem Ceylan, Ian Anderson and Wendy Wood argued that misinformation sharing is not only a problem of laziness or political bias; it can become habitual when users are repeatedly rewarded for sharing attention-grabbing content. The study also found that changing rewards so that they favoured accurate sharing could improve discernment, meaning users shared more true information relative to false information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Sharing of misinformation is habitual, not just lazy or biasedby G Ceylan · 2023 · Cited by 224 — Habitual sharing of misinformation...</span></span></span>
+Research on misinformation habits helps explain why this matters. A 2023 PNAS study by Gizem Ceylan, Ian Anderson and Wendy Wood argued that misinformation sharing is not only a problem of laziness or political bias; it can become habitual when users are repeatedly rewarded for sharing attention-grabbing content. The study also found that changing rewards so that they favoured accurate sharing could improve discernment, meaning users shared more true information relative to false information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Sharing of misinformation is habitual, not just lazy or biasedby G Ceylan · 2023 · Cited by 224 — Habitual sharing of misinformation...</span></span></span>
 
 This is a subtle but important point. The reward does not have to be money. A like, a quote post, a reply from a prominent account, a repost by a friend or a spike in followers can all act as feedback. Over time, the user learns which styles of posting produce attention: sharper wording, faster reaction, stronger emotion, simpler villains, more confident claims and less visible uncertainty.
 
-That reward structure can make even careful people behave less carefully. Pennycook and Rand’s research on “[accuracy nudges]({{ 'accuracy-nudge/' | relative_url }})” found that people often share misinformation because their attention is focused on factors other than accuracy; when prompted to think about accuracy, they become more discerning about what they share. In a field experiment on Twitter and several survey experiments, a small shift in attention improved the quality of subsequently shared news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
+That reward structure can make even careful people behave less carefully. Pennycook and Rand’s research on “[accuracy nudges]({{ 'accuracy-nudge/' | relative_url }})” found that people often share misinformation because their attention is focused on factors other than accuracy; when prompted to think about accuracy, they become more discerning about what they share. In a field experiment on Twitter and several survey experiments, a small shift in attention improved the quality of subsequently shared news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
 
 The critical-thinking lesson is practical: a post’s popularity is not the same as its reliability. Popularity may tell us that content is emotionally resonant, identity-relevant, funny, alarming or well-timed. It does not, by itself, tell us whether the claim has been tested against evidence.
 
@@ -442,13 +442,13 @@ The critical-thinking lesson is practical: a post’s popularity is not the same
 
 Visible rewards are only half the mechanism. The other half is ranking. Social platforms do not show every post to every follower in chronological order. They use ranking systems that estimate what each user is likely to engage with, often drawing on signals such as clicks, likes, shares, replies, watch time and past behaviour.
 
-A 2025 PNAS Nexus study on engagement and user satisfaction found that social media ranking algorithms typically optimise for “revealed preferences” such as clicks, shares and likes. The researchers’ audit of Twitter/X-style ranking found that engagement-based ranking amplified emotionally charged and out-group hostile political content compared with a reverse-chronological baseline, even though users did not necessarily prefer what the algorithm selected when asked directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</span></span></span>
+A 2025 PNAS Nexus study on engagement and user satisfaction found that social media ranking algorithms typically optimise for “revealed preferences” such as clicks, shares and likes. The researchers’ audit of Twitter/X-style ranking found that engagement-based ranking amplified emotionally charged and out-group hostile political content compared with a reverse-chronological baseline, even though users did not necessarily prefer what the algorithm selected when asked directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</span></span></span>
 
 That finding captures the difference between what people click and what they value. A user may pause on an angry post, reply to correct it, quote it in disbelief or watch a misleading clip to the end. To an engagement system, all of these behaviours can look like interest. Unless the platform has better signals, reaction can be converted into distribution.
 
-A separate line of modelling and empirical work on [engagement ranking]({{ 'outrage-ranking/' | relative_url }}) reaches a similar warning. Research on “Ranking for Engagement” argues that giving greater weight to online social interactions such as likes and shares can increase platform engagement while also increasing misinformation and polarisation. Its authors describe this as a trade-off: the same design choices that make a feed lively can also crowd out truth-oriented signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 20 — This paper investigates the dynamic feedb...</span></span></span>
+A separate line of modelling and empirical work on [engagement ranking]({{ 'outrage-ranking/' | relative_url }}) reaches a similar warning. Research on “Ranking for Engagement” argues that giving greater weight to online social interactions such as likes and shares can increase platform engagement while also increasing misinformation and polarisation. Its authors describe this as a trade-off: the same design choices that make a feed lively can also crowd out truth-oriented signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 20 — This paper investigates the dynamic feedb...</span></span></span>
 
-The Facebook “Meaningful Social Interactions” change in 2018 is a useful concrete example. Facebook said it would prioritise posts that generated interaction among friends and family, aiming to make time on the platform feel more meaningful. Coverage at the time noted that the change would reduce the reach of some publisher and brand content while favouring posts that prompted conversation. Later research has used that shift as evidence for studying how stronger weighting of interaction can affect polarisation and misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
+The Facebook “Meaningful Social Interactions” change in 2018 is a useful concrete example. Facebook said it would prioritise posts that generated interaction among friends and family, aiming to make time on the platform feel more meaningful. Coverage at the time noted that the change would reduce the reach of some publisher and brand content while favouring posts that prompted conversation. Later research has used that shift as evidence for studying how stronger weighting of interaction can affect polarisation and misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
 
 The problem is not that conversation is bad. Replies, [corrections]({{ 'corrections/' | relative_url }}) and personal testimony can be valuable. The problem is that “conversation” is an ambiguous metric. A careful explanation, an inflammatory rumour and a misleading AI-generated image can all generate comments. If the system rewards the reaction before assessing the reason for the reaction, the feed can become a machine for promoting whatever makes people respond fastest.
 
@@ -483,15 +483,15 @@ None of this means a viral post is false. It means virality is a separate proper
 
 The incentive structure is not fixed. Experiments suggest that small design changes can shift behaviour, though no single intervention solves the problem.
 
-One approach is to redirect attention to accuracy. Pennycook and colleagues’ accuracy-nudge studies show that asking users to consider whether a headline is accurate can improve the quality of what they later share. The point is not that people need a lecture; it is that the sharing moment can be redesigned so that truth becomes more salient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
+One approach is to redirect attention to accuracy. Pennycook and colleagues’ accuracy-nudge studies show that asking users to consider whether a headline is accurate can improve the quality of what they later share. The point is not that people need a lecture; it is that the sharing moment can be redesigned so that truth becomes more salient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
 
-A second approach is to change the reward itself. Globig and colleagues tested whether [social rewards]({{ 'social-rewards/' | relative_url }}) and punishments could be made contingent on information veracity. Across six experiments with 951 participants, they found that adjusting the incentive structure in this way increased sharing discernment: participants shared a higher proportion of true information relative to false information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A second approach is to change the reward itself. Globig and colleagues tested whether [social rewards]({{ 'social-rewards/' | relative_url }}) and punishments could be made contingent on information veracity. Across six experiments with 951 participants, they found that adjusting the incentive structure in this way increased sharing discernment: participants shared a higher proportion of true information relative to false information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-A third approach is to add corrective context to misleading posts. Research on X’s Community Notes is mixed but useful. An earlier large-scale study found no evidence that the rollout of Community Notes significantly reduced engagement with misleading tweets, partly because notes may arrive too late in the viral cycle. A later causal study of 40,074 posts found that once notes were attached, reposts, likes, replies and views fell, with average reposts down by about 45.7% and likes down by about 43.5% after attachment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+A third approach is to add corrective context to misleading posts. Research on X’s Community Notes is mixed but useful. An earlier large-scale study found no evidence that the rollout of Community Notes significantly reduced engagement with misleading tweets, partly because notes may arrive too late in the viral cycle. A later causal study of 40,074 posts found that once notes were attached, reposts, likes, replies and views fell, with average reposts down by about 45.7% and likes down by about 43.5% after attachment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 That contrast is revealing. Corrections can work, but timing matters. If a misleading post receives most of its attention before a note appears, the platform has already rewarded the content and taught the poster that the tactic can succeed. A correction that arrives late may reduce further spread without undoing the original incentive.
 
-Design changes around visible metrics are another contested area. Instagram and Facebook introduced options to hide public like counts, partly in response to concerns about social pressure and competitive posting. However, hiding a number from users does not necessarily remove the metric from ranking, creator analytics or advertiser systems. Vogue Business reported that Instagram’s like-hiding option did not affect the algorithm and that creators could still access performance metrics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voguebusiness.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voguebusiness.com</span><span class="citation-popover-title">Vogue Instagram will let users hide the &quot;like&quot;. Should brands care?</span><span class="citation-popover-snippet">Vogue Instagram will let users hide the &quot;like&quot;. Should brands care?</span></span></span>
+Design changes around visible metrics are another contested area. Instagram and Facebook introduced options to hide public like counts, partly in response to concerns about social pressure and competitive posting. However, hiding a number from users does not necessarily remove the metric from ranking, creator analytics or advertiser systems. Vogue Business reported that Instagram’s like-hiding option did not affect the algorithm and that creators could still access performance metrics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voguebusiness.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voguebusiness.com</span><span class="citation-popover-title">Vogue Instagram will let users hide the &quot;like&quot;. Should brands care?</span><span class="citation-popover-snippet">Vogue Instagram will let users hide the &quot;like&quot;. Should brands care?</span></span></span>
 
 This distinction matters for critical thinking. A cosmetic change to the interface may reduce some public pressure, but the deeper incentive remains if the platform still ranks and rewards content by engagement. The feed may look less numerical while still being governed by numbers behind the scenes.
 
@@ -528,7 +528,7 @@ Better incentives would reward signals that are closer to judgement:
 
 </div>
 
-Research on stated preferences suggests this is not merely idealistic. The PNAS Nexus study found that ranking by users’ stated preferences could reduce angry, partisan and out-group hostile content, although it also raised trade-offs such as potentially reinforcing content that users already agree with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</span></span></span>
+Research on stated preferences suggests this is not merely idealistic. The PNAS Nexus study found that ranking by users’ stated preferences could reduce angry, partisan and out-group hostile content, although it also raised trade-offs such as potentially reinforcing content that users already agree with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</span></span></span>
 
 That is the central tension. Platforms cannot simply optimise for “truth” as if it were always easy to measure. But they can decide whether the default system rewards the fastest reaction or creates more room for reflection. For readers, recognising that incentive structure is a core part of modern critical thinking: before asking whether a post is true, ask why this particular post was made so easy to see, reward and share.
 
@@ -536,194 +536,194 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010-Illustration-3-dark.svg" | relative_url }}" alt="Platform Incentives illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Feeds Reward Reaction Before Reflection. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Feeds Reward Reaction Before Reflection. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly explains how platform incentives and engagement systems shape behaviour and information sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how platform incentives and engagement systems shape behaviour and information sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Explains how businesses compete for attention and build systems around engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how businesses compete for attention and build systems around engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Connects attention economics and digital environments to reduced reflection and judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects attention economics and digital environments to reduced reflection and judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Examines how online environments affect thinking, concentration and judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how online environments affect thinking, concentration and judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="platform-incentives-how-feeds-reward-reaction-before-reflection-critical-thinking-in-the-age-of-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,168 +929,168 @@ That is the central tension. Platforms cannot simply optimise for “truth” as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216614120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sharing of misinformation is habitual, not just lazy or biasedby G Ceylan · 2023 · Cited by 224 — Habitual sharing of misinformation...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216614120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sharing of misinformation is habitual, not just lazy or biasedby G Ceylan · 2023 · Cited by 224 — Habitual sharing of misinformation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli · 2025 · Cited by 259 — Abstract. Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
+   Link:<a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 20 — This paper investigates the dynamic feedb...</p></details>
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 20 — This paper investigates the dynamic feedb...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/</a>  
+   Link:<a href="https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5100245/facebook-newsfeed-update-posts-friends-family/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
+   Link:<a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.13322" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13322</a>  
+   Link:<a href="https://arxiv.org/abs/2502.13322" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13322</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2305.16941v6" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2305.16941v6</a>  
+   Link:<a href="https://arxiv.org/html/2305.16941v6" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2305.16941v6</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2601.11140v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.11140v1</a>  
+   Link:<a href="https://arxiv.org/html/2601.11140v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.11140v1</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2216614120</a>  
+   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2216614120</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
    Title: Cn6U5f Gu3Oj  
-   Link: <a href="https://www.instagram.com/p/Cn6U5fGu3Oj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Cn6U5fGu3Oj/</a>  
+   Link:<a href="https://www.instagram.com/p/Cn6U5fGu3Oj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Cn6U5fGu3Oj/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3741333852807065/posts/4348137645460013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3741333852807065/posts/4348137645460013/</a>  
+   Link:<a href="https://www.facebook.com/groups/3741333852807065/posts/4348137645460013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3741333852807065/posts/4348137645460013/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QqQkjAOIbAo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reclaiming Your Attention: How the Attention Economy Controls Your Focus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QqQkjAOIbAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reclaiming Your Attention: How the Attention Economy Controls Your Focus...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37278047/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37278047/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37278047/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37278047/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: voguebusiness.com  
    Title: Vogue Instagram will let users hide the "like". Should brands care?  
-   Link: <a href="https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care" target="_blank" rel="noopener noreferrer nofollow">https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care</a>  
+   Link:<a href="https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care" target="_blank" rel="noopener noreferrer nofollow">https://www.voguebusiness.com/technology/instagram-will-let-users-hide-the-like-should-brands-care</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10631661/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10631661/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10631661/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10631661/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30036748/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30036748/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30036748/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30036748/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Facebook Response to CMA Algorithms Consultation  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/60c9d224d3bf7f4bca6e7379/Facebook_Response_to_CMA_Algorithms_Consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/60c9d224d3bf7f4bca6e7379/Facebook_Response_to_CMA_Algorithms_Consultation.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/60c9d224d3bf7f4bca6e7379/Facebook_Response_to_CMA_Algorithms_Consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/60c9d224d3bf7f4bca6e7379/Facebook_Response_to_CMA_Algorithms_Consultation.pdf</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ceylan found that the reward systems of social media platforms are inadvertently encouraging users to spread misinformation. By constantl...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ceylan found that the reward systems of social media platforms are inadvertently encouraging users to spread misinformation. By constantl...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Reclaiming Your Attention: How the Attention Economy Controls Your Focus  
-   Link: <a href="https://www.youtube.com/watch?v=6mBnOnOrqhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6mBnOnOrqhI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Attention Economy: Why Truth is Becoming Irrelevant...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6mBnOnOrqhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6mBnOnOrqhI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Attention Economy: Why Truth is Becoming Irrelevant...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Attention Economy: Why Truth is Becoming Irrelevant  
-   Link: <a href="https://www.youtube.com/watch?v=AAPK3fJI8sY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AAPK3fJI8sY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designed for Outrage: How Algorithms Profit from Hate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AAPK3fJI8sY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AAPK3fJI8sY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designed for Outrage: How Algorithms Profit from Hate...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention</a>  
+   Link:<a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371339281_Changing_the_incentive_structure_of_social_media_platforms_to_halt_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371339281_Changing_the_incentive_structure_of_social_media_platforms_to_halt_the_spread_of_misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/371339281_Changing_the_incentive_structure_of_social_media_platforms_to_halt_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371339281_Changing_the_incentive_structure_of_social_media_platforms_to_halt_the_spread_of_misinformation</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395572441_THE_VIRALITY_TRAP_HOW_SOCIAL_MEDIA_ALGORITHMS_PRIORITIZE_ENGAGEMENT_OVER_TRUTH_IN_SHAPING_PUBLIC_OPINION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395572441_THE_VIRALITY_TRAP_HOW_SOCIAL_MEDIA_ALGORITHMS_PRIORITIZE_ENGAGEMENT_OVER_TRUTH_IN_SHAPING_PUBLIC_OPINION</a>  
+   Link:<a href="https://www.researchgate.net/publication/395572441_THE_VIRALITY_TRAP_HOW_SOCIAL_MEDIA_ALGORITHMS_PRIORITIZE_ENGAGEMENT_OVER_TRUTH_IN_SHAPING_PUBLIC_OPINION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395572441_THE_VIRALITY_TRAP_HOW_SOCIAL_MEDIA_ALGORITHMS_PRIORITIZE_ENGAGEMENT_OVER_TRUTH_IN_SHAPING_PUBLIC_OPINION</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397763733_The_Role_of_Social_Media_Algorithms_in_Amplifying_Misinformation_in_Political_Elections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397763733_The_Role_of_Social_Media_Algorithms_in_Amplifying_Misinformation_in_Political_Elections</a>  
+   Link:<a href="https://www.researchgate.net/publication/397763733_The_Role_of_Social_Media_Algorithms_in_Amplifying_Misinformation_in_Political_Elections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397763733_The_Role_of_Social_Media_Algorithms_in_Amplifying_Misinformation_in_Political_Elections</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
+   Link:<a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/how-does-the-design-of-social-media-content-controls-shape-users-choice-evidence-from-an-online-experiment/4FF2B810CB0E88EC2DF28AFF536B9C97" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/how-does-the-design-of-social-media-content-controls-shape-users-choice-evidence-from-an-online-experiment/4FF2B810CB0E88EC2DF28AFF536B9C97</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/how-does-the-design-of-social-media-content-controls-shape-users-choice-evidence-from-an-online-experiment/4FF2B810CB0E88EC2DF28AFF536B9C97" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/how-does-the-design-of-social-media-content-controls-shape-users-choice-evidence-from-an-online-experiment/4FF2B810CB0E88EC2DF28AFF536B9C97</a>  

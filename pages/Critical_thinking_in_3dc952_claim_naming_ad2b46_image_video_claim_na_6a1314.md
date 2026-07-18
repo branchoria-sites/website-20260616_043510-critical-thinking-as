@@ -284,7 +284,7 @@ A viral image or video is rarely the claim by itself. The claim is usually the s
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314-Illustration-1-dark.svg" | relative_url }}" alt="Photos Videos illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This step matters because many misleading posts use genuine visual material. The photo or clip may be real, but the caption can attach the wrong event, date, location, person, or motive. Researchers studying visual misinformation describe this as “out-of-context” use of authentic media, one of the most common forms of visual deception online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
+This step matters because many misleading posts use genuine visual material. The photo or clip may be real, but the caption can attach the wrong event, date, location, person, or motive. Researchers studying visual misinformation describe this as “out-of-context” use of authentic media, one of the most common forms of visual deception online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
 
 The goal is not to ask whether an image is real. The goal is to identify exactly what the post is asking you to believe about that image.
 
@@ -323,7 +323,7 @@ The caption might say:
 
 Those statements are not visible facts. They are claims about context.
 
-This distinction is central because visual misinformation often depends on context rather than image manipulation. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) frequently discover that an authentic photograph has been attached to a false narrative about where or when it was taken. AFP Fact Check notes that images are often misleading because they are presented out of context, making recovery of the original source and circumstances a key verification task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factcheck.afp.com/How-we-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[AFP Fact Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-snippet">AFP Fact CheckHow we workFor example, if we believe an image has been manipulated or presented out of context, we search for the original...</span></span></span>
+This distinction is central because visual misinformation often depends on context rather than image manipulation. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) frequently discover that an authentic photograph has been attached to a false narrative about where or when it was taken. AFP Fact Check notes that images are often misleading because they are presented out of context, making recovery of the original source and circumstances a key verification task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://factcheck.afp.com/How-we-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[AFP Fact Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-snippet">AFP Fact CheckHow we workFor example, if we believe an image has been manipulated or presented out of context, we search for the original...</span></span></span>
 
 A useful formula is:
 
@@ -354,7 +354,7 @@ A post that says “Chaos in London today” actually contains at least two sepa
 
 Either one can be wrong.
 
-Many high-profile misinformation cases involve old material being recirculated as new. Reuters has repeatedly documented images that were genuine but falsely described as recent events. In one example, a photograph was shared as showing French President Emmanuel Macron running away from protesting farmers in 2024, when the image was actually taken in 2023 and showed him running to greet people at an agricultural fair. The visual was real; the date and interpretation were not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">image does not show macron running away farmers 2024 2024 02 29</span><span class="citation-popover-snippet">The photo, taken at the 59th edition of the International Agriculture Fair in Paris, depicts Macron running to greet attendees. Contrary...</span></span></span>
+Many high-profile misinformation cases involve old material being recirculated as new. Reuters has repeatedly documented images that were genuine but falsely described as recent events. In one example, a photograph was shared as showing French President Emmanuel Macron running away from protesting farmers in 2024, when the image was actually taken in 2023 and showed him running to greet people at an agricultural fair. The visual was real; the date and interpretation were not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">image does not show macron running away farmers</span><span class="citation-popover-snippet">The photo, taken at the 59th edition of the International Agriculture Fair in Paris, depicts Macron running to greet attendees. Contrary...</span></span></span>
 
 When naming the claim, write it as a complete sentence:
 
@@ -403,7 +403,7 @@ Different claims require different [source trails]({{ 'source-trail/' | relative
 
 Claim typeLikely evidence trailLocation claimMaps, landmarks, street views, satellite imageryDate claimOriginal uploads, news archives, photographer recordsSource claimCreator account, agency records, metadata, publication historyEvent claimLocal reporting, official statements, eyewitness materialIdentity claimOriginal photographer, agency captions, corroborating images
 
-Professional verification organisations routinely work backwards from the context claim to the original source. First Draft's visual verification guidance emphasises tracing source and provenance—who posted the material, where it came from, and how it travelled online. Reuters and AFP similarly describe verification processes that focus on origin tracing, geolocation, captions, and primary-source confirmation. AFP Fact Check+3First Draft+3Reuters Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[firstdraftnews.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftTips and tricks for verifying images and videos, and a look at...Tips and tricks for verifying images and videos, and a look...</span></span></span>
+Professional verification organisations routinely work backwards from the context claim to the original source. First Draft's visual verification guidance emphasises tracing source and provenance—who posted the material, where it came from, and how it travelled online. Reuters and AFP similarly describe verification processes that focus on origin tracing, geolocation, captions, and primary-source confirmation. AFP Fact Check+3First Draft+3Reuters Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[firstdraftnews.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftTips and tricks for verifying images and videos, and a look at...Tips and tricks for verifying images and videos, and a look...</span></span></span>
 
 Naming the claim correctly helps determine which trail is relevant. A reverse-image search cannot directly prove a motive, but it may help establish the original publication date. A map cannot prove intent, but it can help confirm location.
 
@@ -413,9 +413,9 @@ One of the most common mistakes is assuming that finding a genuine image proves 
 
 In reality, the image may be authentic while the attached story is wrong.
 
-Reuters documented a widely shared photograph that was described online as showing Israeli settlers attempting to tear apart a Palestinian child. The image itself was genuine, but the original caption and photographer confirmed it actually showed settlers trying to prevent the arrest of another settler during a 2009 confrontation with police. The misleading element was not the image; it was the contextual claim attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Image does not show settlers trying to &#x27;tear a Palestinian child apart</span><span class="citation-popover-snippet">Mislabeled captions have circulated since at least 2013. The Reuters Fact Check team confirms the Getty caption&#x27;s accuracy, confirming th...</span></span></span>
+Reuters documented a widely shared photograph that was described online as showing Israeli settlers attempting to tear apart a Palestinian child. The image itself was genuine, but the original caption and photographer confirmed it actually showed settlers trying to prevent the arrest of another settler during a 2009 confrontation with police. The misleading element was not the image; it was the contextual claim attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Image does not show settlers trying to &#x27;tear a Palestinian child apart</span><span class="citation-popover-snippet">Mislabeled captions have circulated since at least 2013. The Reuters Fact Check team confirms the Getty caption&#x27;s accuracy, confirming th...</span></span></span>
 
-Another Reuters investigation found a video montage about aid deliveries to Gaza that included authentic footage from Moldova showing facilities for Ukrainian refugees. The footage was real, but its use within the montage created a misleading impression about what viewers were seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Video compilation about Gaza aid contains stock footage from Moldova</span><span class="citation-popover-snippet">This footage, meant for illustrative purposes, was acknowledged after being highlighted by users and the BBC journalist on social media...</span></span></span>
+Another Reuters investigation found a video montage about aid deliveries to Gaza that included authentic footage from Moldova showing facilities for Ukrainian refugees. The footage was real, but its use within the montage created a misleading impression about what viewers were seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Video compilation about Gaza aid contains stock footage from Moldova</span><span class="citation-popover-snippet">This footage, meant for illustrative purposes, was acknowledged after being highlighted by users and the BBC journalist on social media...</span></span></span>
 
 These examples illustrate why [claim naming]({{ 'name-claim/' | relative_url }}) comes before verification. If the claim is wrongly defined as “Is this image fake?”, the actual problem may never be discovered. The real question might be:
 
@@ -452,7 +452,7 @@ Less useful formulations include:
 
 The first set can be answered with evidence. The second set is too broad to guide an investigation.
 
-Fact-checkers consistently begin by identifying the precise factual proposition before gathering evidence. Naming the claim transforms a viral image or video from an emotional social-media object into a concrete statement that can be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifcncodeofprinciples.poynter.org">[IFCN Code of Principles+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifcncodeofprinciples.poynter.org</span><span class="citation-popover-title">IFCN Code of Principles Reuters</span><span class="citation-popover-snippet">IFCN Code of PrinciplesReuters - IFCN Code of Principles - PoynterReuters uses primary sources in most cases in their fact checks - often...</span></span></span>
+Fact-checkers consistently begin by identifying the precise factual proposition before gathering evidence. Naming the claim transforms a viral image or video from an emotional social-media object into a concrete statement that can be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifcncodeofprinciples.poynter.org">[IFCN Code of Principles+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifcncodeofprinciples.poynter.org</span><span class="citation-popover-title">IFCN Code of Principles Reuters</span><span class="citation-popover-snippet">IFCN Code of PrinciplesReuters - IFCN Code of Principles - PoynterReuters uses primary sources in most cases in their fact checks - often...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hxhbOvR2TGk" title="Evaluating Evidence: Crash Course Navigating Digital Information #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer">Evaluating Evidence: Crash Course Navigating Digital Information #6</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 457.0K &middot; Uploaded: February 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hxhbOvR2TGk">Open on YouTube</a></p></div></div></div>
@@ -468,194 +468,194 @@ It is:
 Once that sentence is written clearly, questions about location, date, source, and context become much easier to investigate. Without that step, even the best verification tools can end up answering the wrong question.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What exactly does this image claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What exactly does this image claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides a framework for challenging unsupported visual narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for challenging unsupported visual narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Helps separate observation from interpretation and assumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps separate observation from interpretation and assumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages checking context and evidence before accepting viral claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking context and evidence before accepting viral claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="photos-videos-what-exactly-does-this-image-claim-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -671,7 +671,7 @@ Once that sentence is written clearly, questions about location, date, source, a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -691,7 +691,7 @@ Once that sentence is written clearly, questions about location, date, source, a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -723,7 +723,7 @@ Once that sentence is written clearly, questions about location, date, source, a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -775,7 +775,7 @@ Once that sentence is written clearly, questions about location, date, source, a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -820,7 +820,7 @@ Once that sentence is written clearly, questions about location, date, source, a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -861,175 +861,175 @@ Once that sentence is written clearly, questions about location, date, source, a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.00061</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.00061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
    Published: November 30, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.09939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.09939</a>  
+   Link:<a href="https://arxiv.org/abs/2408.09939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.09939</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: factcheck.afp.com  
-   Link: <a href="https://factcheck.afp.com/How-we-work" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/How-we-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFP Fact CheckHow we workFor example, if we believe an image has been manipulated or presented out of context, we search for the original...</p></details>
+   Link:<a href="https://factcheck.afp.com/How-we-work" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/How-we-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFP Fact CheckHow we workFor example, if we believe an image has been manipulated or presented out of context, we search for the original...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: image does not show macron running away farmers 2024 2024 02 29  
-   Link: <a href="https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The photo, taken at the 59th edition of the International Agriculture Fair in Paris, depicts Macron running to greet attendees. Contrary...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-does-not-show-macron-running-away-farmers-2024-2024-02-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The photo, taken at the 59th edition of the International Agriculture Fair in Paris, depicts Macron running to greet attendees. Contrary...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: Image does not show settlers trying to 'tear a Palestinian child apart'  
-   Link: <a href="https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mislabeled captions have circulated since at least 2013. The Reuters Fact Check team confirms the Getty caption&#x27;s accuracy, confirming th...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-does-not-show-settlers-trying-tear-palestinian-child-apart-2024-06-28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mislabeled captions have circulated since at least 2013. The Reuters Fact Check team confirms the Getty caption&#x27;s accuracy, confirming th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Video compilation about Gaza aid contains stock footage from Moldova  
-   Link: <a href="https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This footage, meant for illustrative purposes, was acknowledged after being highlighted by users and the BBC journalist on social media...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/video-compilation-about-gaza-aid-contains-stock-footage-moldova-2024-02-22/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This footage, meant for illustrative purposes, was acknowledged after being highlighted by users and the BBC journalist on social media...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Reuters Fact CheckReuters only [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;) claims under the categories of general news, politics, health and science, and environme...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Reuters Fact CheckReuters only [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;) claims under the categories of general news, politics, health and science, and environme...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking International News &amp; ViewsFind latest news from every corner of the globe at Reuters.com, your online source for break...</p></details>
+   Link:<a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking International News &amp; ViewsFind latest news from every corner of the globe at Reuters.com, your online source for break...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: single photo malta tidal baths is not proof sea level rises are hoax 2024 07 17  
-   Link: <a href="https://www.reuters.com/fact-check/single-photo-malta-tidal-baths-is-not-proof-sea-level-rises-are-hoax-2024-07-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/single-photo-malta-tidal-baths-is-not-proof-sea-level-rises-are-hoax-2024-07-17/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Single photo of Malta tidal baths is not proof sea level rises...17 Jul 2024 — Fact Check: Single photo of Malta tidal baths is not proo...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/single-photo-malta-tidal-baths-is-not-proof-sea-level-rises-are-hoax-2024-07-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/single-photo-malta-tidal-baths-is-not-proof-sea-level-rises-are-hoax-2024-07-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Single photo of Malta tidal baths is not proof sea level rises...17 Jul 2024 — Fact Check: Single photo of Malta tidal baths is not proo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: factcheck.afp.com  
-   Link: <a href="https://factcheck.afp.com/" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CheckAFP Fact Check is a department within Agence France-Presse (AFP), a multi-lingual, multicultural news agency whose mission is to pro...</p></details>
+   Link:<a href="https://factcheck.afp.com/" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CheckAFP Fact Check is a department within Agence France-Presse (AFP), a multi-lingual, multicultural news agency whose mission is to pro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftTips and tricks for verifying images and videos, and a look at...Tips and tricks for verifying images and videos, and a look...</p></details>
+   Link:<a href="https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftTips and tricks for verifying images and videos, and a look at...Tips and tricks for verifying images and videos, and a look...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/solutions/verification-services/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/solutions/verification-services/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; Fact Checking Services24/7 global monitoring to source and verify content, leveraging Open Source Intelligence Techniques...</p></details>
+   Link:<a href="https://reutersagency.com/solutions/verification-services/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/solutions/verification-services/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; Fact Checking Services24/7 global monitoring to source and verify content, leveraging Open Source Intelligence Techniques...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ifcncodeofprinciples.poynter.org  
    Title: IFCN Code of Principles Reuters  
-   Link: <a href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFCN Code of PrinciplesReuters - IFCN Code of Principles - PoynterReuters uses [primary sources](&amp;#123;&amp;#123; &#x27;primary-sources/&#x27; | relative_url &amp;#125;&amp;#125;) in most cases in their fact checks - often...</p></details>
+   Link:<a href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b09ba7689d481421d7f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFCN Code of PrinciplesReuters - IFCN Code of Principles - PoynterReuters uses [primary sources](&amp;#123;&amp;#123; &#x27;primary-sources/&#x27; | relative_url &amp;#125;&amp;#125;) in most cases in their fact checks - often...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thomsonreuters.com  
    Title: reuters launches fact checking initiative to identify misinformation  
-   Link: <a href="https://www.thomsonreuters.com/en/press-releases/2020/february/reuters-launches-fact-checking-initiative-to-identify-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thomsonreuters.com/en/press-releases/2020/february/reuters-launches-fact-checking-initiative-to-identify-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters launches fact-checking initiative to identify...12 Feb 2020 — The newly created fact-checking unit at Reuters will verify conten...</p></details>
+   Link:<a href="https://www.thomsonreuters.com/en/press-releases/2020/february/reuters-launches-fact-checking-initiative-to-identify-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.thomsonreuters.com/en/press-releases/2020/february/reuters-launches-fact-checking-initiative-to-identify-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters launches fact-checking initiative to identify...12 Feb 2020 — The newly created fact-checking unit at Reuters will verify conten...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: camera.org  
    Title: Reuters Photos the Picture of Bias  
-   Link: <a href="https://www.camera.org/article/reuters-photos-the-picture-of-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.camera.org/article/reuters-photos-the-picture-of-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3, 2001 — The captions under photos of the bombings did identify the victim as an Israeli, although the terrorist here too was labeled “a...</p></details>
+   Link:<a href="https://www.camera.org/article/reuters-photos-the-picture-of-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.camera.org/article/reuters-photos-the-picture-of-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3, 2001 — The captions under photos of the bombings did identify the victim as an Israeli, although the terrorist here too was labeled “a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
+   Link:<a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: how public checks information it thinks might be wrong  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the public checks information it thinks might be wrong17 Jun 2025 — This year&#x27;s survey provides important insight into where respondents...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the public checks information it thinks might be wrong17 Jun 2025 — This year&#x27;s survey provides important insight into where respondents...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantaged" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantaged</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for the powerful and privileged: how misrepresentation...Apr 18, 2023 — Misrepresentation and underrepresentation of disadvantaged commu...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantaged" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantaged</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for the powerful and privileged: how misrepresentation...Apr 18, 2023 — Misrepresentation and underrepresentation of disadvantaged commu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1077695819831098" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1077695819831098</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft offers video modules in each of these categories as part...Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1077695819831098" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1077695819831098</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft offers video modules in each of these categories as part...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: guides.library.ontariotechu.ca  
    Title: visual verification  
-   Link: <a href="https://guides.library.ontariotechu.ca/fakenews/visual-verification" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ontariotechu.ca/fakenews/visual-verification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It allows users to magnify, view available information about image and video such as location...Read more...</p></details>
+   Link:<a href="https://guides.library.ontariotechu.ca/fakenews/visual-verification" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ontariotechu.ca/fakenews/visual-verification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It allows users to magnify, view available information about image and video such as location...Read more...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367190999_Visual_User-Generated_Content_Verification_in_Journalism_An_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367190999_Visual_User-Generated_Content_Verification_in_Journalism_An_Overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual User-Generated Content Verification in JournalismThe aim of this study is to present a forward-looking perspective on how visual U...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367190999_Visual_User-Generated_Content_Verification_in_Journalism_An_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367190999_Visual_User-Generated_Content_Verification_in_Journalism_An_Overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual User-Generated Content Verification in JournalismThe aim of this study is to present a forward-looking perspective on how visual U...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: openculture.agency  
-   Link: <a href="https://openculture.agency/wp-content/uploads/2019/11/03_Chapter-3_FakeNews_online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openculture.agency/wp-content/uploads/2019/11/03_Chapter-3_FakeNews_online.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verifying pictures and video content. • Location: Check the location of the source of the information.Read more...</p></details>
+   Link:<a href="https://openculture.agency/wp-content/uploads/2019/11/03_Chapter-3_FakeNews_online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openculture.agency/wp-content/uploads/2019/11/03_Chapter-3_FakeNews_online.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verifying pictures and video content. • Location: Check the location of the source of the information.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journalistsresource.org  
    Title: 5 takeaways first draft identifying misinformation course  
-   Link: <a href="https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from First Draft&#x27;s identifying misinformation...19 Mar 2018 — A new online course from First Draft helps journalists use fre...</p></details>
+   Link:<a href="https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from First Draft&#x27;s identifying misinformation...19 Mar 2018 — A new online course from First Draft helps journalists use fre...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: Fake news spreads fast, especially during times of crisis  
-   Link: <a href="https://www.facebook.com/UnitedNationsIndia/posts/fake-news-spreads-fast-especially-during-times-of-crisis-dont-let-fake-news-expl/1356566363165087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnitedNationsIndia/posts/fake-news-spreads-fast-especially-during-times-of-crisis-dont-let-fake-news-expl/1356566363165087/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t...🛠️ DIY Tip: Use fact-checking sites like Snopes, Africa Check, or Google Fact Check. Search headlines on Google News to see if t...</p></details>
+   Link:<a href="https://www.facebook.com/UnitedNationsIndia/posts/fake-news-spreads-fast-especially-during-times-of-crisis-dont-let-fake-news-expl/1356566363165087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnitedNationsIndia/posts/fake-news-spreads-fast-especially-during-times-of-crisis-dont-let-fake-news-expl/1356566363165087/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t...🛠️ DIY Tip: Use fact-checking sites like Snopes, Africa Check, or Google Fact Check. Search headlines on Google News to see if t...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
    Title: A photo of Iran's bombed schoolgirl graveyard went viral  
-   Link: <a href="https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 17, 2026 — Researchers have cross referenced the photo of the site with satellite images that confirm its location, and it can be cro...</p></details>
+   Link:<a href="https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 17, 2026 — Researchers have cross referenced the photo of the site with satellite images that confirm its location, and it can be cro...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aap.com.au  
    Title: How do you fact-check real photographs and videos?  
-   Link: <a href="https://www.aap.com.au/factcheck/factcheck-resources/how-do-you-fact-check-an-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.com.au/factcheck/factcheck-resources/how-do-you-fact-check-an-image/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jan 2024 — In this article we provide some strategies to boost your media literacy so you can identify when a photograph may have b...</p></details>
+   Link:<a href="https://www.aap.com.au/factcheck/factcheck-resources/how-do-you-fact-check-an-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.com.au/factcheck/factcheck-resources/how-do-you-fact-check-an-image/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jan 2024 — In this article we provide some strategies to boost your media literacy so you can identify when a photograph may have b...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lab.imedd.org  
    Title: reporters guide to detecting ai generated content  
-   Link: <a href="https://lab.imedd.org/en/reporters-guide-to-detecting-ai-generated-content/" target="_blank" rel="noopener noreferrer nofollow">https://lab.imedd.org/en/reporters-guide-to-detecting-ai-generated-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>imedd.orgReporter&#x27;s guide to detecting AI-generated content14 Nov 2025 — A practical guide from GIJN for journalists, aimed at combating...</p></details>
+   Link:<a href="https://lab.imedd.org/en/reporters-guide-to-detecting-ai-generated-content/" target="_blank" rel="noopener noreferrer nofollow">https://lab.imedd.org/en/reporters-guide-to-detecting-ai-generated-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>imedd.orgReporter&#x27;s guide to detecting AI-generated content14 Nov 2025 — A practical guide from GIJN for journalists, aimed at combating...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mastersincommunications.org  
    Title: Browser extensions like News Guard rate source  
-   Link: <a href="https://www.mastersincommunications.org/author/mark/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.mastersincommunications.org/author/mark/page/3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Fake News: A Step-by-Step Detection Guide...Google Reverse Image Search and TinEye help verify whether photos have been mani...</p></details>
+   Link:<a href="https://www.mastersincommunications.org/author/mark/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.mastersincommunications.org/author/mark/page/3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Fake News: A Step-by-Step Detection Guide...Google Reverse Image Search and TinEye help verify whether photos have been mani...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gijn.org  
    Title: guide detecting ai generated content  
-   Link: <a href="https://gijn.org/resource/guide-detecting-ai-generated-content/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/guide-detecting-ai-generated-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporter&#x27;s Guide to Detecting AI-Generated Content1 Sept 2025 — This guide teaches journalists how to try to identify AI-generated conten...</p></details>
+   Link:<a href="https://gijn.org/resource/guide-detecting-ai-generated-content/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/guide-detecting-ai-generated-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporter&#x27;s Guide to Detecting AI-Generated Content1 Sept 2025 — This guide teaches journalists how to try to identify AI-generated conten...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: factcheckhub.com  
    Title: how to fact check images online  
-   Link: <a href="https://factcheckhub.com/how-to-fact-check-images-online/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/how-to-fact-check-images-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to fact-check images online10 Oct 2020 — You might be able to verify it with the aid of tools for image fact-checking such as are Goo...</p></details>
+   Link:<a href="https://factcheckhub.com/how-to-fact-check-images-online/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/how-to-fact-check-images-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to fact-check images online10 Oct 2020 — You might be able to verify it with the aid of tools for image fact-checking such as are Goo...</p></details>

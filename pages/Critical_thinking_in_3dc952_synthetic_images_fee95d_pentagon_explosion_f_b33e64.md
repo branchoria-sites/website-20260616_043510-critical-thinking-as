@@ -280,22 +280,22 @@ image: /assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentag
 
 ## Introduction
 
-In May 2023, a fabricated image showing what appeared to be a large explosion near the Pentagon became one of the clearest demonstrations of how [synthetic images]({{ 'synthetic-images/' | relative_url }}) can influence public attention before facts catch up. The image was false, officials quickly denied that any incident had occurred, and the story was debunked within hours. Yet during the brief period when the image circulated without confirmation, it spread across social media, was amplified by seemingly credible accounts, and coincided with a short-lived wobble in financial markets. The episode mattered not because the deception lasted long, but because it revealed how a realistic-looking image can create a temporary “damage window” in which uncertainty, speed and credibility signals outweigh verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+In May 2023, a fabricated image showing what appeared to be a large explosion near the Pentagon became one of the clearest demonstrations of how [synthetic images]({{ 'synthetic-images/' | relative_url }}) can influence public attention before facts catch up. The image was false, officials quickly denied that any incident had occurred, and the story was debunked within hours. Yet during the brief period when the image circulated without confirmation, it spread across social media, was amplified by seemingly credible accounts, and coincided with a short-lived wobble in financial markets. The episode mattered not because the deception lasted long, but because it revealed how a realistic-looking image can create a temporary “damage window” in which uncertainty, speed and credibility signals outweigh verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-1-dark.svg" | relative_url }}" alt="Pentagon Fake illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What spread and why it looked official
 
-The image showed a plume of dark smoke rising beside a building that loosely resembled part of the Pentagon complex. Accompanying posts claimed that a major explosion had occurred near the headquarters of the United States Department of Defense. The picture spread rapidly across social media platforms on 22 May 2023 and was reposted by accounts carrying verification badges, including an account impersonating a Bloomberg-affiliated news feed. State-backed media outlets and other high-visibility accounts also amplified the claim before it was checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The image showed a plume of dark smoke rising beside a building that loosely resembled part of the Pentagon complex. Accompanying posts claimed that a major explosion had occurred near the headquarters of the United States Department of Defense. The picture spread rapidly across social media platforms on 22 May 2023 and was reposted by accounts carrying verification badges, including an account impersonating a Bloomberg-affiliated news feed. State-backed media outlets and other high-visibility accounts also amplified the claim before it was checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Several factors made the image persuasive during its first moments online:
 
 * It depicted a plausible breaking-news scenario at a globally recognised security location.
 * The smoke plume resembled familiar news photography from real disasters.
 * The accompanying text used the language of an urgent news alert.
-* The claim appeared to be travelling through accounts that looked authoritative at a glance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2Incident Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+* The claim appeared to be travelling through accounts that looked authoritative at a glance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2Incident Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Later analysis found visible inconsistencies. The architecture did not accurately match the Pentagon, fencing details appeared distorted, and some features displayed artefacts commonly associated with AI image generation. However, these flaws were not obvious during fast scrolling, particularly when users encountered the image through reposts rather than examining it directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Incident Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Later analysis found visible inconsistencies. The architecture did not accurately match the Pentagon, fencing details appeared distorted, and some features displayed artefacts commonly associated with AI image generation. However, these flaws were not obvious during fast scrolling, particularly when users encountered the image through reposts rather than examining it directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Incident Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 The incident highlighted an important shift in online credibility. The image did not need to withstand careful scrutiny. It only needed to appear believable long enough for people to react, share and speculate.
 
@@ -304,13 +304,13 @@ The incident highlighted an important shift in online credibility. The image did
 
 ## Why the debunk came after the damage window
 
-The claim was false from the beginning. Arlington County Fire Department publicly stated that there was no explosion, no incident and no danger to the public. Pentagon officials likewise denied that anything had happened near the complex. Independent observers also streamed live footage showing no smoke or emergency activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+The claim was false from the beginning. Arlington County Fire Department publicly stated that there was no explosion, no incident and no danger to the public. Pentagon officials likewise denied that anything had happened near the complex. Independent observers also streamed live footage showing no smoke or emergency activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 The challenge was timing. Verification requires [evidence]({{ 'evidence/' | relative_url }}) gathering, official statements and cross-checking. Sharing requires only a click.
 
-As the image spread, some traders and automated information-monitoring systems encountered the claim before authoritative [corrections]({{ 'corrections/' | relative_url }}) reached the same audiences. Reports from journalists and market observers noted a brief decline in major stock indices during the confusion. While the movement was small and short-lived, it was significant because a fabricated image appeared to have contributed to real-world financial reactions. Ars Technica+3AP News+3The Washington Post <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+As the image spread, some traders and automated information-monitoring systems encountered the claim before authoritative [corrections]({{ 'corrections/' | relative_url }}) reached the same audiences. Reports from journalists and market observers noted a brief decline in major stock indices during the confusion. While the movement was small and short-lived, it was significant because a fabricated image appeared to have contributed to real-world financial reactions. Ars Technica+3AP News+3The Washington Post<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Internal Pentagon records released later show that even official security and intelligence personnel were initially alerted to the circulating claim and began assessing its validity. This does not mean authorities believed the image was genuine, but it illustrates how rapidly a false report can enter institutional awareness when it appears to concern a sensitive location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDSubject: First Alert I Urgent (b)(7)(E) Monday, May 22, 2023...April 17, 2025 — 22 May 2025 — Explosion reported near Pentagon Co...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Internal Pentagon records released later show that even official security and intelligence personnel were initially alerted to the circulating claim and began assessing its validity. This does not mean authorities believed the image was genuine, but it illustrates how rapidly a false report can enter institutional awareness when it appears to concern a sensitive location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDSubject: First Alert I Urgent (b)(7)(E) Monday, May 22, 2023...April 17, 2025 — 22 May 2025 — Explosion reported near Pentagon Co...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 The key lesson is that debunking speed is not the same as prevention. By the time authoritative denials appeared, the image had already achieved its primary effect: attracting attention and creating uncertainty. In fast-moving information environments, even a correction issued within minutes may arrive after the most consequential period of influence.
 
@@ -322,210 +322,210 @@ The Pentagon image became an important case study because it demonstrated how ev
 
 ### Look for independent confirmation
 
-A dramatic image attached to breaking news should rarely be accepted on the basis of a single post. Major incidents at high-profile locations usually generate multiple forms of evidence: eyewitness reports, local emergency responses, live video, official statements and coverage from established news organisations. In the Pentagon case, corroborating evidence was notably absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+A dramatic image attached to breaking news should rarely be accepted on the basis of a single post. Major incidents at high-profile locations usually generate multiple forms of evidence: eyewitness reports, local emergency responses, live video, official statements and coverage from established news organisations. In the Pentagon case, corroborating evidence was notably absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3KIG3I6Rw40" title="Pentagon AI Image Fake News | AI Generated Fake Explosion Image Goes Viral On Social Media | News18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3KIG3I6Rw40" target="_blank" rel="noopener noreferrer">Pentagon AI Image Fake News | AI Generated Fake Explosion Image Goes Viral On Social Media | News18</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 1.7K &middot; Uploaded: May 2023 &middot; Length: 3 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3KIG3I6Rw40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3KIG3I6Rw40">Open on YouTube</a></p></div></div></div>
 
 ### Check whether the image matches the claimed location
 
-One reason [fact-checkers]({{ 'fact-checkers/' | relative_url }}) quickly challenged the image was that architectural details did not correspond to the Pentagon complex. Visual plausibility and geographical accuracy are not the same thing. An image can look photographic while depicting a place that does not actually exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+One reason [fact-checkers]({{ 'fact-checkers/' | relative_url }}) quickly challenged the image was that architectural details did not correspond to the Pentagon complex. Visual plausibility and geographical accuracy are not the same thing. An image can look photographic while depicting a place that does not actually exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 ### Treat authority signals cautiously
 
-The spread of the image was helped by accounts that appeared trustworthy because of verification badges or news-style branding. The event showed that platform credibility markers do not necessarily verify the accuracy of a specific claim. A post may look official without being official. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The spread of the image was helped by accounts that appeared trustworthy because of verification badges or news-style branding. The event showed that platform credibility markers do not necessarily verify the accuracy of a specific claim. A post may look official without being official.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-3-dark.svg" | relative_url }}" alt="Pentagon Fake illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_pentagon_explosion_f_b33e64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Understand the new risk profile of synthetic media
 
-Earlier forms of visual misinformation often required extensive editing skills. Generative AI lowered the barrier to producing convincing scenes that never occurred. The Pentagon image was not a sophisticated long-term deception; it was a fast, disposable artefact designed to exploit uncertainty during a short period when verification lagged behind distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon ai generated image explosion</span><span class="citation-popover-snippet">The GuardianFake AI-generated image of explosion near Pentagon...22 May 2023 — An AI-generated image that appeared to show an explosion...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Earlier forms of visual misinformation often required extensive editing skills. Generative AI lowered the barrier to producing convincing scenes that never occurred. The Pentagon image was not a sophisticated long-term deception; it was a fast, disposable artefact designed to exploit uncertainty during a short period when verification lagged behind distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon ai generated image explosion</span><span class="citation-popover-snippet">The GuardianFake AI-generated image of explosion near Pentagon...22 May 2023 — An AI-generated image that appeared to show an explosion...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## Why this case remains important
 
 The Pentagon explosion hoax did not permanently mislead the public. Authorities debunked it quickly, and the image disappeared from serious discussion once the facts became clear. Yet that outcome can obscure its significance.
 
-The incident showed that the central challenge posed by synthetic images is often not long-term belief but short-term reaction. In situations involving security, public safety, elections or financial markets, a few minutes of uncertainty can be enough to alter behaviour. The fake Pentagon image became a landmark example because it demonstrated that a synthetic picture can have consequences before anyone has time to decide whether it is real. Ars Technica+3AP News+3The Washington Post <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The incident showed that the central challenge posed by synthetic images is often not long-term belief but short-term reaction. In situations involving security, public safety, elections or financial markets, a few minutes of uncertainty can be enough to alter behaviour. The fake Pentagon image became a landmark example because it demonstrated that a synthetic picture can have consequences before anyone has time to decide whether it is real. Ars Technica+3AP News+3The Washington Post<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI, the lesson is straightforward: realism is no longer evidence. When a dramatic image appears during a breaking event, the most important question is not whether it looks authentic, but whether independent facts connect it to reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
+Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI, the lesson is straightforward: realism is no longer evidence. When a dramatic image appears during a breaking event, the most important question is not whether it looks authentic, but whether independent facts connect it to reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Online posts reporting explosion near Pentagon on May 22</span><span class="citation-popover-snippet">Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7mWXhGfTyso" title="AI generated photo of Pentagon explosion causes panic on Twitter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7mWXhGfTyso" target="_blank" rel="noopener noreferrer">AI generated photo of Pentagon explosion causes panic on Twitter</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 25.4K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7mWXhGfTyso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7mWXhGfTyso">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How one fake explosion image moved attention fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How one fake explosion image moved attention fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Useful for evaluating viral claims during fast-moving events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating viral claims during fast-moving events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Not Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10097068-M.jpg" alt="Cover for This Is Not Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Peter Pomerantsev</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Not Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10097068-M.jpg" alt="Cover for This Is Not Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
+</h4>
+<p class="fr-book-author">By Peter Pomerantsev</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Sociology, New York Times reviewed, Information society, Truthfulness and falsehood, Propaganda.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Sociology, New York Times reviewed, Information society, Truthfulness and falsehood, Propaganda.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Survival Guide to the Misinformation Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8880616-M.jpg" alt="Cover for A Survival Guide to the Misinformation Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Survival Guide to the Misinformation Age">A Survival Guide to the Misinformation Age</a>
-        </h4>
-        <p class="fr-book-author">By David Helfand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Survival Guide to the Misinformation Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8880616-M.jpg" alt="Cover for A Survival Guide to the Misinformation Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Survival Guide to the Misinformation Age">A Survival Guide to the Misinformation Age</a>
+</h4>
+<p class="fr-book-author">By David Helfand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Errors, scientific, Statistics, Science, methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Errors, scientific, Statistics, Science, methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Not Propaganda</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Survival+to+the+Misinformation+Age+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Survival to the Misinformation Age books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Not Propaganda</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Survival+to+the+Misinformation+Age+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Survival to the Misinformation Age books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="pentagon-fake-how-one-fake-explosion-image-moved-attention-fast-critical-thinking-in-the-age-of-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,113 +731,113 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: Online posts reporting explosion near Pentagon on May 22  
-   Link: <a href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</p></details>
+   Link:<a href="https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/online-posts-reporting-explosion-near-pentagon-on-may-22-2023-are-false-idUSL1N37J2QJ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense refuted online claims that there was an explosion near the Pentagon on the morning of May 22, 2023. An image...</p></details>
    Published: May 22, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake image of Pentagon explosion causes real dip on Wall...23 May 2023 — A fake image of an explosion next to the Pentagon sprea...</p></details>
+   Link:<a href="https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake image of Pentagon explosion causes real dip on Wall...23 May 2023 — A fake image of an explosion next to the Pentagon sprea...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDSubject: First Alert I Urgent (b)(7)(E) Monday, May 22, 2023...April 17, 2025 — 22 May 2025 — Explosion reported near Pentagon Co...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/23-F-0909_Pentagon_Tweet_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDSubject: First Alert I Urgent (b)(7)(E) Monday, May 22, 2023...April 17, 2025 — 22 May 2025 — Explosion reported near Pentagon Co...</p></details>
    Published: May 22, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</p></details>
+   Link:<a href="https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/pentagon-explosion-misinformation-stock-market-ai-96f534c790872fde67012ee81b5ed6a4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsFake image of Pentagon explosion briefly sends jitters...23 May 2023 — A fake image purportedly showing an explosion near the Pen...</p></details>
    Published: May 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: pentagon ai generated image explosion  
-   Link: <a href="https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianFake AI-generated image of explosion near Pentagon...22 May 2023 — An AI-generated image that appeared to show an explosion...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianFake AI-generated image of explosion near Pentagon...22 May 2023 — An AI-generated image that appeared to show an explosion...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: incidentdatabase.ai  
-   Link: <a href="https://incidentdatabase.ai/reports/3035/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/reports/3035/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 3035On Monday, a tweeted AI-generated image suggesting a large explosion at the Pentagon led to brief confusion, which included a...</p></details>
+   Link:<a href="https://incidentdatabase.ai/reports/3035/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/reports/3035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 3035On Monday, a tweeted AI-generated image suggesting a large explosion at the Pentagon led to brief confusion, which included a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arstechnica.com  
    Title: ai generated image of explosion near pentagon goes viral sparks brief panic  
-   Link: <a href="https://arstechnica.com/information-technology/2023/05/ai-generated-image-of-explosion-near-pentagon-goes-viral-sparks-brief-panic/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/information-technology/2023/05/ai-generated-image-of-explosion-near-pentagon-goes-viral-sparks-brief-panic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon “explosion” photo sows confusion on Twitter23 May 2023 — A tweeted AI-generated image suggesting a large explosion at the P...</p></details>
+   Link:<a href="https://arstechnica.com/information-technology/2023/05/ai-generated-image-of-explosion-near-pentagon-goes-viral-sparks-brief-panic/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/information-technology/2023/05/ai-generated-image-of-explosion-near-pentagon-goes-viral-sparks-brief-panic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon “explosion” photo sows confusion on Twitter23 May 2023 — A tweeted AI-generated image suggesting a large explosion at the P...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: washingtonpost.com  
    Title: pentagon explosion ai image hoax  
-   Link: <a href="https://www.washingtonpost.com/technology/2023/05/22/pentagon-explosion-ai-image-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2023/05/22/pentagon-explosion-ai-image-hoax/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostPentagon explosion tweet was a hoax. Still, it went viral.22 May 2023 — An apparently AI-generated image sparked a bri...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/2023/05/22/pentagon-explosion-ai-image-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2023/05/22/pentagon-explosion-ai-image-hoax/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostPentagon explosion tweet was a hoax. Still, it went viral.22 May 2023 — An apparently AI-generated image sparked a bri...</p></details>
    Published: May 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: forbes.com  
    Title: fake image of explosion near pentagon went viral even though it never happened  
-   Link: <a href="https://www.forbes.com/sites/brianbushard/2023/05/22/fake-image-of-explosion-near-pentagon-went-viral-even-though-it-never-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/brianbushard/2023/05/22/fake-image-of-explosion-near-pentagon-went-viral-even-though-it-never-happened/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Image Of Explosion Near Pentagon Went Viral—Even...22 May 2023 — A fake, apparently AI-generated image of an explosion outside the...</p></details>
+   Link:<a href="https://www.forbes.com/sites/brianbushard/2023/05/22/fake-image-of-explosion-near-pentagon-went-viral-even-though-it-never-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/brianbushard/2023/05/22/fake-image-of-explosion-near-pentagon-went-viral-even-though-it-never-happened/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Image Of Explosion Near Pentagon Went Viral—Even...22 May 2023 — A fake, apparently AI-generated image of an explosion outside the...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/vantageonfirstpost-a-fake-ai-generated-image-of-a-blast-near-the-pentagon-trigge/645321624295495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/vantageonfirstpost-a-fake-ai-generated-image-of-a-blast-near-the-pentagon-trigge/645321624295495/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How can you identify fake AI images online? Is it time to regulate artificial intelligence?Read more...</p></details>
+   Link:<a href="https://www.facebook.com/firstpostin/posts/vantageonfirstpost-a-fake-ai-generated-image-of-a-blast-near-the-pentagon-trigge/645321624295495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/vantageonfirstpost-a-fake-ai-generated-image-of-a-blast-near-the-pentagon-trigge/645321624295495/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How can you identify fake AI images online? Is it time to regulate artificial intelligence?Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KRDO13/posts/a-fake-image-purporting-to-show-an-explosion-near-the-pentagon-was-shared-by-mul/644843054353173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/a-fake-image-purporting-to-show-an-explosion-near-the-pentagon-was-shared-by-mul/644843054353173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rated picture of an explosion at the Pentagon yesterday morning...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/KRDO13/posts/a-fake-image-purporting-to-show-an-explosion-near-the-pentagon-was-shared-by-mul/644843054353173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/a-fake-image-purporting-to-show-an-explosion-near-the-pentagon-was-shared-by-mul/644843054353173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rated picture of an explosion at the Pentagon yesterday morning...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ChatGPT/comments/13q8fwy/this_artificial_intelligence_image_of_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChatGPT/comments/13q8fwy/this_artificial_intelligence_image_of_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidents like these makes me feel AI image generation should...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ChatGPT/comments/13q8fwy/this_artificial_intelligence_image_of_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChatGPT/comments/13q8fwy/this_artificial_intelligence_image_of_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidents like these makes me feel AI image generation should...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: yahoo.com  
    Title: fact focus fake image pentagon 212249619  
-   Link: <a href="https://www.yahoo.com/news/fact-focus-fake-image-pentagon-212249619.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/fact-focus-fake-image-pentagon-212249619.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT FOCUS: Fake image of Pentagon explosion briefly...22 May 2023 — An image of black smoke billowing next to a bureaucratic-looking bu...</p></details>
+   Link:<a href="https://www.yahoo.com/news/fact-focus-fake-image-pentagon-212249619.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/fact-focus-fake-image-pentagon-212249619.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FACT FOCUS: Fake image of Pentagon explosion briefly...22 May 2023 — An image of black smoke billowing next to a bureaucratic-looking bu...</p></details>
    Published: May 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3AZpgY32tBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3AZpgY32tBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon Blast Triggers Brief Stock Meltdown | Vantage with Palki Sharma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3AZpgY32tBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3AZpgY32tBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon Blast Triggers Brief Stock Meltdown | Vantage with Palki Sharma...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: AI Generated Fake Explosion Image Goes Viral On Social Media | News18  
-   Link: <a href="https://www.youtube.com/watch?v=3KIG3I6Rw40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3KIG3I6Rw40</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake AI-generated image of explosion at the Pentagon goes viral • FRANCE 24 English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3KIG3I6Rw40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3KIG3I6Rw40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake AI-generated image of explosion at the Pentagon goes viral • FRANCE 24 English...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/AP/status/1661009594586628097?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AP/status/1661009594586628097?ref_src=twsrc%5Etfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A fake image of an explosion near the Pentagon has been...23 May 2023 —... market. Misinformation experts say the viral image displayed...</p></details>
+   Link:<a href="https://x.com/AP/status/1661009594586628097?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AP/status/1661009594586628097?ref_src=twsrc%5Etfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A fake image of an explosion near the Pentagon has been...23 May 2023 —... market. Misinformation experts say the viral image displayed...</p></details>
    Published: May 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Fake Pentagon image rattles markets  
-   Link: <a href="https://www.youtube.com/watch?v=mwKZKzcoVqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwKZKzcoVqo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Generated Fake Explosion Image Goes Viral On Social Media | News18...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mwKZKzcoVqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwKZKzcoVqo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Generated Fake Explosion Image Goes Viral On Social Media | News18...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: AI generated photo of Pentagon explosion causes panic on Twitter  
-   Link: <a href="https://www.youtube.com/watch?v=7mWXhGfTyso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7mWXhGfTyso</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon image rattles markets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7mWXhGfTyso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7mWXhGfTyso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Pentagon image rattles markets...</p></details>

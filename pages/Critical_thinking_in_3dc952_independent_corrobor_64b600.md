@@ -422,15 +422,15 @@ Independent corroboration is the habit of asking a simple question before sharin
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600-overview.webp" | relative_url }}" alt="Overview image for Corroboration" loading="eager" decoding="sync" fetchpriority="high">
-The practical rule is not “wait until everyone agrees”. It is: before amplifying an urgent claim, look for confirmation from sources that are independent in origin, transparent about what they know, and close enough to the evidence to be useful. Professional news organisations treat single-source reporting as exceptional; Reuters says a single anonymous source should be used only in exceptional cases, with special authorisation and clear context about what is and is not known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsReuters will publish news from a single, anonymous source in exceptional cases, when it is cr...</span></span></span>
+The practical rule is not “wait until everyone agrees”. It is: before amplifying an urgent claim, look for confirmation from sources that are independent in origin, transparent about what they know, and close enough to the evidence to be useful. Professional news organisations treat single-source reporting as exceptional; Reuters says a single anonymous source should be used only in exceptional cases, with special authorisation and clear context about what is and is not known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsReuters will publish news from a single, anonymous source in exceptional cases, when it is cr...</span></span></span>
 
 ## Why one source is fragile
 
 Breaking claims are unstable because the first public version is often incomplete. A bystander may capture real footage but misidentify the place. A local rumour may name the wrong suspect. A partisan account may take an authentic police update and add a false motive. An AI system may summarise a claim fluently without having access to reliable confirmation. The danger is not only fabrication; it is premature certainty.
 
-Research on social-media rumours shows why the earliest phase is risky. During breaking news, people post fragments, questions, denials and interpretations before the truth status of a claim is resolved. One study of rumour threads around newsworthy events found that many rumours remain unverified for significant periods, while users continue to spread, support or challenge them in public conversation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1511.07487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational ThreadsNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span> Another study on rumour detection describes breaking news as a fast-paced reporting environment where early updates often include information that is still unverified at the moment of posting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1610.07363" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Learning Reporting Dynamics during Breaking News for Rumour Detection in Social MediaOctober 24, 2016...</span><span class="citation-popover-meta">Published: October 24, 2016</span></span></span>
+Research on social-media rumours shows why the earliest phase is risky. During breaking news, people post fragments, questions, denials and interpretations before the truth status of a claim is resolved. One study of rumour threads around newsworthy events found that many rumours remain unverified for significant periods, while users continue to spread, support or challenge them in public conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1511.07487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational ThreadsNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span> Another study on rumour detection describes breaking news as a fast-paced reporting environment where early updates often include information that is still unverified at the moment of posting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1610.07363" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Learning Reporting Dynamics during Breaking News for Rumour Detection in Social MediaOctober 24, 2016...</span><span class="citation-popover-meta">Published: October 24, 2016</span></span></span>
 
-The 2024 [Southport case]({{ 'southport-case/' | relative_url }}) in the UK shows the cost of weak corroboration. False claims about the attacker’s identity spread on social media after the killing of three children, and Full Fact reported that the circulated name was incorrect, with police also stating that the suspect had been born in Cardiff. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/news/misinformation-southport-stabbings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactWhat role did misinformation play in riots after the...August 2, 2024 — 2 Aug 2024 — They told Full Fact “Ali Al-Shakati” was t...</span><span class="citation-popover-meta">Published: August 2, 2024</span></span></span> Parliamentary material later described the wider riots that followed as being driven in part by false claims spreading on social platforms after the attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">Some targeted mosques and hotels housing</span><span class="citation-popover-snippet">UK Parliament CommitteesSocial media, misinformation and harmful algorithmsBetween 30 July and 7 August 2024, a wave of anti-immigration...</span><span class="citation-popover-meta">Published: August 2024</span></span></span>
+The 2024 [Southport case]({{ 'southport-case/' | relative_url }}) in the UK shows the cost of weak corroboration. False claims about the attacker’s identity spread on social media after the killing of three children, and Full Fact reported that the circulated name was incorrect, with police also stating that the suspect had been born in Cardiff.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/news/misinformation-southport-stabbings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactWhat role did misinformation play in riots after the...August 2, 2024 — 2 Aug 2024 — They told Full Fact “Ali Al-Shakati” was t...</span><span class="citation-popover-meta">Published: August 2, 2024</span></span></span> Parliamentary material later described the wider riots that followed as being driven in part by false claims spreading on social platforms after the attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">Some targeted mosques and hotels housing</span><span class="citation-popover-snippet">UK Parliament CommitteesSocial media, misinformation and harmful algorithmsBetween 30 July and 7 August 2024, a wave of anti-immigration...</span><span class="citation-popover-meta">Published: August 2024</span></span></span>
 
 For an ordinary reader, the lesson is direct: **a claim can be emotionally urgent and still evidentially weak**. The more a post asks people to act immediately, blame someone, avoid a place, buy a treatment, donate money or share a warning, the more it needs corroboration before amplification.
 
@@ -440,7 +440,7 @@ For an ordinary reader, the lesson is direct: **a claim can be emotionally urgen
 
 The hardest part of corroboration is distinguishing true independence from [repetition]({{ 'repetition/' | relative_url }}). Three posts saying the same thing are not three confirmations if they all trace back to one screenshot, one anonymous Telegram message, one misread police scanner clip or one influencer’s claim. Social media often creates the illusion of confirmation because the same claim appears in many places at once.
 
-Professional sourcing rules warn against this exact problem. AFP’s sourcing principles say journalists should not turn a single source into a multiple-source claim and should not present the same source under different guises in a way that misleads readers into thinking there is more than one source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afp.com">[AFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afp.com</span><span class="citation-popover-title">twenty principles of sourcing</span><span class="citation-popover-snippet">twenty principles of sourcingJune 16, 2016 — Anonymous sources should be concisely sourced, unless the event is in the public domain a...</span><span class="citation-popover-meta">Published: June 16, 2016</span></span></span> That principle transfers well to everyday sharing: if every “confirmation” points back to the same original account, the claim has not really been corroborated.
+Professional sourcing rules warn against this exact problem. AFP’s sourcing principles say journalists should not turn a single source into a multiple-source claim and should not present the same source under different guises in a way that misleads readers into thinking there is more than one source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afp.com">[AFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afp.com</span><span class="citation-popover-title">twenty principles of sourcing</span><span class="citation-popover-snippet">twenty principles of sourcingJune 16, 2016 — Anonymous sources should be concisely sourced, unless the event is in the public domain a...</span><span class="citation-popover-meta">Published: June 16, 2016</span></span></span> That principle transfers well to everyday sharing: if every “confirmation” points back to the same original account, the claim has not really been corroborated.
 
 A useful independence test asks four questions:
 
@@ -454,7 +454,7 @@ A useful independence test asks four questions:
 
 </div>
 
-This is why “lateral reading” is more useful than staring harder at the original post. Lateral reading means leaving the page or post and checking what other credible sources say about the source and the claim. Poynter describes it as a technique for vetting websites or accounts by opening other sources rather than relying only on the page in front of you. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">lateral reading the best media literacy tip to vet credible sources</span><span class="citation-popover-snippet">Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — Use lateral reading when you stumble upon...</span></span></span>
+This is why “lateral reading” is more useful than staring harder at the original post. Lateral reading means leaving the page or post and checking what other credible sources say about the source and the claim. Poynter describes it as a technique for vetting websites or accounts by opening other sources rather than relying only on the page in front of you.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">lateral reading the best media literacy tip to vet credible sources</span><span class="citation-popover-snippet">Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — Use lateral reading when you stumble upon...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GoQG6Tin-1E" title="Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer">Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.1M &middot; Uploaded: January 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GoQG6Tin-1E">Open on YouTube</a></p></div></div></div>
@@ -465,7 +465,7 @@ Different kinds of claims need different kinds of confirmation. The key is to ma
 
 For a **crime or [public-safety claim]({{ 'safety-claims/' | relative_url }})**, strong corroboration may come from police, courts, emergency services, named local officials, reputable local reporters at the scene, or multiple independent witnesses whose accounts can be checked against time and place. In volatile cases, official sources can be slow or incomplete, but they are still essential for claims about suspects, deaths, arrests, locations, road closures and public danger.
 
-For a **health claim**, credible corroboration should come from public-health authorities, peer-reviewed research, recognised medical bodies or named specialists with relevant expertise. The World Health Organization defines an infodemic as an overload of information, including false or misleading information, during a disease outbreak, and warns that it can cause confusion, risk-taking behaviour and mistrust in health authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span> WHO’s public guidance on “flattening the infodemic curve” tells people to assess the source and ask where the information came from before sharing it, even if it arrived through friends or family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
+For a **health claim**, credible corroboration should come from public-health authorities, peer-reviewed research, recognised medical bodies or named specialists with relevant expertise. The World Health Organization defines an infodemic as an overload of information, including false or misleading information, during a disease outbreak, and warns that it can cause confusion, risk-taking behaviour and mistrust in health authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span> WHO’s public guidance on “flattening the infodemic curve” tells people to assess the source and ask where the information came from before sharing it, even if it arrived through friends or family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
 
 For a **war or disaster claim**, useful corroboration may include official briefings, reputable wire services, verified footage, geolocation, satellite imagery, humanitarian organisations, local journalists and independent open-source investigators. No single type is perfect. Governments may frame events strategically; eyewitnesses may be mistaken; images may be old or miscaptioned. Corroboration is strongest when different [evidence types]({{ 'evidence-types/' | relative_url }}) point in the same direction.
 
@@ -477,9 +477,9 @@ For a **political claim**, corroboration should separate the claim itself from c
 
 Independent corroboration is not only an individual skill. It is increasingly treated as a platform and public-safety issue because false claims can produce real-world harm before correction catches up.
 
-Ofcom’s 2026 crisis-response statement says illegal content spreading rapidly online can pose a serious threat to public safety, citing violent riots after the 2024 Southport murders and the possibility of terrorist attacks being livestreamed. The regulator said normal moderation systems may not be enough in such exceptional circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Stopping illegal content going viral in a crisis</span><span class="citation-popover-snippet">www.ofcom.org.uk Stopping illegal content going viral in a crisis</span></span></span> Its crisis protocol recommends that certain online services prepare for spikes in illegal or harmful content and maintain dedicated communication channels so law enforcement can contact them during a crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Statement: Crisis response protocol</span><span class="citation-popover-snippet">www.ofcom.org.uk Statement: Crisis response protocol</span></span></span>
+Ofcom’s 2026 crisis-response statement says illegal content spreading rapidly online can pose a serious threat to public safety, citing violent riots after the 2024 Southport murders and the possibility of terrorist attacks being livestreamed. The regulator said normal moderation systems may not be enough in such exceptional circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Stopping illegal content going viral in a crisis</span><span class="citation-popover-snippet">www.ofcom.org.uk Stopping illegal content going viral in a crisis</span></span></span> Its crisis protocol recommends that certain online services prepare for spikes in illegal or harmful content and maintain dedicated communication channels so law enforcement can contact them during a crisis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Statement: Crisis response protocol</span><span class="citation-popover-snippet">www.ofcom.org.uk Statement: Crisis response protocol</span></span></span>
 
-That policy direction reflects a larger implementation problem: by the time a false claim is debunked, it may already have shaped behaviour. Reuters reported that Ofcom’s newer rules require platforms to prepare crisis-response protocols, scale moderation and maintain law-enforcement communication lines during surges of illegal content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+That policy direction reflects a larger implementation problem: by the time a false claim is debunked, it may already have shaped behaviour. Reuters reported that Ofcom’s newer rules require platforms to prepare crisis-response protocols, scale moderation and maintain law-enforcement communication lines during surges of illegal content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 For readers, this means personal corroboration still matters even when platforms and regulators are involved. Platform labels, [fact-checks]({{ 'fact-checks/' | relative_url }}) and moderation can help, but they are often slower than the initial spread. A user who pauses before sharing can reduce the reach of a rumour during the most dangerous window: the period when certainty feels high but evidence is still thin.
 
@@ -497,7 +497,7 @@ The routine should be quick enough to use in real life, but strong enough to sto
 
 **Fifth, decide whether sharing helps.** If the claim is not confirmed and people do not need it for immediate safety, the best action may be to wait. If the information is safety-relevant but uncertain, share only the confirmed part and say what remains unverified.
 
-This routine is especially important when the content is visual. Reuters says its fact-checking unit focuses heavily on claims and visual material posted on social media, because images and videos can be powerful but misleading when old, edited, miscaptioned or placed in the wrong context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">About Reuters Fact Check</span><span class="citation-popover-snippet">About Reuters Fact Check</span></span></span>
+This routine is especially important when the content is visual. Reuters says its fact-checking unit focuses heavily on claims and visual material posted on social media, because images and videos can be powerful but misleading when old, edited, miscaptioned or placed in the wrong context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">About Reuters Fact Check</span><span class="citation-popover-snippet">About Reuters Fact Check</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZFDILzTvN8" title="Is it legit? Teaching digital verification to spark news literacy learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZFDILzTvN8" target="_blank" rel="noopener noreferrer">Is it legit? Teaching digital verification to spark news literacy learning</a></p><p class="youtube-embed-meta">Channel: News Literacy Project &middot; Views: 840 &middot; Uploaded: June 2020 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZFDILzTvN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZFDILzTvN8">Open on YouTube</a></p></div></div></div>
@@ -521,7 +521,7 @@ Waiting is the best choice when a claim:
 
 </div>
 
-In these moments, the most responsible post may be no post at all. A better alternative is to save the claim, check later, and share a correction only if doing so would reduce harm. The Southport example shows why: false identity claims did not merely misinform; they helped create a climate in which public anger could be misdirected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Open source on isdglobal.org.</span></span></span>
+In these moments, the most responsible post may be no post at all. A better alternative is to save the claim, check later, and share a correction only if doing so would reduce harm. The Southport example shows why: false identity claims did not merely misinform; they helped create a climate in which public anger could be misdirected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Open source on isdglobal.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600-Illustration-3-dark.svg" | relative_url }}" alt="Corroboration illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -538,194 +538,194 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Else Can Confirm This Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Else Can Confirm This Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages corroboration rather than reliance on single sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages corroboration rather than reliance on single sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates the value of reliable evidence over anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of reliable evidence over anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people overtrust initial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people overtrust initial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="corroboration-who-else-can-confirm-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,189 +931,189 @@ The strongest everyday standard is simple: **do not help a fragile claim travel 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1511.07487" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1511.07487</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational ThreadsNovember 23, 2015...</p></details>
+   Link:<a href="https://arxiv.org/abs/1511.07487" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1511.07487</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational ThreadsNovember 23, 2015...</p></details>
    Published: November 23, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1610.07363" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1610.07363</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Reporting Dynamics during Breaking News for Rumour Detection in Social MediaOctober 24, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1610.07363" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1610.07363</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Reporting Dynamics during Breaking News for Rumour Detection in Social MediaOctober 24, 2016...</p></details>
    Published: October 24, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: committees.parliament.uk  
    Title: Some targeted mosques and hotels housing  
-   Link: <a href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesSocial media, misinformation and harmful algorithmsBetween 30 July and 7 August 2024, a wave of anti-immigration...</p></details>
+   Link:<a href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesSocial media, misinformation and harmful algorithmsBetween 30 July and 7 August 2024, a wave of anti-immigration...</p></details>
    Published: August 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: afp.com  
    Title: twenty principles of sourcing  
-   Link: <a href="https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>twenty principles of sourcingJune 16, 2016 — Anonymous sources should be concisely sourced, unless the event is in the public domain a...</p></details>
+   Link:<a href="https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afp.com/sites/default/files/afp-20-sourcing-principles-may-2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>twenty principles of sourcingJune 16, 2016 — Anonymous sources should be concisely sourced, unless the event is in the public domain a...</p></details>
    Published: June 16, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: poynter.org  
    Title: lateral reading the best media literacy tip to vet credible sources  
-   Link: <a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — Use lateral reading when you stumble upon...</p></details>
+   Link:<a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — Use lateral reading when you stumble upon...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
+   Link:<a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Stopping illegal content going viral in a crisis  
-   Link: <a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis</a>  
+   Link:<a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/stopping-illegal-content-going-viral-in-a-crisis</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Statement: Crisis response protocol  
-   Link: <a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol</a>  
+   Link:<a href="https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/</a>  
+   Link:<a href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: About Reuters Fact Check  
-   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmhaff/381/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmhaff/381/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmhaff/381/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmhaff/381/report.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/132987/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132987/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/132987/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132987/pdf/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/132908/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132908/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/132908/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132908/pdf/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: poynter.org  
-   Link: <a href="https://www.poynter.org/media-news/fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/media-news/fact-checking/</a>  
+   Link:<a href="https://www.poynter.org/media-news/fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/media-news/fact-checking/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
+   Link:<a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4</a>  
+   Link:<a href="https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/instructions-for-making-overview-of-infodemic-response-experience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/instructions-for-making-overview-of-infodemic-response-experience.pdf</a>  
+   Link:<a href="https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/instructions-for-making-overview-of-infodemic-response-experience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/instructions-for-making-overview-of-infodemic-response-experience.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ofcom.org.uk  
    Title: rea online misinformation  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsReuters will publish news from a single, anonymous source in exceptional cases, when it is cr...</p></details>
+   Link:<a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsReuters will publish news from a single, anonymous source in exceptional cases, when it is cr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/news/misinformation-southport-stabbings/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/news/misinformation-southport-stabbings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactWhat role did misinformation play in riots after the...August 2, 2024 — 2 Aug 2024 — They told Full Fact “Ali Al-Shakati” was t...</p></details>
+   Link:<a href="https://fullfact.org/news/misinformation-southport-stabbings/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/news/misinformation-southport-stabbings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactWhat role did misinformation play in riots after the...August 2, 2024 — 2 Aug 2024 — They told Full Fact “Ali Al-Shakati” was t...</p></details>
    Published: August 2, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/</a>  
+   Link:<a href="https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/from-rumours-to-riots-how-online-misinformation-fuelled-violence-in-the-aftermath-of-the-southport-attack/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mediareform.org.uk  
-   Link: <a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
+   Link:<a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/training/verification/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/training/verification/</a>  
+   Link:<a href="https://firstdraftnews.org/training/verification/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/training/verification/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DU8xoZgkT6D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8xoZgkT6D/</a>  
+   Link:<a href="https://www.instagram.com/reel/DU8xoZgkT6D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8xoZgkT6D/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/reuters-handbook-of-journalism/24946316" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/reuters-handbook-of-journalism/24946316</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/reuters-handbook-of-journalism/24946316" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/reuters-handbook-of-journalism/24946316</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/katielsanders_poynter-launches-new-research-service-to-activity-7457451692289261568-Fq1q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/katielsanders_poynter-launches-new-research-service-to-activity-7457451692289261568-Fq1q</a>  
+   Link:<a href="https://www.linkedin.com/posts/katielsanders_poynter-launches-new-research-service-to-activity-7457451692289261568-Fq1q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/katielsanders_poynter-launches-new-research-service-to-activity-7457451692289261568-Fq1q</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1790164/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1790164/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1790164/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1790164/full</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Breaking News or Breaking It Down? The Rise of Fact-Checking in Newsrooms  
-   Link: <a href="https://www.youtube.com/watch?v=4iX8LlFi1Xg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4iX8LlFi1Xg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;First Draft&quot; news verification source corroboration Col. Douglas Macgregor: Trump Just Triggered America’s First Draft Since Vietnam Atl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4iX8LlFi1Xg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4iX8LlFi1Xg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;First Draft&quot; news verification source corroboration Col. Douglas Macgregor: Trump Just Triggered America’s First Draft Since Vietnam Atl...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: How to Fact-Check & Verify the News  
-   Link: <a href="https://www.youtube.com/watch?v=U6o8bo7qB2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U6o8bo7qB2I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News or Breaking It Down? The Rise of Fact-Checking in Newsrooms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U6o8bo7qB2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U6o8bo7qB2I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News or Breaking It Down? The Rise of Fact-Checking in Newsrooms...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/323381716_Combating_Fake_News_An_Investigation_of_Information_Verification_Behaviors_on_Social_Networking_Sites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323381716_Combating_Fake_News_An_Investigation_of_Information_Verification_Behaviors_on_Social_Networking_Sites</a>  
+   Link:<a href="https://www.researchgate.net/publication/323381716_Combating_Fake_News_An_Investigation_of_Information_Verification_Behaviors_on_Social_Networking_Sites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323381716_Combating_Fake_News_An_Investigation_of_Information_Verification_Behaviors_on_Social_Networking_Sites</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: falmouth.ac.uk  
-   Link: <a href="https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news</a>  
+   Link:<a href="https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/290158276/BBC-Guidelines-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/290158276/BBC-Guidelines-3</a>  
+   Link:<a href="https://www.scribd.com/document/290158276/BBC-Guidelines-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/290158276/BBC-Guidelines-3</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ethicsandjournalism.org  
-   Link: <a href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow">https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/</a>  
+   Link:<a href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow">https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: centerfornewsliteracy.org  
-   Link: <a href="https://centerfornewsliteracy.org/" target="_blank" rel="noopener noreferrer nofollow">https://centerfornewsliteracy.org/</a>  
+   Link:<a href="https://centerfornewsliteracy.org/" target="_blank" rel="noopener noreferrer nofollow">https://centerfornewsliteracy.org/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: newslit.org  
-   Link: <a href="https://newslit.org/checkology-resources/" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/checkology-resources/</a>  
+   Link:<a href="https://newslit.org/checkology-resources/" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/checkology-resources/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
+   Link:<a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  

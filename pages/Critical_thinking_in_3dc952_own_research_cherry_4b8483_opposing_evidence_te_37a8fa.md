@@ -284,7 +284,7 @@ A claim becomes more credible when it survives serious attempts to disprove it. 
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_opposing_evidence_te_37a8fa-Illustration-1-dark.svg" | relative_url }}" alt="Opposing Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_opposing_evidence_te_37a8fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_opposing_evidence_te_37a8fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Testing a claim against opposing evidence is the practical antidote to cherry-picking. Instead of treating research as a hunt for agreement, it treats research as a stress test. This approach reflects a long tradition in science, journalism and fact-checking: strong ideas are expected to withstand scrutiny, while weak ones often depend on ignoring or dismissing contradictory evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+Testing a claim against opposing evidence is the practical antidote to cherry-picking. Instead of treating research as a hunt for agreement, it treats research as a stress test. This approach reflects a long tradition in science, journalism and fact-checking: strong ideas are expected to withstand scrutiny, while weak ones often depend on ignoring or dismissing contradictory evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 ## Turning a Claim Into a Testable Question
 
@@ -317,7 +317,7 @@ One useful technique is to write down three items before searching:
 
 If the third box remains empty because nothing is allowed to count against the claim, the exercise has already stopped being research and become defence of a preferred answer.
 
-This principle resembles the logic of falsification in scientific thinking, where a hypothesis gains strength by surviving potential refutation rather than by accumulating only favourable examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-title">How do these two forms of reasoning differ?Read more</span><span class="citation-popover-snippet">Statistical Modeling BlogConfirmationist and falsificationist paradigms of science5 Sept 2014 — In falsificationist reasoning, it is the...</span></span></span>
+This principle resembles the logic of falsification in scientific thinking, where a hypothesis gains strength by surviving potential refutation rather than by accumulating only favourable examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-title">How do these two forms of reasoning differ?Read more</span><span class="citation-popover-snippet">Statistical Modeling BlogConfirmationist and falsificationist paradigms of science5 Sept 2014 — In falsificationist reasoning, it is the...</span></span></span>
 
 ## Finding the Strongest Counterevidence
 
@@ -365,20 +365,20 @@ is likely to receive a different information environment than someone who also s
 
 </div>
 
-Research on confirmation bias shows that people naturally gravitate towards information that fits existing expectations, often without realising they are doing so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">confirmation bias</span><span class="citation-popover-snippet">Encyclopedia BritannicaConfirmation bias &#124; Definition, Examples, Psychology, &amp; FactsMar 30, 2026 — Confirmation bias, people&#x27;s tendency t...</span></span></span>
+Research on confirmation bias shows that people naturally gravitate towards information that fits existing expectations, often without realising they are doing so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">confirmation bias</span><span class="citation-popover-snippet">Encyclopedia BritannicaConfirmation bias &#124; Definition, Examples, Psychology, &amp; FactsMar 30, 2026 — Confirmation bias, people&#x27;s tendency t...</span></span></span>
 
 A practical rule is to spend at least as much effort reading the strongest opposing case as the strongest supporting case.
 
 ### Trace Claims Beyond the Original Source
 
-Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) often use a method known as lateral reading. Instead of staying on the original page and evaluating its appearance, they leave the page, open new tabs and investigate what other reliable sources say about the claim, source or evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</span></span></span>
+Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) often use a method known as lateral reading. Instead of staying on the original page and evaluating its appearance, they leave the page, open new tabs and investigate what other reliable sources say about the claim, source or evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</span></span></span>
 
 This is especially important on social media because presentation can create an illusion of credibility. A polished video, confident thread or AI-generated explanation may appear convincing even when the underlying evidence is weak.
 
 The SIFT approach developed by digital literacy researcher Mike Caulfield encourages readers to:
 
-* Stop before reacting. * Investigate the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span> * Find better coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span>
-* Trace claims to their original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood+2University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span>
+* Stop before reacting. * Investigate the source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span> * Find better coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span>
+* Trace claims to their original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood+2University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</span></span></span>
 
 These steps help separate the evidence itself from the way it is being presented.
 
@@ -427,7 +427,7 @@ Contradictory evidence may face endless scrutiny:
 
 Sometimes those concerns are justified. The problem arises when the standards change depending on whether the evidence supports or challenges the preferred conclusion.
 
-Research on motivated reasoning has repeatedly found that people often evaluate supporting and opposing information differently, scrutinising unwelcome evidence more aggressively while accepting congenial evidence with less effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Frank BaumgartnerMotivated Skepticism in the Evaluation of Political Beliefs...by CS Taber · 2006 · Cited by 6073 — When reading pro and...</span></span></span>
+Research on motivated reasoning has repeatedly found that people often evaluate supporting and opposing information differently, scrutinising unwelcome evidence more aggressively while accepting congenial evidence with less effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Frank BaumgartnerMotivated Skepticism in the Evaluation of Political Beliefs...by CS Taber · 2006 · Cited by 6073 — When reading pro and...</span></span></span>
 
 A useful self-check is to ask:
 
@@ -477,7 +477,7 @@ AI systems can make confirmation bias feel more productive because they can rapi
 
 This creates a new research hazard: receiving large amounts of coherent text that appears balanced but is actually built around the user's framing.
 
-Recent research has found that language models can exhibit confirmation-style behaviour during hypothesis testing, favouring examples that support a current idea rather than seeking disconfirming cases. Researchers also found that prompting models to consider counterexamples reduced this tendency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.02485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language ModelsApril 2, 2026...</span><span class="citation-popover-meta">Published: April 2, 2026</span></span></span>
+Recent research has found that language models can exhibit confirmation-style behaviour during hypothesis testing, favouring examples that support a current idea rather than seeking disconfirming cases. Researchers also found that prompting models to consider counterexamples reduced this tendency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.02485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language ModelsApril 2, 2026...</span><span class="citation-popover-meta">Published: April 2, 2026</span></span></span>
 
 When using AI for research, it is often helpful to ask:
 
@@ -500,194 +500,194 @@ Before accepting a conclusion reached through personal research, run it through 
 A claim that survives those tests deserves more confidence than one supported only by a pile of agreeable links. In the age of social media and AI, the quality of research is measured less by how much supporting material you can find and more by whether your preferred conclusion can withstand its best critics.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Make This Claim Weaker?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Make This Claim Weaker?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people resist counterevidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people resist counterevidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages testing claims against evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing claims against evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Models how to update beliefs when confronted with data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Models how to update beliefs when confronted with data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="opposing-evidence-what-would-make-this-claim-weaker-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -703,7 +703,7 @@ A claim that survives those tests deserves more confidence than one supported on
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -723,7 +723,7 @@ A claim that survives those tests deserves more confidence than one supported on
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -755,7 +755,7 @@ A claim that survives those tests deserves more confidence than one supported on
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -807,7 +807,7 @@ A claim that survives those tests deserves more confidence than one supported on
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -852,7 +852,7 @@ A claim that survives those tests deserves more confidence than one supported on
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -893,183 +893,183 @@ A claim that survives those tests deserves more confidence than one supported on
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; FactsMar 30, 2026 — Confirmation bias, people&#x27;s tendency t...</p></details>
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; FactsMar 30, 2026 — Confirmation bias, people&#x27;s tendency t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Lateral reading: College students learn to critically...It involves evaluating the credibility of information read online by movin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Lateral reading: College students learn to critically...It involves evaluating the credibility of information read online by movin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves)  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</p></details>
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Motivated reasoning  
-   Link: <a href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motivated_reasoning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated reasoningMotivated reasoning is the mental process through which individuals access, construct, and evaluate their beliefs i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motivated_reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated reasoningMotivated reasoning is the mental process through which individuals access, construct, and evaluate their beliefs i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.02485" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.02485</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language ModelsApril 2, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.02485" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.02485</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language ModelsApril 2, 2026...</p></details>
    Published: April 2, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: confirmation.com  
-   Link: <a href="https://www.confirmation.com/home.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.confirmation.com/home.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LoginSign in to Confirmation... Forgot User ID/Password?... Don&#x27;t have an account? Create one now. Thomson Reuters. User...</p></details>
+   Link:<a href="https://www.confirmation.com/home.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.confirmation.com/home.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LoginSign in to Confirmation... Forgot User ID/Password?... Don&#x27;t have an account? Create one now. Thomson Reuters. User...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ConfirmationConfirmation is a rite that often includes a profession of faith by an already baptized person. Confirmation is required b...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ConfirmationConfirmation is a rite that often includes a profession of faith by an already baptized person. Confirmation is required b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Scale invariant feature transform  
-   Link: <a href="https://en.wikipedia.org/wiki/Scale-invariant_feature_transform" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scale-invariant_feature_transform</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scale-invariant feature transformThe scale-invariant feature transform (SIFT) is a computer vision algorithm to detect, describe, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Scale-invariant_feature_transform" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scale-invariant_feature_transform</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scale-invariant feature transformThe scale-invariant feature transform (SIFT) is a computer vision algorithm to detect, describe, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...SIFT was influenced by Wineburg and McGrew&#x27;s (2017) study, which found that pro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...SIFT was influenced by Wineburg and McGrew&#x27;s (2017) study, which found that pro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The experimental study...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The experimental study...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/314116099_Evaluating_Contradicting_and_Confirming_Evidence_A_Study_on_Beliefs_and_Motivated_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314116099_Evaluating_Contradicting_and_Confirming_Evidence_A_Study_on_Beliefs_and_Motivated_Reasoning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on Beliefs and Motivated ReasoningMar 1, 2017 — The purpose of this study is to examine ideological, psychological, and demograph...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/314116099_Evaluating_Contradicting_and_Confirming_Evidence_A_Study_on_Beliefs_and_Motivated_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314116099_Evaluating_Contradicting_and_Confirming_Evidence_A_Study_on_Beliefs_and_Motivated_Reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on Beliefs and Motivated ReasoningMar 1, 2017 — The purpose of this study is to examine ideological, psychological, and demograph...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/confirmation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation | Definition, Description, History, &amp; SacramentConfirmation, Christian rite by which admission to the church, established pr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/confirmation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation | Definition, Description, History, &amp; SacramentConfirmation, Christian rite by which admission to the church, established pr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: statmodeling.stat.columbia.edu  
    Title: How do these two forms of reasoning differ?Read more  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Modeling BlogConfirmationist and falsificationist paradigms of science5 Sept 2014 — In falsificationist reasoning, it is the...</p></details>
+   Link:<a href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Modeling BlogConfirmationist and falsificationist paradigms of science5 Sept 2014 — In falsificationist reasoning, it is the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scienceofboosting.org  
    Title: Boosting Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading - Boosting4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multiple tabs in your browser...</p></details>
+   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading - Boosting4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multiple tabs in your browser...</p></details>
    Published: May 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: guides.lib.uchicago.edu  
    Title: University of Chicago Library Guides The SIFT Method  
-   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluati...</p></details>
+   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fbaum.unc.edu  
    Title: AJPS 2006 Taber  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank BaumgartnerMotivated Skepticism in the Evaluation of Political Beliefs...by CS Taber · 2006 · Cited by 6073 — When reading pro and...</p></details>
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frank BaumgartnerMotivated Skepticism in the Evaluation of Political Beliefs...by CS Taber · 2006 · Cited by 6073 — When reading pro and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wordreference.com  
-   Link: <a href="https://www.wordreference.com/enfr/motivated" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/enfr/motivated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English-French DictionaryPrincipales traductions. Anglais, Français. motivated adj, (person: enthusiastic, keen) (personne), motivé adj...</p></details>
+   Link:<a href="https://www.wordreference.com/enfr/motivated" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/enfr/motivated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English-French DictionaryPrincipales traductions. Anglais, Français. motivated adj, (person: enthusiastic, keen) (personne), motivé adj...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linguee.fr  
-   Link: <a href="https://www.linguee.fr/anglais-francais/traduction/motivated.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.fr/anglais-francais/traduction/motivated.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traduction françaisemotiver qqch./qqn. v · encourager qqn. · inspirer qqch. · pousser v. Exemples: self-motivated—. motivé · highly moti...</p></details>
+   Link:<a href="https://www.linguee.fr/anglais-francais/traduction/motivated.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.fr/anglais-francais/traduction/motivated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traduction françaisemotiver qqch./qqn. v · encourager qqn. · inspirer qqch. · pousser v. Exemples: self-motivated—. motivé · highly moti...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/confirmation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya statement, often written, that an arrangement or meeting is certain: a letter of confirmation m...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/confirmation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya statement, often written, that an arrangement or meeting is certain: a letter of confirmation m...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/motivated" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/motivated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryMOTIVATED definition: 1. very enthusiastic or determined because you really want to do something...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/motivated" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/motivated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryMOTIVATED definition: 1. very enthusiastic or determined because you really want to do something...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: library.csum.edu  
-   Link: <a href="https://library.csum.edu/NAU330/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.csum.edu/NAU330/SIFT</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>330 Meteorology: SIFT Method for Misinformation6 Nov 2025 — The SIFT method is based on recent research on methods used by professional f...</p></details>
+   Link:<a href="https://library.csum.edu/NAU330/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.csum.edu/NAU330/SIFT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>330 Meteorology: SIFT Method for Misinformation6 Nov 2025 — The SIFT method is based on recent research on methods used by professional f...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/confirmation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONFIRMATION Definition &amp; Meaning4 days ago — 1. an act or process of confirming: such as a (1): a Christian rite conferring the gift of...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/confirmation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/confirmation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONFIRMATION Definition &amp; Meaning4 days ago — 1. an act or process of confirming: such as a (1): a Christian rite conferring the gift of...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/motivated" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/motivated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOTIVATED Definition &amp; Meaning2 days ago —: provided with a motive: having an incentive or a strong desire to do well or succeed in som...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/motivated" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/motivated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOTIVATED Definition &amp; Meaning2 days ago —: provided with a motive: having an incentive or a strong desire to do well or succeed in som...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: motivatedapp.com  
-   Link: <a href="https://motivatedapp.com/" target="_blank" rel="noopener noreferrer nofollow">https://motivatedapp.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated – Habit TrackerMotivated is a habit tracker app that helps you build good habits and quit bad habits with a streak-free approac...</p></details>
+   Link:<a href="https://motivatedapp.com/" target="_blank" rel="noopener noreferrer nofollow">https://motivatedapp.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated – Habit TrackerMotivated is a habit tracker app that helps you build good habits and quit bad habits with a streak-free approac...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wordwebonline.com  
-   Link: <a href="https://www.wordwebonline.com/en/CONFIRMATION" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/CONFIRMATION</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>confirmation, confirmations- WordWeb dictionary definitionNoun: confirmation,kón-fu(r)&#x27;mey-shun. Additional proof that something that wa...</p></details>
+   Link:<a href="https://www.wordwebonline.com/en/CONFIRMATION" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/CONFIRMATION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>confirmation, confirmations- WordWeb dictionary definitionNoun: confirmation,kón-fu(r)&#x27;mey-shun. Additional proof that something that wa...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ivyshelden.medium.com  
-   Link: <a href="https://ivyshelden.medium.com/the-difference-between-feeling-motivated-and-being-motivated-and-why-it-matters-c99105147f02" target="_blank" rel="noopener noreferrer nofollow">https://ivyshelden.medium.com/the-difference-between-feeling-motivated-and-being-motivated-and-why-it-matters-c99105147f02</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference Between Feeling Motivated and Being...Feeling motivated has to do with your emotions and mood, which naturally fluctuate, eve...</p></details>
+   Link:<a href="https://ivyshelden.medium.com/the-difference-between-feeling-motivated-and-being-motivated-and-why-it-matters-c99105147f02" target="_blank" rel="noopener noreferrer nofollow">https://ivyshelden.medium.com/the-difference-between-feeling-motivated-and-being-motivated-and-why-it-matters-c99105147f02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difference Between Feeling Motivated and Being...Feeling motivated has to do with your emotions and mood, which naturally fluctuate, eve...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — Research from the Stanford History Education Group finds th...</p></details>
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — Research from the Stanford History Education Group finds th...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingThe Facts about Fact Checking: Crash Course... Check Yourself with Lateral Reading: Cr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingThe Facts about Fact Checking: Crash Course... Check Yourself with Lateral Reading: Cr...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: do-my-best.tistory.com  
    Title: SIFT Scale Invariant Feature TRansform를 활용한 이미지 특징 추출 및 매칭 알고리즘  
-   Link: <a href="https://do-my-best.tistory.com/entry/SIFT-Scale-Invariant-Feature-TRansform%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9C-%EB%B0%8F-%EB%A7%A4%EC%B9%AD-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank" rel="noopener noreferrer nofollow">https://do-my-best.tistory.com/entry/SIFT-Scale-Invariant-Feature-TRansform%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9C-%EB%B0%8F-%EB%A7%A4%EC%B9%AD-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Scale-Invariant-Feature TRansform)를 활용한 이미지...Jul 20, 2021 — 크기, 회전, 조도, affine의 변화 및 noise에 불변하는 특징을 추출하는 알고리즘이다. 이는 다음과 같은 절차로 이루어 진다...</p></details>
+   Link:<a href="https://do-my-best.tistory.com/entry/SIFT-Scale-Invariant-Feature-TRansform%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9C-%EB%B0%8F-%EB%A7%A4%EC%B9%AD-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank" rel="noopener noreferrer nofollow">https://do-my-best.tistory.com/entry/SIFT-Scale-Invariant-Feature-TRansform%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8A%B9%EC%A7%95-%EC%B6%94%EC%B6%9C-%EB%B0%8F-%EB%A7%A4%EC%B9%AD-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Scale-Invariant-Feature TRansform)를 활용한 이미지...Jul 20, 2021 — 크기, 회전, 조도, affine의 변화 및 noise에 불변하는 특징을 추출하는 알고리즘이다. 이는 다음과 같은 절차로 이루어 진다...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: philarchive.org  
    Title: Phil Archive Why Is It So Hard to Change Our Minds?  
-   Link: <a href="https://philarchive.org/rec/MATWII-7" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MATWII-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias...by D Matta — Belief revision is often assumed to depend primarily on information quality: individuals change their m...</p></details>
+   Link:<a href="https://philarchive.org/rec/MATWII-7" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MATWII-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias...by D Matta — Belief revision is often assumed to depend primarily on information quality: individuals change their m...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ultralytics.com  
    Title: what is the scale invariant feature transform sift  
-   Link: <a href="https://www.ultralytics.com/blog/what-is-the-scale-invariant-feature-transform-sift" target="_blank" rel="noopener noreferrer nofollow">https://www.ultralytics.com/blog/what-is-the-scale-invariant-feature-transform-sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Algorithm: How Feature Matching WorksSep 9, 2025 — SIFT is a feature detection and description algorithm that can reliably identify...</p></details>
+   Link:<a href="https://www.ultralytics.com/blog/what-is-the-scale-invariant-feature-transform-sift" target="_blank" rel="noopener noreferrer nofollow">https://www.ultralytics.com/blog/what-is-the-scale-invariant-feature-transform-sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Algorithm: How Feature Matching WorksSep 9, 2025 — SIFT is a feature detection and description algorithm that can reliably identify...</p></details>

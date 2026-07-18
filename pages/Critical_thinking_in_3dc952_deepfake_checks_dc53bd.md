@@ -422,7 +422,7 @@ A deepfake voice or video claim should be checked as a claim, not simply inspect
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd-overview.webp" | relative_url }}" alt="Overview image for Deepfakes" loading="eager" decoding="sync" fetchpriority="high">
-This matters because deepfakes now appear in situations where people are pushed to react quickly: elections, scams, workplace fraud, family emergencies and viral social media claims. A fake audio robocall mimicking Joe Biden reached New Hampshire voters before the January 2024 primary; investigators later traced it through telecom and campaign actors, not by asking voters to “hear” the fake in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Fake Biden robocall being investigated in New Hampshire</span><span class="citation-popover-snippet">2024 a year of unprecedented election disinformation around the world. Generative AI deepfakes already have appeared in campaign ads in t...</span></span></span>
+This matters because deepfakes now appear in situations where people are pushed to react quickly: elections, scams, workplace fraud, family emergencies and viral social media claims. A fake audio robocall mimicking Joe Biden reached New Hampshire voters before the January 2024 primary; investigators later traced it through telecom and campaign actors, not by asking voters to “hear” the fake in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Fake Biden robocall being investigated in New Hampshire</span><span class="citation-popover-snippet">2024 a year of unprecedented election disinformation around the world. Generative AI deepfakes already have appeared in campaign ads in t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd-Illustration-2-dark.svg" | relative_url }}" alt="Deepfakes illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -430,9 +430,9 @@ This matters because deepfakes now appear in situations where people are pushed 
 
 Audio and video feel persuasive because they seem to collapse the distance between a claim and an event. A written post says that someone said something; a recording appears to let the audience witness it. Deepfakes exploit that shortcut. They imitate the sensory form of [evidence]({{ 'evidence/' | relative_url }}) while leaving out the chain of custody: who recorded it, where, when, with what device, how it was edited, and why only this fragment is circulating.
 
-Voice cloning is especially dangerous because people are used to treating voices as intimate identifiers. The US Federal Trade Commission has warned that scammers can clone a loved one’s voice from short online clips and use it in family-emergency scams, where the pressure comes not only from the fake voice but from panic and urgency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">All he needs is a short audio clip of your family member&#x27;s voice.Read more</span><span class="citation-popover-snippet">Consumer AdviceScammers use AI to enhance their family emergency schemesMarch 17, 2023 — 20 Mar 2023 — A scammer could use AI to clone th...</span><span class="citation-popover-meta">Published: March 17, 2023</span></span></span> The important lesson is that the credibility problem is behavioural as well as technical: a frightened parent, employee or voter may not have time to perform forensic analysis.
+Voice cloning is especially dangerous because people are used to treating voices as intimate identifiers. The US Federal Trade Commission has warned that scammers can clone a loved one’s voice from short online clips and use it in family-emergency scams, where the pressure comes not only from the fake voice but from panic and urgency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-title">All he needs is a short audio clip of your family member&#x27;s voice.Read more</span><span class="citation-popover-snippet">Consumer AdviceScammers use AI to enhance their family emergency schemesMarch 17, 2023 — 20 Mar 2023 — A scammer could use AI to clone th...</span><span class="citation-popover-meta">Published: March 17, 2023</span></span></span> The important lesson is that the credibility problem is behavioural as well as technical: a frightened parent, employee or voter may not have time to perform forensic analysis.
 
-Video adds another layer of false reassurance. A face in motion, synchronised lips, a familiar room, or a plausible video-call interface can make a fabricated scene feel socially real. In 2024, the UK engineering firm Arup confirmed that it had been targeted in a Hong Kong fraud involving a deepfake video conference, with losses reported at about £20 million or $25 million. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UK engineering firm Arup falls victim to £20m deepfake scam</span><span class="citation-popover-snippet">Un empleado fue engañado al transferir HK$200m (£20m) a los criminales en Hong Kong en febrero. La llamada era una falsificación en la qu...</span></span></span> For ordinary viewers, the case is a warning against treating “I saw them on a call” as enough proof when the request is unusual, urgent or financially consequential.
+Video adds another layer of false reassurance. A face in motion, synchronised lips, a familiar room, or a plausible video-call interface can make a fabricated scene feel socially real. In 2024, the UK engineering firm Arup confirmed that it had been targeted in a Hong Kong fraud involving a deepfake video conference, with losses reported at about £20 million or $25 million.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UK engineering firm Arup falls victim to £20m deepfake scam</span><span class="citation-popover-snippet">Un empleado fue engañado al transferir HK$200m (£20m) a los criminales en Hong Kong en febrero. La llamada era una falsificación en la qu...</span></span></span> For ordinary viewers, the case is a warning against treating “I saw them on a call” as enough proof when the request is unusual, urgent or financially consequential.
 
 The most useful first habit is therefore simple: separate the media from the claim attached to it. A clip may be genuine but miscaptioned. It may be edited from a longer recording. It may be synthetic. It may show one real person but use cloned audio. It may be an old clip recirculated as new. The check begins by asking what the clip is being used to prove.
 
@@ -532,194 +532,194 @@ The most reliable deepfake check is not a single trick. It is a shift in attenti
 For everyday critical thinking, the safest rule is proportionate doubt. Do not dismiss every clip as fake. Do not accept every clip as proof. Ask what would have to be true for the claim to be reliable, then look for that evidence outside the most emotionally compelling version of the media.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Check a Voice or Video Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Check a Voice or Video Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Supports evidence-based checking of digital content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based checking of digital content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Encourages corroboration and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages corroboration and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explains systems used to verify contested claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains systems used to verify contested claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="deepfakes-how-to-check-a-voice-or-video-claim-critical-thinking-in-the-age-of-social-media-and-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,206 +925,206 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
+   Link:<a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.02857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.02857</a>  
+   Link:<a href="https://arxiv.org/abs/2503.02857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.02857</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAudio Deepfake Detection: What Has Been Achieved  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv How Deep Are the Fakes? Focusing on Audio Deepfake: A Survey  
-   Link: <a href="https://arxiv.org/abs/2111.14203" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.14203</a>  
+   Link:<a href="https://arxiv.org/abs/2111.14203" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.14203</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Deepfake audio detection by speaker verification  
-   Link: <a href="https://arxiv.org/abs/2209.14098" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.14098</a>  
+   Link:<a href="https://arxiv.org/abs/2209.14098" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.14098</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Deepfake detection technology  
-   Link: <a href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology</a>  
+   Link:<a href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: security.org  
    Title: deepfake statistics  
-   Link: <a href="https://www.security.org/resources/deepfake-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.security.org/resources/deepfake-statistics/</a>  
+   Link:<a href="https://www.security.org/resources/deepfake-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.security.org/resources/deepfake-statistics/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HbQafWO2Hhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HbQafWO2Hhw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HbQafWO2Hhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HbQafWO2Hhw</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vIpW--xk_pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vIpW--xk_pE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vIpW--xk_pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vIpW--xk_pE</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: identity.org  
    Title: deepfake detection how to spot and prevent synthetic media  
-   Link: <a href="https://www.identity.org/deepfake-detection-how-to-spot-and-prevent-synthetic-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.identity.org/deepfake-detection-how-to-spot-and-prevent-synthetic-media/</a>  
+   Link:<a href="https://www.identity.org/deepfake-detection-how-to-spot-and-prevent-synthetic-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.identity.org/deepfake-detection-how-to-spot-and-prevent-synthetic-media/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: c2pa.org  
-   Link: <a href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/faqs/</a>  
+   Link:<a href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/faqs/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spec.c2pa.org  
-   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html</a>  
+   Link:<a href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.07436v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.07436v1</a>  
+   Link:<a href="https://arxiv.org/html/2410.07436v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.07436v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fcc.gov  
    Title: proposes 6 million fine deepfake robocalls around nh primary  
-   Link: <a href="https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary</a>  
+   Link:<a href="https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: c2pa.wiki  
    Title: Frequently Asked Questions (FAQ)  
-   Link: <a href="https://c2pa.wiki/getting-started/faq/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/getting-started/faq/</a>  
+   Link:<a href="https://c2pa.wiki/getting-started/faq/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/getting-started/faq/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How to Detect Deepfakes: The Science of Recognizing AI Generated Content  
-   Link: <a href="https://www.youtube.com/watch?v=GMoOCKkcd_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GMoOCKkcd_w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Ryzen AI PRO and McAfee Detect Deepfake Scams in Real Time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GMoOCKkcd_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GMoOCKkcd_w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Ryzen AI PRO and McAfee Detect Deepfake Scams in Real Time...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Ryzen AI PRO and Mc Afee Detect Deepfake Scams in Real Time  
-   Link: <a href="https://www.youtube.com/watch?v=bFykLbe46Jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bFykLbe46Jw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice Clone Scams: AI Tools Used for Fraud | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bFykLbe46Jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bFykLbe46Jw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice Clone Scams: AI Tools Used for Fraud | WION Podcast...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Voice Clone Scams: AI Tools Used for Fraud | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=QeWxY4E3UCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QeWxY4E3UCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did New Hampshire voters receive a Biden deepfake robocall telling them not to vote? • FRANCE 24...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QeWxY4E3UCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QeWxY4E3UCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did New Hampshire voters receive a Biden deepfake robocall telling them not to vote? • FRANCE 24...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TkgKIIuSybc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TkgKIIuSybc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Texas-Based Companies Linked to Deepfake of President Biden&#x27;s Voice...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TkgKIIuSybc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TkgKIIuSybc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Texas-Based Companies Linked to Deepfake of President Biden&#x27;s Voice...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
    Title: AP News Fake Biden robocall being investigated in New Hampshire  
-   Link: <a href="https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 a year of unprecedented election disinformation around the world. Generative AI deepfakes already have appeared in campaign ads in t...</p></details>
+   Link:<a href="https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/new-hampshire-primary-biden-ai-deepfake-robocall-f3469ceb6dd613079092287994663db5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 a year of unprecedented election disinformation around the world. Generative AI deepfakes already have appeared in campaign ads in t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: consumer.ftc.gov  
    Title: All he needs is a short audio clip of your family member's voice.Read more  
-   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceScammers use AI to enhance their family emergency schemesMarch 17, 2023 — 20 Mar 2023 — A scammer could use AI to clone th...</p></details>
+   Link:<a href="https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceScammers use AI to enhance their family emergency schemesMarch 17, 2023 — 20 Mar 2023 — A scammer could use AI to clone th...</p></details>
    Published: March 17, 2023  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: The Guardian UK engineering firm Arup falls victim to £20m deepfake scam  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Un empleado fue engañado al transferir HK$200m (£20m) a los criminales en Hong Kong en febrero. La llamada era una falsificación en la qu...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Un empleado fue engañado al transferir HK$200m (£20m) a los criminales en Hong Kong en febrero. La llamada era una falsificación en la qu...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: apnews.com  
    Title: biden robocalls ai new hampshire charges fines 9e9cc63a71eb9c78b9bb0d1ec2aa6e9c  
-   Link: <a href="https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c</a>  
+   Link:<a href="https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: publicmediaalliance.org  
    Title: Public Media Alliance New technology to show why images and video are  
-   Link: <a href="https://www.publicmediaalliance.org/new-technology-to-show-why-images-and-video-are-genuine-launches-on-bbc-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.publicmediaalliance.org/new-technology-to-show-why-images-and-video-are-genuine-launches-on-bbc-news/</a>  
+   Link:<a href="https://www.publicmediaalliance.org/new-technology-to-show-why-images-and-video-are-genuine-launches-on-bbc-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.publicmediaalliance.org/new-technology-to-show-why-images-and-video-are-genuine-launches-on-bbc-news/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: apnews.com  
    Title: ai robocall biden new hampshire primary 2024 f94aa2d7f835ccc3cc254a90cd481a99  
-   Link: <a href="https://apnews.com/article/ai-robocall-biden-new-hampshire-primary-2024-f94aa2d7f835ccc3cc254a90cd481a99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ai-robocall-biden-new-hampshire-primary-2024-f94aa2d7f835ccc3cc254a90cd481a99</a>  
+   Link:<a href="https://apnews.com/article/ai-robocall-biden-new-hampshire-primary-2024-f94aa2d7f835ccc3cc254a90cd481a99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ai-robocall-biden-new-hampshire-primary-2024-f94aa2d7f835ccc3cc254a90cd481a99</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/biden-robocalls-ai-magician-new-hampshire-louisiana-155b3ffe9d24048f3380104f95b48a57" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/biden-robocalls-ai-magician-new-hampshire-louisiana-155b3ffe9d24048f3380104f95b48a57</a>  
+   Link:<a href="https://apnews.com/article/biden-robocalls-ai-magician-new-hampshire-louisiana-155b3ffe9d24048f3380104f95b48a57" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/biden-robocalls-ai-magician-new-hampshire-louisiana-155b3ffe9d24048f3380104f95b48a57</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: apnews.com  
    Title: deepfake trump ai biden tiktok 72194f59823037391b3888a1720ba7c2  
-   Link: <a href="https://apnews.com/article/deepfake-trump-ai-biden-tiktok-72194f59823037391b3888a1720ba7c2" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/deepfake-trump-ai-biden-tiktok-72194f59823037391b3888a1720ba7c2</a>  
+   Link:<a href="https://apnews.com/article/deepfake-trump-ai-biden-tiktok-72194f59823037391b3888a1720ba7c2" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/deepfake-trump-ai-biden-tiktok-72194f59823037391b3888a1720ba7c2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/artificial-intelligence-local-races-deepfakes-2024-1d5080a5c916d5ff10eadd1d81f43dfd" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/artificial-intelligence-local-races-deepfakes-2024-1d5080a5c916d5ff10eadd1d81f43dfd</a>  
+   Link:<a href="https://apnews.com/article/artificial-intelligence-local-races-deepfakes-2024-1d5080a5c916d5ff10eadd1d81f43dfd" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/artificial-intelligence-local-races-deepfakes-2024-1d5080a5c916d5ff10eadd1d81f43dfd</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: biden robocall indicted primary  
-   Link: <a href="https://www.theguardian.com/us-news/article/2024/may/23/biden-robocall-indicted-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/may/23/biden-robocall-indicted-primary</a>  
+   Link:<a href="https://www.theguardian.com/us-news/article/2024/may/23/biden-robocall-indicted-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/may/23/biden-robocall-indicted-primary</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge</a>  
+   Link:<a href="https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: consumer.ftc.gov  
    Title: fighting back against harmful voice cloning  
-   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning</a>  
+   Link:<a href="https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12508882/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12508882/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12508882/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12508882/</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/b977e8d4-664c-4ae4-8a8e-eb93bdf785ea" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b977e8d4-664c-4ae4-8a8e-eb93bdf785ea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudsters used a digitally cloned version of a senior manager during a video conference to order financial transfers. This incident, one...</p></details>
+   Link:<a href="https://www.ft.com/content/b977e8d4-664c-4ae4-8a8e-eb93bdf785ea" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b977e8d4-664c-4ae4-8a8e-eb93bdf785ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudsters used a digitally cloned version of a senior manager during a video conference to order financial transfers. This incident, one...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/europol/videos/icymi-last-week-the-europol-innovation-lab-published-an-observatory-report-on-de/3144223835815985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/europol/videos/icymi-last-week-the-europol-innovation-lab-published-an-observatory-report-on-de/3144223835815985/</a>  
+   Link:<a href="https://www.facebook.com/europol/videos/icymi-last-week-the-europol-innovation-lab-published-an-observatory-report-on-de/3144223835815985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/europol/videos/icymi-last-week-the-europol-innovation-lab-published-an-observatory-report-on-de/3144223835815985/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399422607_Deepfake_detection_critical_review_of_state-of-the-art_approaches_and_future_perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399422607_Deepfake_detection_critical_review_of_state-of-the-art_approaches_and_future_perspectives</a>  
+   Link:<a href="https://www.researchgate.net/publication/399422607_Deepfake_detection_critical_review_of_state-of-the-art_approaches_and_future_perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399422607_Deepfake_detection_critical_review_of_state-of-the-art_approaches_and_future_perspectives</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mcafee.com  
-   Link: <a href="https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/</a>  
+   Link:<a href="https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: aidailyshot.com  
-   Link: <a href="https://aidailyshot.com/blog/ai-deepfake-corporate-video-detection-tools-2026" target="_blank" rel="noopener noreferrer nofollow">https://aidailyshot.com/blog/ai-deepfake-corporate-video-detection-tools-2026</a>  
+   Link:<a href="https://aidailyshot.com/blog/ai-deepfake-corporate-video-detection-tools-2026" target="_blank" rel="noopener noreferrer nofollow">https://aidailyshot.com/blog/ai-deepfake-corporate-video-detection-tools-2026</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
+   Link:<a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/tech/ai-[voice-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/ai-[voice-scams</a>  
+   Link:<a href="https://www.foxnews.com/tech/ai-[voice-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/ai-[voice-scams</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/samuel.jarman/posts/ai-voice-cloning-scams-are-becoming-increasingly-convincing-how-do-you-verify-un/1048953027795302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samuel.jarman/posts/ai-voice-cloning-scams-are-becoming-increasingly-convincing-how-do-you-verify-un/1048953027795302/</a>  
+   Link:<a href="https://www.facebook.com/samuel.jarman/posts/ai-voice-cloning-scams-are-becoming-increasingly-convincing-how-do-you-verify-un/1048953027795302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samuel.jarman/posts/ai-voice-cloning-scams-are-becoming-increasingly-convincing-how-do-you-verify-un/1048953027795302/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: limablog.org  
-   Link: <a href="https://limablog.org/ai-based-deepfake-detection-in-judicial-proceedings-a-socio-technical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://limablog.org/ai-based-deepfake-detection-in-judicial-proceedings-a-socio-technical-perspective/</a>  
+   Link:<a href="https://limablog.org/ai-based-deepfake-detection-in-judicial-proceedings-a-socio-technical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://limablog.org/ai-based-deepfake-detection-in-judicial-proceedings-a-socio-technical-perspective/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: itic.org  
-   Link: <a href="https://www.itic.org/policy/ITI_AIContentAuthorizationPolicy_122123.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itic.org/policy/ITI_AIContentAuthorizationPolicy_122123.pdf</a>  
+   Link:<a href="https://www.itic.org/policy/ITI_AIContentAuthorizationPolicy_122123.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itic.org/policy/ITI_AIContentAuthorizationPolicy_122123.pdf</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-claim/
 description: Focused pages that expand on Name Claim.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_claim_naming_ad2b46
 parent_title: Name Claim
@@ -16,7 +16,7 @@ parent_permalink: /name-claim/
 
 # Explore Topics in Name Claim
 
-The following pages expand on the main **[Name Claim]({{ '/name-claim/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Name Claim]({{ '/name-claim/' | relative_url }})** page and cover its key branches in.
 
 - [AI Claims]({{ '/ai-claims/' | relative_url }})
 - [Search Wording]({{ '/search-wording/' | relative_url }})

@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_eng
 
 ## Introduction
 
-Engagement-based ranking systems are designed to predict what users are most likely to interact with next. In practice, that means feeds often give extra visibility to content that attracts clicks, replies, shares, reactions or long viewing times. The problem is that [outrage]({{ 'outrage/' | relative_url }}) frequently generates exactly those signals. An angry post may attract supporters, critics, [fact-checkers]({{ 'fact-checkers/' | relative_url }}), mockery, arguments and repeat sharing all at once. To a ranking system optimised for engagement, those reactions can look like success. As a result, content that provokes anger, hostility or disbelief can receive more reach than calmer, more nuanced material. Research increasingly suggests that this is not simply a matter of individual bad actors. It is a consequence of how engagement metrics translate human reactions into distribution decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+Engagement-based ranking systems are designed to predict what users are most likely to interact with next. In practice, that means feeds often give extra visibility to content that attracts clicks, replies, shares, reactions or long viewing times. The problem is that [outrage]({{ 'outrage/' | relative_url }}) frequently generates exactly those signals. An angry post may attract supporters, critics, [fact-checkers]({{ 'fact-checkers/' | relative_url }}), mockery, arguments and repeat sharing all at once. To a ranking system optimised for engagement, those reactions can look like success. As a result, content that provokes anger, hostility or disbelief can receive more reach than calmer, more nuanced material. Research increasingly suggests that this is not simply a matter of individual bad actors. It is a consequence of how engagement metrics translate human reactions into distribution decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-1-dark.svg" | relative_url }}" alt="Outrage Ranking illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ Most large social platforms no longer rely primarily on chronological feeds. Ins
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Likes and reactions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[niemanlab.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</span></span></span>
+* Likes and reactions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[niemanlab.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</span></span></span>
 * Comments and replies
 * Shares, reposts and quote posts
 * Click-throughs
@@ -300,7 +300,7 @@ Most large social platforms no longer rely primarily on chronological feeds. Ins
 
 </div>
 
-These measures are attractive because they are easy to record at enormous scale. They provide a continuous stream of behavioural data that can be used to predict future engagement. However, they measure activity rather than quality, accuracy or social value. A ranking model may know that a post generated thousands of comments, but not whether those comments reflected agreement, anger, correction or confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+These measures are attractive because they are easy to record at enormous scale. They provide a continuous stream of behavioural data that can be used to predict future engagement. However, they measure activity rather than quality, accuracy or social value. A ranking model may know that a post generated thousands of comments, but not whether those comments reflected agreement, anger, correction or confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 This distinction matters because many forms of negative attention look similar to positive attention when reduced to numerical engagement signals. A user who shares a post to condemn it still contributes to its visibility. A user who replies to correct a false claim still increases interaction counts. The system records engagement first; understanding the reason behind that engagement is much harder.
 
@@ -308,9 +308,9 @@ This distinction matters because many forms of negative attention look similar t
 
 ### Anger creates unusually strong reactions
 
-Human beings are more likely to react to emotionally charged information than to neutral information. Anger, moral condemnation and conflict can motivate people to comment, argue, share warnings and recruit allies. This means emotionally provocative content often generates more measurable activity than cautious or balanced content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">design to amplify moral outrage in online social networks...</span></span></span>
+Human beings are more likely to react to emotionally charged information than to neutral information. Anger, moral condemnation and conflict can motivate people to comment, argue, share warnings and recruit allies. This means emotionally provocative content often generates more measurable activity than cautious or balanced content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">design to amplify moral outrage in online social networks...</span></span></span>
 
-Research on online political behaviour has found that hostility directed at perceived opponents is especially effective at generating sharing. One influential study reported that content attacking political out-groups was substantially more likely to be shared than many other kinds of political content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMCOut-group animosity drives engagement on social media</span><span class="citation-popover-snippet">PMCby S Rathje · 2021 · Cited by 914 — We report evidence that posts about political opponents are substantially more likely to be shared...</span></span></span>
+Research on online political behaviour has found that hostility directed at perceived opponents is especially effective at generating sharing. One influential study reported that content attacking political out-groups was substantially more likely to be shared than many other kinds of political content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMCOut-group animosity drives engagement on social media</span><span class="citation-popover-snippet">PMCby S Rathje · 2021 · Cited by 914 — We report evidence that posts about political opponents are substantially more likely to be shared...</span></span></span>
 
 From the perspective of a ranking algorithm, such posts can appear highly successful because they consistently stimulate interaction.
 
@@ -334,13 +334,13 @@ Imagine a misleading post that attracts:
 
 </div>
 
-All of these actions increase measurable engagement. The system may conclude that the content is highly engaging even though much of the attention is negative. The ranking process therefore risks promoting material that people dislike but cannot ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+All of these actions increase measurable engagement. The system may conclude that the content is highly engaging even though much of the attention is negative. The ranking process therefore risks promoting material that people dislike but cannot ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 This helps explain why some users feel that their feeds contain content that seems designed to provoke rather than inform. The algorithm may be responding to patterns of interaction rather than attempting to maximise user wellbeing.
 
 ### Engagement and satisfaction are not the same thing
 
-A significant recent audit of engagement-based ranking on Twitter/X-style feeds found that algorithmic ranking amplified emotionally charged and out-group-hostile political content compared with a reverse-chronological timeline. Importantly, the researchers also found [evidence]({{ 'evidence/' | relative_url }}) that users did not necessarily prefer the content selected by the engagement-driven system when asked directly about their preferences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+A significant recent audit of engagement-based ranking on Twitter/X-style feeds found that algorithmic ranking amplified emotionally charged and out-group-hostile political content compared with a reverse-chronological timeline. Importantly, the researchers also found [evidence]({{ 'evidence/' | relative_url }}) that users did not necessarily prefer the content selected by the engagement-driven system when asked directly about their preferences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 This highlights an important distinction between revealed preferences and stated preferences.
 
@@ -355,7 +355,7 @@ A person may spend time reacting to an infuriating post without wanting more of 
 
 The influence of outrage is not limited to ranking formulas alone. Platform design choices can increase the weight of emotional reactions.
 
-Internal Facebook documents reported by major news organisations showed that reaction-based signals received elevated importance in parts of the platform's ranking system. At one stage, reactions such as “angry” carried greater ranking value than ordinary likes. Company researchers reportedly warned that this could favour content associated with misinformation, toxicity and outrage because such material generated strong emotional responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</span></span></span>
+Internal Facebook documents reported by major news organisations showed that reaction-based signals received elevated importance in parts of the platform's ranking system. At one stage, reactions such as “angry” carried greater ranking value than ordinary likes. Company researchers reportedly warned that this could favour content associated with misinformation, toxicity and outrage because such material generated strong emotional responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</span></span></span>
 
 The broader lesson is not that every platform deliberately promotes anger. Rather, systems that heavily reward strong reactions can unintentionally create incentives for content creators to produce material that provokes those reactions.
 
@@ -368,11 +368,11 @@ Over time, users and publishers learn what works. If outrage repeatedly earns gr
 * More dramatic framing
 * Simpler villains and heroes
 * Greater certainty and less nuance
-* More emotionally charged language <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[academic.oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+* More emotionally charged language<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[academic.oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 </div>
 
-The result can be a feedback loop in which engagement signals encourage content styles that generate even more engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">design to amplify moral outrage in online social networks...</span></span></span>
+The result can be a feedback loop in which engagement signals encourage content styles that generate even more engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">design to amplify moral outrage in online social networks...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oo3vqOKyoRo" title="53. The Impact of Political Attacks on Social Media - Ariel Hasell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oo3vqOKyoRo" target="_blank" rel="noopener noreferrer">53. The Impact of Political Attacks on Social Media - Ariel Hasell</a></p><p class="youtube-embed-meta">Channel: Outrage Overload &middot; Views: 25 &middot; Uploaded: December 2024 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oo3vqOKyoRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oo3vqOKyoRo">Open on YouTube</a></p></div></div></div>
@@ -399,7 +399,7 @@ Those are not the same thing.
 
 Large amounts of criticism can still increase distribution.
 
-Research on accuracy prompts provides an important counterpoint. Studies have found that simply encouraging people to think about whether information is accurate can improve the quality of what they choose to share. This suggests that engagement-driven environments often shift attention away from truthfulness and towards reaction. Reintroducing accuracy as a conscious consideration can partially counter that effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Sage Journals+3Nature+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: experimental evidence for a scalable accuracy nudge intervention. Psychol Sci. 31, 770–780 (2020). Articl...</span></span></span>
+Research on accuracy prompts provides an important counterpoint. Studies have found that simply encouraging people to think about whether information is accurate can improve the quality of what they choose to share. This suggests that engagement-driven environments often shift attention away from truthfulness and towards reaction. Reintroducing accuracy as a conscious consideration can partially counter that effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Sage Journals+3Nature+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: experimental evidence for a scalable accuracy nudge intervention. Psychol Sci. 31, 770–780 (2020). Articl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-3-dark.svg" | relative_url }}" alt="Outrage Ranking illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_engagement_ranking_o_95c154-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -407,185 +407,185 @@ Research on accuracy prompts provides an important counterpoint. Studies have fo
 
 The most important point is not that anger is always irrational or that emotional content should never spread. Public outrage can draw attention to genuine problems, injustice or misconduct. The risk arises when ranking systems treat intensity of reaction as a proxy for value.
 
-Because outrage generates comments, shares, [corrections]({{ 'corrections/' | relative_url }}) and arguments, it often produces the behavioural signals that engagement-based systems are designed to reward. When those signals become the primary route to visibility, feeds can end up favouring content that provokes people over content that informs them. For anyone practising critical thinking in the age of social media and AI, recognising that difference is essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
+Because outrage generates comments, shares, [corrections]({{ 'corrections/' | relative_url }}) and arguments, it often produces the behavioural signals that engagement-based systems are designed to reward. When those signals become the primary route to visibility, feeds can end up favouring content that provokes people over content that informs them. For anyone practising critical thinking in the age of social media and AI, recognising that difference is essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QuvLvpmXBt8" title="How Social Media Has Been WEAPONIZED..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QuvLvpmXBt8" target="_blank" rel="noopener noreferrer">How Social Media Has Been WEAPONIZED...</a></p><p class="youtube-embed-meta">Channel: Alexander Ayling &middot; Views: 2.5K &middot; Uploaded: October 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QuvLvpmXBt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QuvLvpmXBt8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why angry posts keep climbing feeds. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why angry posts keep climbing feeds. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly addresses how engagement-driven ranking can elevate outrage and division.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how engagement-driven ranking can elevate outrage and division.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Explains the business logic behind attention capture and engagement optimisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the business logic behind attention capture and engagement optimisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Helps readers understand the human consequences of engagement-focused environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the human consequences of engagement-focused environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
         
-        <p class="fr-book-desc">Provides a broader framework for understanding why emotionally engaging content often dominates public attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader framework for understanding why emotionally engaging content often dominates public attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="outrage-ranking-why-angry-posts-keep-climbing-feeds-critical-thinking-in-the-age-of-social-media-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,161 +791,161 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — We found that the engagement-ba...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>design to amplify moral outrage in online social networks...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>design to amplify moral outrage in online social networks...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOut-group animosity drives engagement on social media  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Rathje · 2021 · Cited by 914 — We report evidence that posts about political opponents are substantially more likely to be shared...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Rathje · 2021 · Cited by 914 — We report evidence that posts about political opponents are substantially more likely to be shared...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf062/8052060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 138 — Twitter&#x27;s engagement-based rank...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf062/8052060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 138 — Twitter&#x27;s engagement-based rank...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: experimental evidence for a scalable [accuracy nudge](&amp;#123;&amp;#123; &#x27;accuracy-nudge/&#x27; | relative_url &amp;#125;&amp;#125;) intervention. Psychol Sci. 31, 770–780 (2020). Articl...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: experimental evidence for a scalable [accuracy nudge](&amp;#123;&amp;#123; &#x27;accuracy-nudge/&#x27; | relative_url &amp;#125;&amp;#125;) intervention. Psychol Sci. 31, 770–780 (2020). Articl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[2021], who find no relationship between cognitive reflection and fake news sharing on...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[2021], who find no relationship between cognitive reflection and fake news sharing on...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 25 — These trends may exacerbate polarization, ra...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 25 — These trends may exacerbate polarization, ra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link:<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/?locale=en_GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link:<a href="https://www.facebook.com/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd shares - especially posts that trigger anger and outrage...</p></details>
+   Link:<a href="https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd shares - especially posts that trigger anger and outrage...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/30/4/zmaf009/8173297" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/30/4/zmaf009/8173297</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cross-national examination of the effects of accuracy nudges...by M Chan · 2025 · Cited by 9 — The belief in and spread of misinformatio...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/30/4/zmaf009/8173297" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/30/4/zmaf009/8173297</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cross-national examination of the effects of accuracy nudges...by M Chan · 2025 · Cited by 9 — The belief in and spread of misinformatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention. Psychological Science (2020). The Psych...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention. Psychological Science (2020). The Psych...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Interventions that shift users attention to...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 364 — Interventions that shift users attention to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf062" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf062</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>engagement-based ranking algorithm amplifies emotionally charged, out-group hostile content that users say makes them feel worse about th...</p></details>
+   Link:<a href="https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf062" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf062</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>engagement-based ranking algorithm amplifies emotionally charged, out-group hostile content that users say makes them feel worse about th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40070432/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40070432/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — Twitter&#x27;s engagement-based ranking a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40070432/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40070432/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 180 — Twitter&#x27;s engagement-based ranking a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</p></details>
+   Link:<a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabMore internal documents show how Facebook&#x27;s algorithm...Oct 26, 2021 — The ranking algorithm treated reactions such as “angry...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: washingtonpost.com  
    Title: facebook angry emoji algorithm  
-   Link: <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s formula fostered rage and misinformation. Facebook engineers gave extra value to emoji reactions, including &#x27;angry,&#x27; pushing more...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s formula fostered rage and misinformation. Facebook engineers gave extra value to emoji reactions, including &#x27;angry,&#x27; pushing more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221092342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature, 1–...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221092342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature, 1–...</p></details>
 
 6
 
 3. Available from [https://doi.org/10.1038/s41586-021-03344-2...Read](https://doi.org/10.1038/s41586-021-03344-2...Read) more
 
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277334/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8277334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Pócs · 2021 · Cited by 31 — This research aimed at understanding how Facebook users&#x27; interactions correlate with organic reach an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277334/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8277334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Pócs · 2021 · Cited by 31 — This research aimed at understanding how Facebook users&#x27; interactions correlate with organic reach an...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389590032_Engagement_user_satisfaction_and_the_amplification_of_divisive_content_on_social_media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389590032_Engagement_user_satisfaction_and_the_amplification_of_divisive_content_on_social_media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Engagement, user satisfaction, and the amplification...28 Mar 2026 — Experimental research indicates that engagement-based algorit...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389590032_Engagement_user_satisfaction_and_the_amplification_of_divisive_content_on_social_media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389590032_Engagement_user_satisfaction_and_the_amplification_of_divisive_content_on_social_media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Engagement, user satisfaction, and the amplification...28 Mar 2026 — Experimental research indicates that engagement-based algorit...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACCURACY Definition &amp; Meaning4 days ago — The meaning of &lt;b&gt;ACCURACY&lt;/b&gt; is freedom from mistake or error: correctness. degree of confor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACCURACY Definition &amp; Meaning4 days ago — The meaning of &lt;b&gt;ACCURACY&lt;/b&gt; is freedom from mistake or error: correctness. degree of confor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40blazecurrie/the-algorithm-of-outrage-e4795d444684" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blazecurrie/the-algorithm-of-outrage-e4795d444684</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithm of OutrageHow social media brings out the worst in us. · The Machine Measures Attention; Anger Gets the Most Attention · Ou...</p></details>
+   Link:<a href="https://medium.com/%40blazecurrie/the-algorithm-of-outrage-e4795d444684" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blazecurrie/the-algorithm-of-outrage-e4795d444684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithm of OutrageHow social media brings out the worst in us. · The Machine Measures Attention; Anger Gets the Most Attention · Ou...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>+ -cy Pronunciation edit (Received Pronunciation) A Vocabulary of the Common Errors of Speech [1]...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>+ -cy Pronunciation edit (Received Pronunciation) A Vocabulary of the Common Errors of Speech [1]...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.tulane.edu  
    Title: A new Tulane University study explains why politically charged  
-   Link: <a href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow">https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clicks: Study shows how political outrage fuels social...Oct 9, 2024 — Rage clicks: Study shows how political outrage fuels social media...</p></details>
+   Link:<a href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow">https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clicks: Study shows how political outrage fuels social...Oct 9, 2024 — Rage clicks: Study shows how political outrage fuels social media...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/de681ff508f2aadc5dca158d1f9da1b74c527c11" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/de681ff508f2aadc5dca158d1f9da1b74c527c11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ngagement-based ranking algorithm amplifies emotionally charged, out-group hostile...Read more...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/de681ff508f2aadc5dca158d1f9da1b74c527c11" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/de681ff508f2aadc5dca158d1f9da1b74c527c11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ngagement-based ranking algorithm amplifies emotionally charged, out-group hostile...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hm tends to amplify emotionally charged content, particularly that which expresses anger and...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hm tends to amplify emotionally charged content, particularly that which expresses anger and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the imp...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the imp...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: peasec.de  
    Title: Mitigating Misinformation Sharing on Social Media through  
-   Link: <a href="https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nudge presentation has the potential to reduce the sharing of misinformation on social media. All experimental and control groups taken t...</p></details>
+   Link:<a href="https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.peasec.de/paper/2025/2025_BiselliHartwigReuter_PersonalisedNudges_CSCW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nudge presentation has the potential to reduce the sharing of misinformation on social media. All experimental and control groups taken t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedailytexan.com  
    Title: the outrage algorithm social media benefits from division  
-   Link: <a href="https://thedailytexan.com/2025/04/01/the-outrage-algorithm-social-media-benefits-from-division/" target="_blank" rel="noopener noreferrer nofollow">https://thedailytexan.com/2025/04/01/the-outrage-algorithm-social-media-benefits-from-division/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The outrage algorithm: Social media benefits from division1 Apr 2025 — Social media platforms are designed to maximize engagement, and st...</p></details>
+   Link:<a href="https://thedailytexan.com/2025/04/01/the-outrage-algorithm-social-media-benefits-from-division/" target="_blank" rel="noopener noreferrer nofollow">https://thedailytexan.com/2025/04/01/the-outrage-algorithm-social-media-benefits-from-division/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The outrage algorithm: Social media benefits from division1 Apr 2025 — Social media platforms are designed to maximize engagement, and st...</p></details>

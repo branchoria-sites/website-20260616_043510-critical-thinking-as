@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-index/
 description: Focused pages that expand on Critical thinking in the age of social media
   and A.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952
 parent_title: Critical thinking in the age of social media and A
@@ -17,7 +17,7 @@ parent_permalink: /critical-thinking-in-the-age-of-social/
 
 # Explore Topics in Critical thinking in the age of social media and A
 
-The following pages expand on the main **[Critical thinking in the age of social media and A]({{ '/critical-thinking-in-the-age-of-social/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Critical thinking in the age of social media and A]({{ '/critical-thinking-in-the-age-of-social/' | relative_url }})** page and cover its key branches in.
 
 - [Accuracy Nudge]({{ '/accuracy-nudge/' | relative_url }})
 - [Hallucinations]({{ '/hallucinations/' | relative_url }})

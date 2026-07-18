@@ -428,9 +428,9 @@ Algorithmic ranking does not make content automatically false, manipulative or d
 
 A search begins with your question. A feed often begins with a platform’s guess. That difference matters because search and feed ranking create different habits of attention. In a search, the user usually knows they are seeking information and can compare results against an intention: “Which result answers my query?” In a social feed, the question is often supplied after the fact: a clip, screenshot or claim appears, and only then does the user decide whether it matters.
 
-YouTube’s own explanation makes this distinction visible. It says recommendations appear across the homepage, Up Next, Shorts and other surfaces, and that the homepage is primarily personalised. It also says YouTube learns from watch history, search history, subscriptions, likes, dislikes, “Not interested” feedback and “Don’t recommend channel” feedback. In other words, even when a user is not searching, past behaviour can shape what appears next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/youtube/answer/16089387?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help How You Tube recommendations work</span><span class="citation-popover-snippet">Google HelpHow YouTube recommendations work - YouTube Help...</span></span></span>
+YouTube’s own explanation makes this distinction visible. It says recommendations appear across the homepage, Up Next, Shorts and other surfaces, and that the homepage is primarily personalised. It also says YouTube learns from watch history, search history, subscriptions, likes, dislikes, “Not interested” feedback and “Don’t recommend channel” feedback. In other words, even when a user is not searching, past behaviour can shape what appears next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/youtube/answer/16089387?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help How You Tube recommendations work</span><span class="citation-popover-snippet">Google HelpHow YouTube recommendations work - YouTube Help...</span></span></span>
 
-TikTok describes the same general mechanism in its own terms: a recommender system selects from eligible content and ranks it according to predictions about what a user is likely to be interested in. It may also use patterns from people with similar interests, and it says feeds such as For You, Following, Friends and LIVE can remain unique to each person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.tiktok.com">[TikTok Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.tiktok.com</span><span class="citation-popover-title">Tik Tok Supportsupport.tiktok.com</span><span class="citation-popover-snippet">Tik Tok Supportsupport.tiktok.com</span></span></span>
+TikTok describes the same general mechanism in its own terms: a recommender system selects from eligible content and ranks it according to predictions about what a user is likely to be interested in. It may also use patterns from people with similar interests, and it says feeds such as For You, Following, Friends and LIVE can remain unique to each person.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.tiktok.com">[TikTok Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.tiktok.com</span><span class="citation-popover-title">Tik Tok Supportsupport.tiktok.com</span><span class="citation-popover-snippet">Tik Tok Supportsupport.tiktok.com</span></span></span>
 
 That is why the phrase “the algorithm showed me” is not a complete explanation. A feed may include material because it matches your behaviour, because [similar users]({{ 'similar-users/' | relative_url }}) reacted to it, because it is rising quickly, because it fits a platform’s policy rules, because it fills a diversity slot, because a creator paid to promote it, or because the system is testing whether you will engage. The post is the visible object. The ranking process is the hidden route.
 
@@ -438,11 +438,11 @@ That is why the phrase “the algorithm showed me” is not a complete explanati
 
 Most large social platforms do not simply sort posts by time. They estimate the likely value of showing one item rather than another. In practice, that “value” is usually a bundle of predicted actions: whether you will watch, pause, click, like, share, comment, follow, hide, report, subscribe or keep scrolling.
 
-Meta says its AI systems predict how valuable a piece of content might be to a user so that it can be shown sooner, and gives sharing as one example of a signal that may indicate interest. It also says no single prediction is a perfect gauge, so ranking uses many predictions in combination, including behavioural signals and user feedback from surveys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook How AI Influences What You See on Facebook and Instagram</span><span class="citation-popover-snippet">About Facebook How AI Influences What You See on Facebook and Instagram</span></span></span>
+Meta says its AI systems predict how valuable a piece of content might be to a user so that it can be shown sooner, and gives sharing as one example of a signal that may indicate interest. It also says no single prediction is a perfect gauge, so ranking uses many predictions in combination, including behavioural signals and user feedback from surveys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook How AI Influences What You See on Facebook and Instagram</span><span class="citation-popover-snippet">About Facebook How AI Influences What You See on Facebook and Instagram</span></span></span>
 
 This is the mechanism behind a crucial critical-thinking point: a highly ranked post is not necessarily the most accurate, important or representative post. It is a post that performed well against ranking criteria. Those criteria may overlap with quality, but they are not the same thing. A careful investigation, a misleading rumour, a funny clip and an angry reaction can all be “successful” in a ranking system if they produce strong signals.
 
-Recommendation systems are therefore distribution engines, not truth engines. Arvind Narayanan’s explanation for the Knight First Amendment Institute puts the point plainly: when people post online, who hears them is determined in large part by recommender algorithms, and these systems are central to platforms such as Facebook, YouTube and TikTok. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Open source on knightcolumbia.org.</span></span></span>
+Recommendation systems are therefore distribution engines, not truth engines. Arvind Narayanan’s explanation for the Knight First Amendment Institute puts the point plainly: when people post online, who hears them is determined in large part by recommender algorithms, and these systems are central to platforms such as Facebook, YouTube and TikTok.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Open source on knightcolumbia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277-Illustration-1-dark.svg" | relative_url }}" alt="Ranking illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -450,7 +450,7 @@ Recommendation systems are therefore distribution engines, not truth engines. Ar
 
 The exact ranking formula varies by platform and changes over time, but the broad signal categories are understandable. A reader does not need to know the source code to ask better questions about distribution.
 
-Common ranking signals include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainforge.ai">[brainforge.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainforge.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Common ranking signals include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainforge.ai">[brainforge.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainforge.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 * **Your own behaviour:** what you watch, search, like, share, pause on, replay, hide or report.
 * **People like you:** what users with similar patterns have watched or engaged with.
@@ -459,7 +459,7 @@ Common ranking signals include: <span class="citation-chip-wrap"><a class="citat
 * **Relationship signals:** whether you follow the creator, message them, visit their profile or interact with mutual connections.
 * **Platform constraints:** safety rules, quality demotions, diversity injections, local law, advertising systems and product priorities.
 
-X’s public recommendation repository gives a rare glimpse of how many components can sit behind a feed. Its README describes the recommendation algorithm as services and jobs responsible for feeds across surfaces such as For You, Search, Explore and Notifications. It lists components for real-time user actions, explicit signals such as likes and replies, implicit signals such as profile visits and post clicks, graph-based relationship features, reputation calculations and trust-and-safety models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/twitter/the-algorithm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm · GitHub...</span></span></span>
+X’s public recommendation repository gives a rare glimpse of how many components can sit behind a feed. Its README describes the recommendation algorithm as services and jobs responsible for feeds across surfaces such as For You, Search, Explore and Notifications. It lists components for real-time user actions, explicit signals such as likes and replies, implicit signals such as profile visits and post clicks, graph-based relationship features, reputation calculations and trust-and-safety models.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/twitter/the-algorithm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm · GitHub...</span></span></span>
 
 That complexity matters because users often interpret ranking as endorsement: “This is everywhere, so it must be important.” But a post can be everywhere in one person’s feed because of a narrow behavioural loop. If you watch three videos about a rumour, the platform may infer interest even if your actual motive was scepticism, anxiety or anger. The system observes behaviour; it cannot always infer why the behaviour occurred.
 
@@ -472,9 +472,9 @@ The most important ranking mistake for critical thinking is confusing engagement
 
 This is why “I only watched because it annoyed me” still matters. Many systems learn from attention, not from your private judgement. You may think you are rejecting a claim, while your behaviour helps mark the topic, format or creator as relevant to you. Platforms do provide corrective controls, but those controls are not always obvious, and their effects can vary by surface.
 
-Research on YouTube recommendation controls illustrates the point. A 2023 audit using simulated users found that watching a topic could increase its presence on the homepage, and that the “Not interested” button was the most effective tested method for reducing unwanted homepage recommendations, removing 88% on average in the topics tested. But the same study found that 44% of surveyed adult YouTube users in the US were unaware the button existed, and that the controls had much less effect on video-page recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.14551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How to Train Your You Tube Recommender to Avoid Unwanted Videos</span><span class="citation-popover-snippet">How to Train Your YouTube Recommender to Avoid Unwanted VideosJuly 27, 2023...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
+Research on YouTube recommendation controls illustrates the point. A 2023 audit using simulated users found that watching a topic could increase its presence on the homepage, and that the “Not interested” button was the most effective tested method for reducing unwanted homepage recommendations, removing 88% on average in the topics tested. But the same study found that 44% of surveyed adult YouTube users in the US were unaware the button existed, and that the controls had much less effect on video-page recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.14551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How to Train Your You Tube Recommender to Avoid Unwanted Videos</span><span class="citation-popover-snippet">How to Train Your YouTube Recommender to Avoid Unwanted VideosJuly 27, 2023...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
 
-Recent TikTok research points to a similar problem of user agency. A 2026 study found that TikTok’s For You Page was sensitive to both explicit and implicit signals, but that users could struggle to stop unwanted topics from returning; the most effective explicit signal, marking a video as “Not Interested”, was described as unintuitively buried in the interface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.10690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">When &#x27;For You&#x27; Isn&#x27;t For You: Measuring User Agency in TikTok&#x27;s Algorithmic FeedMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Recent TikTok research points to a similar problem of user agency. A 2026 study found that TikTok’s For You Page was sensitive to both explicit and implicit signals, but that users could struggle to stop unwanted topics from returning; the most effective explicit signal, marking a video as “Not Interested”, was described as unintuitively buried in the interface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.10690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">When &#x27;For You&#x27; Isn&#x27;t For You: Measuring User Agency in TikTok&#x27;s Algorithmic FeedMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 The critical-thinking lesson is practical: passive irritation is still data. If a topic is unpleasant, misleading or compulsive, scrolling past may be a weaker signal than explicitly hiding it, reporting it where appropriate, clearing history, switching to a following-only feed, or leaving the platform surface entirely.
 
@@ -503,9 +503,9 @@ Ranking also affects perceived consensus. If a feed repeatedly shows the same cl
 
 Personalisation can feel expansive because it keeps producing new posts. Yet the variety may be shallower than it appears: different creators, sounds and formats can still point towards the same emotional or ideological groove. The user feels busy, informed or immersed, while the range of sources and interpretations quietly shrinks.
 
-TikTok says it tries to diversify recommendations by introducing users to new creators and content, and says it may show material that does not appear relevant to expressed interests. It also says it generally avoids recommending already seen content and may limit or avoid recommending certain permitted content that is not suitable for a general audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.tiktok.com">[TikTok Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.tiktok.com</span><span class="citation-popover-title">Tik Tok Supportsupport.tiktok.com</span><span class="citation-popover-snippet">Tik Tok Supportsupport.tiktok.com</span></span></span>
+TikTok says it tries to diversify recommendations by introducing users to new creators and content, and says it may show material that does not appear relevant to expressed interests. It also says it generally avoids recommending already seen content and may limit or avoid recommending certain permitted content that is not suitable for a general audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.tiktok.com">[TikTok Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.tiktok.com</span><span class="citation-popover-title">Tik Tok Supportsupport.tiktok.com</span><span class="citation-popover-snippet">Tik Tok Supportsupport.tiktok.com</span></span></span>
 
-But independent audits suggest the balance between reinforcement and exploration is hard to get right. A 2025 sock-puppet audit of TikTok reported strong amplification of content aligned with bots’ interests, with rapid reinforcement typically occurring within the first 200 videos watched; it also found a negative relationship between amplification and exploration, meaning that as interest-aligned content increased, engagement with unseen hashtags declined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.20231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Dynamics of Algorithmic Content Amplification on Tik Tok</span><span class="citation-popover-snippet">Dynamics of Algorithmic Content Amplification on TikTokMarch 26, 2025...</span><span class="citation-popover-meta">Published: March 26, 2025</span></span></span>
+But independent audits suggest the balance between reinforcement and exploration is hard to get right. A 2025 sock-puppet audit of TikTok reported strong amplification of content aligned with bots’ interests, with rapid reinforcement typically occurring within the first 200 videos watched; it also found a negative relationship between amplification and exploration, meaning that as interest-aligned content increased, engagement with unseen hashtags declined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.20231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Dynamics of Algorithmic Content Amplification on Tik Tok</span><span class="citation-popover-snippet">Dynamics of Algorithmic Content Amplification on TikTokMarch 26, 2025...</span><span class="citation-popover-meta">Published: March 26, 2025</span></span></span>
 
 For a reader, the takeaway is not “personalisation is bad”. It is that a personalised feed is a shaped environment. It may be excellent at finding more of what you have already signalled, but weaker at distinguishing curiosity from belief, concern from endorsement, or a temporary interest from a healthy long-term information diet.
 
@@ -513,7 +513,7 @@ For a reader, the takeaway is not “personalisation is bad”. It is that a per
 
 Algorithmic ranking also changes the public information environment around the user. News is no longer encountered only through a newspaper homepage, evening bulletin or direct visit to a trusted outlet. It increasingly appears inside [mixed feeds]({{ 'mixed-feeds/' | relative_url }}) where journalism, influencer commentary, entertainment, advertising, activism, satire, scams and AI-generated material can share the same visual grammar.
 
-The Reuters Institute’s 2025 Digital News Report describes traditional news media as struggling with declining engagement, low trust and stagnant digital subscriptions, while its executive summary highlights an accelerating shift towards social media and video platforms that is fragmenting the alternative media environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">digital news report</span><span class="citation-popover-snippet">digital news report</span></span></span>
+The Reuters Institute’s 2025 Digital News Report describes traditional news media as struggling with declining engagement, low trust and stagnant digital subscriptions, while its executive summary highlights an accelerating shift towards social media and video platforms that is fragmenting the alternative media environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">digital news report</span><span class="citation-popover-snippet">digital news report</span></span></span>
 
 This does not mean institutional journalism is always right or that creators are always unreliable. It means the old cues are weaker. A video can look professional without editorial checks. A local rumour can appear beside a legitimate council update. A screenshot can detach a quote from its date and source. A creator may be knowledgeable in one area and careless in another.
 
@@ -526,9 +526,9 @@ For critical thinking, the ranking question becomes: “Am I seeing the best ava
 
 Platforms increasingly offer explanations and controls: “Why am I seeing this?”, “Not interested”, “Show less”, “Following”, “Favourites”, watch-history deletion, ad preferences and chronological feeds. These tools are worth using, but they are not the same as full user control.
 
-Meta says it has expanded “Why Am I Seeing This?” explanations and centralised controls such as Feed Preferences, Suggested Content Control Centre, “Show more”, “Show less”, chronological feeds and favourites. It also says it releases system cards explaining how ranking systems work and what controls users can use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook How AI Influences What You See on Facebook and Instagram</span><span class="citation-popover-snippet">About Facebook How AI Influences What You See on Facebook and Instagram</span></span></span>
+Meta says it has expanded “Why Am I Seeing This?” explanations and centralised controls such as Feed Preferences, Suggested Content Control Centre, “Show more”, “Show less”, chronological feeds and favourites. It also says it releases system cards explaining how ranking systems work and what controls users can use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook How AI Influences What You See on Facebook and Instagram</span><span class="citation-popover-snippet">About Facebook How AI Influences What You See on Facebook and Instagram</span></span></span>
 
-The European Union’s Digital Services Act has made this issue a legal requirement for many platforms. Article 27 requires online platforms using recommender systems to explain, in plain and intelligible language, the main parameters used and any options users have to modify or influence them. It also says platforms should explain why certain information is suggested and provide accessible functionality where users can select and modify available ranking options. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-digital-services-act.com">[EU Digital Services Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-digital-services-act.com</span><span class="citation-popover-title">EU Digital Services Act Article 27, the Digital Services Act (DSA</span><span class="citation-popover-snippet">EU Digital Services Act Article 27, the Digital Services Act (DSA</span></span></span>
+The European Union’s Digital Services Act has made this issue a legal requirement for many platforms. Article 27 requires online platforms using recommender systems to explain, in plain and intelligible language, the main parameters used and any options users have to modify or influence them. It also says platforms should explain why certain information is suggested and provide accessible functionality where users can select and modify available ranking options.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-digital-services-act.com">[EU Digital Services Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-digital-services-act.com</span><span class="citation-popover-title">EU Digital Services Act Article 27, the Digital Services Act (DSA</span><span class="citation-popover-snippet">EU Digital Services Act Article 27, the Digital Services Act (DSA</span></span></span>
 
 This is progress, but it has limits. A user-facing explanation may say that a post appeared because of prior activity, similar users, location or topic interest, without revealing the relative weight of each factor in the moment. Platforms also have legitimate reasons not to disclose every anti-abuse signal. The practical reader response is to treat controls as steering tools, not as a complete map of the machine.
 
@@ -565,194 +565,194 @@ The practical rule is simple: when a claim finds you, inspect the route. A claim
 The strongest online readers therefore do two things at once. They check whether the claim is true, and they ask why this particular version of the claim reached them in this particular format at this particular moment. That second question is not a distraction from truth. In the age of social media and AI, it is one of the fastest ways back to it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did This Claim Find You?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did This Claim Find You?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains recommendation systems, engagement incentives and content distribution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains recommendation systems, engagement incentives and content distribution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Helps readers understand how opaque algorithms influence outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how opaque algorithms influence outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
-        </h4>
-        <p class="fr-book-author">By Eli Pariser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
+</h4>
+<p class="fr-book-author">By Eli Pariser</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="ranking-why-did-this-claim-find-you-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -768,7 +768,7 @@ The strongest online readers therefore do two things at once. They check whether
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -788,7 +788,7 @@ The strongest online readers therefore do two things at once. They check whether
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -820,7 +820,7 @@ The strongest online readers therefore do two things at once. They check whether
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -872,7 +872,7 @@ The strongest online readers therefore do two things at once. They check whether
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -917,7 +917,7 @@ The strongest online readers therefore do two things at once. They check whether
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -958,220 +958,220 @@ The strongest online readers therefore do two things at once. They check whether
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.google.com  
    Title: Help How You Tube recommendations work  
-   Link: <a href="https://support.google.com/youtube/answer/16089387?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/16089387?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpHow YouTube recommendations work - YouTube Help...</p></details>
+   Link:<a href="https://support.google.com/youtube/answer/16089387?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/16089387?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpHow YouTube recommendations work - YouTube Help...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.tiktok.com  
    Title: Tik Tok Supportsupport.tiktok.com  
-   Link: <a href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow">https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content</a>  
+   Link:<a href="https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content" target="_blank" rel="noopener noreferrer nofollow">https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: github.com  
-   Link: <a href="https://github.com/twitter/the-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/the-algorithm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm · GitHub...</p></details>
+   Link:<a href="https://github.com/twitter/the-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/the-algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm · GitHub...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv How to Train Your You Tube Recommender to Avoid Unwanted Videos  
-   Link: <a href="https://arxiv.org/abs/2307.14551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.14551</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Train Your YouTube Recommender to Avoid Unwanted VideosJuly 27, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.14551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.14551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Train Your YouTube Recommender to Avoid Unwanted VideosJuly 27, 2023...</p></details>
    Published: July 27, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.10690" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.10690</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;For You&#x27; Isn&#x27;t For You: Measuring User Agency in TikTok&#x27;s Algorithmic FeedMay 11, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.10690" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.10690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;For You&#x27; Isn&#x27;t For You: Measuring User Agency in TikTok&#x27;s Algorithmic FeedMay 11, 2026...</p></details>
    Published: May 11, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Dynamics of Algorithmic Content Amplification on Tik Tok  
-   Link: <a href="https://arxiv.org/abs/2503.20231" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.20231</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamics of Algorithmic Content Amplification on TikTokMarch 26, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2503.20231" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.20231</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamics of Algorithmic Content Amplification on TikTokMarch 26, 2025...</p></details>
    Published: March 26, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eu-digital-services-act.com  
    Title: EU Digital Services Act Article 27, the Digital Services Act (DSA)  
-   Link: <a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html</a>  
+   Link:<a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsroom.tiktok.com  
    Title: how tiktok recommends videos for you  
-   Link: <a href="https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you</a>  
+   Link:<a href="https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: transparency.meta.com  
    Title: ig feed recommendations  
-   Link: <a href="https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/</a>  
+   Link:<a href="https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: transparency.meta.com  
    Title: ig feed  
-   Link: <a href="https://transparency.meta.com/features/explaining-ranking/ig-feed/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/ig-feed/</a>  
+   Link:<a href="https://transparency.meta.com/features/explaining-ranking/ig-feed/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/ig-feed/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: transparency.meta.com  
    Title: explaining ranking  
-   Link: <a href="https://transparency.meta.com/features/explaining-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/</a>  
+   Link:<a href="https://transparency.meta.com/features/explaining-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/explaining-ranking/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: our podcast digital news report 2025 episode 2 ai and personalised news  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-2-ai-and-personalised-news</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.google.com  
-   Link: <a href="https://research.google.com/pubs/archive/45530.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.google.com/pubs/archive/45530.pdf</a>  
+   Link:<a href="https://research.google.com/pubs/archive/45530.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.google.com/pubs/archive/45530.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: github.com  
-   Link: <a href="https://github.com/xai-org/x-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://github.com/xai-org/x-algorithm</a>  
+   Link:<a href="https://github.com/xai-org/x-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://github.com/xai-org/x-algorithm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DQtJ2C2DM6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DQtJ2C2DM6I</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DQtJ2C2DM6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DQtJ2C2DM6I</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=URI5GsOBznk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=URI5GsOBznk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=URI5GsOBznk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=URI5GsOBznk</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/howyoutubeworks/recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/howyoutubeworks/recommendations/</a>  
+   Link:<a href="https://www.youtube.com/howyoutubeworks/recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/howyoutubeworks/recommendations/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZTWD3-K3r8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTWD3-K3r8w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZTWD3-K3r8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTWD3-K3r8w</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: shaped.ai  
    Title: how youtubes algorithm works  
-   Link: <a href="https://www.shaped.ai/blog/how-youtubes-algorithm-works" target="_blank" rel="noopener noreferrer nofollow">https://www.shaped.ai/blog/how-youtubes-algorithm-works</a>  
+   Link:<a href="https://www.shaped.ai/blog/how-youtubes-algorithm-works" target="_blank" rel="noopener noreferrer nofollow">https://www.shaped.ai/blog/how-youtubes-algorithm-works</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: solomonmg.github.io  
    Title: twitter the algorithm  
-   Link: <a href="https://solomonmg.github.io/post/twitter-the-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://solomonmg.github.io/post/twitter-the-algorithm/</a>  
+   Link:<a href="https://solomonmg.github.io/post/twitter-the-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://solomonmg.github.io/post/twitter-the-algorithm/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: How Social Media Algorithms Actually Work (And How to Beat Them)  
-   Link: <a href="https://www.youtube.com/watch?v=8cQidXgtGmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8cQidXgtGmU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 How Algorithms Shape What You See Online...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8cQidXgtGmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8cQidXgtGmU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 How Algorithms Shape What You See Online...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How Algorithms Shape What You See Online  
-   Link: <a href="https://www.youtube.com/watch?v=ioMx3tqI_VM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ioMx3tqI_VM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Algorithm Explained: How Social Media Decides What You See...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ioMx3tqI_VM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ioMx3tqI_VM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Algorithm Explained: How Social Media Decides What You See...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Algorithm Explained: How Social Media Decides What You See  
-   Link: <a href="https://www.youtube.com/watch?v=cqAwNuERNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqAwNuERNiw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 How Algorithms Shape What You See Online...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cqAwNuERNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqAwNuERNiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 How Algorithms Shape What You See Online...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How Algorithms Shape What You See Online  
-   Link: <a href="https://www.youtube.com/watch?v=m9umK2S4Q-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m9umK2S4Q-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 An inside look at X&#x27;s Community Notes | Keith Coleman &amp; Jay Baxter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m9umK2S4Q-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m9umK2S4Q-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 An inside look at X&#x27;s Community Notes | Keith Coleman &amp; Jay Baxter...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: An inside look at X's Community Notes | Keith Coleman & Jay Baxter  
-   Link: <a href="https://www.youtube.com/watch?v=8dgyqYHLcCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dgyqYHLcCI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=8dgyqYHLcCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dgyqYHLcCI</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: about.fb.com  
    Title: About Facebook How AI Influences What You See on Facebook and Instagram  
-   Link: <a href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/</a>  
+   Link:<a href="https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
+   Link:<a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pewresearch.org  
    Title: social media  
-   Link: <a href="https://www.pewresearch.org/internet/fact-sheet/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/fact-sheet/social-media/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/fact-sheet/social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/fact-sheet/social-media/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/official/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/official/</a>  
+   Link:<a href="https://www.instagram.com/official/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/official/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: about.instagram.com  
    Title: ranking explained  
-   Link: <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained" target="_blank" rel="noopener noreferrer nofollow">https://about.instagram.com/blog/announcements/instagram-ranking-explained</a>  
+   Link:<a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained" target="_blank" rel="noopener noreferrer nofollow">https://about.instagram.com/blog/announcements/instagram-ranking-explained</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
    Title: DS3IKK8i Z8O  
-   Link: <a href="https://www.instagram.com/p/DS3IKK8iZ8O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS3IKK8iZ8O/</a>  
+   Link:<a href="https://www.instagram.com/p/DS3IKK8iZ8O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS3IKK8iZ8O/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/instagram/5" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/instagram/5</a>  
+   Link:<a href="https://disinfocode.eu/reports/instagram/5" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/instagram/5</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
+   Link:<a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/pattrn_anayltics_intelligence_final_report.pdf?v=329852" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/pattrn_anayltics_intelligence_final_report.pdf?v=329852</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/pattrn_anayltics_intelligence_final_report.pdf?v=329852" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/pattrn_anayltics_intelligence_final_report.pdf?v=329852</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: brainforge.ai  
-   Link: <a href="https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed" target="_blank" rel="noopener noreferrer nofollow">https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed</a>  
+   Link:<a href="https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed" target="_blank" rel="noopener noreferrer nofollow">https://www.brainforge.ai/blog/how-instagram-uses-ai-to-rank-your-feed</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nexlev.io  
-   Link: <a href="https://www.nexlev.io/how-youtube-recommend-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.nexlev.io/how-youtube-recommend-videos</a>  
+   Link:<a href="https://www.nexlev.io/how-youtube-recommend-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.nexlev.io/how-youtube-recommend-videos</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: kurdishstudies.net  
-   Link: <a href="https://kurdishstudies.net/menu-script/index.php/KS/article/download/3970/2684/7680" target="_blank" rel="noopener noreferrer nofollow">https://kurdishstudies.net/menu-script/index.php/KS/article/download/3970/2684/7680</a>  
+   Link:<a href="https://kurdishstudies.net/menu-script/index.php/KS/article/download/3970/2684/7680" target="_blank" rel="noopener noreferrer nofollow">https://kurdishstudies.net/menu-script/index.php/KS/article/download/3970/2684/7680</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/official" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/official</a>  
+   Link:<a href="https://www.dictionary.com/browse/official" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/official</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/official" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/official</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/official" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/official</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/official</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/official</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: esafety.gov.au  
-   Link: <a href="https://www.esafety.gov.au/sites/default/files/2022-12/Position%20statement%20-%20Recommender%20systems%20and%20algorithms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/sites/default/files/2022-12/Position%20statement%20-%20Recommender%20systems%20and%20algorithms.pdf</a>  
+   Link:<a href="https://www.esafety.gov.au/sites/default/files/2022-12/Position%20statement%20-%20Recommender%20systems%20and%20algorithms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/sites/default/files/2022-12/Position%20statement%20-%20Recommender%20systems%20and%20algorithms.pdf</a>  

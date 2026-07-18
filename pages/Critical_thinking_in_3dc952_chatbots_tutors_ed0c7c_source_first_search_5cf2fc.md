@@ -284,7 +284,7 @@ Chatbots are often the fastest way to get an explanation, but some questions are
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_source_first_search_5cf2fc-Illustration-1-dark.svg" | relative_url }}" alt="Source First illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_source_first_search_5cf2fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_source_first_search_5cf2fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is especially important in the age of social media and AI, where polished wording can make uncertain information appear settled. Research on generative search systems has repeatedly found cases where answers contain unsupported claims, inaccurate citations, or source mismatches even when links are provided. In those situations, starting with sources rather than summaries is often the more reliable [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) strategy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation ProblemMar 6, 2025 — The Tow Center for Digital Journalism conducted tests on eight ge...</span></span></span>
+This is especially important in the age of social media and AI, where polished wording can make uncertain information appear settled. Research on generative search systems has repeatedly found cases where answers contain unsupported claims, inaccurate citations, or source mismatches even when links are provided. In those situations, starting with sources rather than summaries is often the more reliable [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) strategy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation ProblemMar 6, 2025 — The Tow Center for Digital Journalism conducted tests on eight ge...</span></span></span>
 
 ## Facts That Need Direct Sourcing
 
@@ -307,7 +307,7 @@ A source-first approach is usually preferable when dealing with:
 
 Consider a simple question such as, “What percentage of adults use social media daily?” A chatbot may provide a number and sound confident. Yet the answer depends on which survey was conducted, when it was conducted, how the question was asked, and which population was measured. Without the original source, the reader cannot judge whether the figure is current, representative, or even accurately quoted.
 
-The same logic applies to academic citations. Large language models are known to generate convincing but inaccurate references, including incorrect article titles, author names, publication details, and digital object identifiers (DOIs). Researchers and educators have repeatedly documented these failures, making direct verification essential whenever references matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">hallucination detection large language models using diversion decoding</span><span class="citation-popover-snippet">Hallucination Detection in Large Language Models Using...by B Abdeen · 2025 · Cited by 1 — Despite their advanced text generation ca...</span></span></span>
+The same logic applies to academic citations. Large language models are known to generate convincing but inaccurate references, including incorrect article titles, author names, publication details, and digital object identifiers (DOIs). Researchers and educators have repeatedly documented these failures, making direct verification essential whenever references matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">hallucination detection large language models using diversion decoding</span><span class="citation-popover-snippet">Hallucination Detection in Large Language Models Using...by B Abdeen · 2025 · Cited by 1 — Despite their advanced text generation ca...</span></span></span>
 
 In these cases, the safest workflow is to locate the source first, then use the chatbot to help interpret it.
 
@@ -335,9 +335,9 @@ Examples include:
 
 A chatbot's training may not include the latest developments, and even systems with web access can misinterpret recent information. Source-first searching allows readers to inspect the original publication date, identify updates, and compare multiple reports.
 
-Recent legal disputes surrounding AI-generated [search summaries]({{ 'search-summaries/' | relative_url }}) illustrate why freshness and sourcing matter. In 2026, a German court ruled that Google could be held liable for false statements generated by its AI Overview feature, emphasising that users often perceive these summaries as direct assertions rather than merely links to third-party content. The case arose from incorrect claims generated in search summaries and highlighted the practical consequences of relying on AI-generated explanations without checking underlying sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The Munich court characterized the content produced by AI Overviews as Google&#x27;s own, making the company responsible for any false claims...</span></span></span>
+Recent legal disputes surrounding AI-generated [search summaries]({{ 'search-summaries/' | relative_url }}) illustrate why freshness and sourcing matter. In 2026, a German court ruled that Google could be held liable for false statements generated by its AI Overview feature, emphasising that users often perceive these summaries as direct assertions rather than merely links to third-party content. The case arose from incorrect claims generated in search summaries and highlighted the practical consequences of relying on AI-generated explanations without checking underlying sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The Munich court characterized the content produced by AI Overviews as Google&#x27;s own, making the company responsible for any false claims...</span></span></span>
 
-Health information provides another strong example. Investigations into AI-generated search summaries have found instances where health-related answers lacked important context or contained misleading interpretations. Even when the cited sources were reputable, the summarised conclusion was not always fully supported by the underlying material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-snippet">The investigation cited instances like incorrect information on liver blood tests, misleading dietary advice for pancreatic cancer patien...</span></span></span>
+Health information provides another strong example. Investigations into AI-generated search summaries have found instances where health-related answers lacked important context or contained misleading interpretations. Even when the cited sources were reputable, the summarised conclusion was not always fully supported by the underlying material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-snippet">The investigation cited instances like incorrect information on liver blood tests, misleading dietary advice for pancreatic cancer patien...</span></span></span>
 
 The lesson is simple: if the answer could change tomorrow, search first.
 
@@ -347,9 +347,9 @@ One of the most important critical-thinking habits in the AI era is separating e
 
 Chatbots are designed to produce coherent language. Their responses often feel complete because they are written in a confident, conversational style. However, fluency and accuracy are different things.
 
-Researchers studying generative search engines have found recurring problems with verifiability. A widely discussed study of AI-powered search systems reported that more than 60% of tested citation behaviours contained significant problems when identifying and referencing news content. Other research has found that many generated claims are not fully supported by the sources attached to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...AI search engines fail to produce accurate citations in over 60...</span></span></span>
+Researchers studying generative search engines have found recurring problems with verifiability. A widely discussed study of AI-powered search systems reported that more than 60% of tested citation behaviours contained significant problems when identifying and referencing news content. Other research has found that many generated claims are not fully supported by the sources attached to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...AI search engines fail to produce accurate citations in over 60...</span></span></span>
 
-More recent work examining Google AI Overviews analysed tens of thousands of individual claims and found that roughly 11% were unsupported by the cited pages. Importantly, the cited source itself could be credible while still failing to support the specific statement made by the AI system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...13 May 2026 — Third, decomposing responses into 98,020 atomic claims, 1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+More recent work examining Google AI Overviews analysed tens of thousands of individual claims and found that roughly 11% were unsupported by the cited pages. Importantly, the cited source itself could be credible while still failing to support the specific statement made by the AI system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...13 May 2026 — Third, decomposing responses into 98,020 atomic claims, 1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This creates a subtle risk. Readers may see a citation and assume the claim has been verified. In reality, the source may not say what the answer implies.
 
@@ -440,194 +440,194 @@ When the goal is understanding a concept, a chatbot can often be the best starti
 In practice, that means searching first whenever the answer depends on evidence rather than explanation. The more important the consequences of being wrong, the more valuable the source trail becomes. Critical thinking in the age of AI is not only about questioning answers; it is about knowing when an answer should come after the evidence instead of before it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should You Search Instead?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should You Search Instead?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches scrutiny of evidence and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches scrutiny of evidence and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates evidence-based inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates evidence-based inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases affecting information evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases affecting information evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-first-when-should-you-search-instead-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ In practice, that means searching first whenever the answer depends on evidence 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ In practice, that means searching first whenever the answer depends on evidence 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ In practice, that means searching first whenever the answer depends on evidence 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ In practice, that means searching first whenever the answer depends on evidence 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ In practice, that means searching first whenever the answer depends on evidence 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -833,149 +833,149 @@ In practice, that means searching first whenever the answer depends on evidence 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Verifiability in Generative Search Engines  
-   Link: <a href="https://arxiv.org/abs/2304.09848" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.09848</a>  
+   Link:<a href="https://arxiv.org/abs/2304.09848" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.09848</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.14021v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...13 May 2026 — Third, decomposing responses into 98,020 atomic claims, 1...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.14021v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...13 May 2026 — Third, decomposing responses into 98,020 atomic claims, 1...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nist.gov  
    Title: hallucination detection large language models using diversion decoding  
-   Link: <a href="https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucination Detection in Large Language Models Using...by B Abdeen · 2025 · Cited by 1 — Despite their advanced text generation ca...</p></details>
+   Link:<a href="https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/hallucination-detection-large-language-models-using-diversion-decoding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucination Detection in Large Language Models Using...by B Abdeen · 2025 · Cited by 1 — Despite their advanced text generation ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Munich court characterized the content produced by AI Overviews as Google&#x27;s own, making the company responsible for any false claims...</p></details>
+   Link:<a href="https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Munich court characterized the content produced by AI Overviews as Google&#x27;s own, making the company responsible for any false claims...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Munich Regional Court found that the feature generated misleading summaries incorrectly linking two publishers to scams and fraudulen...</p></details>
+   Link:<a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Munich Regional Court found that the feature generated misleading summaries incorrectly linking two publishers to scams and fraudulen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nvlpubs.nist.gov  
    Title: Trustworthy AI  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Risk Management Frameworkby N AI · 2024 · Cited by 125 — Additionally, generative AI models can assist malicious actors in c...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Risk Management Frameworkby N AI · 2024 · Cited by 125 — Additionally, generative AI models can assist malicious actors in c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI test, evaluation, validation and verification (TEVV) | NISTNIST conducts research and development of metrics, measurements, and evalua...</p></details>
+   Link:<a href="https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI test, evaluation, validation and verification (TEVV) | NISTNIST conducts research and development of metrics, measurements, and evalua...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/trustworthy-and-responsible-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/trustworthy-and-responsible-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ity and Resiliency; Accountability and Transparency...</p></details>
+   Link:<a href="https://www.nist.gov/trustworthy-and-responsible-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/trustworthy-and-responsible-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity and Resiliency; Accountability and Transparency...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ai-challenges.nist.gov  
-   Link: <a href="https://ai-challenges.nist.gov/genai" target="_blank" rel="noopener noreferrer nofollow">https://ai-challenges.nist.gov/genai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Generative AI - NIST AI ChallengesNIST GenAI is an umbrella program that supports various evaluations for research and measure...</p></details>
+   Link:<a href="https://ai-challenges.nist.gov/genai" target="_blank" rel="noopener noreferrer nofollow">https://ai-challenges.nist.gov/genai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Generative AI - NIST AI ChallengesNIST GenAI is an umbrella program that supports various evaluations for research and measure...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalism.columbia.edu  
    Title: tow ai report 2025  
-   Link: <a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tests on eight generative search...</p></details>
+   Link:<a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tests on eight generative search...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...by H Xu · 2026 — Third, decomposing responses into 98,020 atomic claims, 11...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...by H Xu · 2026 — Third, decomposing responses into 98,020 atomic claims, 11...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cloud.google.com  
    Title: what are [ai hallucinations](&#123;&#123; 'hallucinations/' | relative_url &#125;&#125;)  
-   Link: <a href="https://cloud.google.com/discover/what-are-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/discover/what-are-ai-hallucinations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are AI hallucinations?AI hallucinations are incorrect or misleading results that AI models generate. These errors can be caused by a vari...</p></details>
+   Link:<a href="https://cloud.google.com/discover/what-are-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/discover/what-are-ai-hallucinations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are AI hallucinations?AI hallucinations are incorrect or misleading results that AI models generate. These errors can be caused by a vari...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cjr.org  
    Title: we compared eight ai search engines theyre all bad at citing news  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation ProblemMar 6, 2025 — The Tow Center for Digital Journalism conducted tests on eight ge...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation ProblemMar 6, 2025 — The Tow Center for Digital Journalism conducted tests on eight ge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation cited instances like incorrect information on liver blood tests, misleading dietary advice for pancreatic cancer patien...</p></details>
+   Link:<a href="https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/ai/google-pulls-ai-overviews-on-some-health-queries-after-claims-they-mislead-users</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation cited instances like incorrect information on liver blood tests, misleading dietary advice for pancreatic cancer patien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: niemanlab.org  
    Title:   
    Link: www.cjr.org ➚ | Posted by: Andrew Deck  
-   Link: <a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...AI search engines fail to produce accurate citations in over 60...</p></details>
+   Link:<a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...AI search engines fail to produce accurate citations in over 60...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ai.google  
    Title: Google AI  
-   Link: <a href="https://ai.google/" target="_blank" rel="noopener noreferrer nofollow">https://ai.google/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How we&#x27;re making AI helpful for everyoneDiscover how Google AI is committed to enriching knowledge, solving complex challenges and helpin...</p></details>
+   Link:<a href="https://ai.google/" target="_blank" rel="noopener noreferrer nofollow">https://ai.google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How we&#x27;re making AI helpful for everyoneDiscover how Google AI is committed to enriching knowledge, solving complex challenges and helpin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman Journalism Lab&#x27;s Post10 Mar 2025 — AI search engines fail to produce accurate citations in over 60% of tests, according to new Tow...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman Journalism Lab&#x27;s Post10 Mar 2025 — AI search engines fail to produce accurate citations in over 60% of tests, according to new Tow...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-hallucinations-new-supply-chain-risk-how-organizations-can-yeuzc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-hallucinations-new-supply-chain-risk-how-organizations-can-yeuzc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucinations Are the New Supply-Chain RiskWhat exactly is an AI hallucination? · Factually wrong, · Fabricated, or · Not grounded in...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-hallucinations-new-supply-chain-risk-how-organizations-can-yeuzc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-hallucinations-new-supply-chain-risk-how-organizations-can-yeuzc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucinations Are the New Supply-Chain RiskWhat exactly is an AI hallucination? · Factually wrong, · Fabricated, or · Not grounded in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pcgamer.com  
-   Link: <a href="https://www.pcgamer.com/software/ai/google-claims-most-users-know-information-generated-with-ai-should-not-be-blindly-trusted-but-a-court-ruled-its-still-liable-for-false-claims-made-in-ai-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/google-claims-most-users-know-information-generated-with-ai-should-not-be-blindly-trusted-but-a-court-ruled-its-still-liable-for-false-claims-made-in-ai-overview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case centered on misinformation that misattributed unethical practices to two Munich-based publishers—claims derived not from origina...</p></details>
+   Link:<a href="https://www.pcgamer.com/software/ai/google-claims-most-users-know-information-generated-with-ai-should-not-be-blindly-trusted-but-a-court-ruled-its-still-liable-for-false-claims-made-in-ai-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/google-claims-most-users-know-information-generated-with-ai-should-not-be-blindly-trusted-but-a-court-ruled-its-still-liable-for-false-claims-made-in-ai-overview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case centered on misinformation that misattributed unethical practices to two Munich-based publishers—claims derived not from origina...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: docs.modulos.ai  
-   Link: <a href="https://docs.modulos.ai/frameworks/nist-ai-rmf/trustworthy-ai" target="_blank" rel="noopener noreferrer nofollow">https://docs.modulos.ai/frameworks/nist-ai-rmf/trustworthy-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI RMF Trustworthy AI Characteristics (NIST AI 100-1)The 7 characteristics are: valid and reliable, safe, secure and resilient, accountab...</p></details>
+   Link:<a href="https://docs.modulos.ai/frameworks/nist-ai-rmf/trustworthy-ai" target="_blank" rel="noopener noreferrer nofollow">https://docs.modulos.ai/frameworks/nist-ai-rmf/trustworthy-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI RMF Trustworthy AI Characteristics (NIST AI 100-1)The 7 characteristics are: valid and reliable, safe, secure and resilient, accountab...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404890793_Measuring_Google_AI_Overviews_Activation_Source_Quality_Claim_Fidelity_and_Publisher_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404890793_Measuring_Google_AI_Overviews_Activation_Source_Quality_Claim_Fidelity_and_Publisher_Impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...17 May 2026 — Third, decomposing responses into 98,020 atomic claims, 11.0%...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404890793_Measuring_Google_AI_Overviews_Activation_Source_Quality_Claim_Fidelity_and_Publisher_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404890793_Measuring_Google_AI_Overviews_Activation_Source_Quality_Claim_Fidelity_and_Publisher_Impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...17 May 2026 — Third, decomposing responses into 98,020 atomic claims, 11.0%...</p></details>
    Published: May 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ziptie.dev  
-   Link: <a href="https://ziptie.dev/blog/how-different-ai-platforms-cite-the-same-source-differently/" target="_blank" rel="noopener noreferrer nofollow">https://ziptie.dev/blog/how-different-ai-platforms-cite-the-same-source-differently/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low accuracy across all platforms. The CJR Tow Center study found 60%+ error rates across 1,600 tests. GPT-4o...Read more...</p></details>
+   Link:<a href="https://ziptie.dev/blog/how-different-ai-platforms-cite-the-same-source-differently/" target="_blank" rel="noopener noreferrer nofollow">https://ziptie.dev/blog/how-different-ai-platforms-cite-the-same-source-differently/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low accuracy across all platforms. The CJR Tow Center study found 60%+ error rates across 1,600 tests. GPT-4o...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/ai-ducator_why-nist-uses-confabulation-instead-of-activity-7418556300634136576-IoV9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ai-ducator_why-nist-uses-confabulation-instead-of-activity-7418556300634136576-IoV9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST prefers confabulation over hallucination in AI gap-fillingJan 17, 2026 — Why NIST Uses &quot;Confabulation&quot; instead of &quot;Hallucination&quot;...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/ai-ducator_why-nist-uses-confabulation-instead-of-activity-7418556300634136576-IoV9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ai-ducator_why-nist-uses-confabulation-instead-of-activity-7418556300634136576-IoV9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST prefers confabulation over hallucination in AI gap-fillingJan 17, 2026 — Why NIST Uses &quot;Confabulation&quot; instead of &quot;Hallucination&quot;...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
    Title: the 55 393 query audit exposes googles citation revenue trap f452e242dca4  
-   Link: <a href="https://medium.com/kairi-ai/the-55-393-query-audit-exposes-googles-citation-revenue-trap-f452e242dca4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/kairi-ai/the-55-393-query-audit-exposes-googles-citation-revenue-trap-f452e242dca4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 55393-Query Audit Exposes Google&#x27;s Citation...The arXiv paper decomposed AI Overview responses into 98,020 atomic claims and found t...</p></details>
+   Link:<a href="https://medium.com/kairi-ai/the-55-393-query-audit-exposes-googles-citation-revenue-trap-f452e242dca4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/kairi-ai/the-55-393-query-audit-exposes-googles-citation-revenue-trap-f452e242dca4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 55393-Query Audit Exposes Google&#x27;s Citation...The arXiv paper decomposed AI Overview responses into 98,020 atomic claims and found t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines cite incorrect sources at an alarming 60...A new study from Columbia Journalism Review&#x27;s Tow Center for Digital Journa...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines cite incorrect sources at an alarming 60...A new study from Columbia Journalism Review&#x27;s Tow Center for Digital Journa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/machine-relations/how-ai-search-decides-which-brands-to-cite-92bedfd85442" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/machine-relations/how-ai-search-decides-which-brands-to-cite-92bedfd85442</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Search Decides Which Brands to CiteIt also decomposed responses into 98,020 atomic claims and found that 11.0% were unsupported by...</p></details>
+   Link:<a href="https://medium.com/machine-relations/how-ai-search-decides-which-brands-to-cite-92bedfd85442" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/machine-relations/how-ai-search-decides-which-brands-to-cite-92bedfd85442</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Search Decides Which Brands to CiteIt also decomposed responses into 98,020 atomic claims and found that 11.0% were unsupported by...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ziptie.dev  
-   Link: <a href="https://ziptie.dev/blog/myths-about-ai-search-that-are-harmful/" target="_blank" rel="noopener noreferrer nofollow">https://ziptie.dev/blog/myths-about-ai-search-that-are-harmful/</a>  
+   Link:<a href="https://ziptie.dev/blog/myths-about-ai-search-that-are-harmful/" target="_blank" rel="noopener noreferrer nofollow">https://ziptie.dev/blog/myths-about-ai-search-that-are-harmful/</a>  

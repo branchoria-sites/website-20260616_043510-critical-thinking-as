@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_fear_cr
 
 ## Introduction
 
-Fear can be useful in a genuine emergency. It pushes people to pay attention, seek safety and warn others. The problem arises when social media posts use the feeling of danger as a shortcut around verification. During a crisis, people often have limited information, little time and a strong desire to protect family, friends or their community. A post that says “Act now before it is deleted” or “Share this immediately to save lives” can therefore gain traction before anyone has checked whether the claim is accurate. This dynamic is one reason why misinformation often flourishes during emergencies and why health and crisis researchers have devoted increasing attention to the problem of the “infodemic” — an overabundance of information, including false or misleading claims, that accompanies a crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</span></span></span>
+Fear can be useful in a genuine emergency. It pushes people to pay attention, seek safety and warn others. The problem arises when social media posts use the feeling of danger as a shortcut around verification. During a crisis, people often have limited information, little time and a strong desire to protect family, friends or their community. A post that says “Act now before it is deleted” or “Share this immediately to save lives” can therefore gain traction before anyone has checked whether the claim is accurate. This dynamic is one reason why misinformation often flourishes during emergencies and why health and crisis researchers have devoted increasing attention to the problem of the “infodemic” — an overabundance of information, including false or misleading claims, that accompanies a crisis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_fear_crisis_urgency_97046d-Illustration-1-dark.svg" | relative_url }}" alt="Fear urgency illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_fear_crisis_urgency_97046d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_fear_crisis_urgency_97046d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the broader problem of emotional content bypassing scepticism, fear-based
 
 ## The difference between warning and panic
 
-Not every alarming message is manipulative. Real emergencies require warnings, and responsible crisis communication often involves explaining risks clearly and promptly. The key difference is that credible warnings try to increase understanding, while panic-inducing posts try to accelerate action before understanding is possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-title">ASSETCrisis and Emergency Risk Communication</span><span class="citation-popover-snippet">ASSETAugust 11, 2015 — Crisis and Emergency Risk Communication is an introductory course that addresses a number of topics critical to su...</span><span class="citation-popover-meta">Published: August 11, 2015</span></span></span>
+Not every alarming message is manipulative. Real emergencies require warnings, and responsible crisis communication often involves explaining risks clearly and promptly. The key difference is that credible warnings try to increase understanding, while panic-inducing posts try to accelerate action before understanding is possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-title">ASSETCrisis and Emergency Risk Communication</span><span class="citation-popover-snippet">ASSETAugust 11, 2015 — Crisis and Emergency Risk Communication is an introductory course that addresses a number of topics critical to su...</span><span class="citation-popover-meta">Published: August 11, 2015</span></span></span>
 
 A genuine warning usually contains several features:
 
@@ -323,7 +323,7 @@ These posts frame delay as a threat. The reader is encouraged to see verificatio
 
 The most effective fear-driven misinformation does not necessarily convince people that a claim is true. Instead, it convinces them that there is no time to evaluate whether it is true.
 
-This works because crises naturally create uncertainty. During disease outbreaks, natural disasters, security incidents or public emergencies, people often search for information faster than reliable institutions can collect and confirm it. Researchers studying infodemics note that large volumes of rapidly changing information can overwhelm people's ability to judge quality, especially when events are unfolding in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</span></span></span>
+This works because crises naturally create uncertainty. During disease outbreaks, natural disasters, security incidents or public emergencies, people often search for information faster than reliable institutions can collect and confirm it. Researchers studying infodemics note that large volumes of rapidly changing information can overwhelm people's ability to judge quality, especially when events are unfolding in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</span></span></span>
 
 Fear-based posts exploit this gap through several mechanisms:
 
@@ -351,9 +351,9 @@ The result is a communication environment where speed becomes a signal of virtue
 
 The challenge is not simply that false information exists. It is that fear changes what people prioritise.
 
-Studies of misinformation during health emergencies have repeatedly found that misleading information can spread rapidly online and influence behaviour, trust and risk perception. Researchers examining COVID-19-related misinformation observed that false information often travels faster and more broadly than accurate information, particularly on social media platforms where engagement is rewarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the spread of COVID‐19 misinformation on...by X Wang · 2021 · Cited by 103 — Researchers have revealed that misinformat...</span></span></span>
+Studies of misinformation during health emergencies have repeatedly found that misleading information can spread rapidly online and influence behaviour, trust and risk perception. Researchers examining COVID-19-related misinformation observed that false information often travels faster and more broadly than accurate information, particularly on social media platforms where engagement is rewarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the spread of COVID‐19 misinformation on...by X Wang · 2021 · Cited by 103 — Researchers have revealed that misinformat...</span></span></span>
 
-The World Health Organization has argued that emergencies are frequently accompanied by infodemics in which rumours, misleading narratives and factual information compete for attention at the same time. This overload can make it difficult for people to identify trustworthy guidance when they need it most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</span></span></span>
+The World Health Organization has argued that emergencies are frequently accompanied by infodemics in which rumours, misleading narratives and factual information compete for attention at the same time. This overload can make it difficult for people to identify trustworthy guidance when they need it most.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</span></span></span>
 
 Fear accelerates this process because it changes the reader's question. Instead of asking, “Is this true?”, people may begin asking, “What if it is true and I ignored it?” The possibility of missing a threat can feel more important than the possibility of sharing an error.
 
@@ -361,9 +361,9 @@ That psychological shift helps explain why old warnings, recycled images and uns
 
 ## A familiar pattern during public emergencies
 
-Public health crises provide some of the clearest examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[who.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">disinformation and public health</span><span class="citation-popover-snippet">World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</span></span></span>
+Public health crises provide some of the clearest examples.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[who.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">disinformation and public health</span><span class="citation-popover-snippet">World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</span></span></span>
 
-During the COVID-19 pandemic, researchers documented widespread circulation of unverified medical advice, conspiracy claims and exaggerated warnings. Many messages presented themselves as urgent life-saving information and encouraged rapid sharing before verification. Health organisations and researchers repeatedly warned that this information environment complicated public decision-making and sometimes undermined effective responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">disinformation and public health</span><span class="citation-popover-snippet">World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</span></span></span>
+During the COVID-19 pandemic, researchers documented widespread circulation of unverified medical advice, conspiracy claims and exaggerated warnings. Many messages presented themselves as urgent life-saving information and encouraged rapid sharing before verification. Health organisations and researchers repeatedly warned that this information environment complicated public decision-making and sometimes undermined effective responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">disinformation and public health</span><span class="citation-popover-snippet">World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</span></span></span>
 
 Importantly, fear-based misinformation does not need to be entirely fabricated. A common pattern is to begin with a real concern and then attach unsupported conclusions, outdated information or dramatic predictions. Because part of the message is true, the entire message can appear credible.
 
@@ -409,178 +409,178 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When fear turns speed into a trap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When fear turns speed into a trap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how urgency triggers intuitive rather than analytical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how urgency triggers intuitive rather than analytical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides practical checks before acting on alarming information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical checks before acting on alarming information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Encourages evidence-based judgement under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based judgement under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fear-urgency-when-fear-turns-speed-into-a-trap-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,180 +786,180 @@ The central lesson is simple: urgency should increase scrutiny, not eliminate it
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWhat are the historical roots of the COVID-19 infodemic  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK585504/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK585504/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK585504/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK585504/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: asset-scienceinsociety.eu  
    Title: ASSETCrisis and Emergency Risk Communication  
-   Link: <a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASSETAugust 11, 2015 — Crisis and Emergency Risk Communication is an introductory course that addresses a number of topics critical to su...</p></details>
+   Link:<a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASSETAugust 11, 2015 — Crisis and Emergency Risk Communication is an introductory course that addresses a number of topics critical to su...</p></details>
    Published: August 11, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e56854/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56854/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis and Emergency Risk Communication and Emotional...by SS Ho · 2024 · Cited by 18 — This study aimed to analyze public health commun...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e56854/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56854/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis and Emergency Risk Communication and Emotional...by SS Ho · 2024 · Cited by 18 — This study aimed to analyze public health commun...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAddressing dangerous health narratives in emergencies25 Jan 2024 — Infodemics occur when too much information, i...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAddressing dangerous health narratives in emergencies25 Jan 2024 — Infodemics occur when too much information, i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the spread of COVID‐19 misinformation on...by X Wang · 2021 · Cited by 103 — Researchers have revealed that misinformat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8653058/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the spread of COVID‐19 misinformation on...by X Wang · 2021 · Cited by 103 — Researchers have revealed that misinformat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.14378" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.14378</a>  
+   Link:<a href="https://arxiv.org/abs/2306.14378" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.14378</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: who.int  
    Title: disinformation and public health  
-   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</p></details>
+   Link:<a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationDisinformation and public healthFeb 6, 2024 — This WHO questions and answers page looks at how health-related di...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2022/2/e35552" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/2/e35552</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deadly Infodemic: Social Media and the Power of COVID...by MA Gisondi · 2022 · Cited by 332 — In this editorial, the authors examine t...</p></details>
+   Link:<a href="https://www.jmir.org/2022/2/e35552" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/2/e35552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deadly Infodemic: Social Media and the Power of COVID...by MA Gisondi · 2022 · Cited by 332 — In this editorial, the authors examine t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...Sep 1, 2022 — The systematic review found that people feel mental, social, po...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...Sep 1, 2022 — The systematic review found that people feel mental, social, po...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1343902/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1343902/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of infodemics in outbreaks or health crisesby L Abuhaloob · 2024 · Cited by 20 — The World Health Organization (WHO) defined a...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1343902/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1343902/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of infodemics in outbreaks or health crisesby L Abuhaloob · 2024 · Cited by 20 — The World Health Organization (WHO) defined a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: un.org  
    Title: tackling ‘infodemic’ misinformation and cybercrime covid 19  
-   Link: <a href="https://www.un.org/en/un-coronavirus-communications-team/un-tackling-%E2%80%98infodemic%E2%80%99-misinformation-and-cybercrime-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/un-coronavirus-communications-team/un-tackling-%E2%80%98infodemic%E2%80%99-misinformation-and-cybercrime-covid-19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news that “spreads faster and more easily... They can spread misinformation, disinformation and rumours during a health emergency.R...</p></details>
+   Link:<a href="https://www.un.org/en/un-coronavirus-communications-team/un-tackling-%E2%80%98infodemic%E2%80%99-misinformation-and-cybercrime-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/un-coronavirus-communications-team/un-tackling-%E2%80%98infodemic%E2%80%99-misinformation-and-cybercrime-covid-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake news that “spreads faster and more easily... They can spread misinformation, disinformation and rumours during a health emergency.R...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Analysis of COVID-19 Misinformation...by S Kisa · 2024 · Cited by 142 — We used (“COVID-19” OR “SARS-CoV-2” OR “Coronaviru...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Analysis of COVID-19 Misinformation...by S Kisa · 2024 · Cited by 142 — We used (“COVID-19” OR “SARS-CoV-2” OR “Coronaviru...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation shared...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation shared...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9947390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9947390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-National Study of Fear Appeal Messages in YouTube...by YMM Ng · 2023 · Cited by 19 — In the domain of science communication, fear...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9947390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9947390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-National Study of Fear Appeal Messages in YouTube...by YMM Ng · 2023 · Cited by 19 — In the domain of science communication, fear...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8435678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8435678/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Factors Associated to Public Anxiety...by J Xu · 2021 · Cited by 55 — This study aims to explore the infodemic vs. pandemic inf...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8435678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8435678/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Factors Associated to Public Anxiety...by J Xu · 2021 · Cited by 55 — This study aims to explore the infodemic vs. pandemic inf...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609021/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management in the Twenty-First Century - NCBI - NIHby S Briand · 2023 · Cited by 41 — Although many health authorities are already respon...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK609021/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management in the Twenty-First Century - NCBI - NIHby S Briand · 2023 · Cited by 41 — Although many health authorities are already respon...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9030304/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9030304/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are We Losing Knowledge in Information? - PMCby GM Sogi · 2022 · Cited by 2 — An infodemic is an overabundance of information – including...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9030304/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9030304/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are We Losing Knowledge in Information? - PMCby GM Sogi · 2022 · Cited by 2 — An infodemic is an overabundance of information – including...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 134 — Third, internet robots or &#x27;bots&#x27; are known to auto...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 134 — Third, internet robots or &#x27;bots&#x27; are known to auto...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation infodemic during public health...by N Chowdhury · 2021 · Cited by 132 — This rapid integrative review will draw on knowle...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation infodemic during public health...by N Chowdhury · 2021 · Cited by 132 — This rapid integrative review will draw on knowle...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structured literature review of the health infodemic on social...by C Hove · 2023 · Cited by 11 — This strategic review described the ro...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structured literature review of the health infodemic on social...by C Hove · 2023 · Cited by 11 — This strategic review described the ro...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unravelling the infodemic: a systematic review of...by S Bhattacharya · 2025 · Cited by 14 — The spread of misinformation during the pan...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unravelling the infodemic: a systematic review of...by S Bhattacharya · 2025 · Cited by 14 — The spread of misinformation during the pan...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: europarl.europa.eu  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740063/IPOL_STU%282023%29740063_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740063/IPOL_STU%282023%29740063_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study analyses how governments, public health experts and other professionals communicated during the COVID-19 pandemic, and the imp...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740063/IPOL_STU%282023%29740063_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740063/IPOL_STU%282023%29740063_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study analyses how governments, public health experts and other professionals communicated during the COVID-19 pandemic, and the imp...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/144487415/10.4324_9781003043409-15_chapterpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/144487415/10.4324_9781003043409-15_chapterpdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uva.nlUvA-DARE (Digital Academic Repository)Against the backdrop of far-reaching consequences of misinforma- tion during a crisis, studie...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/144487415/10.4324_9781003043409-15_chapterpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/144487415/10.4324_9781003043409-15_chapterpdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uva.nlUvA-DARE (Digital Academic Repository)Against the backdrop of far-reaching consequences of misinforma- tion during a crisis, studie...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 402116390 Crisis Communication and Media Coverage During Emergencies  
-   Link: <a href="https://www.researchgate.net/publication/402116390_Crisis_Communication_and_Media_Coverage_During_Emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402116390_Crisis_Communication_and_Media_Coverage_During_Emergencies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Crisis Communication and Media Coverage During...17 Mar 2026 — Crisis communication plays a critical role in managing information...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/402116390_Crisis_Communication_and_Media_Coverage_During_Emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402116390_Crisis_Communication_and_Media_Coverage_During_Emergencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Crisis Communication and Media Coverage During...17 Mar 2026 — Crisis communication plays a critical role in managing information...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: publichealthontario.ca  
-   Link: <a href="https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID-19 pandemic presented challenges for risk communication, such as the spread of misinformation and disinformation and growing di...</p></details>
+   Link:<a href="https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID-19 pandemic presented challenges for risk communication, such as the spread of misinformation and disinformation and growing di...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fph.org.uk  
-   Link: <a href="https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nformation and misinformation via social media platforms, leading to fear.Read more...</p></details>
+   Link:<a href="https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nformation and misinformation via social media platforms, leading to fear.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHOAFRO/posts/health-emergencies-can-create-uncertainty-and-cause-panicin-todays-digital-age-i/1087355143571538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOAFRO/posts/health-emergencies-can-create-uncertainty-and-cause-panicin-todays-digital-age-i/1087355143571538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it can be hard to know who to trust or what advice to follow...</p></details>
+   Link:<a href="https://www.facebook.com/WHOAFRO/posts/health-emergencies-can-create-uncertainty-and-cause-panicin-todays-digital-age-i/1087355143571538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOAFRO/posts/health-emergencies-can-create-uncertainty-and-cause-panicin-todays-digital-age-i/1087355143571538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it can be hard to know who to trust or what advice to follow...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailymirror/posts/experts-raised-fears-that-vulnerable-people-are-receiving-misleading-health-cont/1393280152847065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/experts-raised-fears-that-vulnerable-people-are-receiving-misleading-health-cont/1393280152847065/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts raised fears that vulnerable people are receiving...Misinformation, fake news, and misleading information can spread quickly on...</p></details>
+   Link:<a href="https://www.facebook.com/dailymirror/posts/experts-raised-fears-that-vulnerable-people-are-receiving-misleading-health-cont/1393280152847065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailymirror/posts/experts-raised-fears-that-vulnerable-people-are-receiving-misleading-health-cont/1393280152847065/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts raised fears that vulnerable people are receiving...Misinformation, fake news, and misleading information can spread quickly on...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QFxA57UZ0xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QFxA57UZ0xs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did we stop caring about disinformation? | Skylar Hughes | TEDxDuke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QFxA57UZ0xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QFxA57UZ0xs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did we stop caring about disinformation? | Skylar Hughes | TEDxDuke...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1573295" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1573295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Corrective Information Type and Sourceby TGLA van der Meer · 2020 · Cited by 542 — The findings contribute to misinformati...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1573295" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1573295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Corrective Information Type and Sourceby TGLA van der Meer · 2020 · Cited by 542 — The findings contribute to misinformati...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: What goes viral and why? With Jonah Berger, Ph D | Speaking of Psychology  
-   Link: <a href="https://www.youtube.com/watch?v=cBVLQNYrVzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cBVLQNYrVzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Effective Public Warning and Incident Response Systems | Mini Webinar Series 5...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cBVLQNYrVzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cBVLQNYrVzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Effective Public Warning and Incident Response Systems | Mini Webinar Series 5...</p></details>

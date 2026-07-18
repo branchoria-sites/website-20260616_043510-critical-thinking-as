@@ -284,7 +284,7 @@ Percentages are among the most persuasive numbers on social media because they l
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-1-dark.svg" | relative_url }}" alt="Denominators illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because a viral claim such as “cases increased by 300%” or “70% more likely” can be technically correct while still leaving readers unable to judge its importance. Without knowing the denominator, the time period and the starting value, the audience cannot tell whether the change reflects a major shift affecting millions or a tiny fluctuation in a very small group. In a media environment shaped by algorithms, reposts and AI-generated summaries, percentages often travel farther than the context needed to interpret them. The missing denominator is frequently the missing meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
+This matters because a viral claim such as “cases increased by 300%” or “70% more likely” can be technically correct while still leaving readers unable to judge its importance. Without knowing the denominator, the time period and the starting value, the audience cannot tell whether the change reflects a major shift affecting millions or a tiny fluctuation in a very small group. In a media environment shaped by algorithms, reposts and AI-generated summaries, percentages often travel farther than the context needed to interpret them. The missing denominator is frequently the missing meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
 
 ## What the denominator tells readers
 
@@ -292,9 +292,9 @@ A denominator answers the simplest question in statistics: “Out of how many?�
 
 If a post claims that 40% of users experienced a problem, readers need to know whether that means 4 out of 10 users, 400 out of 1,000 users or 4 million out of 10 million users. The percentage describes a proportion, but the denominator reveals the scale and reliability of the claim.
 
-The denominator also helps readers assess whether comparisons are fair. Imagine two communities that each report 10 cases of a disease. The raw numbers appear identical. However, if one community has 100 residents and the other has 10,000 residents, the underlying situation is very different. Percentages are useful because they normalise comparisons, but only when readers know the population from which the percentage was derived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwh.on.ca">[Institute for Work &amp; Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwh.on.ca</span><span class="citation-popover-snippet">Institute for Work &amp; HealthAbsolute and relative riskAbsolute risk is the number of people experiencing an event in relation to the popul...</span></span></span>
+The denominator also helps readers assess whether comparisons are fair. Imagine two communities that each report 10 cases of a disease. The raw numbers appear identical. However, if one community has 100 residents and the other has 10,000 residents, the underlying situation is very different. Percentages are useful because they normalise comparisons, but only when readers know the population from which the percentage was derived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwh.on.ca">[Institute for Work &amp; Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwh.on.ca</span><span class="citation-popover-snippet">Institute for Work &amp; HealthAbsolute and relative riskAbsolute risk is the number of people experiencing an event in relation to the popul...</span></span></span>
 
-This is why statistical guidance emphasises providing context rather than presenting isolated figures. Numbers become meaningful when accompanied by information about the population, time frame and comparison group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Writing about statistics</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</span></span></span>
+This is why statistical guidance emphasises providing context rather than presenting isolated figures. Numbers become meaningful when accompanied by information about the population, time frame and comparison group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Writing about statistics</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</span></span></span>
 
 ### A percentage is a ratio, not a standalone fact
 
@@ -311,7 +311,7 @@ For example:
 
 </div>
 
-When either the denominator or the baseline is hidden, readers are left with a number that sounds informative but lacks interpretive value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
+When either the denominator or the baseline is hidden, readers are left with a number that sounds informative but lacks interpretive value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sm_sqG5M_9U" title="Data Visualization: Why Percentage Change Can Be EXTREMELY Misleading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sm_sqG5M_9U" target="_blank" rel="noopener noreferrer">Data Visualization: Why Percentage Change Can Be EXTREMELY Misleading</a></p><p class="youtube-embed-meta">Channel: Funnel &middot; Views: 1.9K &middot; Uploaded: January 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sm_sqG5M_9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sm_sqG5M_9U">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ When either the denominator or the baseline is hidden, readers are left with a n
 
 One of the most common ways percentages mislead is through small denominators.
 
-Suppose an event occurs once in one month and three times in the next month. A headline can accurately report a 200% increase. Mathematically, that statement is correct. However, many readers will imagine a large-scale surge because the percentage sounds dramatic. The underlying reality is an increase of only two events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counting-stuff.com">[Counting Stuff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counting-stuff.com</span><span class="citation-popover-snippet">Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</span><span class="citation-popover-meta">Published: July 20, 2021</span></span></span>
+Suppose an event occurs once in one month and three times in the next month. A headline can accurately report a 200% increase. Mathematically, that statement is correct. However, many readers will imagine a large-scale surge because the percentage sounds dramatic. The underlying reality is an increase of only two events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counting-stuff.com">[Counting Stuff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counting-stuff.com</span><span class="citation-popover-snippet">Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</span><span class="citation-popover-meta">Published: July 20, 2021</span></span></span>
 
 This effect becomes especially powerful on social media because percentage changes are emotionally striking. Large percentages trigger attention, sharing and discussion, while the underlying counts often remain hidden.
 
@@ -338,7 +338,7 @@ Similarly:
 
 The first sounds transformative. The second reveals that the change, while real, may still represent a small minority.
 
-Small denominators make percentage swings inherently volatile. When only a few observations are involved, a single additional case, response or event can produce a large percentage movement. Researchers and statisticians often recommend reporting both percentages and underlying counts for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: measuringu.com">[MeasuringU+2MeasuringU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">measuringu.com</span><span class="citation-popover-title">should you avoid reporting percentages from small sample studies</span><span class="citation-popover-snippet">Our experiment of 200 participants comparing the magnitudes of two fractions or two percentages strongly supports the practice of reporti...</span></span></span>
+Small denominators make percentage swings inherently volatile. When only a few observations are involved, a single additional case, response or event can produce a large percentage movement. Researchers and statisticians often recommend reporting both percentages and underlying counts for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: measuringu.com">[MeasuringU+2MeasuringU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">measuringu.com</span><span class="citation-popover-title">should you avoid reporting percentages from small sample studies</span><span class="citation-popover-snippet">Our experiment of 200 participants comparing the magnitudes of two fractions or two percentages strongly supports the practice of reporti...</span></span></span>
 
 ### The difference between percentage points and percent change
 
@@ -349,7 +349,7 @@ If approval rises from 20% to 22%, the increase can be described in two differen
 * An increase of 2 percentage points.
 * A 10% increase relative to the original 20%.
 
-Both statements are mathematically correct, but they communicate different things. Many readers interpret “10% increase” as a much larger change than actually occurred because they do not distinguish between percentage points and relative percentage change. Journalists and statistical communicators often use percentage points to avoid this ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
+Both statements are mathematically correct, but they communicate different things. Many readers interpret “10% increase” as a much larger change than actually occurred because they do not distinguish between percentage points and relative percentage change. Journalists and statistical communicators often use percentage points to avoid this ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-2-dark.svg" | relative_url }}" alt="Denominators illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ Health, safety and technology stories frequently rely on relative percentages be
 
 A headline might say that a behaviour “increases risk by 70%” or that a treatment “cuts risk by 50%”. The number is not necessarily wrong, but readers need the denominator and baseline risk to understand its practical significance.
 
-A risk rising from 1 in 10,000 to 1.7 in 10,000 represents a 70% relative increase. Yet the absolute change is less than one additional case per 10,000 people. The relative percentage sounds alarming because it focuses on the proportional increase rather than the underlying frequency. Researchers in risk communication repeatedly emphasise that relative risk should be accompanied by absolute risk so that people can judge real-world impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[The Pharmaceutical Journal+3PMC+3NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
+A risk rising from 1 in 10,000 to 1.7 in 10,000 represents a 70% relative increase. Yet the absolute change is less than one additional case per 10,000 people. The relative percentage sounds alarming because it focuses on the proportional increase rather than the underlying frequency. Researchers in risk communication repeatedly emphasise that relative risk should be accompanied by absolute risk so that people can judge real-world impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[The Pharmaceutical Journal+3PMC+3NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
 
 This does not mean relative percentages are deceptive by definition. They answer a legitimate question about proportional change. The problem arises when they are presented without the denominator, baseline risk or absolute numbers needed for interpretation.
 
@@ -398,7 +398,7 @@ A large percentage increase can emerge from a very small baseline.
 
 </div>
 
-The practical significance depends heavily on the starting point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counting-stuff.com">[Counting Stuff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counting-stuff.com</span><span class="citation-popover-snippet">Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</span><span class="citation-popover-meta">Published: July 20, 2021</span></span></span>
+The practical significance depends heavily on the starting point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counting-stuff.com">[Counting Stuff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counting-stuff.com</span><span class="citation-popover-snippet">Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</span><span class="citation-popover-meta">Published: July 20, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-3-dark.svg" | relative_url }}" alt="Denominators illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_viral_percentages_de_e232ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -406,15 +406,15 @@ The practical significance depends heavily on the starting point. <span class="c
 
 Whenever possible, look for the raw counts alongside the percentage.
 
-A statement such as “12 out of 100” is often easier to interpret than “12%”, especially when the sample is small. Seeing both figures helps readers understand scale and uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-title">sometimes the r</span><span class="citation-popover-snippet">Statistical ModelingSometimes the raw numbers are better than a percentage24 Jun 2010 — As a general rule, when the numerator in count da...</span></span></span>
+A statement such as “12 out of 100” is often easier to interpret than “12%”, especially when the sample is small. Seeing both figures helps readers understand scale and uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-title">sometimes the r</span><span class="citation-popover-snippet">Statistical ModelingSometimes the raw numbers are better than a percentage24 Jun 2010 — As a general rule, when the numerator in count da...</span></span></span>
 
 ### Is the claim using relative or absolute change?
 
-A percentage can describe: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">10% then people might think I mean a shift from 20% to 30%. Is...</span></span></span>
+A percentage can describe:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">10% then people might think I mean a shift from 20% to 30%. Is...</span></span></span>
 
-* A change relative to a previous value. * A change in percentage points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[journalistsresource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span> * A change in absolute risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
+* A change relative to a previous value. * A change in percentage points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[journalistsresource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span> * A change in absolute risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Absolute risk can be</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</span></span></span>
 
-These are different concepts, and confusing them can exaggerate or minimise the significance of a result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
+These are different concepts, and confusing them can exaggerate or minimise the significance of a result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">Use “percentage point” to indicate the amount of the change.Read more</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</span><span class="citation-popover-meta">Published: October 5, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXlpK6Opuek" title="How to lie with statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXlpK6Opuek" target="_blank" rel="noopener noreferrer">How to lie with statistics</a></p><p class="youtube-embed-meta">Channel: Tableau &middot; Views: 5.4K &middot; Uploaded: October 2018 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXlpK6Opuek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXlpK6Opuek">Open on YouTube</a></p></div></div></div>
@@ -423,181 +423,181 @@ These are different concepts, and confusing them can exaggerate or minimise the 
 
 The denominator is rarely the most attention-grabbing part of a statistic, which is precisely why it is often omitted. Viral content rewards simplicity, speed and emotional impact. A percentage fits neatly into a headline, a meme or an AI-generated summary. The denominator usually does not.
 
-[Critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) therefore requires treating percentages as incomplete until their denominator is known. A percentage without a denominator is not necessarily false, but it is often impossible to interpret correctly. The habit of asking “out of how many?” transforms percentages from persuasive slogans back into [evidence]({{ 'evidence/' | relative_url }}). In an information environment flooded with quantified claims, that question is one of the simplest and most effective defences against being misled. Government Analysis Function+2Office for Statistics Regulation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Writing about statistics</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</span></span></span>
+[Critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) therefore requires treating percentages as incomplete until their denominator is known. A percentage without a denominator is not necessarily false, but it is often impossible to interpret correctly. The habit of asking “out of how many?” transforms percentages from persuasive slogans back into [evidence]({{ 'evidence/' | relative_url }}). In an information environment flooded with quantified claims, that question is one of the simplest and most effective defences against being misled. Government Analysis Function+2Office for Statistics Regulation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Writing about statistics</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Number Behind Viral Percentages. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Number Behind Viral Percentages. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly addresses misleading percentages, comparisons, and missing context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misleading percentages, comparisons, and missing context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers interrogate viral data claims and questionable metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers interrogate viral data claims and questionable metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how numbers can mislead when scale and context are omitted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how numbers can mislead when scale and context are omitted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="denominators-the-missing-number-behind-viral-percentages-critical-thinking-in-the-age-of-social-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,138 +803,138 @@ The denominator is rarely the most attention-grabbing part of a statistic, which
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Absolute risk can be  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 7 — This leads to the key principle that one can...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIRelative risk, relative and absolute risk reduction  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63647/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63647/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relative risk reduction (RRR) tells you by how much the treatment reduced the risk of bad outcomes relative to the control group who...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK63647/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relative risk reduction (RRR) tells you by how much the treatment reduced the risk of bad outcomes relative to the control group who...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: counting-stuff.com  
-   Link: <a href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow">https://www.counting-stuff.com/communicating-changes-with-percentages/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</p></details>
+   Link:<a href="https://www.counting-stuff.com/communicating-changes-with-percentages/" target="_blank" rel="noopener noreferrer nofollow">https://www.counting-stuff.com/communicating-changes-with-percentages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counting StuffCommunicating changes with percentages is surprisingly...July 20, 2021 — 20 Jul 2021 — Another common flaw is that when th...</p></details>
    Published: July 20, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: measuringu.com  
    Title: should you avoid reporting percentages from small sample studies  
-   Link: <a href="https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/" target="_blank" rel="noopener noreferrer nofollow">https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our experiment of 200 participants comparing the magnitudes of two fractions or two percentages strongly supports the practice of reporti...</p></details>
+   Link:<a href="https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/" target="_blank" rel="noopener noreferrer nofollow">https://measuringu.com/should-you-avoid-reporting-percentages-from-small-sample-studies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our experiment of 200 participants comparing the magnitudes of two fractions or two percentages strongly supports the practice of reporti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: measuringu.com  
    Title: should you report numbers with small n  
-   Link: <a href="https://measuringu.com/should-you-report-numbers-with-small-n/" target="_blank" rel="noopener noreferrer nofollow">https://measuringu.com/should-you-report-numbers-with-small-n/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Should You Report Numbers or Percentages in Small-...7 Nov 2023 — “Don&#x27;t include numbers when reporting the results of small-sample rese...</p></details>
+   Link:<a href="https://measuringu.com/should-you-report-numbers-with-small-n/" target="_blank" rel="noopener noreferrer nofollow">https://measuringu.com/should-you-report-numbers-with-small-n/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Should You Report Numbers or Percentages in Small-...7 Nov 2023 — “Don&#x27;t include numbers when reporting the results of small-sample rese...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1016/j.pmrj.2012.01.001" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1016/j.pmrj.2012.01.001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCommunicating Risks Clearly: Absolute Risk and Number...Mar 21, 2012 — Relative risks can be misleading, because a d...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1016/j.pmrj.2012.01.001" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1016/j.pmrj.2012.01.001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCommunicating Risks Clearly: Absolute Risk and Number...Mar 21, 2012 — Relative risks can be misleading, because a d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pharmaceutical-journal.com  
-   Link: <a href="https://pharmaceutical-journal.com/article/ld/communicating-risk-how-pharmacists-should-use-data-in-conversations-with-patients" target="_blank" rel="noopener noreferrer nofollow">https://pharmaceutical-journal.com/article/ld/communicating-risk-how-pharmacists-should-use-data-in-conversations-with-patients</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pharmaceutical JournalCommunicating risk: how pharmacists should use data in...Aug 6, 2024 — &#x27;Framing&#x27; a risk or benefit using relat...</p></details>
+   Link:<a href="https://pharmaceutical-journal.com/article/ld/communicating-risk-how-pharmacists-should-use-data-in-conversations-with-patients" target="_blank" rel="noopener noreferrer nofollow">https://pharmaceutical-journal.com/article/ld/communicating-risk-how-pharmacists-should-use-data-in-conversations-with-patients</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pharmaceutical JournalCommunicating risk: how pharmacists should use data in...Aug 6, 2024 — &#x27;Framing&#x27; a risk or benefit using relat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: ernment Analysis Function Writing about statistics  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</p></details>
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionWriting about statistics - Government Analysis Function27 Nov 2019 — The aim of this guidance is to help prod...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iwh.on.ca  
-   Link: <a href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Work &amp; HealthAbsolute and relative riskAbsolute risk is the number of people experiencing an event in relation to the popul...</p></details>
+   Link:<a href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Work &amp; HealthAbsolute and relative riskAbsolute risk is the number of people experiencing an event in relation to the popul...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: Office for Statistics Regulation Whose line is it anyway?  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/blog/whose-line-is-it-anyway-why-the-misleading-presentation-of-statistics-cannot-be-dismissed-as-just-a-matter-of-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/whose-line-is-it-anyway-why-the-misleading-presentation-of-statistics-cannot-be-dismissed-as-just-a-matter-of-opinion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the misleading presentation of...30 Aug 2024 — When statistics are misused, it damages public confidence in data and those communica...</p></details>
+   Link:<a href="https://osr.statisticsauthority.gov.uk/blog/whose-line-is-it-anyway-why-the-misleading-presentation-of-statistics-cannot-be-dismissed-as-just-a-matter-of-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/whose-line-is-it-anyway-why-the-misleading-presentation-of-statistics-cannot-be-dismissed-as-just-a-matter-of-opinion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the misleading presentation of...30 Aug 2024 — When statistics are misused, it damages public confidence in data and those communica...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: statmodeling.stat.columbia.edu  
    Title: sometimes the r  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical ModelingSometimes the raw numbers are better than a percentage24 Jun 2010 — As a general rule, when the numerator in count da...</p></details>
+   Link:<a href="https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2010/06/24/sometimes_the_r/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical ModelingSometimes the raw numbers are better than a percentage24 Jun 2010 — As a general rule, when the numerator in count da...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journalistsresource.org  
    Title: Use “percentage point” to indicate the amount of the change.Read more  
-   Link: <a href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/percent-change-math-for-journalists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</p></details>
+   Link:<a href="https://journalistsresource.org/home/percent-change-math-for-journalists/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/percent-change-math-for-journalists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourcePercent change and percentage-point change: 4 tips to...October 5, 2022 — 5 Oct 2022 — “Percent change” is the...</p></details>
    Published: October 5, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10% then people might think I mean a shift from 20% to 30%. Is...</p></details>
+   Link:<a href="https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/math/comments/urojqd/when_talking_about_a_percentage_increase_in_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10% then people might think I mean a shift from 20% to 30%. Is...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5851390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5851390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and communicating risk - PMC - NIHby NR Bell · 2018 · Cited by 37 — This article will review and discuss the appropriateness, advantages...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5851390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5851390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and communicating risk - PMC - NIHby NR Bell · 2018 · Cited by 37 — This article will review and discuss the appropriateness, advantages...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/statistics/comments/1aia1hg/dwhat_are_true_but_misleading_statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/statistics/comments/1aia1hg/dwhat_are_true_but_misleading_statistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[D]what are true but misleading statisticsTrue but misleading stats I always have been fascinated by how phrasing statistics in a certain...</p></details>
+   Link:<a href="https://www.reddit.com/r/statistics/comments/1aia1hg/dwhat_are_true_but_misleading_statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/statistics/comments/1aia1hg/dwhat_are_true_but_misleading_statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[D]what are true but misleading statisticsTrue but misleading stats I always have been fascinated by how phrasing statistics in a certain...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/denominator-effect-data-interpretation-why-can-rakesh-mittal-k2nxe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/denominator-effect-data-interpretation-why-can-rakesh-mittal-k2nxe</a>  
+   Link:<a href="https://www.linkedin.com/pulse/denominator-effect-data-interpretation-why-can-rakesh-mittal-k2nxe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/denominator-effect-data-interpretation-why-can-rakesh-mittal-k2nxe</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: datafrosch.fun  
-   Link: <a href="https://datafrosch.fun/blog/pitfalls-of-percentages-in-the-news.html" target="_blank" rel="noopener noreferrer nofollow">https://datafrosch.fun/blog/pitfalls-of-percentages-in-the-news.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn why &#x27;% more likely&#x27; is misleading, how percentages don&#x27;t behave like normal numbers...</p></details>
+   Link:<a href="https://datafrosch.fun/blog/pitfalls-of-percentages-in-the-news.html" target="_blank" rel="noopener noreferrer nofollow">https://datafrosch.fun/blog/pitfalls-of-percentages-in-the-news.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn why &#x27;% more likely&#x27; is misleading, how percentages don&#x27;t behave like normal numbers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: clearerthinking.org  
    Title: stop getting fooled by this common statistics trick  
-   Link: <a href="https://www.clearerthinking.org/post/stop-getting-fooled-by-this-common-statistics-trick" target="_blank" rel="noopener noreferrer nofollow">https://www.clearerthinking.org/post/stop-getting-fooled-by-this-common-statistics-trick</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2025 — Learn how relative and absolute percentages can mislead, why a “71% increase” may not mean what you think, and how natural...</p></details>
+   Link:<a href="https://www.clearerthinking.org/post/stop-getting-fooled-by-this-common-statistics-trick" target="_blank" rel="noopener noreferrer nofollow">https://www.clearerthinking.org/post/stop-getting-fooled-by-this-common-statistics-trick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2025 — Learn how relative and absolute percentages can mislead, why a “71% increase” may not mean what you think, and how natural...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/357863149_Understanding_and_Communicating_Risk_Assessing_Both_Relative_and_Absolute_Risk_Is_Absolutely_Necessary" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357863149_Understanding_and_Communicating_Risk_Assessing_Both_Relative_and_Absolute_Risk_Is_Absolutely_Necessary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>en counselling patients, as reliance on relative risk alone risks overstating...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/357863149_Understanding_and_Communicating_Risk_Assessing_Both_Relative_and_Absolute_Risk_Is_Absolutely_Necessary" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357863149_Understanding_and_Communicating_Risk_Assessing_Both_Relative_and_Absolute_Risk_Is_Absolutely_Necessary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en counselling patients, as reliance on relative risk alone risks overstating...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Understanding-and-Communicating-Risk%3A-Assessing-and-Zavala-Stout/c24ddb3e8568b42559ff025852bf724cb2c2443c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Understanding-and-Communicating-Risk%3A-Assessing-and-Zavala-Stout/c24ddb3e8568b42559ff025852bf724cb2c2443c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epidemiology in Nephrology · Evidence-Based Risk Communication · Impact...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Understanding-and-Communicating-Risk%3A-Assessing-and-Zavala-Stout/c24ddb3e8568b42559ff025852bf724cb2c2443c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Understanding-and-Communicating-Risk%3A-Assessing-and-Zavala-Stout/c24ddb3e8568b42559ff025852bf724cb2c2443c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epidemiology in Nephrology · Evidence-Based Risk Communication · Impact...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stats.stackexchange.com  
    Title: is it problematic to use percentages to describe a sample with less than 100 peo  
-   Link: <a href="https://stats.stackexchange.com/questions/657851/is-it-problematic-to-use-percentages-to-describe-a-sample-with-less-than-100-peo" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/657851/is-it-problematic-to-use-percentages-to-describe-a-sample-with-less-than-100-peo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not reporting the sample size along percentages is always problematic.Read more...</p></details>
+   Link:<a href="https://stats.stackexchange.com/questions/657851/is-it-problematic-to-use-percentages-to-describe-a-sample-with-less-than-100-peo" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/657851/is-it-problematic-to-use-percentages-to-describe-a-sample-with-less-than-100-peo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not reporting the sample size along percentages is always problematic.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: datatinkerer.io  
    Title: when the ratio lies the denominator problem explained  
-   Link: <a href="https://www.datatinkerer.io/p/when-the-ratio-lies-the-denominator-problem-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.datatinkerer.io/p/when-the-ratio-lies-the-denominator-problem-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And if you&#x27;re not watching that part closely, you might be celebrating a win that never happened or worse.Read more...</p></details>
+   Link:<a href="https://www.datatinkerer.io/p/when-the-ratio-lies-the-denominator-problem-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.datatinkerer.io/p/when-the-ratio-lies-the-denominator-problem-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And if you&#x27;re not watching that part closely, you might be celebrating a win that never happened or worse.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: stats.stackexchange.com  
    Title: minimum total n value for denominator when calculating a percentage  
-   Link: <a href="https://stats.stackexchange.com/questions/538859/minimum-total-n-value-for-denominator-when-calculating-a-percentage" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/538859/minimum-total-n-value-for-denominator-when-calculating-a-percentage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I understand that when the denominator is a small number (say 2 people) percentages should be...</p></details>
+   Link:<a href="https://stats.stackexchange.com/questions/538859/minimum-total-n-value-for-denominator-when-calculating-a-percentage" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/538859/minimum-total-n-value-for-denominator-when-calculating-a-percentage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I understand that when the denominator is a small number (say 2 people) percentages should be...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: evalacademy.com  
    Title: making small samples work  
-   Link: <a href="https://www.evalacademy.com/articles/making-small-samples-work" target="_blank" rel="noopener noreferrer nofollow">https://www.evalacademy.com/articles/making-small-samples-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jul 2025 — In small samples, each data point carries disproportionate weight. A single response can significantly alter percentages and...</p></details>
+   Link:<a href="https://www.evalacademy.com/articles/making-small-samples-work" target="_blank" rel="noopener noreferrer nofollow">https://www.evalacademy.com/articles/making-small-samples-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jul 2025 — In small samples, each data point carries disproportionate weight. A single response can significantly alter percentages and...</p></details>

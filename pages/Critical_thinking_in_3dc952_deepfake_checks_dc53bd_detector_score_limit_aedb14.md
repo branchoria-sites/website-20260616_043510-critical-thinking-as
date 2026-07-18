@@ -284,7 +284,7 @@ Deepfake detector scores can be useful, but they are not verdicts. A detector ma
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_detector_score_limit_aedb14-Illustration-1-dark.svg" | relative_url }}" alt="Detector Scores illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_detector_score_limit_aedb14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_detector_score_limit_aedb14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This limitation matters in the broader task of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) about social media and AI. Detector outputs are best treated as triage signals that help prioritise investigation, not as final proof that content is genuine or fake. Research repeatedly shows that systems performing extremely well on laboratory benchmarks can suffer substantial declines when confronted with real-world media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
+This limitation matters in the broader task of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) about social media and AI. Detector outputs are best treated as triage signals that help prioritise investigation, not as final proof that content is genuine or fake. Research repeatedly shows that systems performing extremely well on laboratory benchmarks can suffer substantial declines when confronted with real-world media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
 
 ## What Detector Scores Usually Measure
 
@@ -301,9 +301,9 @@ A detector score often represents one of three things:
 
 </div>
 
-These scores can be misunderstood. A result of 95% does not necessarily mean there is a 95% chance the clip is fake. It often means the model is highly confident according to its internal statistical assumptions. The distinction matters because confidence and correctness are not the same thing. False positives and false negatives remain possible even when a score appears decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scam.ai/en/learn/deepfake-detection-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scam.ai">[Scam AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scam.ai</span><span class="citation-popover-snippet">Deepfake detection accuracy: what the benchmarks...22 May 2026 — An accuracy of 95.3% means the model correctly classifies 953 out of ev...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+These scores can be misunderstood. A result of 95% does not necessarily mean there is a 95% chance the clip is fake. It often means the model is highly confident according to its internal statistical assumptions. The distinction matters because confidence and correctness are not the same thing. False positives and false negatives remain possible even when a score appears decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scam.ai/en/learn/deepfake-detection-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scam.ai">[Scam AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scam.ai</span><span class="citation-popover-snippet">Deepfake detection accuracy: what the benchmarks...22 May 2026 — An accuracy of 95.3% means the model correctly classifies 953 out of ev...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-Another complication is that different detectors may evaluate the same clip very differently. Researchers and journalists using multi-detector systems have found cases where some algorithms produce extremely high deepfake likelihoods while others assess the same media as likely authentic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</span></span></span>
+Another complication is that different detectors may evaluate the same clip very differently. Researchers and journalists using multi-detector systems have found cases where some algorithms produce extremely high deepfake likelihoods while others assess the same media as likely authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</span></span></span>
 
 For that reason, a detector score should be read more like a forensic lead than a courtroom judgment.
 
@@ -314,11 +314,11 @@ For that reason, a detector score should be read more like a forensic lead than 
 
 Many published detection systems report impressive benchmark results. However, benchmark success does not automatically translate into operational reliability.
 
-The central problem is known as generalisation. A detector trained on one set of [synthetic media]({{ 'synthetic-media/' | relative_url }}) may learn artefacts specific to those generators rather than learning a deeper understanding of authenticity. When new generation systems appear, the detector's assumptions can break down. Researchers studying facial deepfake detection have identified unseen generators as a major source of detector failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
+The central problem is known as generalisation. A detector trained on one set of [synthetic media]({{ 'synthetic-media/' | relative_url }}) may learn artefacts specific to those generators rather than learning a deeper understanding of authenticity. When new generation systems appear, the detector's assumptions can break down. Researchers studying facial deepfake detection have identified unseen generators as a major source of detector failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
 
-The history of deepfake detection provides a cautionary example. In the widely discussed Deepfake Detection Challenge, even the winning model achieved only about 65% accuracy on the challenge's holdout set despite much higher scores often reported on narrower datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The history of deepfake detection provides a cautionary example. In the widely discussed Deepfake Detection Challenge, even the winning model achieved only about 65% accuracy on the challenge's holdout set despite much higher scores often reported on narrower datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-More recent research describes a "generalisation illusion": detectors continue to post strong benchmark numbers while performance declines on media encountered outside laboratory conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helpnetsecurity.com">[Help Net Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helpnetsecurity.com</span><span class="citation-popover-title">Help Net Security Deepfake detection is losing ground to generative models</span><span class="citation-popover-snippet">Real-world detection performance quietly declines. Where attacks get caught. Documented deepfake fraud cases...Read more...</span></span></span>
+More recent research describes a "generalisation illusion": detectors continue to post strong benchmark numbers while performance declines on media encountered outside laboratory conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helpnetsecurity.com">[Help Net Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helpnetsecurity.com</span><span class="citation-popover-title">Help Net Security Deepfake detection is losing ground to generative models</span><span class="citation-popover-snippet">Real-world detection performance quietly declines. Where attacks get caught. Documented deepfake fraud cases...Read more...</span></span></span>
 
 The practical lesson is that benchmark accuracy answers a narrower question than many users assume. It measures performance on a particular test set, not on every future clip circulating online.
 
@@ -328,7 +328,7 @@ The practical lesson is that benchmark accuracy answers a narrower question than
 
 Social media platforms routinely compress uploaded media. Resolution is reduced, visual details are smoothed and audio quality changes.
 
-Many detection systems rely on tiny artefacts introduced during generation. Compression can erase exactly the clues those systems are looking for. Researchers have repeatedly documented drops in detection performance when videos undergo realistic compression and post-processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Detection of Compressed DeepFake Video Drawbacks and...Jan 7, 2026 — To solve this robustness issue, this paper proposes a D...</span></span></span>
+Many detection systems rely on tiny artefacts introduced during generation. Compression can erase exactly the clues those systems are looking for. Researchers have repeatedly documented drops in detection performance when videos undergo realistic compression and post-processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Detection of Compressed DeepFake Video Drawbacks and...Jan 7, 2026 — To solve this robustness issue, this paper proposes a D...</span></span></span>
 
 This creates a paradox: the content that needs verification most urgently—viral clips repeatedly copied across platforms—is often the content least suited to automated detection.
 
@@ -338,7 +338,7 @@ This creates a paradox: the content that needs verification most urgently—vira
 
 Deepfake detection is an arms race. New image, video and voice models emerge continually.
 
-Several studies have found that detectors trained on one generation method often perform poorly when confronted with synthetic media created by previously unseen systems. Out-of-distribution, or OOD, content remains one of the field's hardest challenges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.02857v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">The first approach is trained to reconstruct the input image.Read more</span><span class="citation-popover-snippet">Robust Out-Of-Distribution strategies for Deepfake DetectionJun 3, 2025 — In this paper, we propose two novel Out-Of-Distribution (O...</span></span></span>
+Several studies have found that detectors trained on one generation method often perform poorly when confronted with synthetic media created by previously unseen systems. Out-of-distribution, or OOD, content remains one of the field's hardest challenges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.02857v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">The first approach is trained to reconstruct the input image.Read more</span><span class="citation-popover-snippet">Robust Out-Of-Distribution strategies for Deepfake DetectionJun 3, 2025 — In this paper, we propose two novel Out-Of-Distribution (O...</span></span></span>
 
 A detector may therefore identify yesterday's [deepfakes]({{ 'deepfakes/' | relative_url }}) while missing tomorrow's.
 
@@ -346,7 +346,7 @@ A detector may therefore identify yesterday's [deepfakes]({{ 'deepfakes/' | rela
 
 Real-world media varies enormously. Videos may come from inexpensive smartphones, surveillance cameras, video calls or livestream recordings. Audio may contain background noise, accents, dialects or code-switching.
 
-Detection tools trained primarily on English-language or Western datasets can struggle with media from different linguistic and cultural contexts. Researchers and journalists have highlighted failures involving non-Western content and lower-quality recordings, where both false positives and false negatives become more common. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/generative-ai-detection-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">AI-Fakes Detection Is Failing Voters in the Global South</span><span class="citation-popover-snippet">Synthetic media detection tools often fall short in accurately identifying AI manipulation for non-Western content, leading to false posi...</span></span></span>
+Detection tools trained primarily on English-language or Western datasets can struggle with media from different linguistic and cultural contexts. Researchers and journalists have highlighted failures involving non-Western content and lower-quality recordings, where both false positives and false negatives become more common.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/generative-ai-detection-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">AI-Fakes Detection Is Failing Voters in the Global South</span><span class="citation-popover-snippet">Synthetic media detection tools often fall short in accurately identifying AI manipulation for non-Western content, leading to false posi...</span></span></span>
 
 These failures are especially important during elections, crises and breaking news events, where authentic recordings may already be noisy or degraded.
 
@@ -357,13 +357,13 @@ These failures are especially important during elections, crises and breaking ne
 
 Several recurring failure patterns appear across studies and operational deployments.
 
-**Conflicting detector outputs.** A media sample may receive dramatically different scores from different systems because each detector focuses on different artefacts and training data. Investigations using multiple detectors have shown that some algorithms can report near-certain fakery while others assign very low probabilities to the same content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</span></span></span>
+**Conflicting detector outputs.** A media sample may receive dramatically different scores from different systems because each detector focuses on different artefacts and training data. Investigations using multiple detectors have shown that some algorithms can report near-certain fakery while others assign very low probabilities to the same content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</span></span></span>
 
-**Audio detectors collapsing outside the laboratory.** Researchers evaluating speech deepfake systems on more realistic datasets found severe performance degradation compared with benchmark expectations. Some models experienced declines so large that the authors argued the field may have over-optimised for benchmark datasets rather than open-world conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.16263" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Does Audio Deepfake Detection Generalize?</span><span class="citation-popover-snippet">Does Audio Deepfake Detection Generalize?March 30, 2022...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
+**Audio detectors collapsing outside the laboratory.** Researchers evaluating speech deepfake systems on more realistic datasets found severe performance degradation compared with benchmark expectations. Some models experienced declines so large that the authors argued the field may have over-optimised for benchmark datasets rather than open-world conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.16263" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Does Audio Deepfake Detection Generalize?</span><span class="citation-popover-snippet">Does Audio Deepfake Detection Generalize?March 30, 2022...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
 
-**Commercial systems failing on operational data.** Emerging evaluations of commercial tools report preprocessing failures, prediction failures and substantially weaker performance on real-world media than marketing claims might suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3803629.3803675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAnalyzing Commercial Deepfake Detectors on Real-World...by B Moon · 2026 · Cited by 1 — In cases where tools fail to...</span></span></span>
+**Commercial systems failing on operational data.** Emerging evaluations of commercial tools report preprocessing failures, prediction failures and substantially weaker performance on real-world media than marketing claims might suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3803629.3803675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAnalyzing Commercial Deepfake Detectors on Real-World...by B Moon · 2026 · Cited by 1 — In cases where tools fail to...</span></span></span>
 
-**Adversarial adaptation.** Detection systems can sometimes be evaded through small changes that preserve human perception while reducing detector effectiveness. Research continues to find gaps between robustness in controlled tests and robustness under realistic attack conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.05986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraintsJanuary 9, 2026...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
+**Adversarial adaptation.** Detection systems can sometimes be evaded through small changes that preserve human perception while reducing detector effectiveness. Research continues to find gaps between robustness in controlled tests and robustness under realistic attack conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.05986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraintsJanuary 9, 2026...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
 These examples do not mean detectors are useless. They show why a detector result should be interpreted as one piece of [evidence]({{ 'evidence/' | relative_url }}) rather than a standalone conclusion.
 
@@ -394,199 +394,199 @@ This approach aligns with the broader principle of critical thinking in the age 
 
 ## The Key Takeaway
 
-Deepfake detectors are valuable screening tools, but they are not truth machines. Their scores depend on training data, assumptions and media quality. New generators, compression, unfamiliar formats, linguistic variation and adversarial adaptation can all reduce reliability. Research across both video and audio domains consistently shows that performance often drops when systems leave controlled benchmarks and encounter the messy conditions of real-world social media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[Help Net Security+3arXiv+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
+Deepfake detectors are valuable screening tools, but they are not truth machines. Their scores depend on training data, assumptions and media quality. New generators, compression, unfamiliar formats, linguistic variation and adversarial adaptation can all reduce reliability. Research across both video and audio domains consistently shows that performance often drops when systems leave controlled benchmarks and encounter the messy conditions of real-world social media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[Help Net Security+3arXiv+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Why Do Facial Deepfake Detectors Fail?</span><span class="citation-popover-snippet">Why Do Facial Deepfake Detectors Fail?February 25, 2023...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
 
 For that reason, the strongest credibility check is not a detector score by itself. It is a combination of technical analysis, provenance, corroboration and careful evaluation of the claim the media is being used to support.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI Detectors Are Not Verdicts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI Detectors Are Not Verdicts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains limits of statistical and technical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains limits of statistical and technical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Box Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ll3rBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Box Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Box Society">The Black Box Society</a>
-        </h4>
-        <p class="fr-book-author">By Frank Pasquale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Box Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ll3rBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Box Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Box Society">The Black Box Society</a>
+</h4>
+<p class="fr-book-author">By Frank Pasquale</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of opaque algorithmic systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of opaque algorithmic systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Box+Society+by+Frank+Pasquale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Shows why model outputs should not be treated as verdicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why model outputs should not be treated as verdicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Reinforces evidence-based evaluation beyond tool scores.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces evidence-based evaluation beyond tool scores.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Box+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Box Society</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Box+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Box Society</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="{{ '/assets/images/marketplace-covers/0ec43911bad3ef719bae.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="detector-scores-why-ai-detectors-are-not-verdicts-critical-thinking-in-the-age-of-social-media-a-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ For that reason, the strongest credibility check is not a detector score by itse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ For that reason, the strongest credibility check is not a detector score by itse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ For that reason, the strongest credibility check is not a detector score by itse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ For that reason, the strongest credibility check is not a detector score by itse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ For that reason, the strongest credibility check is not a detector score by itse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,164 +792,164 @@ For that reason, the strongest credibility check is not a detector score by itse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Why Do Facial Deepfake Detectors Fail?  
-   Link: <a href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.13156</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Facial Deepfake Detectors Fail?February 25, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2302.13156" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.13156</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Facial Deepfake Detectors Fail?February 25, 2023...</p></details>
    Published: February 25, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.19537" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.19537</a>  
+   Link:<a href="https://arxiv.org/abs/2411.19537" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.19537</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scam.ai  
-   Link: <a href="https://www.scam.ai/en/learn/deepfake-detection-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.scam.ai/en/learn/deepfake-detection-accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detection accuracy: what the benchmarks...22 May 2026 — An accuracy of 95.3% means the model correctly classifies 953 out of ev...</p></details>
+   Link:<a href="https://www.scam.ai/en/learn/deepfake-detection-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.scam.ai/en/learn/deepfake-detection-accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detection accuracy: what the benchmarks...22 May 2026 — An accuracy of 95.3% means the model correctly classifies 953 out of ev...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deepfake</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deepfake</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Compressed DeepFake Video Drawbacks and...Jan 7, 2026 — To solve this robustness issue, this paper proposes a D...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366830930_Detection_of_Compressed_DeepFake_Video_Drawbacks_and_Technical_Developments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Compressed DeepFake Video Drawbacks and...Jan 7, 2026 — To solve this robustness issue, this paper proposes a D...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2303.17247" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2303.17247</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Video Processing Operations in Deepfake...by Y Lu · 2023 · Cited by 10 — It is important to remark that FaceForensics++ first...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2303.17247" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2303.17247</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Video Processing Operations in Deepfake...by Y Lu · 2023 · Cited by 10 — It is important to remark that FaceForensics++ first...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393985836_Compression-Aware_Hybrid_Framework_for_deep_fake_Detection_in_Low-Quality_Video" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393985836_Compression-Aware_Hybrid_Framework_for_deep_fake_Detection_in_Low-Quality_Video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compression-Aware Hybrid Framework for Deep Fake...16 Mar 2026 — Results show that RGB inputs without attention achieve the highest accu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393985836_Compression-Aware_Hybrid_Framework_for_deep_fake_Detection_in_Low-Quality_Video" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393985836_Compression-Aware_Hybrid_Framework_for_deep_fake_Detection_in_Low-Quality_Video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compression-Aware Hybrid Framework for Deep Fake...16 Mar 2026 — Results show that RGB inputs without attention achieve the highest accu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: The first approach is trained to reconstruct the input image.Read more  
-   Link: <a href="https://arxiv.org/html/2506.02857v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.02857v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust Out-Of-Distribution strategies for Deepfake DetectionJun 3, 2025 — In this paper, we propose two novel Out-Of-Distribution (O...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.02857v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.02857v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robust Out-Of-Distribution strategies for Deepfake DetectionJun 3, 2025 — In this paper, we propose two novel Out-Of-Distribution (O...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: AI-Fakes Detection Is Failing Voters in the Global South  
-   Link: <a href="https://www.wired.com/story/generative-ai-detection-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/generative-ai-detection-gap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synthetic media detection tools often fall short in accurately identifying AI manipulation for non-Western content, leading to false posi...</p></details>
+   Link:<a href="https://www.wired.com/story/generative-ai-detection-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/generative-ai-detection-gap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synthetic media detection tools often fall short in accurately identifying AI manipulation for non-Western content, leading to false posi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Does Audio Deepfake Detection Generalize?  
-   Link: <a href="https://arxiv.org/abs/2203.16263" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16263</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Audio Deepfake Detection Generalize?March 30, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2203.16263" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16263</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Audio Deepfake Detection Generalize?March 30, 2022...</p></details>
    Published: March 30, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395848176_Why_Speech_Deepfake_Detectors_Won%27t_Generalize_The_Limits_of_Detection_in_an_Open_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395848176_Why_Speech_Deepfake_Detectors_Won%27t_Generalize_The_Limits_of_Detection_in_an_Open_World</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detection techniques. In this survey, we systematically analyze more than 200 papers published up to March 2024. We provide a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395848176_Why_Speech_Deepfake_Detectors_Won%27t_Generalize_The_Limits_of_Detection_in_an_Open_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395848176_Why_Speech_Deepfake_Detectors_Won%27t_Generalize_The_Limits_of_Detection_in_an_Open_World</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detection techniques. In this survey, we systematically analyze more than 200 papers published up to March 2024. We provide a...</p></details>
    Published: March 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3803629.3803675" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3803629.3803675</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAnalyzing Commercial Deepfake Detectors on Real-World...by B Moon · 2026 · Cited by 1 — In cases where tools fail to...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3803629.3803675" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3803629.3803675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAnalyzing Commercial Deepfake Detectors on Real-World...by B Moon · 2026 · Cited by 1 — In cases where tools fail to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.05986" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05986</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraintsJanuary 9, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.05986" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraintsJanuary 9, 2026...</p></details>
    Published: January 9, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 403527896 Deepfake Generation and Detection A Comprehensive Survey  
-   Link: <a href="https://www.researchgate.net/publication/403527896_Deepfake_Generation_and_Detection_A_Comprehensive_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403527896_Deepfake_Generation_and_Detection_A_Comprehensive_Survey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Generation and Detection: A Comprehensive...Apr 9, 2026 — Unmasking deepfakes: A systematic review of deepfake detection...Rea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403527896_Deepfake_Generation_and_Detection_A_Comprehensive_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403527896_Deepfake_Generation_and_Detection_A_Comprehensive_Survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Generation and Detection: A Comprehensive...Apr 9, 2026 — Unmasking deepfakes: A systematic review of deepfake detection...Rea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397480285_Performance_Decay_in_Deepfake_Detection_The_Limitations_of_Training_on_Outdated_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397480285_Performance_Decay_in_Deepfake_Detection_The_Limitations_of_Training_on_Outdated_Data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Performance Decay in Deepfake Detection14 Nov 2025 — We show that models trained on this data suffer a recall drop of over 30% when...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397480285_Performance_Decay_in_Deepfake_Detection_The_Limitations_of_Training_on_Outdated_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397480285_Performance_Decay_in_Deepfake_Detection_The_Limitations_of_Training_on_Outdated_Data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Performance Decay in Deepfake Detection14 Nov 2025 — We show that models trained on this data suffer a recall drop of over 30% when...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395275081_VCF_A_Real-World_Video_Conference_Deepfake_Benchmark_for_Face-Swap_Detection_and_Robustness_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395275081_VCF_A_Real-World_Video_Conference_Deepfake_Benchmark_for_Face-Swap_Detection_and_Robustness_Evaluation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resolution shifts, compression artifacts, and diverse generation pipelines.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395275081_VCF_A_Real-World_Video_Conference_Deepfake_Benchmark_for_Face-Swap_Detection_and_Robustness_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395275081_VCF_A_Real-World_Video_Conference_Deepfake_Benchmark_for_Face-Swap_Detection_and_Robustness_Evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>resolution shifts, compression artifacts, and diverse generation pipelines.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.07436v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.07436v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Robust Real-World Audio Deepfake DetectionIn this paper, we introduce novel explainability methods for state-of-the-art transforme...</p></details>
+   Link:<a href="https://arxiv.org/html/2410.07436v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.07436v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Robust Real-World Audio Deepfake DetectionIn this paper, we introduce novel explainability methods for state-of-the-art transforme...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: helpnetsecurity.com  
    Title: Help Net Security Deepfake detection is losing ground to generative models  
-   Link: <a href="https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-world detection performance quietly declines. Where attacks get caught. Documented deepfake fraud cases...Read more...</p></details>
+   Link:<a href="https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-world detection performance quietly declines. Where attacks get caught. Documented deepfake fraud cases...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/jun/07/how-to-spot-a-deepfake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These tools allow users to upload suspicious media to assess the likelihood it was AI-generated, though results can vary greatly. For ins...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: security.virginia.edu  
-   Link: <a href="https://security.virginia.edu/deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://security.virginia.edu/deepfakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the heck is a deepfake? - UVA Information SecurityA deepfake is an artificial image or video (a series of images) generated by a special...</p></details>
+   Link:<a href="https://security.virginia.edu/deepfakes" target="_blank" rel="noopener noreferrer nofollow">https://security.virginia.edu/deepfakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the heck is a deepfake? - UVA Information SecurityA deepfake is an artificial image or video (a series of images) generated by a special...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/gao-20-379sp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-20-379sp.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20-379SP, Science &amp; Tech Spotlight: DeepfakesA deepfake is a video, photo, or audio recording that seems real but has been manipulate...</p></details>
+   Link:<a href="https://www.gao.gov/assets/gao-20-379sp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-20-379sp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20-379SP, Science &amp; Tech Spotlight: DeepfakesA deepfake is a video, photo, or audio recording that seems real but has been manipulate...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/papers?q=deepfake" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers?q=deepfake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily PapersExisting deepfake detection datasets are often limited, relying on outdated generation methods, low realism, or single-face i...</p></details>
+   Link:<a href="https://huggingface.co/papers?q=deepfake" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers?q=deepfake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily PapersExisting deepfake detection datasets are often limited, relying on outdated generation methods, low realism, or single-face i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: proofpoint.com  
-   Link: <a href="https://www.proofpoint.com/us/threat-reference/deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.proofpoint.com/us/threat-reference/deepfake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Deepfake? Meaning, Technology, How it WorksDeepfakes are AI-generated synthetic media (video, audio, etc.) intended to convincing...</p></details>
+   Link:<a href="https://www.proofpoint.com/us/threat-reference/deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.proofpoint.com/us/threat-reference/deepfake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Deepfake? Meaning, Technology, How it WorksDeepfakes are AI-generated synthetic media (video, audio, etc.) intended to convincing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: github.com  
-   Link: <a href="https://github.com/flynn-chen/faceforensics_benchmark" target="_blank" rel="noopener noreferrer nofollow">https://github.com/flynn-chen/faceforensics_benchmark</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flynn-chen/faceforensics_benchmark: DeepFake Detection...We are offering an automated benchmark for facial manipulation detection on the...</p></details>
+   Link:<a href="https://github.com/flynn-chen/faceforensics_benchmark" target="_blank" rel="noopener noreferrer nofollow">https://github.com/flynn-chen/faceforensics_benchmark</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flynn-chen/faceforensics_benchmark: DeepFake Detection...We are offering an automated benchmark for facial manipulation detection on the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: openaccess.thecvf.com  
    Title: Gajewska Audio Deepfake Detectors vs. Real Fraud The Fall of WACVW 2026 paper  
-   Link: <a href="https://openaccess.thecvf.com/content/WACV2026W/SAFE-2026/papers/Gajewska_Audio_Deepfake_Detectors_vs._Real_Fraud_-_The_Fall_of_WACVW_2026_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/WACV2026W/SAFE-2026/papers/Gajewska_Audio_Deepfake_Detectors_vs._Real_Fraud_-_The_Fall_of_WACVW_2026_paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>real fraud - the fall of benchmarksby J Gajewska · 2026 — In this study, we investigate the performance and general- ization capacity of...</p></details>
+   Link:<a href="https://openaccess.thecvf.com/content/WACV2026W/SAFE-2026/papers/Gajewska_Audio_Deepfake_Detectors_vs._Real_Fraud_-_The_Fall_of_WACVW_2026_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/WACV2026W/SAFE-2026/papers/Gajewska_Audio_Deepfake_Detectors_vs._Real_Fraud_-_The_Fall_of_WACVW_2026_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>real fraud - the fall of benchmarksby J Gajewska · 2026 — In this study, we investigate the performance and general- ization capacity of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/nG2_GhNdTek?si=jmf-OAiFwQwwmB9F" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/nG2_GhNdTek?si=jmf-OAiFwQwwmB9F</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hany Farid is a Professor at the UC Berkeley School of Information. In addition to teaching at UC Berkeley, Hany is Chief Science Officer...</p></details>
+   Link:<a href="https://youtu.be/nG2_GhNdTek?si=jmf-OAiFwQwwmB9F" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/nG2_GhNdTek?si=jmf-OAiFwQwwmB9F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hany Farid is a Professor at the UC Berkeley School of Information. In addition to teaching at UC Berkeley, Hany is Chief Science Officer...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: brside.com  
-   Link: <a href="https://www.brside.com/blog/why-deepfake-detection-tools-fail-in-real-world-deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.brside.com/blog/why-deepfake-detection-tools-fail-in-real-world-deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brightside AIWhy Deepfake Detection Tools Fail in Real-World...Oct 17, 2025 — State-of-the-art detection systems dropped 45-50% in perfo...</p></details>
+   Link:<a href="https://www.brside.com/blog/why-deepfake-detection-tools-fail-in-real-world-deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.brside.com/blog/why-deepfake-detection-tools-fail-in-real-world-deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brightside AIWhy Deepfake Detection Tools Fail in Real-World...Oct 17, 2025 — State-of-the-art detection systems dropped 45-50% in perfo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: digitalknowledge.cput.ac.za  
-   Link: <a href="https://digitalknowledge.cput.ac.za/bitstream/11189/9706/1/Deepfake_Generation_and_Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalknowledge.cput.ac.za/bitstream/11189/9706/1/Deepfake_Generation_and_Detection.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generation and Detection: Case Study and...by Y Patel · 2023 · Cited by 237 — However, even with such prolific research in deepfake dete...</p></details>
+   Link:<a href="https://digitalknowledge.cput.ac.za/bitstream/11189/9706/1/Deepfake_Generation_and_Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalknowledge.cput.ac.za/bitstream/11189/9706/1/Deepfake_Generation_and_Detection.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generation and Detection: Case Study and...by Y Patel · 2023 · Cited by 237 — However, even with such prolific research in deepfake dete...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/digitalforensics/comments/1t8x5y9/why_is_detecting_aigenerated_images_so_hard_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalforensics/comments/1t8x5y9/why_is_detecting_aigenerated_images_so_hard_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>newer generators differ from those on which the detectors were...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/digitalforensics/comments/1t8x5y9/why_is_detecting_aigenerated_images_so_hard_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalforensics/comments/1t8x5y9/why_is_detecting_aigenerated_images_so_hard_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>newer generators differ from those on which the detectors were...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/why-do-deepfake-detectors-fail-2yz8g070.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/why-do-deepfake-detectors-fail-2yz8g070.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sing pipeline of artifacts and (2) the fact that generators.Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/why-do-deepfake-detectors-fail-2yz8g070.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/why-do-deepfake-detectors-fail-2yz8g070.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sing pipeline of artifacts and (2) the fact that generators.Read more...</p></details>

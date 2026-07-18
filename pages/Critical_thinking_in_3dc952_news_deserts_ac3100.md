@@ -422,19 +422,19 @@ News deserts are places where reliable local journalism is weak, shrunken or abs
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100-overview.webp" | relative_url }}" alt="Overview image for News Deserts" loading="eager" decoding="sync" fetchpriority="high">
-The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) risk is not that every local group is malicious. It is that weak local reporting removes a shared reference point. When nobody is routinely attending council meetings, checking police statements, asking councillors for [evidence]({{ 'evidence/' | relative_url }}), or correcting rumours in public, false authority can flourish. Recent UK research found misinformation rates were roughly three times higher in news deserts or “drylands” than in better-served local news areas, while US research continues to show widening local news deserts as newspapers close and digital replacements do not arrive evenly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) risk is not that every local group is malicious. It is that weak local reporting removes a shared reference point. When nobody is routinely attending council meetings, checking police statements, asking councillors for [evidence]({{ 'evidence/' | relative_url }}), or correcting rumours in public, false authority can flourish. Recent UK research found misinformation rates were roughly three times higher in news deserts or “drylands” than in better-served local news areas, while US research continues to show widening local news deserts as newspapers close and digital replacements do not arrive evenly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
 ## Why local gaps matter
 
 Local journalism does a kind of work that national news, search engines and social media do not easily replace. It turns scattered public information into a record people can check: what the council actually voted for, what police have confirmed, which services are moving rather than closing, which candidate said what, and whether a viral claim has been misunderstood. Without that routine reporting, people may still be surrounded by information, but less of it has been verified by someone with a duty to correct errors.
 
-The scale of the gap is substantial. Northwestern University’s 2025 State of Local News report says US news deserts are widening, newspaper closures continue, and the number of counties without local news has risen to 213. The same report notes that digital-only outlets are growing, but that growth does not automatically replace the geographic reach, institutional memory and meeting coverage lost when long-standing local papers close. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localnewsinitiative.northwestern.edu">[Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localnewsinitiative.northwestern.edu</span><span class="citation-popover-title">state of local news</span><span class="citation-popover-snippet">Local News InitiativeThe State of Local News 2025 &#124; Local News Initiative...</span></span></span>
+The scale of the gap is substantial. Northwestern University’s 2025 State of Local News report says US news deserts are widening, newspaper closures continue, and the number of counties without local news has risen to 213. The same report notes that digital-only outlets are growing, but that growth does not automatically replace the geographic reach, institutional memory and meeting coverage lost when long-standing local papers close.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localnewsinitiative.northwestern.edu">[Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localnewsinitiative.northwestern.edu</span><span class="citation-popover-title">state of local news</span><span class="citation-popover-snippet">Local News InitiativeThe State of Local News 2025 &#124; Local News Initiative...</span></span></span>
 
 A useful way to think about a news desert is not “no information”, but “no dependable local checking layer”. People still hear things: from neighbours, campaign pages, police updates, school emails, council social posts, influencers, local businesses and community groups. The problem is that those fragments arrive without a stable local newsroom to test them against documents, meetings and named officials.
 
-The consequences go beyond rumour. A 2026 UK government-commissioned review of local news provision reported that interviewees from local newspapers and local authorities saw news deserts as a risk linked to misinformation, community tensions, reduced civic engagement, weaker local economic outcomes, and less scrutiny of local authorities. The same review found strong agreement that non-journalistic social media cannot simply replace local journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
+The consequences go beyond rumour. A 2026 UK government-commissioned review of local news provision reported that interviewees from local newspapers and local authorities saw news deserts as a risk linked to misinformation, community tensions, reduced civic engagement, weaker local economic outcomes, and less scrutiny of local authorities. The same review found strong agreement that non-journalistic social media cannot simply replace local journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
 
-Local news also acts as a deterrent. The UK review summarised research linking newspaper closures to higher municipal borrowing costs, more federal corruption charges, increased corporate violations and reduced reporting of local toxic emissions when plants were farther from newspaper headquarters. These findings are not all “misinformation studies” in the narrow sense, but they show why the local information environment matters: when scrutiny thins out, errors, evasions and unchecked claims have more room to operate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
+Local news also acts as a deterrent. The UK review summarised research linking newspaper closures to higher municipal borrowing costs, more federal corruption charges, increased corporate violations and reduced reporting of local toxic emissions when plants were farther from newspaper headquarters. These findings are not all “misinformation studies” in the narrow sense, but they show why the local information environment matters: when scrutiny thins out, errors, evasions and unchecked claims have more room to operate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100-Illustration-1-dark.svg" | relative_url }}" alt="News Deserts illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -442,9 +442,9 @@ Local news also acts as a deterrent. The UK review summarised research linking n
 
 Local social media works because it feels close. A post from someone in the same town can feel more relevant than a professionally written article about national politics. It may include a photo from a familiar road, a voice note from a parent, a screenshot from a council page, or a claim that begins with “my mate works there”. That social proximity can be helpful in emergencies, but it can also make weak evidence feel stronger than it is.
 
-The Social Market Foundation’s 2026 UK report analysed more than 125,000 posts across Facebook, X, Nextdoor and Reddit to examine local misinformation. It found that 41% of local Facebook groups and 81% of X searches in its sample contained at least one piece of misinformation in the last 1,000 posts. The report also cautioned that removed posts may have been missed, so its results may understate the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+The Social Market Foundation’s 2026 UK report analysed more than 125,000 posts across Facebook, X, Nextdoor and Reddit to examine local misinformation. It found that 41% of local Facebook groups and 81% of X searches in its sample contained at least one piece of misinformation in the last 1,000 posts. The report also cautioned that removed posts may have been missed, so its results may understate the problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
-The important detail is not just the raw percentage of all posts. Most local group posts are not “news” at all; they are lost pets, recommendations, adverts, warnings, jokes and complaints. But when the SMF separated out news-related posts, it found that almost 1 in 20 news-related Facebook posts were misinformation, while on X the ratio was over 1 in 4. That means a person who uses a local group mainly for practical news may encounter a much riskier information diet than the overall group average suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+The important detail is not just the raw percentage of all posts. Most local group posts are not “news” at all; they are lost pets, recommendations, adverts, warnings, jokes and complaints. But when the SMF separated out news-related posts, it found that almost 1 in 20 news-related Facebook posts were misinformation, while on X the ratio was over 1 in 4. That means a person who uses a local group mainly for practical news may encounter a much riskier information diet than the overall group average suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
 Local feeds also create a speed problem. A local rumour can move from “Has anyone heard?” to “This is what the council is hiding” within hours. By the time an official correction appears, the original post may have been screenshotted, reposted elsewhere, edited, or embedded in a broader story about corruption, immigration, crime, schools or elections. Critical thinking becomes harder because people are not judging a single claim; they are judging a fast-changing social narrative.
 
@@ -455,13 +455,13 @@ Local feeds also create a speed problem. A local rumour can move from “Has any
 
 False authority is one of the biggest risks in local misinformation. It happens when a claim borrows the appearance of a trusted institution or local insider without earning that trust. Examples include a fake council notice, a manipulated screenshot of a local newspaper article, a post that says “police have confirmed” without linking to police, an anonymous account using “news” in its name, or a paid verification badge that looks like official credibility.
 
-The SMF report uses “misinformation” broadly because intent is often hard to judge. It distinguishes misinformation from deliberate disinformation, but notes that disinformation can later be reshared by ordinary people who believe it is true. It also lists common forms of information disorder, including false context, imposter content, manipulated content and fabricated content. These categories are especially relevant locally because a small change to context can mislead: an old police photo can be presented as last night’s incident, or a real council consultation can be reframed as a secret final decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+The SMF report uses “misinformation” broadly because intent is often hard to judge. It distinguishes misinformation from deliberate disinformation, but notes that disinformation can later be reshared by ordinary people who believe it is true. It also lists common forms of information disorder, including false context, imposter content, manipulated content and fabricated content. These categories are especially relevant locally because a small change to context can mislead: an old police photo can be presented as last night’s incident, or a real council consultation can be reframed as a secret final decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
-Elections make this sharper. In the SMF’s UK analysis, misinformation as a share of news-related posts in studied Facebook groups rose from 8.2% to 12.9% around local elections, a 56% increase. In the Gorton and Denton by-election case, misinformation across four local Facebook groups was reported as 26 times higher than in the wider Facebook analysis, though the report warns that it cannot say how far misinformation affected votes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+Elections make this sharper. In the SMF’s UK analysis, misinformation as a share of news-related posts in studied Facebook groups rose from 8.2% to 12.9% around local elections, a 56% increase. In the Gorton and Denton by-election case, misinformation across four local Facebook groups was reported as 26 times higher than in the wider Facebook analysis, though the report warns that it cannot say how far misinformation affected votes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
-The local form can be more damaging than generic national misinformation because it attaches to real people and places. The SMF found posts about council issues, local politics, scams, immigration and Islamophobia, including cases where councillors had to intervene to explain that a library was being moved rather than lost entirely. It also documented a local debunk by the Manchester Evening News after a misleading claim about Green candidate Hannah Spencer’s home circulated during the Gorton and Denton campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+The local form can be more damaging than generic national misinformation because it attaches to real people and places. The SMF found posts about council issues, local politics, scams, immigration and Islamophobia, including cases where councillors had to intervene to explain that a library was being moved rather than lost entirely. It also documented a local debunk by the Manchester Evening News after a misleading claim about Green candidate Hannah Spencer’s home circulated during the Gorton and Denton campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-title">No news is bad news June 2026 correct</span><span class="citation-popover-snippet">No news is bad news June 2026 correct</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
-The 2024 Southport-related riots in the UK show how false claims can connect local tragedy to national and platform-level amplification. A UK parliamentary inquiry states that anti-immigration demonstrations and riots between 30 July and 7 August 2024 were driven in part by false claims spreading on social media about the killing of three children in Southport. LSE research later described how verified X accounts, AI-generated images and false claims helped give racist conspiracy narratives a more credible appearance and wider reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Social media, misinformation and harmful algorithms</span><span class="citation-popover-snippet">UK Parliament CommitteesSocial media, misinformation and harmful algorithms - Committees - UK Parliament...</span></span></span>
+The 2024 Southport-related riots in the UK show how false claims can connect local tragedy to national and platform-level amplification. A UK parliamentary inquiry states that anti-immigration demonstrations and riots between 30 July and 7 August 2024 were driven in part by false claims spreading on social media about the killing of three children in Southport. LSE research later described how verified X accounts, AI-generated images and false claims helped give racist conspiracy narratives a more credible appearance and wider reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Social media, misinformation and harmful algorithms</span><span class="citation-popover-snippet">UK Parliament CommitteesSocial media, misinformation and harmful algorithms - Committees - UK Parliament...</span></span></span>
 
 This is the core critical-thinking challenge: local misinformation often does not look like a wild conspiracy at first. It looks like a warning, a screenshot, a neighbourhood tip, a “just asking questions” post, or a claim from someone who seems embedded in the community.
 
@@ -473,7 +473,7 @@ Searching can help, but local misinformation often thrives precisely because the
 
 Researchers sometimes call this a “data void”: a space where there is demand for information but little reliable content to satisfy it. In a local data void, the first confident-looking page or post can gain authority because there is little else to compare it with. This matters more as generative AI summaries and search snippets increasingly package information into fluent answers. A system may sound confident even when it is drawing from a sparse or polluted local source base.
 
-There is also a trust paradox. Pew Research Center found in 2025 that US adults still trusted local news organisations more than national news organisations or social media sites, but that trust in local news had fallen from 82% in 2016 to 70% in 2025. Social media trust was lower overall, yet younger adults were much closer to parity between national news and social media trust. A community may therefore lose local reporting at the same time as more people rely on platforms to fill the gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Open source on pewresearch.org.</span></span></span>
+There is also a trust paradox. Pew Research Center found in 2025 that US adults still trusted local news organisations more than national news organisations or social media sites, but that trust in local news had fallen from 82% in 2016 to 70% in 2025. Social media trust was lower overall, yet younger adults were much closer to parity between national news and social media trust. A community may therefore lose local reporting at the same time as more people rely on platforms to fill the gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Open source on pewresearch.org.</span></span></span>
 
 The lesson is not that searches are useless. It is that local claims need a different checking method from broad public issues. The right question is not only “Can I find a link?” but “Can I find an independent, accountable source close enough to the event to know, and transparent enough to correct mistakes?”
 
@@ -510,7 +510,7 @@ The answer to local misinformation is not simply “more moderation”. Moderati
 
 There are practical signs that a community has better local information resilience. Council meetings are reported in plain language. Local reporters or newsletters explain what is confirmed and what is still uncertain. Facebook group moderators require sources for serious allegations. Public bodies correct rumours quickly and visibly. Residents know where to find planning applications, election information, court outcomes and emergency updates. Local outlets collaborate rather than merely chase platform traffic.
 
-The UK government review found strong support for the BBC-backed Local Democracy Reporting Service, which places reporters in local newsrooms to cover councils and local public bodies, especially where traditional local journalism has declined. Interviewees still raised concerns about limited resources, but the scheme was widely seen as effective and necessary for keeping local decisions visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
+The UK government review found strong support for the BBC-backed Local Democracy Reporting Service, which places reporters in local newsrooms to cover councils and local public bodies, especially where traditional local journalism has declined. Interviewees still raised concerns about limited resources, but the scheme was widely seen as effective and necessary for keeping local decisions visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Local news provision and local public service performance</span><span class="citation-popover-snippet">Local news provision and local public service performance</span></span></span>
 
 There is also a role for community groups themselves. Local groups are not doomed to be misinformation engines. They can be useful civic spaces when they set rules for evidence, label rumours clearly, remove impersonation, avoid inflammatory speculation during emergencies, and encourage links to primary sources. The goal is not to make every neighbour behave like a journalist. It is to stop the group from rewarding the fastest and angriest version of events.
 
@@ -524,194 +524,194 @@ News deserts make misinformation more likely not because residents are unusually
 The safest habit is to treat local claims as both important and unfinished. Important, because they may affect real neighbours and decisions. Unfinished, because a familiar place name, a confident caption or a community-group share is not the same as evidence. In the age of social media and AI, critical thinking starts with a pause: who knows this, how do they know it, and where is the local record that can be checked?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Local Feeds Replace Local News. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Local Feeds Replace Local News. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
         
-        <p class="fr-book-desc">Explains why reporting institutions matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why reporting institutions matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosting the News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515888-M.jpg" alt="Cover for Ghosting the News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosting the News">Ghosting the News</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Sullivan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosting the News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515888-M.jpg" alt="Cover for Ghosting the News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosting the News">Ghosting the News</a>
+</h4>
+<p class="fr-book-author">By Margaret Sullivan</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: New York Times reviewed, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: New York Times reviewed, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Democracy Without Journalism? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Democracy Without Journalism?">Democracy Without Journalism?</a>
-        </h4>
-        <p class="fr-book-author">By Victor Pickard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Democracy Without Journalism? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Democracy Without Journalism?">Democracy Without Journalism?</a>
+</h4>
+<p class="fr-book-author">By Victor Pickard</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Literature, Journalism, History, Mass media, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Literature, Journalism, History, Mass media, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Democracy+Without+Journalism%3F+Victor+Pickard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosting+the+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosting the News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosting+the+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosting the News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="news-deserts-when-local-feeds-replace-local-news-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,226 +917,226 @@ The safest habit is to treat local claims as both important and unfinished. Impo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: smf.co.uk  
    Title: No news is bad news June 2026 correct  
-   Link: <a href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf</a>  
+   Link:<a href="https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/wp-content/uploads/2026/06/No-news-is-bad-news-June-2026-correct.pdf</a>  
    Published: June 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: state of local news  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local News InitiativeThe State of Local News 2025 | Local News Initiative...</p></details>
+   Link:<a href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local News InitiativeThe State of Local News 2025 | Local News Initiative...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Local news provision and local public service performance  
-   Link: <a href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance</a>  
+   Link:<a href="https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/local-news-provision-and-local-public-service-performance/local-news-provision-and-local-public-service-performance</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees Social media, misinformation and harmful algorithms  
-   Link: <a href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesSocial media, misinformation and harmful algorithms - Committees - UK Parliament...</p></details>
+   Link:<a href="https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/8641/social-media-misinformation-and-harmful-algorithms/news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesSocial media, misinformation and harmful algorithms - Committees - UK Parliament...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lse.ac.uk  
-   Link: <a href="https://www.lse.ac.uk/research/research-for-the-world/society/x-undermined-democracy-uk-riots" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/research/research-for-the-world/society/x-undermined-democracy-uk-riots</a>  
+   Link:<a href="https://www.lse.ac.uk/research/research-for-the-world/society/x-undermined-democracy-uk-riots" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/research/research-for-the-world/society/x-undermined-democracy-uk-riots</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: news deserts social media local news medill survey  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
+   Link:<a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: state of local news  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/</a>  
+   Link:<a href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medill.northwestern.edu  
-   Link: <a href="https://www.medill.northwestern.edu/news/2025/news-deserts-hit-new-high-and-50-million-have-limited-access-to-local-news-study-finds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.medill.northwestern.edu/news/2025/news-deserts-hit-new-high-and-50-million-have-limited-access-to-local-news-study-finds.html</a>  
+   Link:<a href="https://www.medill.northwestern.edu/news/2025/news-deserts-hit-new-high-and-50-million-have-limited-access-to-local-news-study-finds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.medill.northwestern.edu/news/2025/news-deserts-hit-new-high-and-50-million-have-limited-access-to-local-news-study-finds.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.northwestern.edu  
    Title: newspapers close decline in local journalism  
-   Link: <a href="https://news.northwestern.edu/stories/2022/06/newspapers-close-decline-in-local-journalism" target="_blank" rel="noopener noreferrer nofollow">https://news.northwestern.edu/stories/2022/06/newspapers-close-decline-in-local-journalism</a>  
+   Link:<a href="https://news.northwestern.edu/stories/2022/06/newspapers-close-decline-in-local-journalism" target="_blank" rel="noopener noreferrer nofollow">https://news.northwestern.edu/stories/2022/06/newspapers-close-decline-in-local-journalism</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/86625/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/86625/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/86625/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/86625/html/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: uk Misinformation: Social Market Foundation Report  
-   Link: <a href="https://hansard.parliament.uk/Lords/2026-06-11/debates/DAA58E64-9358-4158-98CF-835D680E3097/MisinformationSocialMarketFoundationReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2026-06-11/debates/DAA58E64-9358-4158-98CF-835D680E3097/MisinformationSocialMarketFoundationReport</a>  
+   Link:<a href="https://hansard.parliament.uk/Lords/2026-06-11/debates/DAA58E64-9358-4158-98CF-835D680E3097/MisinformationSocialMarketFoundationReport" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2026-06-11/debates/DAA58E64-9358-4158-98CF-835D680E3097/MisinformationSocialMarketFoundationReport</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/commons/committee-corridor-podcast/committee-corridor-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/commons/committee-corridor-podcast/committee-corridor-local-journalism/</a>  
+   Link:<a href="https://www.parliament.uk/business/commons/committee-corridor-podcast/committee-corridor-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/commons/committee-corridor-podcast/committee-corridor-local-journalism/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pewresearch/posts/what-information-do-americans-trust-%E2%84%B9%EF%B8%8F-across-all-age-groups-trust-in-national-a/1212234420772616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/posts/what-information-do-americans-trust-%E2%84%B9%EF%B8%8F-across-all-age-groups-trust-in-national-a/1212234420772616/</a>  
+   Link:<a href="https://www.facebook.com/pewresearch/posts/what-information-do-americans-trust-%E2%84%B9%EF%B8%8F-across-all-age-groups-trust-in-national-a/1212234420772616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/posts/what-information-do-americans-trust-%E2%84%B9%EF%B8%8F-across-all-age-groups-trust-in-national-a/1212234420772616/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/InternationalFederationofJournalists/posts/usa-in-local-news-deserts-the-public-relies-heavily-on-social-media-and-other-no/1395851992582256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalFederationofJournalists/posts/usa-in-local-news-deserts-the-public-relies-heavily-on-social-media-and-other-no/1395851992582256/</a>  
+   Link:<a href="https://www.facebook.com/InternationalFederationofJournalists/posts/usa-in-local-news-deserts-the-public-relies-heavily-on-social-media-and-other-no/1395851992582256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalFederationofJournalists/posts/usa-in-local-news-deserts-the-public-relies-heavily-on-social-media-and-other-no/1395851992582256/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LocalNewsInitiative/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LocalNewsInitiative/</a>  
+   Link:<a href="https://www.facebook.com/LocalNewsInitiative/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LocalNewsInitiative/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
+   Link:<a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: The Guardian  
-   Link: <a href="https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/</a>  
+   Link:<a href="https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/2243057433190633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/2243057433190633/</a>  
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/2243057433190633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/2243057433190633/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/</a>  
+   Link:<a href="https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AlmaEconomics/photos/when-a-community-loses-its-local-paper-what-else-is-the-community-at-risk-of-los/946377358151305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlmaEconomics/photos/when-a-community-loses-its-local-paper-what-else-is-the-community-at-risk-of-los/946377358151305/</a>  
+   Link:<a href="https://www.facebook.com/AlmaEconomics/photos/when-a-community-loses-its-local-paper-what-else-is-the-community-at-risk-of-los/946377358151305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlmaEconomics/photos/when-a-community-loses-its-local-paper-what-else-is-the-community-at-risk-of-los/946377358151305/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pew.org  
    Title: media mistrust has been growing for decades does it matter  
-   Link: <a href="https://www.pew.org/en/trend/archive/fall-2024/media-mistrust-has-been-growing-for-decades-does-it-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trend/archive/fall-2024/media-mistrust-has-been-growing-for-decades-does-it-matter</a>  
+   Link:<a href="https://www.pew.org/en/trend/archive/fall-2024/media-mistrust-has-been-growing-for-decades-does-it-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trend/archive/fall-2024/media-mistrust-has-been-growing-for-decades-does-it-matter</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pew.org  
-   Link: <a href="https://www.pew.org/en/trust/archive/fall-2020/americans-who-get-news-mainly-on-social-media-are-less-knowledgeable-and-less-engaged" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trust/archive/fall-2020/americans-who-get-news-mainly-on-social-media-are-less-knowledgeable-and-less-engaged</a>  
+   Link:<a href="https://www.pew.org/en/trust/archive/fall-2020/americans-who-get-news-mainly-on-social-media-are-less-knowledgeable-and-less-engaged" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trust/archive/fall-2020/americans-who-get-news-mainly-on-social-media-are-less-knowledgeable-and-less-engaged</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pew.org  
    Title: the future of news  
-   Link: <a href="https://www.pew.org/en/trust/archive/winter-2026/the-future-of-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trust/archive/winter-2026/the-future-of-news</a>  
+   Link:<a href="https://www.pew.org/en/trust/archive/winter-2026/the-future-of-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trust/archive/winter-2026/the-future-of-news</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pew.org  
    Title: americans deepening mistrust of institutions  
-   Link: <a href="https://www.pew.org/en/trend/archive/fall-2024/americans-deepening-mistrust-of-institutions" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trend/archive/fall-2024/americans-deepening-mistrust-of-institutions</a>  
+   Link:<a href="https://www.pew.org/en/trend/archive/fall-2024/americans-deepening-mistrust-of-institutions" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/trend/archive/fall-2024/americans-deepening-mistrust-of-institutions</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: time.com  
    Title: local government disinformation essay  
-   Link: <a href="https://time.com/7020151/local-government-disinformation-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7020151/local-government-disinformation-essay/</a>  
+   Link:<a href="https://time.com/7020151/local-government-disinformation-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7020151/local-government-disinformation-essay/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2025/10/29/how-americans-trust-in-information-from-news-organizations-and-social-media-sites-has-changed-over-time/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
+   Link:<a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/events/local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/events/local-misinformation/</a>  
+   Link:<a href="https://www.smf.co.uk/events/local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/events/local-misinformation/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
+   Link:<a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pewresearch.org  
    Title: social media and news fact sheet  
-   Link: <a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/news-habits-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/news-habits-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pewresearch.org  
    Title: facts fact checking  
-   Link: <a href="https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/news-habits-media/media-society/media-attitudes/trust-in-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/media-attitudes/trust-in-media/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/news-habits-media/media-society/media-attitudes/trust-in-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/news-habits-media/media-society/media-attitudes/trust-in-media/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pewresearch.org  
    Title: Vance is among 1.5% of Americans who have converted to Catholicism  
-   Link: <a href="https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/internet-technology/technology-policy-issues/misinformation-online/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/technology-policy-issues/misinformation-online/page/2/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/internet-technology/technology-policy-issues/misinformation-online/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/internet-technology/technology-policy-issues/misinformation-online/page/2/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=d56aO2Dr2to" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d56aO2Dr2to</a>  
+   Link:<a href="https://www.youtube.com/watch?v=d56aO2Dr2to" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d56aO2Dr2to</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/publisher/prc" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/publisher/prc</a>  
+   Link:<a href="https://www.jstor.org/publisher/prc" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/publisher/prc</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: usnewsdeserts.com  
-   Link: <a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local newspapers, the implications...</p></details>
+   Link:<a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local newspapers, the implications...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: usnewsdeserts.com  
    Title: expanding news desert  
-   Link: <a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local NewsThe Expanding News DesertOur 2018 report, The Expanding News Desert, delves deeper into the implications for commun...</p></details>
+   Link:<a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local NewsThe Expanding News DesertOur 2018 report, The Expanding News Desert, delves deeper into the implications for commun...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: When newspapers disappear: Taxes rise, voting drops  
-   Link: <a href="https://www.youtube.com/watch?v=0kLrFwGpsHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kLrFwGpsHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a &quot;News Desert&quot; and how it directly impacts communities in North Carolina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0kLrFwGpsHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kLrFwGpsHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a &quot;News Desert&quot; and how it directly impacts communities in North Carolina...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Decline of Local News and the Rise of Polarization  
-   Link: <a href="https://www.youtube.com/watch?v=iiZZh2XTI2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iiZZh2XTI2w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When newspapers disappear: Taxes rise, voting drops...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iiZZh2XTI2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iiZZh2XTI2w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When newspapers disappear: Taxes rise, voting drops...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384388667_Where_Is_Local_News_Dying_Off_Mechanisms_Behind_the_Formation_of_Local_News_Deserts_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384388667_Where_Is_Local_News_Dying_Off_Mechanisms_Behind_the_Formation_of_Local_News_Deserts_in_the_United_States</a>  
+   Link:<a href="https://www.researchgate.net/publication/384388667_Where_Is_Local_News_Dying_Off_Mechanisms_Behind_the_Formation_of_Local_News_Deserts_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384388667_Where_Is_Local_News_Dying_Off_Mechanisms_Behind_the_Formation_of_Local_News_Deserts_in_the_United_States</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: holdthefrontpage.co.uk  
-   Link: <a href="https://www.holdthefrontpage.co.uk/2026/news/fake-news-three-times-as-common-in-news-deserts-says-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.holdthefrontpage.co.uk/2026/news/fake-news-three-times-as-common-in-news-deserts-says-report/</a>  
+   Link:<a href="https://www.holdthefrontpage.co.uk/2026/news/fake-news-three-times-as-common-in-news-deserts-says-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.holdthefrontpage.co.uk/2026/news/fake-news-three-times-as-common-in-news-deserts-says-report/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: worldjusticeproject.org  
-   Link: <a href="https://worldjusticeproject.org/world-justice-challenge/local-news-deserts-mapping-loss-local-media-sources" target="_blank" rel="noopener noreferrer nofollow">https://worldjusticeproject.org/world-justice-challenge/local-news-deserts-mapping-loss-local-media-sources</a>  
+   Link:<a href="https://worldjusticeproject.org/world-justice-challenge/local-news-deserts-mapping-loss-local-media-sources" target="_blank" rel="noopener noreferrer nofollow">https://worldjusticeproject.org/world-justice-challenge/local-news-deserts-mapping-loss-local-media-sources</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXevDInjGE1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXevDInjGE1/</a>  
+   Link:<a href="https://www.instagram.com/p/DXevDInjGE1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXevDInjGE1/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: campaignlab.uk  
-   Link: <a href="https://campaignlab.uk/wp-content/uploads/2026/02/Campaign-Lab-Local-news-on-Facebook-report-EMBARGOED.pdf" target="_blank" rel="noopener noreferrer nofollow">https://campaignlab.uk/wp-content/uploads/2026/02/Campaign-Lab-Local-news-on-Facebook-report-EMBARGOED.pdf</a>  
+   Link:<a href="https://campaignlab.uk/wp-content/uploads/2026/02/Campaign-Lab-Local-news-on-Facebook-report-EMBARGOED.pdf" target="_blank" rel="noopener noreferrer nofollow">https://campaignlab.uk/wp-content/uploads/2026/02/Campaign-Lab-Local-news-on-Facebook-report-EMBARGOED.pdf</a>  

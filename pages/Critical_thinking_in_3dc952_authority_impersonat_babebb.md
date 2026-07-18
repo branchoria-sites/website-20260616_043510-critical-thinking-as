@@ -422,21 +422,21 @@ Authority impersonation in local online posts happens when a false claim borrows
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb-overview.webp" | relative_url }}" alt="Overview image for Fake Authority" loading="eager" decoding="sync" fetchpriority="high">
-The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) challenge is not simply spotting bad grammar or suspicious accounts. Many fake or misleading local posts are plausible because they imitate familiar civic paperwork and appear in spaces where residents already exchange practical local information. Recent UK evidence shows fabricated local authority communications, fake quotes and AI-assisted material circulating in local online environments, especially where trusted local news is weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) challenge is not simply spotting bad grammar or suspicious accounts. Many fake or misleading local posts are plausible because they imitate familiar civic paperwork and appear in spaces where residents already exchange practical local information. Recent UK evidence shows fabricated local authority communications, fake quotes and AI-assisted material circulating in local online environments, especially where trusted local news is weaker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 ## Why Official Style Persuades
 
 A post that looks official does not need to be beautifully designed. It only needs enough institutional cues to pass a quick glance: a council crest, a planning-reference format, a formal tone, a screenshot of a supposed email, a police-like heading, a staged quote card or a familiar colour palette. These cues invite the reader to skip a harder question: “Where did this actually come from?”
 
-The UK Government Communication Service’s RESIST guidance treats this as a distinct disinformation signal. It tells communicators to look for fabrication, such as forged documents or falsified citations, and for identity deception, such as a fake account claiming to be a person or organisation it is not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[Government Communication Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-title">ernment Communication Service RESIST 3: A quick reference guide</span><span class="citation-popover-snippet">ernment Communication ServiceRESIST 3: A quick reference guide - GCS...</span></span></span> That distinction matters. A fake local post may not invent a whole story from nothing; it may attach an invented claim to a recognisable authority, making the claim seem less like gossip and more like disclosure.
+The UK Government Communication Service’s RESIST guidance treats this as a distinct disinformation signal. It tells communicators to look for fabrication, such as forged documents or falsified citations, and for identity deception, such as a fake account claiming to be a person or organisation it is not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[Government Communication Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-title">ernment Communication Service RESIST 3: A quick reference guide</span><span class="citation-popover-snippet">ernment Communication ServiceRESIST 3: A quick reference guide - GCS...</span></span></span> That distinction matters. A fake local post may not invent a whole story from nothing; it may attach an invented claim to a recognisable authority, making the claim seem less like gossip and more like disclosure.
 
 Local posts are especially vulnerable because they often concern things people cannot easily verify from personal knowledge: planning applications, asylum accommodation, school policies, road restrictions, parking enforcement, council-tax changes, public-[safety warnings]({{ 'safety-warnings/' | relative_url }}), or what was supposedly said in a closed meeting. A resident may know the street, the car park or the building, but not the council process behind it. That gap gives fake authority room to operate.
 
-The persuasive effect is also social. In a neighbourhood group, a post is not encountered as an anonymous artefact on the open web; it arrives through a familiar local channel, perhaps shared by someone who seems worried or helpful. The Local Government Association warns that disinformation can mislead the public, destabilise council meetings, radicalise people with genuine grievances, and even contribute to violence or criminal damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">Open source on local.gov.uk.</span></span></span> The harm is not only that one post is false. It is that repeated official-looking falsehoods teach residents to treat institutions as secretive, corrupt or hostile before any evidence has been checked.
+The persuasive effect is also social. In a neighbourhood group, a post is not encountered as an anonymous artefact on the open web; it arrives through a familiar local channel, perhaps shared by someone who seems worried or helpful. The Local Government Association warns that disinformation can mislead the public, destabilise council meetings, radicalise people with genuine grievances, and even contribute to violence or criminal damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">Open source on local.gov.uk.</span></span></span> The harm is not only that one post is false. It is that repeated official-looking falsehoods teach residents to treat institutions as secretive, corrupt or hostile before any evidence has been checked.
 
 ## The Fake Council Notice Pattern
 
-A clear example is the fake planning notice in Stockport, which falsely claimed a planning application had been lodged for temporary asylum-seeker accommodation. Full Fact reported that an image of the notice circulated with captions claiming “800 asylum seekers” were planned for Stockport. Stockport Council told Full Fact that the notices were “not legitimate” and that no such planning application had been submitted or approved; the council also said genuine applications are published on its website. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
+A clear example is the fake planning notice in Stockport, which falsely claimed a planning application had been lodged for temporary asylum-seeker accommodation. Full Fact reported that an image of the notice circulated with captions claiming “800 asylum seekers” were planned for Stockport. Stockport Council told Full Fact that the notices were “not legitimate” and that no such planning application had been submitted or approved; the council also said genuine applications are published on its website.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
 
 This case shows why fake authority posts are more powerful than ordinary rumours. The claim did not merely say, “I heard this is happening.” It appeared to offer documentary evidence. The target was also local and concrete: a place residents could picture, a process they knew existed, and a topic likely to provoke strong reaction. The fake notice borrowed the procedural seriousness of planning law while bypassing the public record where genuine planning documents can be checked.
 
@@ -456,11 +456,11 @@ This is why “does it look official?” is a weak test. The stronger test is �
 
 Local verification should be boring, direct and source-led. The aim is not to investigate the entire internet; it is to trace the claim back to a live institutional record or to recognise that no such record is visible.
 
-For a supposed council notice, start with the council’s own website, not the screenshot. Genuine planning applications, consultations, traffic orders, council-tax information and public meetings normally leave a trace in searchable official systems. In the Stockport case, the decisive check was not whether the notice looked plausible; it was whether the claimed planning application existed on the council’s published records. Stockport Council said genuine applications are published on its website. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
+For a supposed council notice, start with the council’s own website, not the screenshot. Genuine planning applications, consultations, traffic orders, council-tax information and public meetings normally leave a trace in searchable official systems. In the Stockport case, the decisive check was not whether the notice looked plausible; it was whether the claimed planning application existed on the council’s published records. Stockport Council said genuine applications are published on its website.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
 
-For a supposed enforcement warning, check the exact payment or appeal route. [Parking scams]({{ 'parking-scams/' | relative_url }}) show how easily official enforcement language can be misused. The British Parking Association warns about fake QR codes, fraudulent penalty charge notice text messages and contactless payment fraud, while councils have also warned residents about fake PCN messages that link to fraudulent sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishparking.co.uk/protect-yourself-from-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishparking.co.uk">[British Parking Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishparking.co.uk</span><span class="citation-popover-snippet">British Parking AssociationProtect yourself from fraudRecent scams involve fake QR codes, fraudulent Penalty Charge Notice (PCN) text mes...</span></span></span> A real-looking demand for payment is not enough; the payment route, reference number and appeal information need to match the official process.
+For a supposed enforcement warning, check the exact payment or appeal route. [Parking scams]({{ 'parking-scams/' | relative_url }}) show how easily official enforcement language can be misused. The British Parking Association warns about fake QR codes, fraudulent penalty charge notice text messages and contactless payment fraud, while councils have also warned residents about fake PCN messages that link to fraudulent sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishparking.co.uk/protect-yourself-from-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishparking.co.uk">[British Parking Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishparking.co.uk</span><span class="citation-popover-snippet">British Parking AssociationProtect yourself from fraudRecent scams involve fake QR codes, fraudulent Penalty Charge Notice (PCN) text mes...</span></span></span> A real-looking demand for payment is not enough; the payment route, reference number and appeal information need to match the official process.
 
-For a supposed emergency or public-safety announcement, check the relevant authority’s current channel: council website, police force website, verified social account, or local resilience partnership. Full Fact’s evidence to Parliament after the Southport disorder stressed that harmful information that starts online can spill into real-world danger and require police, health services and local authorities to intervene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Committees</span></span></span> That is precisely why emergency-style screenshots deserve a pause before sharing.
+For a supposed emergency or public-safety announcement, check the relevant authority’s current channel: council website, police force website, verified social account, or local resilience partnership. Full Fact’s evidence to Parliament after the Southport disorder stressed that harmful information that starts online can spill into real-world danger and require police, health services and local authorities to intervene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament Committees</span></span></span> That is precisely why emergency-style screenshots deserve a pause before sharing.
 
 A practical verification sequence is:
 
@@ -475,7 +475,7 @@ A practical verification sequence is:
 
 </div>
 
-The Local Government Association’s guidance for councillors makes the same point from the other side: councillors are advised to verify the accuracy of what they post or share, and to report relevant false posts to social media companies or council authorities where a rebuttal may be needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">Open source on local.gov.uk.</span></span></span> Residents can apply the same discipline before amplifying a claim.
+The Local Government Association’s guidance for councillors makes the same point from the other side: councillors are advised to verify the accuracy of what they post or share, and to report relevant false posts to social media companies or council authorities where a rebuttal may be needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-snippet">Open source on local.gov.uk.</span></span></span> Residents can apply the same discipline before amplifying a claim.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5BtfcYRaxls" title="How Social Media Undermines Democracy | Michael Kaufmann | TEDxLinz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5BtfcYRaxls" target="_blank" rel="noopener noreferrer">How Social Media Undermines Democracy | Michael Kaufmann | TEDxLinz</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5BtfcYRaxls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5BtfcYRaxls">Open on YouTube</a></p></div></div></div>
@@ -486,9 +486,9 @@ Invented quotes are a softer form of authority impersonation. They may not use a
 
 The first question is not whether the quote sounds like something the person might say. It is whether the quote appears in a primary or accountable source: a council webcast, minutes, a press release, a public statement, a named interview, a court document, or a reputable local news report. A screenshot of text over a headshot is not enough. A clipped video is better than a quote card, but still needs context: when was it recorded, what question was being answered, and has the clip been reused from another place or date?
 
-Recent fact checks show how impersonation can work through format as well as words. Reuters found that a screenshot claiming the official UK government X account had been suspended actually showed a fake handle, not the official account, which is @GOVUK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In another case, Reuters found that a fake image mimicking The Telegraph’s layout and byline falsely claimed Keir Starmer was considering overseas detention camps; The Telegraph said no such article existed, and Reuters noted the fabricated screenshot used the newspaper’s familiar visual style. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> These are national examples, but the local lesson is direct: a familiar format can impersonate authority even when the underlying claim has no institutional source.
+Recent fact checks show how impersonation can work through format as well as words. Reuters found that a screenshot claiming the official UK government X account had been suspended actually showed a fake handle, not the official account, which is @GOVUK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In another case, Reuters found that a fake image mimicking The Telegraph’s layout and byline falsely claimed Keir Starmer was considering overseas detention camps; The Telegraph said no such article existed, and Reuters noted the fabricated screenshot used the newspaper’s familiar visual style.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> These are national examples, but the local lesson is direct: a familiar format can impersonate authority even when the underlying claim has no institutional source.
 
-Official-looking graphics can also blur satire, protest and misinformation. Reuters reported that a poster using UK government branding and telling people to “eat” their children was not an official campaign but a work by a street artist; the government said it was not a government poster, and the displayed GOV.UK link did not exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In a local context, similar ambiguity can arise when parody posters, activist graphics or edited screenshots are recirculated without the original context. A post may begin as satire or protest and become misinformation when later sharers present it as real.
+Official-looking graphics can also blur satire, protest and misinformation. Reuters reported that a poster using UK government branding and telling people to “eat” their children was not an official campaign but a work by a street artist; the government said it was not a government poster, and the displayed GOV.UK link did not exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In a local context, similar ambiguity can arise when parody posters, activist graphics or edited screenshots are recirculated without the original context. A post may begin as satire or protest and become misinformation when later sharers present it as real.
 
 A careful reader should treat quote and announcement posts as unverified when they lack:
 
@@ -509,15 +509,15 @@ A careful reader should treat quote and announcement posts as unverified when th
 
 Local online groups are useful precisely because they are fast, practical and socially close. They warn residents about road closures, lost pets, crime concerns, school disruptions and public meetings. The same strengths make them vulnerable to authority impersonation. A false council-style notice about a nearby building feels more urgent than a national rumour because it seems to concern the reader’s street, taxes, safety or services.
 
-The wider evidence suggests that this is not just a matter of isolated hoaxes. The Social Market Foundation’s 2026 work on local misinformation, reported by the Guardian, analysed more than 125,000 posts across local Facebook groups, X searches and Nextdoor communities. The reporting said misinformation was nearly three times more common in areas with little or no recognised local journalism, and that the study found fabricated local authority communications, AI-generated content and misleading claims about councils. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+The wider evidence suggests that this is not just a matter of isolated hoaxes. The Social Market Foundation’s 2026 work on local misinformation, reported by the Guardian, analysed more than 125,000 posts across local Facebook groups, X searches and Nextdoor communities. The reporting said misinformation was nearly three times more common in areas with little or no recognised local journalism, and that the study found fabricated local authority communications, AI-generated content and misleading claims about councils.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Killer of trust&#x27;: social media groups fuel misinformation in UK, report finds</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 That finding is important because authority impersonation thrives in a trust vacuum. Where local reporting is thin, residents may rely more heavily on group administrators, influencers, anonymous pages and screenshots. The decline is not just a loss of articles; it is a loss of routine verification infrastructure. A local reporter who phones the council, checks the planning portal, attends meetings or asks police for a statement can slow down false authority claims. Without that layer, the first convincing graphic may dominate the conversation.
 
-Full Fact’s 2026 report describes a broader information environment in which reliable information competes with conspiracy theories, synthetic content, manipulated media and politically motivated distortion, while many credibility signals are weakening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2026 DIGITAL</span><span class="citation-popover-snippet">full fact report 2026 DIGITAL</span></span></span> The same report says misinformation can spread when authoritative information is delayed or lacks reach, and it highlights the risk of false claims circulating before verified information is available during public crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2026 DIGITAL</span><span class="citation-popover-snippet">full fact report 2026 DIGITAL</span></span></span> Local authority impersonation is one concrete expression of that wider problem.
+Full Fact’s 2026 report describes a broader information environment in which reliable information competes with conspiracy theories, synthetic content, manipulated media and politically motivated distortion, while many credibility signals are weakening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2026 DIGITAL</span><span class="citation-popover-snippet">full fact report 2026 DIGITAL</span></span></span> The same report says misinformation can spread when authoritative information is delayed or lacks reach, and it highlights the risk of false claims circulating before verified information is available during public crises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2026 DIGITAL</span><span class="citation-popover-snippet">full fact report 2026 DIGITAL</span></span></span> Local authority impersonation is one concrete expression of that wider problem.
 
 ## AI Makes the Costume Cheaper
 
-Generative AI does not create the basic tactic of impersonating authority, but it lowers the cost of doing it. A person can now draft formal-sounding notices, produce clean graphics, imitate local-news styles, generate plausible quote cards, or create synthetic voiceovers without design or communications expertise. Full Fact’s investigation into false stories about supposed UK restrictions found videos claiming that government or other authorities were introducing new limits on personal freedoms had been shared more than 300,000 times; some were styled as TV news reports, and at least one used a fake clip of a news presenter that Full Fact said was almost certainly AI-generated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
+Generative AI does not create the basic tactic of impersonating authority, but it lowers the cost of doing it. A person can now draft formal-sounding notices, produce clean graphics, imitate local-news styles, generate plausible quote cards, or create synthetic voiceovers without design or communications expertise. Full Fact’s investigation into false stories about supposed UK restrictions found videos claiming that government or other authorities were introducing new limits on personal freedoms had been shared more than 300,000 times; some were styled as TV news reports, and at least one used a fake clip of a news presenter that Full Fact said was almost certainly AI-generated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span>
 
 For local posts, the AI risk is not only deepfakes. It is volume and polish. A forged notice no longer has to be manually designed by someone who understands council paperwork. A false quote can be phrased in bureaucratic language. A fake “breaking local update” can be made to look like a news segment. A misleading post can be quickly adapted to different towns by changing a place name, a logo and a few details.
 
@@ -532,7 +532,7 @@ Critical thinking should not turn into reflexive distrust of every local authori
 
 The danger is a different habit: treating the surface of authority as a substitute for the chain of authority. A genuine council announcement should survive a basic provenance check. A fake one often collapses when asked for a planning reference, committee paper, official URL, named spokesperson, meeting timestamp or matching post from an account linked on the council’s website.
 
-Nor should residents assume that every person sharing a false notice is malicious. Many people share because they are worried, angry or trying to protect neighbours. Full Fact’s investigation into false restriction claims noted that some false claims may have been shared in good faith, even as they spread across multiple accounts and platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span> The practical response is to reduce amplification before verification, not to shame every sharer as a deliberate deceiver.
+Nor should residents assume that every person sharing a false notice is malicious. Many people share because they are worried, angry or trying to protect neighbours. Full Fact’s investigation into false restriction claims noted that some false claims may have been shared in good faith, even as they spread across multiple accounts and platforms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Open source on fullfact.org.</span></span></span> The practical response is to reduce amplification before verification, not to shame every sharer as a deliberate deceiver.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/utcpwphDjdE" title="When local news disappears, social media fills the void" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer">When local news disappears, social media fills the void</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 88 &middot; Uploaded: June 2026 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=utcpwphDjdE">Open on YouTube</a></p></div></div></div>
@@ -561,194 +561,194 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb-Illustration-3-dark.svg" | relative_url }}" alt="Fake Authority illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Official Looking Posts Are Not Official. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Official Looking Posts Are Not Official. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers assess supposedly authoritative claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess supposedly authoritative claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Builds skepticism toward persuasive presentations of information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds skepticism toward persuasive presentations of information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="fake-authority-when-official-looking-posts-are-not-official-critical-thinking-in-the-age-of-soci-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -764,7 +764,7 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -784,7 +784,7 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -816,7 +816,7 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -868,7 +868,7 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -913,7 +913,7 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -954,377 +954,377 @@ Authority impersonation is effective because it turns trust into a shortcut. Cri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: communications.gov.uk  
    Title: ernment Communication Service RESIST 3: A quick reference guide  
-   Link: <a href="https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Communication ServiceRESIST 3: A quick reference guide - GCS...</p></details>
+   Link:<a href="https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/publications/resist-3-a-quick-reference-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Communication ServiceRESIST 3: A quick reference guide - GCS...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities</a>  
+   Link:<a href="https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/guide-disinformation-affecting-local-authorities-and-their-communities</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hackney.gov.uk  
-   Link: <a href="https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/watch-out-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/watch-out-scams</a>  
+   Link:<a href="https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/watch-out-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/watch-out-scams</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/138329/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/138329/html/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role</a>  
+   Link:<a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors/guide-role</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/image-shows-suspended-fake-handle-not-official-uk-government-x-account-2024-08-12/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/headline-about-starmer-building-detainment-camps-anti-immigrant-rioters-is-fake-2024-08-09/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/eat-your-children-poster-was-created-by-artist-not-uk-government-2024-03-19/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/model-guidance-councils-elected-members-use" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/model-guidance-councils-elected-members-use</a>  
+   Link:<a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/model-guidance-councils-elected-members-use" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/model-guidance-councils-elected-members-use</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors</a>  
+   Link:<a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/guide-disinformation-local-councillors</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: local.gov.uk  
-   Link: <a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors</a>  
+   Link:<a href="https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/our-support/communications-and-community-engagement/social-media-guidance-councillors</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCYorkshire/posts/in-recent-months-fake-council-posts-have-been-spread-far-and-wide-with-one-conte/1330031249169036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCYorkshire/posts/in-recent-months-fake-council-posts-have-been-spread-far-and-wide-with-one-conte/1330031249169036/</a>  
+   Link:<a href="https://www.facebook.com/BBCYorkshire/posts/in-recent-months-fake-council-posts-have-been-spread-far-and-wide-with-one-conte/1330031249169036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCYorkshire/posts/in-recent-months-fake-council-posts-have-been-spread-far-and-wide-with-one-conte/1330031249169036/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/khaleejtimes/posts/authorities-said-the-fake-websites-resemble-official-consumer-protection-entitie/1543186120801541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/authorities-said-the-fake-websites-resemble-official-consumer-protection-entitie/1543186120801541/</a>  
+   Link:<a href="https://www.facebook.com/khaleejtimes/posts/authorities-said-the-fake-websites-resemble-official-consumer-protection-entitie/1543186120801541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/authorities-said-the-fake-websites-resemble-official-consumer-protection-entitie/1543186120801541/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WellsNubNews/posts/could-you-spot-a-fake-council-scandal-before-sharing-itour-newsletter-exclusive-/1631700205624458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WellsNubNews/posts/could-you-spot-a-fake-council-scandal-before-sharing-itour-newsletter-exclusive-/1631700205624458/</a>  
+   Link:<a href="https://www.facebook.com/WellsNubNews/posts/could-you-spot-a-fake-council-scandal-before-sharing-itour-newsletter-exclusive-/1631700205624458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WellsNubNews/posts/could-you-spot-a-fake-council-scandal-before-sharing-itour-newsletter-exclusive-/1631700205624458/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Huntingdonshire/photos/-scam-alert-fake-parking-fine-texts-huntingdonshire-district-council-is-warning-/1429470509226845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Huntingdonshire/photos/-scam-alert-fake-parking-fine-texts-huntingdonshire-district-council-is-warning-/1429470509226845/</a>  
+   Link:<a href="https://www.facebook.com/Huntingdonshire/photos/-scam-alert-fake-parking-fine-texts-huntingdonshire-district-council-is-warning-/1429470509226845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Huntingdonshire/photos/-scam-alert-fake-parking-fine-texts-huntingdonshire-district-council-is-warning-/1429470509226845/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/706385562837050/posts/2148973401911585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/706385562837050/posts/2148973401911585/</a>  
+   Link:<a href="https://www.facebook.com/groups/706385562837050/posts/2148973401911585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/706385562837050/posts/2148973401911585/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BridgendCBC/photos/%EF%B8%8F-be-aware-fake-parking-warning-noticethe-council-would-like-to-make-residents-a/778577267634574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BridgendCBC/photos/%EF%B8%8F-be-aware-fake-parking-warning-noticethe-council-would-like-to-make-residents-a/778577267634574/</a>  
+   Link:<a href="https://www.facebook.com/BridgendCBC/photos/%EF%B8%8F-be-aware-fake-parking-warning-noticethe-council-would-like-to-make-residents-a/778577267634574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BridgendCBC/photos/%EF%B8%8F-be-aware-fake-parking-warning-noticethe-council-would-like-to-make-residents-a/778577267634574/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/hockleyandhawkwellpeople/posts/4253100118246940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/hockleyandhawkwellpeople/posts/4253100118246940/</a>  
+   Link:<a href="https://www.facebook.com/groups/hockleyandhawkwellpeople/posts/4253100118246940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/hockleyandhawkwellpeople/posts/4253100118246940/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Readingcouncil/photos/beware-of-fake-text-messages-which-attempt-to-trick-you-into-making-payments-for/1322673543201757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Readingcouncil/photos/beware-of-fake-text-messages-which-attempt-to-trick-you-into-making-payments-for/1322673543201757/</a>  
+   Link:<a href="https://www.facebook.com/Readingcouncil/photos/beware-of-fake-text-messages-which-attempt-to-trick-you-into-making-payments-for/1322673543201757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Readingcouncil/photos/beware-of-fake-text-messages-which-attempt-to-trick-you-into-making-payments-for/1322673543201757/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/685944924901218/posts/3011187379043616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/685944924901218/posts/3011187379043616/</a>  
+   Link:<a href="https://www.facebook.com/groups/685944924901218/posts/3011187379043616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/685944924901218/posts/3011187379043616/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CheshireEastCouncil/videos/-scam-alert-fake-parking-fine-texts-weve-been-made-aware-of-a-scam-where-fraudst/2190687358073341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireEastCouncil/videos/-scam-alert-fake-parking-fine-texts-weve-been-made-aware-of-a-scam-where-fraudst/2190687358073341/</a>  
+   Link:<a href="https://www.facebook.com/CheshireEastCouncil/videos/-scam-alert-fake-parking-fine-texts-weve-been-made-aware-of-a-scam-where-fraudst/2190687358073341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireEastCouncil/videos/-scam-alert-fake-parking-fine-texts-weve-been-made-aware-of-a-scam-where-fraudst/2190687358073341/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/OurFrome/posts/10162604608898188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/OurFrome/posts/10162604608898188/</a>  
+   Link:<a href="https://www.facebook.com/groups/OurFrome/posts/10162604608898188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/OurFrome/posts/10162604608898188/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/</a>  
+   Link:<a href="https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/we-fact-check-this-video-being-shared-widely-online-with-false-claims-it-depicts/1649648112817739/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
+   Link:<a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gov.ky  
-   Link: <a href="https://gov.ky/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://gov.ky/misinformation</a>  
+   Link:<a href="https://gov.ky/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://gov.ky/misinformation</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: newsroom.bathnes.gov.uk  
-   Link: <a href="https://newsroom.bathnes.gov.uk/understanding-what-you-see-online" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.bathnes.gov.uk/understanding-what-you-see-online</a>  
+   Link:<a href="https://newsroom.bathnes.gov.uk/understanding-what-you-see-online" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.bathnes.gov.uk/understanding-what-you-see-online</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newsroom.bathnes.gov.uk  
    Title: new online webpage helps residents check facts and find trustworthy information  
-   Link: <a href="https://newsroom.bathnes.gov.uk/news/new-online-webpage-helps-residents-check-facts-and-find-trustworthy-information" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.bathnes.gov.uk/news/new-online-webpage-helps-residents-check-facts-and-find-trustworthy-information</a>  
+   Link:<a href="https://newsroom.bathnes.gov.uk/news/new-online-webpage-helps-residents-check-facts-and-find-trustworthy-information" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.bathnes.gov.uk/news/new-online-webpage-helps-residents-check-facts-and-find-trustworthy-information</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: liverpoolcityregion-ca.gov.uk  
-   Link: <a href="https://www.liverpoolcityregion-ca.gov.uk/tackling-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolcityregion-ca.gov.uk/tackling-misinformation</a>  
+   Link:<a href="https://www.liverpoolcityregion-ca.gov.uk/tackling-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolcityregion-ca.gov.uk/tackling-misinformation</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: liverpoolcityregion-ca.gov.uk  
-   Link: <a href="https://www.liverpoolcityregion-ca.gov.uk/think-before-you-share" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolcityregion-ca.gov.uk/think-before-you-share</a>  
+   Link:<a href="https://www.liverpoolcityregion-ca.gov.uk/think-before-you-share" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolcityregion-ca.gov.uk/think-before-you-share</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: democracy.towerhamlets.gov.uk  
-   Link: <a href="https://democracy.towerhamlets.gov.uk/documents/s147076/Social%20media%20policy%20and%20guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.towerhamlets.gov.uk/documents/s147076/Social%20media%20policy%20and%20guidance.pdf</a>  
+   Link:<a href="https://democracy.towerhamlets.gov.uk/documents/s147076/Social%20media%20policy%20and%20guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.towerhamlets.gov.uk/documents/s147076/Social%20media%20policy%20and%20guidance.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: communications.gov.uk  
    Title: RESIST Counter Disinformation Toolkit  
-   Link: <a href="https://www.communications.gov.uk/wp-content/uploads/2020/03/RESIST-Counter-Disinformation-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2020/03/RESIST-Counter-Disinformation-Toolkit.pdf</a>  
+   Link:<a href="https://www.communications.gov.uk/wp-content/uploads/2020/03/RESIST-Counter-Disinformation-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2020/03/RESIST-Counter-Disinformation-Toolkit.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: communications.gov.uk  
-   Link: <a href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf</a>  
+   Link:<a href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: communications.gov.uk  
    Title: RESIS T 3: Building resilience to information threats  
-   Link: <a href="https://www.communications.gov.uk/publications/resist-3-building-resilience-to-information-threats/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/publications/resist-3-building-resilience-to-information-threats/</a>  
+   Link:<a href="https://www.communications.gov.uk/publications/resist-3-building-resilience-to-information-threats/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/publications/resist-3-building-resilience-to-information-threats/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: bills.parliament.uk  
    Title: uk Full Fact  
-   Link: <a href="https://bills.parliament.uk/publications/65476/documents/8047" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/65476/documents/8047</a>  
+   Link:<a href="https://bills.parliament.uk/publications/65476/documents/8047" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/65476/documents/8047</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/132605/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132605/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/132605/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132605/html/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: POST PN 0719  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: meetings.cotswold.gov.uk  
-   Link: <a href="https://meetings.cotswold.gov.uk/documents/s8055/Part%20E9%20-%20Social%20Media%20Guidance%20for%20Councillors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.cotswold.gov.uk/documents/s8055/Part%20E9%20-%20Social%20Media%20Guidance%20for%20Councillors.pdf</a>  
+   Link:<a href="https://meetings.cotswold.gov.uk/documents/s8055/Part%20E9%20-%20Social%20Media%20Guidance%20for%20Councillors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.cotswold.gov.uk/documents/s8055/Part%20E9%20-%20Social%20Media%20Guidance%20for%20Councillors.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cambridge.gov.uk  
-   Link: <a href="https://www.cambridge.gov.uk/understanding-what-you-see-online" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.gov.uk/understanding-what-you-see-online</a>  
+   Link:<a href="https://www.cambridge.gov.uk/understanding-what-you-see-online" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.gov.uk/understanding-what-you-see-online</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: colchester.gov.uk  
-   Link: <a href="https://www.colchester.gov.uk/info/cbc-article/?catid=policy-framework-local-choice&amp;id=KA-01480" target="_blank" rel="noopener noreferrer nofollow">https://www.colchester.gov.uk/info/cbc-article/?catid=policy-framework-local-choice&amp;id=KA-01480</a>  
+   Link:<a href="https://www.colchester.gov.uk/info/cbc-article/?catid=policy-framework-local-choice&amp;id=KA-01480" target="_blank" rel="noopener noreferrer nofollow">https://www.colchester.gov.uk/info/cbc-article/?catid=policy-framework-local-choice&amp;id=KA-01480</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scamshield.gov.sg  
-   Link: <a href="https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/" target="_blank" rel="noopener noreferrer nofollow">https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/</a>  
+   Link:<a href="https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/" target="_blank" rel="noopener noreferrer nofollow">https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: csa.gov.gh  
-   Link: <a href="https://www.csa.gov.gh/impersonating.php" target="_blank" rel="noopener noreferrer nofollow">https://www.csa.gov.gh/impersonating.php</a>  
+   Link:<a href="https://www.csa.gov.gh/impersonating.php" target="_blank" rel="noopener noreferrer nofollow">https://www.csa.gov.gh/impersonating.php</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nottinghamcity.gov.uk  
-   Link: <a href="https://www.nottinghamcity.gov.uk/your-council/contact-us/social-media/acceptable-use-guidance-for-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamcity.gov.uk/your-council/contact-us/social-media/acceptable-use-guidance-for-social-media/</a>  
+   Link:<a href="https://www.nottinghamcity.gov.uk/your-council/contact-us/social-media/acceptable-use-guidance-for-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamcity.gov.uk/your-council/contact-us/social-media/acceptable-use-guidance-for-social-media/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/security-guidance-for-may-2021-elections/online-disinformation-and-ai-threat-guidance-for-electoral-candidates-and-officials" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/security-guidance-for-may-2021-elections/online-disinformation-and-ai-threat-guidance-for-electoral-candidates-and-officials</a>  
+   Link:<a href="https://www.gov.uk/government/publications/security-guidance-for-may-2021-elections/online-disinformation-and-ai-threat-guidance-for-electoral-candidates-and-officials" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/security-guidance-for-may-2021-elections/online-disinformation-and-ai-threat-guidance-for-electoral-candidates-and-officials</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: GOV.UK  
    Title: growing up in the online world a national conversation  
-   Link: <a href="https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation/growing-up-in-the-online-world-a-national-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation/growing-up-in-the-online-world-a-national-conversation</a>  
+   Link:<a href="https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation/growing-up-in-the-online-world-a-national-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation/growing-up-in-the-online-world-a-national-conversation</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: norfolk-pcc.gov.uk  
-   Link: <a href="https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf</a>  
+   Link:<a href="https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk-pcc.gov.uk/assets/NCSP/A-guide-to-false-information-affecting-local-authorities-and-their-communities-February-2026.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: warwickdc.gov.uk  
    Title: Our social media guidelines  
-   Link: <a href="https://www.warwickdc.gov.uk/info/20606/about_this_website/892/social_media_sites/2" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickdc.gov.uk/info/20606/about_this_website/892/social_media_sites/2</a>  
+   Link:<a href="https://www.warwickdc.gov.uk/info/20606/about_this_website/892/social_media_sites/2" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickdc.gov.uk/info/20606/about_this_website/892/social_media_sites/2</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: lancaster.gov.uk  
-   Link: <a href="https://www.lancaster.gov.uk/newsearch?k=facebook+email+fake+%E3%80%90+Visit+Kungx.cc+%E3%80%91sjpcq8651.MSNQ&amp;page=114" target="_blank" rel="noopener noreferrer nofollow">https://www.lancaster.gov.uk/newsearch?k=facebook+email+fake+%E3%80%90+Visit+Kungx.cc+%E3%80%91sjpcq8651.MSNQ&amp;page=114</a>  
+   Link:<a href="https://www.lancaster.gov.uk/newsearch?k=facebook+email+fake+%E3%80%90+Visit+Kungx.cc+%E3%80%91sjpcq8651.MSNQ&amp;page=114" target="_blank" rel="noopener noreferrer nofollow">https://www.lancaster.gov.uk/newsearch?k=facebook+email+fake+%E3%80%90+Visit+Kungx.cc+%E3%80%91sjpcq8651.MSNQ&amp;page=114</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: oldham.gov.uk  
-   Link: <a href="https://www.oldham.gov.uk/info/100004/about_the_council/1320/social_media/2" target="_blank" rel="noopener noreferrer nofollow">https://www.oldham.gov.uk/info/100004/about_the_council/1320/social_media/2</a>  
+   Link:<a href="https://www.oldham.gov.uk/info/100004/about_the_council/1320/social_media/2" target="_blank" rel="noopener noreferrer nofollow">https://www.oldham.gov.uk/info/100004/about_the_council/1320/social_media/2</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: durham.gov.uk  
-   Link: <a href="https://www.durham.gov.uk/socialmedia" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.gov.uk/socialmedia</a>  
+   Link:<a href="https://www.durham.gov.uk/socialmedia" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.gov.uk/socialmedia</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: democracy.northtyneside.gov.uk  
-   Link: <a href="https://democracy.northtyneside.gov.uk/documents/s15692/App%20D%20-%20NT15.2022-23%20-%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.northtyneside.gov.uk/documents/s15692/App%20D%20-%20NT15.2022-23%20-%20Final%20Report.pdf</a>  
+   Link:<a href="https://democracy.northtyneside.gov.uk/documents/s15692/App%20D%20-%20NT15.2022-23%20-%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.northtyneside.gov.uk/documents/s15692/App%20D%20-%20NT15.2022-23%20-%20Final%20Report.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-[news-deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/</a>  
+   Link:<a href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: britishparking.co.uk  
-   Link: <a href="https://www.britishparking.co.uk/protect-yourself-from-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.britishparking.co.uk/protect-yourself-from-fraud</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Parking AssociationProtect yourself from fraudRecent scams involve fake QR codes, fraudulent Penalty Charge Notice (PCN) text mes...</p></details>
+   Link:<a href="https://www.britishparking.co.uk/protect-yourself-from-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.britishparking.co.uk/protect-yourself-from-fraud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Parking AssociationProtect yourself from fraudRecent scams involve fake QR codes, fraudulent Penalty Charge Notice (PCN) text mes...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: fullfact.org  
    Title: full fact report 2026 DIGITAL  
-   Link: <a href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf</a>  
+   Link:<a href="https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/documents/419/full-fact-report-2026-DIGITAL.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/</a>  
+   Link:<a href="https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/fake-stories-uk-government-limit-personal-freedoms/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: fullfact.org  
    Title: Ealing 15 minute cities  
-   Link: <a href="https://fullfact.org/online/Ealing-15-minute-cities/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/Ealing-15-minute-cities/</a>  
+   Link:<a href="https://fullfact.org/online/Ealing-15-minute-cities/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/Ealing-15-minute-cities/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: fullfact.org  
    Title: purchases over 1000 not reported hmrc january 2026  
-   Link: <a href="https://fullfact.org/politics/purchases-over-1000-not-reported-hmrc-january-2026/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/purchases-over-1000-not-reported-hmrc-january-2026/</a>  
+   Link:<a href="https://fullfact.org/politics/purchases-over-1000-not-reported-hmrc-january-2026/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/purchases-over-1000-not-reported-hmrc-january-2026/</a>  
    Published: january 2026  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: fullfact.org  
    Title: law holiday fines hasnt changed  
-   Link: <a href="https://fullfact.org/education/law-holiday-fines-hasnt-changed/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/education/law-holiday-fines-hasnt-changed/</a>  
+   Link:<a href="https://fullfact.org/education/law-holiday-fines-hasnt-changed/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/education/law-holiday-fines-hasnt-changed/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: fullfact.org  
    Title: birth certificate freeman land  
-   Link: <a href="https://fullfact.org/online/birth-certificate-freeman-land/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/birth-certificate-freeman-land/</a>  
+   Link:<a href="https://fullfact.org/online/birth-certificate-freeman-land/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/birth-certificate-freeman-land/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: fullfact.org  
    Title: reform farage opposition  
-   Link: <a href="https://fullfact.org/politics/reform-farage-opposition/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/reform-farage-opposition/</a>  
+   Link:<a href="https://fullfact.org/politics/reform-farage-opposition/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/reform-farage-opposition/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: fullfact.org  
    Title: east london dog walking  
-   Link: <a href="https://fullfact.org/online/east-london-dog-walking/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/east-london-dog-walking/</a>  
+   Link:<a href="https://fullfact.org/online/east-london-dog-walking/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/east-london-dog-walking/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/online/M1-M25-72mph/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/M1-M25-72mph/</a>  
+   Link:<a href="https://fullfact.org/online/M1-M25-72mph/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/M1-M25-72mph/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: fullfact.org  
    Title: en tackling health misinfo  
-   Link: <a href="https://fullfact.org/media/uploads/en-tackling-health-misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/en-tackling-health-misinfo.pdf</a>  
+   Link:<a href="https://fullfact.org/media/uploads/en-tackling-health-misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/en-tackling-health-misinfo.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
+   Link:<a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: fullfact.org  
    Title: map reform councils uk [missing context](&#123;&#123; 'missing-context/' | relative_url &#125;&#125;)  
-   Link: <a href="https://fullfact.org/politics/map-reform-councils-uk-missing-context/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/map-reform-councils-uk-missing-context/</a>  
+   Link:<a href="https://fullfact.org/politics/map-reform-councils-uk-missing-context/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/map-reform-councils-uk-missing-context/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: fullfact.org  
    Title: science committees report on social media misinformation and harmful algorithms  
-   Link: <a href="https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/</a>  
+   Link:<a href="https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/science-committees-report-on-social-media-misinformation-and-harmful-algorithms/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: fullfact.org  
    Title: full fact report 2026  
-   Link: <a href="https://fullfact.org/policy/reports/full-fact-report-2026/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2026/</a>  
+   Link:<a href="https://fullfact.org/policy/reports/full-fact-report-2026/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2026/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: fullfact.org  
    Title: full fact report 2025  
-   Link: <a href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2025/</a>  
+   Link:<a href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2025/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/online/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/</a>  
+   Link:<a href="https://fullfact.org/online/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/latest/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/latest/</a>  
+   Link:<a href="https://fullfact.org/latest/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/latest/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: fullfact.org  
    Title: fake stories uk government policies still viewed millions  
-   Link: <a href="https://fullfact.org/politics/fake-stories-uk-government-policies-still-viewed-millions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/fake-stories-uk-government-policies-still-viewed-millions/</a>  
+   Link:<a href="https://fullfact.org/politics/fake-stories-uk-government-policies-still-viewed-millions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/politics/fake-stories-uk-government-policies-still-viewed-millions/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/publications/2016/rise-fact-checking-sites-europe/index.html" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/publications/2016/rise-fact-checking-sites-europe/index.html</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/publications/2016/rise-fact-checking-sites-europe/index.html" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/publications/2016/rise-fact-checking-sites-europe/index.html</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: thebaron.info  
    Title: reuters to fact check fake news and more for facebook  
-   Link: <a href="https://www.thebaron.info/news/article/2020/02/12/reuters-to-fact-check-fake-news-and-more-for-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/news/article/2020/02/12/reuters-to-fact-check-fake-news-and-more-for-facebook</a>  
+   Link:<a href="https://www.thebaron.info/news/article/2020/02/12/reuters-to-fact-check-fake-news-and-more-for-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/news/article/2020/02/12/reuters-to-fact-check-fake-news-and-more-for-facebook</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: hal.science  
-   Link: <a href="https://hal.science/hal-02363455/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-02363455/document</a>  
+   Link:<a href="https://hal.science/hal-02363455/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-02363455/document</a>  
 
 ### Additional References
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st social media platforms&#x27; ability to tackle misinformation and fake...Read more...</p></details>
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st social media platforms&#x27; ability to tackle misinformation and fake...Read more...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: youtube.com  
    Title: How Social Media Undermines Democracy | Michael Kaufmann | TEDx Linz  
-   Link: <a href="https://www.youtube.com/watch?v=5BtfcYRaxls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5BtfcYRaxls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the void WRAL · 91 views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5BtfcYRaxls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5BtfcYRaxls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the void WRAL · 91 views...</p></details>
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b7-lapKPjBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7-lapKPjBE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Social Media Undermines Democracy | Michael Kaufmann | TEDxLinz...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b7-lapKPjBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7-lapKPjBE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Social Media Undermines Democracy | Michael Kaufmann | TEDxLinz...</p></details>
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: youtube.com  
    Title: When local news disappears, social media fills the void  
-   Link: <a href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utcpwphDjdE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle to Save Local News | GBH Media Summit 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utcpwphDjdE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle to Save Local News | GBH Media Summit 2025...</p></details>
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: ox.ac.uk  
-   Link: <a href="https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report</a>  
+   Link:<a href="https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: standardscommissionscotland.org.uk  
-   Link: <a href="https://www.standardscommissionscotland.org.uk/uploads/files/1707913145240214AdviceNoteCouncillorsSocialMedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.standardscommissionscotland.org.uk/uploads/files/1707913145240214AdviceNoteCouncillorsSocialMedia.pdf</a>  
+   Link:<a href="https://www.standardscommissionscotland.org.uk/uploads/files/1707913145240214AdviceNoteCouncillorsSocialMedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.standardscommissionscotland.org.uk/uploads/files/1707913145240214AdviceNoteCouncillorsSocialMedia.pdf</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: asean.org  
-   Link: <a href="https://asean.org/wp-content/uploads/2023/06/ASEAN-Guideline-in-Combating-Fake-News-and-Disinformation-in-the-Media-ISBN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asean.org/wp-content/uploads/2023/06/ASEAN-Guideline-in-Combating-Fake-News-and-Disinformation-in-the-Media-ISBN.pdf</a>  
+   Link:<a href="https://asean.org/wp-content/uploads/2023/06/ASEAN-Guideline-in-Combating-Fake-News-and-Disinformation-in-the-Media-ISBN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asean.org/wp-content/uploads/2023/06/ASEAN-Guideline-in-Combating-Fake-News-and-Disinformation-in-the-Media-ISBN.pdf</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: mma.org  
-   Link: <a href="https://www.mma.org/wp-content/uploads/2023/03/MMA-webinar-BestPracticesforUsingSocialMediainMunicipalGovernment-3.7.23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mma.org/wp-content/uploads/2023/03/MMA-webinar-BestPracticesforUsingSocialMediainMunicipalGovernment-3.7.23.pdf</a>  
+   Link:<a href="https://www.mma.org/wp-content/uploads/2023/03/MMA-webinar-BestPracticesforUsingSocialMediainMunicipalGovernment-3.7.23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mma.org/wp-content/uploads/2023/03/MMA-webinar-BestPracticesforUsingSocialMediainMunicipalGovernment-3.7.23.pdf</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: qa.com  
-   Link: <a href="https://www.qa.com/course-catalogue/courses/certified-information-systems-auditor-qacisa/" target="_blank" rel="noopener noreferrer nofollow">https://www.qa.com/course-catalogue/courses/certified-information-systems-auditor-qacisa/</a>  
+   Link:<a href="https://www.qa.com/course-catalogue/courses/certified-information-systems-auditor-qacisa/" target="_blank" rel="noopener noreferrer nofollow">https://www.qa.com/course-catalogue/courses/certified-information-systems-auditor-qacisa/</a>  

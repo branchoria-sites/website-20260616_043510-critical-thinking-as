@@ -284,22 +284,22 @@ Reverse image search remains one of the most useful tools for checking visual cl
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-1-dark.svg" | relative_url }}" alt="Reverse Search illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates an important shift in [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}). Reverse image search is no longer a stand-alone test of authenticity. Instead, it has become one step in a broader verification process that combines source analysis, geolocation, contextual reporting and corroborating [evidence]({{ 'evidence/' | relative_url }}). The key question is no longer simply “Has this image appeared before?” but also “What independent evidence connects this image to a real event?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search new fact checking features</span><span class="citation-popover-snippet">3 new ways to check images and sources online25 Oct 2023 — Today, we&#x27;re announcing three new ways that you can get more context about the...</span></span></span>
+This creates an important shift in [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}). Reverse image search is no longer a stand-alone test of authenticity. Instead, it has become one step in a broader verification process that combines source analysis, geolocation, contextual reporting and corroborating [evidence]({{ 'evidence/' | relative_url }}). The key question is no longer simply “Has this image appeared before?” but also “What independent evidence connects this image to a real event?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search new fact checking features</span><span class="citation-popover-snippet">3 new ways to check images and sources online25 Oct 2023 — Today, we&#x27;re announcing three new ways that you can get more context about the...</span></span></span>
 
 ## What reverse search can still catch
 
 Despite the rise of synthetic imagery, reverse image search remains highly effective against several common forms of visual misinformation.
 
-The most obvious success case is the recycled photograph. During breaking news events, [old images]({{ 'old-images/' | relative_url }}) are frequently reposted with new captions claiming to show a current disaster, protest or conflict. Reverse search can often reveal earlier appearances of the same image, exposing the mismatch between the picture and the claim attached to it. Verification guides used by journalists and [fact-checkers]({{ 'fact-checkers/' | relative_url }}) continue to recommend reverse searching as a first-line check for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft+2GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVISUAL VERIFICATION GUIDE PHOTOS &#124; First Draft NewsMarch 16, 2017 — A reverse image search returns identical photos indexed on...</span><span class="citation-popover-meta">Published: March 16, 2017</span></span></span>
+The most obvious success case is the recycled photograph. During breaking news events, [old images]({{ 'old-images/' | relative_url }}) are frequently reposted with new captions claiming to show a current disaster, protest or conflict. Reverse search can often reveal earlier appearances of the same image, exposing the mismatch between the picture and the claim attached to it. Verification guides used by journalists and [fact-checkers]({{ 'fact-checkers/' | relative_url }}) continue to recommend reverse searching as a first-line check for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft+2GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVISUAL VERIFICATION GUIDE PHOTOS &#124; First Draft NewsMarch 16, 2017 — A reverse image search returns identical photos indexed on...</span><span class="citation-popover-meta">Published: March 16, 2017</span></span></span>
 
 It can also uncover:
 
 * Images that have been taken from unrelated events.
 * Cropped or slightly altered versions of older photographs.
 * Pictures that have already been investigated by fact-checkers.
-* Cases where a claimed news photograph first appeared on an anonymous account rather than through a credible source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Google Toolbox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Spot an AI-Generated Image Like the &#x27;Balenciaga Pope</span><span class="citation-popover-snippet">Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</span></span></span>
+* Cases where a claimed news photograph first appeared on an anonymous account rather than through a credible source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Google Toolbox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Spot an AI-Generated Image Like the &#x27;Balenciaga Pope</span><span class="citation-popover-snippet">Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</span></span></span>
 
-Modern search tools increasingly provide contextual information beyond visual matches. Google's "About this image" feature, for example, can show when an image or similar versions were first indexed and where they have appeared online. That historical trail often matters more than analysing pixels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/google-about-this-image-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Image Search Will Now Show a Photo&#x27;s History</span><span class="citation-popover-snippet">Can It Spot Fakes?October 25, 2023 — Google has introduced a new feature called &quot;About this image&quot; in its image search results to help co...</span><span class="citation-popover-meta">Published: October 25, 2023</span></span></span>
+Modern search tools increasingly provide contextual information beyond visual matches. Google's "About this image" feature, for example, can show when an image or similar versions were first indexed and where they have appeared online. That historical trail often matters more than analysing pixels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/google-about-this-image-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Image Search Will Now Show a Photo&#x27;s History</span><span class="citation-popover-snippet">Can It Spot Fakes?October 25, 2023 — Google has introduced a new feature called &quot;About this image&quot; in its image search results to help co...</span><span class="citation-popover-meta">Published: October 25, 2023</span></span></span>
 
 In practice, reverse search still answers an important question: *is this image part of an existing online history?* When the answer is yes, that history can reveal whether the current claim is misleading.
 
@@ -310,27 +310,27 @@ In practice, reverse search still answers an important question: *is this image 
 
 The weakness of reverse image search becomes clear when dealing with newly generated images.
 
-A diffusion model such as Midjourney, DALL-E or Flux can create an entirely novel scene that has never existed before. Because there is no earlier version on the web, a reverse search may return few matches or no meaningful history at all. The absence of matches does not prove authenticity; it may simply indicate that the image is new. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.nyu.edu">[NYU Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.nyu.edu</span><span class="citation-popover-title">images and ai</span><span class="citation-popover-snippet">NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</span></span></span>
+A diffusion model such as Midjourney, DALL-E or Flux can create an entirely novel scene that has never existed before. Because there is no earlier version on the web, a reverse search may return few matches or no meaningful history at all. The absence of matches does not prove authenticity; it may simply indicate that the image is new.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.nyu.edu">[NYU Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.nyu.edu</span><span class="citation-popover-title">images and ai</span><span class="citation-popover-snippet">NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</span></span></span>
 
 This creates a verification dead end that did not exist to the same extent before generative AI. In the past, many fake images were edits or composites built from existing photographs. Reverse search often led investigators back to the original source material. A fully synthetic image leaves no such trail.
 
-Researchers studying reverse image search in misinformation environments have identified another complication. When a false visual claim first emerges, search systems may enter what researchers call a "data void" period. Early search results can contain repeated misinformation, speculation and irrelevant material while reliable debunks are still being produced. In other words, even when search results exist, they may not immediately provide trustworthy answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</span></span></span>
+Researchers studying reverse image search in misinformation environments have identified another complication. When a false visual claim first emerges, search systems may enter what researchers call a "data void" period. Early search results can contain repeated misinformation, speculation and irrelevant material while reliable debunks are still being produced. In other words, even when search results exist, they may not immediately provide trustworthy answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</span></span></span>
 
 The result is a subtle but important change in interpretation:
 
 * A successful reverse search can provide valuable evidence.
 * An unsuccessful reverse search provides much less information than many users assume.
-* “No matches found” is not evidence that an image depicts a real event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.nyu.edu">[NYU Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.nyu.edu</span><span class="citation-popover-title">images and ai</span><span class="citation-popover-snippet">NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</span></span></span>
+* “No matches found” is not evidence that an image depicts a real event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.nyu.edu">[NYU Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.nyu.edu</span><span class="citation-popover-title">images and ai</span><span class="citation-popover-snippet">NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</span></span></span>
 
 ## Why image authenticity is no longer the only question
 
 The generative-AI era has exposed a deeper limitation in reverse search: authenticity and truth are not identical.
 
-An image can be entirely synthetic, yet accurately illustrate a hypothetical scenario. Conversely, a completely genuine photograph can be attached to a false caption. Some of the most influential misinformation online now comes from real images presented out of context rather than from obviously fabricated pictures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-to-spot-fake-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These images can bolster conspiracy theories and propaganda. Notable examples include videos altered to misrepresent public figures and p...</span></span></span>
+An image can be entirely synthetic, yet accurately illustrate a hypothetical scenario. Conversely, a completely genuine photograph can be attached to a false caption. Some of the most influential misinformation online now comes from real images presented out of context rather than from obviously fabricated pictures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-to-spot-fake-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These images can bolster conspiracy theories and propaganda. Notable examples include videos altered to misrepresent public figures and p...</span></span></span>
 
-For that reason, verification increasingly focuses on provenance: the documented chain linking an image to its creator, publication history and claimed event. Researchers, journalists and fact-checking organisations increasingly emphasise [source-chain]({{ 'source-chain/' | relative_url }}) analysis rather than relying solely on [visual inspection]({{ 'inspection-limits/' | relative_url }}) or AI-detection software. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2604.24197v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frontier Image Generation Models, Synthetic Visual...27 Apr 2026 — Newsrooms should maintain a visual verification desk with source...</span></span></span>
+For that reason, verification increasingly focuses on provenance: the documented chain linking an image to its creator, publication history and claimed event. Researchers, journalists and fact-checking organisations increasingly emphasise [source-chain]({{ 'source-chain/' | relative_url }}) analysis rather than relying solely on [visual inspection]({{ 'inspection-limits/' | relative_url }}) or AI-detection software.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2604.24197v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frontier Image Generation Models, Synthetic Visual...27 Apr 2026 — Newsrooms should maintain a visual verification desk with source...</span></span></span>
 
-This matters because AI-detection systems themselves remain imperfect. Independent audits have found that detection tools can wrongly classify authentic photographs as AI-generated while missing some [synthetic images]({{ 'synthetic-images/' | relative_url }}). Verification therefore depends on multiple forms of evidence rather than any single technical test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO+2NewsGuard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-snippet">Audit: AI Image Detection Tools Often Classify Authentic...7 days ago — Major AI image detection tools deceive online users, often c...</span></span></span>
+This matters because AI-detection systems themselves remain imperfect. Independent audits have found that detection tools can wrongly classify authentic photographs as AI-generated while missing some [synthetic images]({{ 'synthetic-images/' | relative_url }}). Verification therefore depends on multiple forms of evidence rather than any single technical test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO+2NewsGuard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-snippet">Audit: AI Image Detection Tools Often Classify Authentic...7 days ago — Major AI image detection tools deceive online users, often c...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-2-dark.svg" | relative_url }}" alt="Reverse Search illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_synthetic_images_fee95d_reverse_search_ai_im_faeb3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ When reverse image search reaches a dead end, other verification methods become 
 
 ### Check who published the image first
 
-The first account to post an image often provides valuable clues. A photograph supposedly taken by a professional photojournalist should usually have a traceable publication history, attribution and supporting reporting. If the earliest known appearance comes from an anonymous account with no evidence of being at the scene, confidence should decrease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Spot an AI-Generated Image Like the &#x27;Balenciaga Pope</span><span class="citation-popover-snippet">Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</span></span></span>
+The first account to post an image often provides valuable clues. A photograph supposedly taken by a professional photojournalist should usually have a traceable publication history, attribution and supporting reporting. If the earliest known appearance comes from an anonymous account with no evidence of being at the scene, confidence should decrease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Spot an AI-Generated Image Like the &#x27;Balenciaga Pope</span><span class="citation-popover-snippet">Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</span></span></span>
 
 Look for:
 
@@ -367,7 +367,7 @@ Fact-checkers often compare a suspicious image against:
 * Street-level photographs.
 * Weather conditions.
 * Building layouts.
-* Clothing, vehicles and signage known to be present at the location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trustingnews.org">[Trusting News+2Toolkit Facta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trustingnews.org</span><span class="citation-popover-title">in ai age explain how you verify visuals</span><span class="citation-popover-snippet">Trusting NewsIn AI age, explain how you verify visuals20 Jan 2026 — The article explains how the Reuters team verified the image was fals...</span></span></span>
+* Clothing, vehicles and signage known to be present at the location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trustingnews.org">[Trusting News+2Toolkit Facta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trustingnews.org</span><span class="citation-popover-title">in ai age explain how you verify visuals</span><span class="citation-popover-snippet">Trusting NewsIn AI age, explain how you verify visuals20 Jan 2026 — The article explains how the Reuters team verified the image was fals...</span></span></span>
 
 Geolocation techniques can sometimes establish that a claimed location is impossible even when the image itself appears convincing.
 
@@ -385,7 +385,7 @@ If a social-media post claims to show a major fire, military strike or public ev
 * Reputable news organisations report the same event.
 * Witnesses uploaded additional images or videos.
 * Official agencies acknowledged the incident.
-* Multiple viewpoints of the scene exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">For investigative journalists... 2025, misinformation was ranked as the number one global risk.Read more...</span></span></span>
+* Multiple viewpoints of the scene exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">For investigative journalists... 2025, misinformation was ranked as the number one global risk.Read more...</span></span></span>
 
 </div>
 
@@ -401,194 +401,194 @@ Reverse image search has not become obsolete; its role has become narrower and m
 It remains one of the best tools for exposing recycled photographs, finding prior publications and locating fact-checks. Yet the spread of high-quality generative imagery means that a missing search history no longer tells us much. The practical lesson for critical thinking is that image verification must move beyond the question of whether pixels look real. Reverse search works best when treated as the beginning of an investigation rather than the final verdict. In an environment where entirely new synthetic images can appear instantly, credibility increasingly comes from origin, context and [corroboration]({{ 'corroboration/' | relative_url }}) rather than from visual realism alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When reverse image search helps and fails. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When reverse image search helps and fails. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open FAIK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bnEbEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for FAIK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="FAIK">FAIK</a>
-        </h4>
-        <p class="fr-book-author">By Perry Carpenter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open FAIK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bnEbEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for FAIK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="FAIK">FAIK</a>
+</h4>
+<p class="fr-book-author">By Perry Carpenter</p>
         
-        <p class="fr-book-desc">Explains modern verification challenges posed by AI imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains modern verification challenges posed by AI imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=FAIK+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fake news, propaganda, and plain old lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14649630-M.jpg" alt="Cover for Fake news, propaganda, and plain old lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fake news, propaganda, and plain old lies">Fake news, propaganda, and plain old lies</a>
-        </h4>
-        <p class="fr-book-author">By Donald A. Barclay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fake news, propaganda, and plain old lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14649630-M.jpg" alt="Cover for Fake news, propaganda, and plain old lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fake news, propaganda, and plain old lies">Fake news, propaganda, and plain old lies</a>
+</h4>
+<p class="fr-book-author">By Donald A. Barclay</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Online journalism, Fake news, History, Journalism, Information literacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Online journalism, Fake news, History, Journalism, Information literacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News literacy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News literacy">News literacy</a>
-        </h4>
-        <p class="fr-book-author">By Michelle Luhtala</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News literacy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News literacy">News literacy</a>
+</h4>
+<p class="fr-book-author">By Michelle Luhtala</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Fake news, Electronic information resource literacy, Internet literacy, Influence, Media literacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Fake news, Electronic information resource literacy, Internet literacy, Influence, Media literacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=FAIK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">FAIK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fake news, propaganda, and plain old lies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=FAIK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">FAIK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fake news, propaganda, and plain old lies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="reverse-search-when-reverse-image-search-helps-and-fails-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ It remains one of the best tools for exposing recycled photographs, finding prio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ It remains one of the best tools for exposing recycled photographs, finding prio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ It remains one of the best tools for exposing recycled photographs, finding prio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ It remains one of the best tools for exposing recycled photographs, finding prio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ It remains one of the best tools for exposing recycled photographs, finding prio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,127 +794,127 @@ It remains one of the best tools for exposing recycled photographs, finding prio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blog.google  
    Title: google search new fact checking features  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 new ways to check images and sources online25 Oct 2023 — Today, we&#x27;re announcing three new ways that you can get more context about the...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 new ways to check images and sources online25 Oct 2023 — Today, we&#x27;re announcing three new ways that you can get more context about the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gijn.org  
-   Link: <a href="https://gijn.org/stories/3-quick-ways-verify-images-smartphone/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/stories/3-quick-ways-verify-images-smartphone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Quick Ways to Verify Images on a SmartphoneThis step-by-step guide explains how to do a reverse image search to check whether the p...</p></details>
+   Link:<a href="https://gijn.org/stories/3-quick-ways-verify-images-smartphone/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/stories/3-quick-ways-verify-images-smartphone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Quick Ways to Verify Images on a SmartphoneThis step-by-step guide explains how to do a reverse image search to check whether the p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/how-to-spot-fake-images" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-to-spot-fake-images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These images can bolster conspiracy theories and propaganda. Notable examples include videos altered to misrepresent public figures and p...</p></details>
+   Link:<a href="https://www.wired.com/story/how-to-spot-fake-images" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-to-spot-fake-images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These images can bolster conspiracy theories and propaganda. Notable examples include videos altered to misrepresent public figures and p...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: How to Spot an AI-Generated Image Like the 'Balenciaga Pope'  
-   Link: <a href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6266606/how-to-spot-deepfake-pope/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</p></details>
+   Link:<a href="https://time.com/6266606/how-to-spot-deepfake-pope/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6266606/how-to-spot-deepfake-pope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite some telltale signs of fakery, the image was convincing enough to become a significant viral misinformation event. AI-generated i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxFact Check Tools RecentsAFP Fact Check rating: False. Images of Bangladeshi motorcyclists sleeping at petrol pumps are AI-g...</p></details>
+   Link:<a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxFact Check Tools RecentsAFP Fact Check rating: False. Images of Bangladeshi motorcyclists sleeping at petrol pumps are AI-g...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Google Image Search Will Now Show a Photo's History  
-   Link: <a href="https://www.wired.com/story/google-about-this-image-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/google-about-this-image-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can It Spot Fakes?October 25, 2023 — Google has introduced a new feature called &quot;About this image&quot; in its image search results to help co...</p></details>
+   Link:<a href="https://www.wired.com/story/google-about-this-image-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/google-about-this-image-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can It Spot Fakes?October 25, 2023 — Google has introduced a new feature called &quot;About this image&quot; in its image search results to help co...</p></details>
    Published: October 25, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: guides.nyu.edu  
    Title: images and ai  
-   Link: <a href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow">https://guides.nyu.edu/finding-images/images-and-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</p></details>
+   Link:<a href="https://guides.nyu.edu/finding-images/images-and-ai" target="_blank" rel="noopener noreferrer nofollow">https://guides.nyu.edu/finding-images/images-and-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NYU GuidesFinding Images: Images and AI1 Apr 2026 — Pro tip: If these reverse search engines do not find a source, or any similar images...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2604.24197v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.24197v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Image Generation Models, Synthetic Visual...27 Apr 2026 — Newsrooms should maintain a visual verification desk with source...</p></details>
+   Link:<a href="https://arxiv.org/html/2604.24197v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.24197v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Image Generation Models, Synthetic Visual...27 Apr 2026 — Newsrooms should maintain a visual verification desk with source...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: edmo.eu  
-   Link: <a href="https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audit: AI Image Detection Tools Often Classify Authentic...7 days ago — Major AI image detection tools deceive online users, often c...</p></details>
+   Link:<a href="https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/major-ai-image-detection-tools-deceive-online-users-often-classifying-authentic-images-as-fakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audit: AI Image Detection Tools Often Classify Authentic...7 days ago — Major AI image detection tools deceive online users, often c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.10174" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.10174</a>  
+   Link:<a href="https://arxiv.org/abs/2302.10174" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.10174</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: toolkit.facta.news  
    Title: Toolkit Facta Image verification  
-   Link: <a href="https://toolkit.facta.news/en/image-verification" target="_blank" rel="noopener noreferrer nofollow">https://toolkit.facta.news/en/image-verification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Image verification - Toolkit FactaHow to Recognize AI-Generated Images: A National Geographic guide to identifying AI-create...</p></details>
+   Link:<a href="https://toolkit.facta.news/en/image-verification" target="_blank" rel="noopener noreferrer nofollow">https://toolkit.facta.news/en/image-verification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image verification - Toolkit FactaHow to Recognize AI-Generated Images: A National Geographic guide to identifying AI-create...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: truescreen.io  
    Title: True Screen  
-   Link: <a href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/photo-verification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For investigative journalists... 2025, misinformation was ranked as the number one global risk.Read more...</p></details>
+   Link:<a href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/photo-verification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For investigative journalists... 2025, misinformation was ranked as the number one global risk.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftVISUAL VERIFICATION GUIDE PHOTOS | First Draft NewsMarch 16, 2017 — A reverse image search returns identical photos indexed on...</p></details>
+   Link:<a href="https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftVISUAL VERIFICATION GUIDE PHOTOS | First Draft NewsMarch 16, 2017 — A reverse image search returns identical photos indexed on...</p></details>
    Published: March 16, 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newsguardtech.com  
-   Link: <a href="https://www.newsguardtech.com/special-reports/leading-ai-image-detection-tools-mislead-online-users-often-declaring-authentic-content-fake" target="_blank" rel="noopener noreferrer nofollow">https://www.newsguardtech.com/special-reports/leading-ai-image-detection-tools-mislead-online-users-often-declaring-authentic-content-fake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsGuardLeading AI Image Detection Tools Mislead Online Users...8 May 2026 — NewsGuard&#x27;s findings suggest that human verification could...</p></details>
+   Link:<a href="https://www.newsguardtech.com/special-reports/leading-ai-image-detection-tools-mislead-online-users-often-declaring-authentic-content-fake" target="_blank" rel="noopener noreferrer nofollow">https://www.newsguardtech.com/special-reports/leading-ai-image-detection-tools-mislead-online-users-often-declaring-authentic-content-fake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsGuardLeading AI Image Detection Tools Mislead Online Users...8 May 2026 — NewsGuard&#x27;s findings suggest that human verification could...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: trustingnews.org  
    Title: in ai age explain how you verify visuals  
-   Link: <a href="https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/" target="_blank" rel="noopener noreferrer nofollow">https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusting NewsIn AI age, explain how you verify visuals20 Jan 2026 — The article explains how the Reuters team verified the image was fals...</p></details>
+   Link:<a href="https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/" target="_blank" rel="noopener noreferrer nofollow">https://trustingnews.org/in-ai-age-explain-how-you-verify-visuals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusting NewsIn AI age, explain how you verify visuals20 Jan 2026 — The article explains how the Reuters team verified the image was fals...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fullfact.org  
    Title: technologyinaccurate google ai overviews  
-   Link: <a href="https://fullfact.org/technology/technologyinaccurate-google-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/technologyinaccurate-google-ai-overviews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactGoogle Lens&#x27;s AI overviews shared misleading information...13 Aug 2025 — The visual search tool failed to identify certain imag...</p></details>
+   Link:<a href="https://fullfact.org/technology/technologyinaccurate-google-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/technologyinaccurate-google-ai-overviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactGoogle Lens&#x27;s AI overviews shared misleading information...13 Aug 2025 — The visual search tool failed to identify certain imag...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Are AI Videos Too Good Now? How to Spot AI and Why It's So Hard  
-   Link: <a href="https://www.youtube.com/watch?v=ALGsFOldpE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ALGsFOldpE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Together against digital disinformation: Journalists and content creators confront fake news and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ALGsFOldpE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ALGsFOldpE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Together against digital disinformation: Journalists and content creators confront fake news and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Deepfake or real? How to spot AI fakes and why labeling isn't enough  
-   Link: <a href="https://www.youtube.com/watch?v=yJ1baFmzbnA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ1baFmzbnA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI Videos Too Good Now? How to Spot AI and Why It&#x27;s So Hard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yJ1baFmzbnA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ1baFmzbnA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI Videos Too Good Now? How to Spot AI and Why It&#x27;s So Hard...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZnCKmy-eyys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZnCKmy-eyys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify AI images...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZnCKmy-eyys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZnCKmy-eyys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify AI images...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Is Reverse Image Search Effective Against AI Visuals?  
-   Link: <a href="https://www.youtube.com/watch?v=VJ3J8M3-zcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VJ3J8M3-zcA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake or real? How to spot AI fakes and why labeling isn&#x27;t enough...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VJ3J8M3-zcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VJ3J8M3-zcA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake or real? How to spot AI fakes and why labeling isn&#x27;t enough...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to Verify AI images  
-   Link: <a href="https://www.youtube.com/watch?v=5DuAsPGfFXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5DuAsPGfFXY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5DuAsPGfFXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5DuAsPGfFXY</a>  

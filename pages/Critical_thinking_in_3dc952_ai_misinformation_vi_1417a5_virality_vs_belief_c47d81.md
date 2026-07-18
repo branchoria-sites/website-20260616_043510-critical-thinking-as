@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_vi
 
 ## Introduction
 
-A viral AI-generated post on X can attract millions of views without convincing millions of people. This distinction is easy to miss because platform metrics such as views, reposts, likes and replies measure movement through a network, not acceptance of a claim. A post may spread because people find it funny, shocking, confusing, aesthetically impressive or worth discussing, even when many of those sharing it remain uncertain about whether it is true. Research on AI-generated misinformation on X suggests exactly this pattern: AI-made misleading posts tend to be more viral than conventional misinformation while also being slightly less believable on average. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+A viral AI-generated post on X can attract millions of views without convincing millions of people. This distinction is easy to miss because platform metrics such as views, reposts, likes and replies measure movement through a network, not acceptance of a claim. A post may spread because people find it funny, shocking, confusing, aesthetically impressive or worth discussing, even when many of those sharing it remain uncertain about whether it is true. Research on AI-generated misinformation on X suggests exactly this pattern: AI-made misleading posts tend to be more viral than conventional misinformation while also being slightly less believable on average.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_virality_vs_belief_c47d81-Illustration-1-dark.svg" | relative_url }}" alt="Spread vs Belief illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_virality_vs_belief_c47d81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_virality_vs_belief_c47d81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,11 +284,11 @@ For [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
 
 On social media, sharing and believing are related but separate actions. A user can repost a synthetic image because it is amusing, because it fits a cultural joke, because it might be true, or because they want others to judge it. None of those motivations requires full acceptance of the underlying claim.
 
-Recent analysis of more than 91,000 misleading X posts identified through Community Notes found that AI-generated misinformation was significantly more likely to go viral than non-[AI misinformation]({{ 'ai-virality/' | relative_url }}) despite being judged slightly less believable and less harmful. The same research found that AI-generated misinformation was disproportionately associated with entertainment content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Recent analysis of more than 91,000 misleading X posts identified through Community Notes found that AI-generated misinformation was significantly more likely to go viral than non-[AI misinformation]({{ 'ai-virality/' | relative_url }}) despite being judged slightly less believable and less harmful. The same research found that AI-generated misinformation was disproportionately associated with entertainment content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This finding challenges a common assumption that misinformation spreads primarily because people are persuaded by it. In many cases, visibility comes first. Belief may be weak, mixed or absent.
 
-Several broader studies of online behaviour support this distinction. Research on misinformation sharing has found that users often distribute content for social reasons unrelated to truth-seeking, while platform reward systems encourage rapid sharing habits that can make accuracy a secondary consideration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Why people share misinformation on social media?</span><span class="citation-popover-snippet">M Wu · 2025 · Cited by 5 — The widespread dissemination of misinformation on social media calls for an empirical investigation o...</span></span></span>
+Several broader studies of online behaviour support this distinction. Research on misinformation sharing has found that users often distribute content for social reasons unrelated to truth-seeking, while platform reward systems encourage rapid sharing habits that can make accuracy a secondary consideration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Why people share misinformation on social media?</span><span class="citation-popover-snippet">M Wu · 2025 · Cited by 5 — The widespread dissemination of misinformation on social media calls for an empirical investigation o...</span></span></span>
 
 The result is a form of social circulation in which a claim can travel far beyond the number of people who genuinely endorse it.
 
@@ -301,7 +301,7 @@ AI-generated content is particularly suited to attention-driven sharing because 
 
 A synthetic image of a celebrity in an impossible situation, an invented historical photograph, or a fabricated disaster scene may trigger reactions before viewers stop to assess authenticity. The content does not need to be fully convincing. It only needs to be interesting enough to pass along.
 
-Research on [synthetic media]({{ 'synthetic-media/' | relative_url }}) has shown that realistic AI-generated images can increase belief in false headlines and influence memory, especially when the image appears to provide visual [evidence]({{ 'evidence/' | relative_url }}) for a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+Research on [synthetic media]({{ 'synthetic-media/' | relative_url }}) has shown that realistic AI-generated images can increase belief in false headlines and influence memory, especially when the image appears to provide visual [evidence]({{ 'evidence/' | relative_url }}) for a claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 At the same time, many viral AI posts operate in a grey zone between sincerity and scepticism. Users may recognise that something “looks AI-generated” yet still interact with it. This creates a situation in which uncertainty does not prevent distribution.
 
@@ -314,7 +314,7 @@ The mechanism is important: virality can emerge from curiosity, humour and ambig
 
 A common mistake is to assume that misinformation matters only when people fully believe it. In practice, partial belief can still shape attention, memory and public conversation.
 
-Imagine an AI-generated image attached to a false claim. A viewer may think, “This is probably fake, but maybe not.” Even if they remain doubtful, the image can become associated with the topic in memory. Later [corrections]({{ 'corrections/' | relative_url }}) may not entirely erase that first impression. Research on AI-generated visual misinformation has found that realistic [synthetic images]({{ 'synthetic-images/' | relative_url }}) can influence both belief and memory processes surrounding false information and subsequent corrections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+Imagine an AI-generated image attached to a false claim. A viewer may think, “This is probably fake, but maybe not.” Even if they remain doubtful, the image can become associated with the topic in memory. Later [corrections]({{ 'corrections/' | relative_url }}) may not entirely erase that first impression. Research on AI-generated visual misinformation has found that realistic [synthetic images]({{ 'synthetic-images/' | relative_url }}) can influence both belief and memory processes surrounding false information and subsequent corrections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 The consequences extend beyond individual belief:
 
@@ -335,7 +335,7 @@ A post with hundreds of thousands of views may appear important simply because m
 
 The distinction matters because [social proof]({{ 'social-proof/' | relative_url }}) works indirectly. If users see a claim repeatedly, they may infer that others have already vetted it. But the underlying engagement may have come from ridicule, argument, uncertainty or curiosity rather than agreement.
 
-Research on social-media sharing behaviour suggests that platform incentives often reward engagement regardless of informational quality. Habitual sharing patterns can therefore amplify visibility without reliably filtering for accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">“It&#x27;s not that people are lazy or don&#x27;t</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — And these habitual users, the research shows, spread a...</span></span></span>
+Research on social-media sharing behaviour suggests that platform incentives often reward engagement regardless of informational quality. Habitual sharing patterns can therefore amplify visibility without reliably filtering for accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">“It&#x27;s not that people are lazy or don&#x27;t</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — And these habitual users, the research shows, spread a...</span></span></span>
 
 This helps explain why some AI-generated misinformation achieves remarkable reach despite generating mixed reactions about its truthfulness.
 
@@ -365,199 +365,199 @@ These questions slow the transition from attention to amplification.
 
 ## Viral does not mean believed
 
-One of the most important lessons from AI-generated misinformation on X is that visibility and credibility are not the same thing. A synthetic post can dominate timelines because it is entertaining, surprising or socially useful to discuss, even when many participants doubt it. Research increasingly suggests that AI-generated misinformation benefits from this gap: it often spreads exceptionally well while not necessarily achieving equivalent levels of belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+One of the most important lessons from AI-generated misinformation on X is that visibility and credibility are not the same thing. A synthetic post can dominate timelines because it is entertaining, surprising or socially useful to discuss, even when many participants doubt it. Research increasingly suggests that AI-generated misinformation benefits from this gap: it often spreads exceptionally well while not necessarily achieving equivalent levels of belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 For critical thinking, the practical takeaway is simple. When evaluating a viral AI-made post, treat engagement as evidence that people noticed it—not evidence that people verified it, accepted it or agreed with it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Viral does not mean believed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Viral does not mean believed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Directly supports the distinction between popularity, evidence and truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the distinction between popularity, evidence and truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explores why engagement and spread can diverge from genuine belief or accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why engagement and spread can diverge from genuine belief or accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Shows how attention and amplification can occur independently of conviction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attention and amplification can occur independently of conviction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based thinking instead of relying on impressions or popularity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based thinking instead of relying on impressions or popularity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="spread-vs-belief-viral-does-not-mean-believed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,137 +763,137 @@ For critical thinking, the practical takeaway is simple. When evaluating a viral
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — AI-generated misinformation is more often centered on entert...</p></details>
    Published: May 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Characterizing AI-Generated Misinformation on Social Media  
-   Link: <a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
+   Link:<a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
    Title: Why people share misinformation on social media?  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 5 — The widespread dissemination of misinformation on social media calls for an empirical investigation o...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 5 — The widespread dissemination of misinformation on social media calls for an empirical investigation o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: insights.som.yale.edu  
    Title: “It's not that people are lazy or don't  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — And these habitual users, the research shows, spread a...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — And these habitual users, the research shows, spread a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
+   Link:<a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.yale.edu  
    Title: flagging misinformation social media reduces engagement study finds  
-   Link: <a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media reduces... - YaleNewsSep 25, 2025 — Community Notes enables X users to propose and vet fact-checking note...</p></details>
+   Link:<a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media reduces... - YaleNewsSep 25, 2025 — Community Notes enables X users to propose and vet fact-checking note...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — In this work, we perform a large-scale quasi-expe...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — In this work, we perform a large-scale quasi-expe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with realistic AI...November 10, 2025 — In a pre-registered experimen...</p></details>
    Published: November 10, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blogs.deakin.edu.au  
    Title: deakin.edu.au Don't believe everything you see: how AI is spreading mis-, dis  
-   Link: <a href="https://blogs.deakin.edu.au/article/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.deakin.edu.au/article/misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deakin.edu.auDon&#x27;t believe everything you see: how AI is spreading mis-, disMay 1, 2025 — Artificial intelligence (AI) has become the sne...</p></details>
+   Link:<a href="https://blogs.deakin.edu.au/article/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.deakin.edu.au/article/misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deakin.edu.auDon&#x27;t believe everything you see: how AI is spreading mis-, disMay 1, 2025 — Artificial intelligence (AI) has become the sne...</p></details>
    Published: May 1, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesInitially shown to U.S. users only, notes were popularized in March 2022 over misinformation in the Russian invasion of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesInitially shown to U.S. users only, notes were popularized in March 2022 over misinformation in the Russian invasion of...</p></details>
    Published: March 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ibm.com  
    Title: A I Misinformation  
-   Link: <a href="https://www.ibm.com/think/insights/ai-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/insights/ai-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Misinformation - IBMMisinformation is false information. Some definitions also note that misinformation is not purposely created to de...</p></details>
+   Link:<a href="https://www.ibm.com/think/insights/ai-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/insights/ai-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Misinformation - IBMMisinformation is false information. Some definitions also note that misinformation is not purposely created to de...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: the spread of synthetic media on x  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/the-spread-of-synthetic-media-on-x/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/the-spread-of-synthetic-media-on-x/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of synthetic media on X3 Jun 2024 — This study examines the prevalence and characteristics of synthetic media on social media plat...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/the-spread-of-synthetic-media-on-x/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/the-spread-of-synthetic-media-on-x/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of synthetic media on X3 Jun 2024 — This study examines the prevalence and characteristics of synthetic media on social media plat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: who knowingly shares false political information online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>knowingly shares false political information online?by S Littrell · 2023 · Cited by 28 — We found that 14 percent of respondents reported...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>knowingly shares false political information online?by S Littrell · 2023 · Cited by 28 — We found that 14 percent of respondents reported...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts beforeNov 27, 2024 — A UNESCO survey published today reveals that 62% do not car...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts beforeNov 27, 2024 — A UNESCO survey published today reveals that 62% do not car...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cetas.turing.ac.uk  
-   Link: <a href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that could go wrong with X&#x27;s new AI-written...AI chatbots often struggle with nuance and context but are good at confidently providing a...</p></details>
+   Link:<a href="https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/news/everything-could-go-wrong-xs-new-ai-written-community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that could go wrong with X&#x27;s new AI-written...AI chatbots often struggle with nuance and context but are good at confidently providing a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: fears ai factcheckers on x could increase promotion of conspiracy theories  
-   Link: <a href="https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fears AI factcheckers on X could increase promotion of...2 Jul 2025 — Former UK minister says platform, which will use AI to draft commu...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fears AI factcheckers on X could increase promotion of...2 Jul 2025 — Former UK minister says platform, which will use AI to draft commu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dco.org  
    Title: However, there is no commonly agreed typology for information disorders,  
-   Link: <a href="https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Social Media to Truth: Countering Misinformation for...Misinformation is often used interchangeably with “fake news” and “disinform...</p></details>
+   Link:<a href="https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/From-Social-Media-to-Truth-Countering-Misinformation-for-a-Thriving-Digital-Economy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Social Media to Truth: Countering Misinformation for...Misinformation is often used interchangeably with “fake news” and “disinform...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psu.edu  
    Title: social media users probably wont read beyond headline researchers say  
-   Link: <a href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media users probably won&#x27;t read beyond this...Nov 19, 2024 — A study led by Penn State researchers revealed that more than 75% of...</p></details>
+   Link:<a href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media users probably won&#x27;t read beyond this...Nov 19, 2024 — A study led by Penn State researchers revealed that more than 75% of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arstechnica.com  
    Title: everything that could go wrong with xs new ai written community notes  
-   Link: <a href="https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — The platform plans to allow AI to write community notes, and that...</p></details>
+   Link:<a href="https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything that could go wrong with X&#x27;s new AI-written...2 Jul 2025 — The platform plans to allow AI to write community notes, and that...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: swgfl.org.uk  
-   Link: <a href="https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/" target="_blank" rel="noopener noreferrer nofollow">https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n spread quickly across various platforms such as social media channels.Read more...</p></details>
+   Link:<a href="https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/" target="_blank" rel="noopener noreferrer nofollow">https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n spread quickly across various platforms such as social media channels.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385663977_Did_the_Roll-Out_of_Community_Notes_Reduce_Engagement_With_Misinformation_on_XTwitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385663977_Did_the_Roll-Out_of_Community_Notes_Reduce_Engagement_With_Misinformation_on_XTwitter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ite textual notes to inform others about potentially misleading posts on X/...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385663977_Did_the_Roll-Out_of_Community_Notes_Reduce_Engagement_With_Misinformation_on_XTwitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385663977_Did_the_Roll-Out_of_Community_Notes_Reduce_Engagement_With_Misinformation_on_XTwitter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ite textual notes to inform others about potentially misleading posts on X/...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.gsu.edu  
    Title: new study explains why people fall for fake news  
-   Link: <a href="https://news.gsu.edu/2025/12/05/new-study-explains-why-people-fall-for-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://news.gsu.edu/2025/12/05/new-study-explains-why-people-fall-for-fake-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Explains Why People Fall for Fake NewsDec 5, 2025 — In a world where misinformation spreads faster than fact, a new study is offeri...</p></details>
+   Link:<a href="https://news.gsu.edu/2025/12/05/new-study-explains-why-people-fall-for-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://news.gsu.edu/2025/12/05/new-study-explains-why-people-fall-for-fake-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Explains Why People Fall for Fake NewsDec 5, 2025 — In a world where misinformation spreads faster than fact, a new study is offeri...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How AI-generated content affects the spread of disinformation?  
-   Link: <a href="https://www.youtube.com/watch?v=ENEfO-0Acxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ENEfO-0Acxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 22, 2024 — Forty-seven percent of Canadians are not confident they can identify AI generated fake news content, according to a recen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ENEfO-0Acxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ENEfO-0Acxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 22, 2024 — Forty-seven percent of Canadians are not confident they can identify AI generated fake news content, according to a recen...</p></details>
    Published: July 22, 2024  

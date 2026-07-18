@@ -303,7 +303,7 @@ Consider three headlines:
 
 All three sound alarming. Yet none tells the reader the starting point.
 
-A rise from 4 incidents to 5 is also a 25% increase. A “record level” may refer to a dataset that began only a few years ago. A doubled risk may mean moving from a 1-in-10,000 chance to a 2-in-10,000 chance. The direction of change is real, but the scale can be misunderstood when the baseline remains hidden. Research on risk communication consistently finds that people interpret relative changes as more important when baseline information is omitted. Providing the baseline produces more accurate judgments of the underlying risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centaur.reading.ac.uk/13902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...by H Natter · 2005 · Cited by 47 — The results showed that, in the a...</span></span></span>
+A rise from 4 incidents to 5 is also a 25% increase. A “record level” may refer to a dataset that began only a few years ago. A doubled risk may mean moving from a 1-in-10,000 chance to a 2-in-10,000 chance. The direction of change is real, but the scale can be misunderstood when the baseline remains hidden. Research on risk communication consistently finds that people interpret relative changes as more important when baseline information is omitted. Providing the baseline produces more accurate judgments of the underlying risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centaur.reading.ac.uk/13902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...by H Natter · 2005 · Cited by 47 — The results showed that, in the a...</span></span></span>
 
 The effect is powerful because people naturally focus on movement rather than starting position. “Up 50%” feels substantial even before anyone asks, “Up from what?”
 
@@ -313,9 +313,9 @@ One of the easiest ways to shape perception is to choose a particular starting d
 
 A claim that crime is “the highest since 2020” creates a different impression from a claim that crime remains well below levels seen in the 1990s. Both statements may be factually correct. The difference lies in the baseline.
 
-Crime statistics provide many examples. Some offence categories have increased sharply in recent years, generating accurate headlines about records or surges. Yet broader measures from the Crime Survey for England and Wales show that several major crime categories remain far below levels recorded decades earlier. Long-term trends and short-term trends can point in different directions at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policinginsight.com">[Policing Insight+2Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policinginsight.com</span><span class="citation-popover-title">Policing Insight Most crime has fallen by 90% in 30 years – so why does</span><span class="citation-popover-snippet">Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
+Crime statistics provide many examples. Some offence categories have increased sharply in recent years, generating accurate headlines about records or surges. Yet broader measures from the Crime Survey for England and Wales show that several major crime categories remain far below levels recorded decades earlier. Long-term trends and short-term trends can point in different directions at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policinginsight.com">[Policing Insight+2Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policinginsight.com</span><span class="citation-popover-title">Policing Insight Most crime has fallen by 90% in 30 years – so why does</span><span class="citation-popover-snippet">Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
 
-The same pattern appears in public perceptions. Surveys have found that many people believe crime is much higher than it was a generation ago, despite long-term declines in several major categories measured by the Crime Survey. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentencingacademy.org.uk">[Sentencing Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentencingacademy.org.uk</span><span class="citation-popover-title">Sentencing Academy Public Knowledge of Sentencing Practice and Trends</span><span class="citation-popover-snippet">25 years ago: 30% chose &#x27;a lot higher&#x27;, 32% &#x27;somewhat higher&#x27;. In fact, although rates have been...Read more...</span></span></span>
+The same pattern appears in public perceptions. Surveys have found that many people believe crime is much higher than it was a generation ago, despite long-term declines in several major categories measured by the Crime Survey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentencingacademy.org.uk">[Sentencing Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentencingacademy.org.uk</span><span class="citation-popover-title">Sentencing Academy Public Knowledge of Sentencing Practice and Trends</span><span class="citation-popover-snippet">25 years ago: 30% chose &#x27;a lot higher&#x27;, 32% &#x27;somewhat higher&#x27;. In fact, although rates have been...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sxYrzzy3cq8" title="How statistics can be misleading - Mark Liddell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sxYrzzy3cq8" target="_blank" rel="noopener noreferrer">How statistics can be misleading - Mark Liddell</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.7M &middot; Uploaded: January 2016 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sxYrzzy3cq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sxYrzzy3cq8">Open on YouTube</a></p></div></div></div>
@@ -346,7 +346,7 @@ The answer often changes the story.
 
 “Record” sounds absolute, but records depend on the period being measured.
 
-For example, media reports have accurately described shoplifting in England and Wales as reaching record levels under current recording systems. Yet the record refers to a specific period of data collection and reporting. Understanding what counts as the record is essential before concluding that a phenomenon has never been worse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">shoplifting offences record high reported police q8fbk29gb</span><span class="citation-popover-snippet">Retailers believe actual numbers are higher due to underreporting. Knife-related crimes also surged, approaching pre-pandemic levels, wit...</span></span></span>
+For example, media reports have accurately described shoplifting in England and Wales as reaching record levels under current recording systems. Yet the record refers to a specific period of data collection and reporting. Understanding what counts as the record is essential before concluding that a phenomenon has never been worse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">shoplifting offences record high reported police q8fbk29gb</span><span class="citation-popover-snippet">Retailers believe actual numbers are higher due to underreporting. Knife-related crimes also surged, approaching pre-pandemic levels, wit...</span></span></span>
 
 The baseline is not merely a technical detail. It determines whether a trend appears exceptional or routine.
 
@@ -354,11 +354,11 @@ The baseline is not merely a technical detail. It determines whether a trend app
 
 Crime claims contain another layer of baseline problems: changes in measurement systems.
 
-Readers often assume that a crime statistic represents a direct count of all crime. In reality, crime figures can be affected by reporting behaviour, police recording practices, survey methods and classification rules. Official statistical bodies routinely caution that different crime measures answer different questions. Office for Statistics Regulation+2Office for National Statistics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[osr.statisticsauthority.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">understanding the complexities of crime statistics</span><span class="citation-popover-snippet">Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Readers often assume that a crime statistic represents a direct count of all crime. In reality, crime figures can be affected by reporting behaviour, police recording practices, survey methods and classification rules. Official statistical bodies routinely caution that different crime measures answer different questions. Office for Statistics Regulation+2Office for National Statistics<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[osr.statisticsauthority.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">understanding the complexities of crime statistics</span><span class="citation-popover-snippet">Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-In the United States, transitions between crime-recording systems have complicated comparisons across years. Analysts have warned that changes in FBI reporting methods can affect how trends appear in national statistics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">understanding fbis 2021 crime data</span><span class="citation-popover-snippet">Brennan Center for JusticeUnderstanding the FBI&#x27;s 2021 Crime Data4 Oct 2022 — Changes to the way the FBI reports national crime data may...</span></span></span>
+In the United States, transitions between crime-recording systems have complicated comparisons across years. Analysts have warned that changes in FBI reporting methods can affect how trends appear in national statistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">understanding fbis 2021 crime data</span><span class="citation-popover-snippet">Brennan Center for JusticeUnderstanding the FBI&#x27;s 2021 Crime Data4 Oct 2022 — Changes to the way the FBI reports national crime data may...</span></span></span>
 
-Similarly, England and Wales use both police-recorded crime data and survey-based measures, each with strengths and limitations. A rise in recorded offences may reflect genuine increases, improved reporting, changes in recording standards, or some combination of all three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ons.gov.uk">[Office for National Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ons.gov.uk</span><span class="citation-popover-snippet">Office for National StatisticsUser guide to crime statistics for England and WalesThis user guide provides detailed information on the da...</span></span></span>
+Similarly, England and Wales use both police-recorded crime data and survey-based measures, each with strengths and limitations. A rise in recorded offences may reflect genuine increases, improved reporting, changes in recording standards, or some combination of all three.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ons.gov.uk">[Office for National Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ons.gov.uk</span><span class="citation-popover-snippet">Office for National StatisticsUser guide to crime statistics for England and WalesThis user guide provides detailed information on the da...</span></span></span>
 
 This means that even when the baseline year is visible, the measurement baseline may still be hidden.
 
@@ -375,12 +375,12 @@ Imagine a risk rising from 1 person in 10,000 to 2 people in 10,000.
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Relative risk increase: 100%. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</span></span></span>
+* Relative risk increase: 100%.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</span></span></span>
 * Absolute risk increase: 1 additional case per 10,000 people.
 
 </div>
 
-Both figures are mathematically correct. Yet they create very different impressions. Researchers and risk-communication specialists repeatedly recommend presenting both measures because relative risk alone can exaggerate perceived importance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[RCOG+3PMC+3SMC España]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</span></span></span>
+Both figures are mathematically correct. Yet they create very different impressions. Researchers and risk-communication specialists repeatedly recommend presenting both measures because relative risk alone can exaggerate perceived importance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[RCOG+3PMC+3SMC España]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</span></span></span>
 
 This is one reason why headlines about health risks, environmental dangers or crime victimisation can seem more alarming than the underlying numbers justify. The baseline probability is hidden, leaving readers with only the dramatic percentage change.
 
@@ -407,23 +407,23 @@ If those questions cannot be answered, the claim is incomplete.
 
 The most reliable defence against misleading trend claims is to restore the missing baseline.
 
-When evaluating crime and risk statistics: <span class="citation-chip-wrap"><a class="citation-chip" href="https://counciloncj.org/when-crime-statistics-diverge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counciloncj.org">[counciloncj.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counciloncj.org</span><span class="citation-popover-snippet">Council on Criminal JusticeWhen Crime Statistics DivergeThis report highlights key differences between the nation&#x27;s two measures of crime...</span></span></span>
+When evaluating crime and risk statistics:<span class="citation-chip-wrap"><a class="citation-chip" href="https://counciloncj.org/when-crime-statistics-diverge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counciloncj.org">[counciloncj.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counciloncj.org</span><span class="citation-popover-snippet">Council on Criminal JusticeWhen Crime Statistics DivergeThis report highlights key differences between the nation&#x27;s two measures of crime...</span></span></span>
 
 **Look for rates as well as counts.**
 
-A city with more crime incidents may simply have more people. Population context often changes interpretations of raw numbers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2012.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">More crime in cities? On the scaling laws of crime and the inadequacy of per capita rankings -- a cross-country studyDecember 30, 2020...</span><span class="citation-popover-meta">Published: December 30, 2020</span></span></span>
+A city with more crime incidents may simply have more people. Population context often changes interpretations of raw numbers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2012.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">More crime in cities? On the scaling laws of crime and the inadequacy of per capita rankings -- a cross-country studyDecember 30, 2020...</span><span class="citation-popover-meta">Published: December 30, 2020</span></span></span>
 
 **Compare multiple time horizons.**
 
-Check whether a trend is being measured against last month, last year, five years ago or several decades ago. Different baselines can produce very different narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policinginsight.com">[Policing Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policinginsight.com</span><span class="citation-popover-title">Policing Insight Most crime has fallen by 90% in 30 years – so why does</span><span class="citation-popover-snippet">Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
+Check whether a trend is being measured against last month, last year, five years ago or several decades ago. Different baselines can produce very different narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: policinginsight.com">[Policing Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">policinginsight.com</span><span class="citation-popover-title">Policing Insight Most crime has fallen by 90% in 30 years – so why does</span><span class="citation-popover-snippet">Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
 
 **Ask what changed in the measurement system.**
 
-Changes in reporting rules, survey methods or recording practices can influence apparent trends. Office for Statistics Regulation+2Brennan Center for Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[osr.statisticsauthority.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">understanding the complexities of crime statistics</span><span class="citation-popover-snippet">Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Changes in reporting rules, survey methods or recording practices can influence apparent trends. Office for Statistics Regulation+2Brennan Center for Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[osr.statisticsauthority.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">understanding the complexities of crime statistics</span><span class="citation-popover-snippet">Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-**Seek absolute risk alongside relative risk.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</span></span></span>
+**Seek absolute risk alongside relative risk.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</span></span></span>
 
-A percentage increase is meaningful only when paired with the starting probability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2iwh.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</span></span></span>
+A percentage increase is meaningful only when paired with the starting probability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2iwh.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</span></span></span>
 
 **Treat emotionally charged words as prompts for questions.**
 
@@ -440,178 +440,178 @@ Once the baseline is restored, the meaning of a claim often becomes clearer. A s
 In an information environment dominated by rapid sharing, short-form content and AI-assisted summaries, asking “Compared with what?” is one of the simplest and most effective critical-thinking habits a reader can develop.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What &#x27;Up&#x27; Leaves Out of the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What &#x27;Up&#x27; Leaves Out of the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Demonstrates how percentages and comparisons mislead without context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how percentages and comparisons mislead without context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains how numerical claims can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how numerical claims can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how trend claims require historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how trend claims require historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="baselines-what-up-leaves-out-of-the-story-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ In an information environment dominated by rapid sharing, short-form content and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ In an information environment dominated by rapid sharing, short-form content and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ In an information environment dominated by rapid sharing, short-form content and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ In an information environment dominated by rapid sharing, short-form content and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ In an information environment dominated by rapid sharing, short-form content and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,161 +817,161 @@ In an information environment dominated by rapid sharing, short-form content and
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247497648_Effects_of_presenting_the_baseline_risk_when_communicating_absolute_and_relative_risk_reductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of presenting the baseline risk when communicating...This study compares relative and absolute forms of presenting risk informat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8844685/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Communicating Risk: Assessing Both...by S Zavala · 2022 · Cited by 10 — Relative and absolute risk measures are com...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the same incident—including information on victims, known offenders...Read more...</p></details>
+   Link:<a href="https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the same incident—including information on victims, known offenders...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iwh.on.ca  
-   Link: <a href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Absolute and relative riskRisk expressed either way is correct. In our example, the relative risk reduction of 60 per cent appears larger...</p></details>
+   Link:<a href="https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.iwh.on.ca/what-researchers-mean-by/absolute-and-relative-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Absolute and relative riskRisk expressed either way is correct. In our example, the relative risk reduction of 60 per cent appears larger...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rcog.org.uk  
    Title: cga7 15072010  
-   Link: <a href="https://www.rcog.org.uk/media/i1udpf05/cga7-15072010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcog.org.uk/media/i1udpf05/cga7-15072010.pdf</a>  
+   Link:<a href="https://www.rcog.org.uk/media/i1udpf05/cga7-15072010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcog.org.uk/media/i1udpf05/cga7-15072010.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2012.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.15368</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More crime in cities? On the scaling laws of crime and the inadequacy of per capita rankings -- a cross-country studyDecember 30, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2012.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.15368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More crime in cities? On the scaling laws of crime and the inadequacy of per capita rankings -- a cross-country studyDecember 30, 2020...</p></details>
    Published: December 30, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ucr.fbi.gov  
    Title: a guide to understanding nibrs  
-   Link: <a href="https://ucr.fbi.gov/nibrs/2011/resources/a-guide-to-understanding-nibrs" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/nibrs/2011/resources/a-guide-to-understanding-nibrs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Understanding NIBRSNIBRS is an incident-based reporting system in which law enforcement collects data on each crime occurrence...</p></details>
+   Link:<a href="https://ucr.fbi.gov/nibrs/2011/resources/a-guide-to-understanding-nibrs" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/nibrs/2011/resources/a-guide-to-understanding-nibrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Understanding NIBRSNIBRS is an incident-based reporting system in which law enforcement collects data on each crime occurrence...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/video-repository/nibrs-101.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/nibrs-101.mp4/view</a>  
+   Link:<a href="https://www.fbi.gov/video-repository/nibrs-101.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/nibrs-101.mp4/view</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: centaur.reading.ac.uk  
-   Link: <a href="https://centaur.reading.ac.uk/13902/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/13902/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of presenting the baseline risk when communicating...by H Natter · 2005 · Cited by 47 — The results showed that, in the a...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/13902/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/13902/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of presenting the baseline risk when communicating...by H Natter · 2005 · Cited by 47 — The results showed that, in the a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: policinginsight.com  
    Title: Policing Insight Most crime has fallen by 90% in 30 years – so why does  
-   Link: <a href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow">https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</p></details>
+   Link:<a href="https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/" target="_blank" rel="noopener noreferrer nofollow">https://policinginsight.com/feature/analysis/most-crime-has-fallen-by-90-in-30-years-so-why-does-the-public-think-its-increased/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policing InsightMost crime has fallen by 90% in 30 years – so why does...May 23, 2024 — 23 May 2024 — As of 2024, violence, burglary and...</p></details>
    Published: May 23, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: understanding the complexities of crime statistics  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</p></details>
+   Link:<a href="https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/understanding-the-complexities-of-crime-statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office for Statistics RegulationUnderstanding the complexities of crime statistics16 May 2024 — In this blog, our Head Statistics Regulat...</p></details>
    Published: May 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office for National StatisticsUser guide to crime statistics for England and WalesThis user guide provides detailed information on the da...</p></details>
+   Link:<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office for National StatisticsUser guide to crime statistics for England and WalesThis user guide provides detailed information on the da...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sentencingacademy.org.uk  
    Title: Sentencing Academy Public Knowledge of Sentencing Practice and Trends  
-   Link: <a href="https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 years ago: 30% chose &#x27;a lot higher&#x27;, 32% &#x27;somewhat higher&#x27;. In fact, although rates have been...Read more...</p></details>
+   Link:<a href="https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sentencingacademy.org.uk/wp-content/uploads/2025/08/Public-Knowledge-of-Sentencing-Practice-and-Trends.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 years ago: 30% chose &#x27;a lot higher&#x27;, 32% &#x27;somewhat higher&#x27;. In fact, although rates have been...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetimes.co.uk  
    Title: shoplifting offences record high reported police q8fbk29gb  
-   Link: <a href="https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retailers believe actual numbers are higher due to underreporting. Knife-related crimes also surged, approaching pre-pandemic levels, wit...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/shoplifting-offences-record-high-reported-police-q8fbk29gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retailers believe actual numbers are higher due to underreporting. Knife-related crimes also surged, approaching pre-pandemic levels, wit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/half-a-million-shoplifting-offences-recorded-by-police-for-first-time-n855fzl6n" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/half-a-million-shoplifting-offences-recorded-by-police-for-first-time-n855fzl6n</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shoplifting offences surpassed half a million for the first time, rising 20% from 2023 to 516,971 incidents—the highest since police reco...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/half-a-million-shoplifting-offences-recorded-by-police-for-first-time-n855fzl6n" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/half-a-million-shoplifting-offences-recorded-by-police-for-first-time-n855fzl6n</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shoplifting offences surpassed half a million for the first time, rising 20% from 2023 to 516,971 incidents—the highest since police reco...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brennancenter.org  
    Title: understanding fbis 2021 crime data  
-   Link: <a href="https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for JusticeUnderstanding the FBI&#x27;s 2021 Crime Data4 Oct 2022 — Changes to the way the FBI reports national crime data may...</p></details>
+   Link:<a href="https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/understanding-fbis-2021-crime-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for JusticeUnderstanding the FBI&#x27;s 2021 Crime Data4 Oct 2022 — Changes to the way the FBI reports national crime data may...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencemediacentre.es  
    Title: how communicate risks reported scientific articles understandable way  
-   Link: <a href="https://sciencemediacentre.es/en/how-communicate-risks-reported-scientific-articles-understandable-way" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/how-communicate-risks-reported-scientific-articles-understandable-way</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An alternative...Read more...</p></details>
+   Link:<a href="https://sciencemediacentre.es/en/how-communicate-risks-reported-scientific-articles-understandable-way" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/how-communicate-risks-reported-scientific-articles-understandable-way</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An alternative...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10798435/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10798435/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J Uttley · 2024 · Cited by 11 — We will use these data to determine whether the risk of crime at a specific time of day is greate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10798435/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10798435/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J Uttley · 2024 · Cited by 11 — We will use these data to determine whether the risk of crime at a specific time of day is greate...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/collections/crime-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/crime-statistics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>statisticsPolice recorded crime and outcomes open data tables. Police recorded crime and outcomes detailed figures and supplementary mate...</p></details>
+   Link:<a href="https://www.gov.uk/government/collections/crime-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/crime-statistics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>statisticsPolice recorded crime and outcomes open data tables. Police recorded crime and outcomes detailed figures and supplementary mate...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bjs.ojp.gov  
-   Link: <a href="https://bjs.ojp.gov/data-collection/national-incident-based-reporting-system-nibrs" target="_blank" rel="noopener noreferrer nofollow">https://bjs.ojp.gov/data-collection/national-incident-based-reporting-system-nibrs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Justice StatisticsNational Incident-Based Reporting System (NIBRS)Background on the collection of reported crime dataSince 1930...</p></details>
+   Link:<a href="https://bjs.ojp.gov/data-collection/national-incident-based-reporting-system-nibrs" target="_blank" rel="noopener noreferrer nofollow">https://bjs.ojp.gov/data-collection/national-incident-based-reporting-system-nibrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Justice StatisticsNational Incident-Based Reporting System (NIBRS)Background on the collection of reported crime dataSince 1930...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: regulation.org.uk  
-   Link: <a href="https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COMMUNICATING ABOUT RISKS TO PUBLIC HEALTHCommunicating about risks to public health can be of vital importance in many different context...</p></details>
+   Link:<a href="https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COMMUNICATING ABOUT RISKS TO PUBLIC HEALTHCommunicating about risks to public health can be of vital importance in many different context...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: counciloncj.org  
-   Link: <a href="https://counciloncj.org/when-crime-statistics-diverge/" target="_blank" rel="noopener noreferrer nofollow">https://counciloncj.org/when-crime-statistics-diverge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Council on Criminal JusticeWhen Crime Statistics DivergeThis report highlights key differences between the nation&#x27;s two measures of crime...</p></details>
+   Link:<a href="https://counciloncj.org/when-crime-statistics-diverge/" target="_blank" rel="noopener noreferrer nofollow">https://counciloncj.org/when-crime-statistics-diverge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Council on Criminal JusticeWhen Crime Statistics DivergeThis report highlights key differences between the nation&#x27;s two measures of crime...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: riskknowhow.org  
-   Link: <a href="https://riskknowhow.org/make-sense-of-risk/resources/relative-vs-absolute-risks-why-relative-risks-are-misleading-and-how-to-communicate-absolute-risks/" target="_blank" rel="noopener noreferrer nofollow">https://riskknowhow.org/make-sense-of-risk/resources/relative-vs-absolute-risks-why-relative-risks-are-misleading-and-how-to-communicate-absolute-risks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understand relative vs absolute risksDavid Spiegelhalter explaining why relative risks are misleading, and how to communicate absolute ri...</p></details>
+   Link:<a href="https://riskknowhow.org/make-sense-of-risk/resources/relative-vs-absolute-risks-why-relative-risks-are-misleading-and-how-to-communicate-absolute-risks/" target="_blank" rel="noopener noreferrer nofollow">https://riskknowhow.org/make-sense-of-risk/resources/relative-vs-absolute-risks-why-relative-risks-are-misleading-and-how-to-communicate-absolute-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understand relative vs absolute risksDavid Spiegelhalter explaining why relative risks are misleading, and how to communicate absolute ri...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unodc.org  
-   Link: <a href="https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>soon after the shift of the year, but statistics on later stages of the criminal...Read more...</p></details>
+   Link:<a href="https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>soon after the shift of the year, but statistics on later stages of the criminal...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cde.ucr.cjis.gov  
-   Link: <a href="https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An estimated 1,221,345 violent crime offenses were committed in 2024, indicating a rate of. 359.1 violent crimes...Read more...</p></details>
+   Link:<a href="https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An estimated 1,221,345 violent crime offenses were committed in 2024, indicating a rate of. 359.1 violent crimes...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: naacpldf.org  
-   Link: <a href="https://www.naacpldf.org/the-truth-behind-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.naacpldf.org/the-truth-behind-crime-statistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o explain the recent increase in homicides nationwide.Read more...</p></details>
+   Link:<a href="https://www.naacpldf.org/the-truth-behind-crime-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.naacpldf.org/the-truth-behind-crime-statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o explain the recent increase in homicides nationwide.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why Crime Data Is Lying To You (And What It Means for Your Safety) | EP09  
-   Link: <a href="https://www.youtube.com/watch?v=-S5hEfsFtAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-S5hEfsFtAM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misleading crime stats FBI veteran reveals what&#x27;s really happening in DC...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-S5hEfsFtAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-S5hEfsFtAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misleading crime stats FBI veteran reveals what&#x27;s really happening in DC...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: waspc.org  
    Title: National Incident-Based Reporting System (NIBRS) versus  
-   Link: <a href="https://www.waspc.org/assets/CJIS/trainingmanualsandreference/nibrsvssummaryoverview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waspc.org/assets/CJIS/trainingmanualsandreference/nibrsvssummaryoverview.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1930&#x27;s. Summary UCR Offenses. Part 1: Murder. Rape. Robbery.Read more...</p></details>
+   Link:<a href="https://www.waspc.org/assets/CJIS/trainingmanualsandreference/nibrsvssummaryoverview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waspc.org/assets/CJIS/trainingmanualsandreference/nibrsvssummaryoverview.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1930&#x27;s. Summary UCR Offenses. Part 1: Murder. Rape. Robbery.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vera-institute.files.svdcdn.com  
    Title: understanding national crime data  
-   Link: <a href="https://vera-institute.files.svdcdn.com/production/downloads/publications/understanding-national-crime-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vera-institute.files.svdcdn.com/production/downloads/publications/understanding-national-crime-data.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>▫ The U.S. Department of Justice&#x27;s (DOJ&#x27;s) Bureau of Justice Statistics (BJS), through the...Read more...</p></details>
+   Link:<a href="https://vera-institute.files.svdcdn.com/production/downloads/publications/understanding-national-crime-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vera-institute.files.svdcdn.com/production/downloads/publications/understanding-national-crime-data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>▫ The U.S. Department of Justice&#x27;s (DOJ&#x27;s) Bureau of Justice Statistics (BJS), through the...Read more...</p></details>

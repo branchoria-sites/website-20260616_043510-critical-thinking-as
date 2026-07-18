@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_real_so
 
 ## Introduction
 
-When a claim goes viral, the post in your feed is often the last link in a much longer chain. A statistic may have started in a research paper, passed through a news article, been summarised by a blog, turned into a screenshot, reposted on several platforms, and finally reached you stripped of context. Finding the original source is one of the most useful habits in lateral reading because trust often changes when you discover who actually made the claim, when it was made, and what was left out along the way. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) routinely leave the shared post behind and trace claims back to their origin rather than evaluating only the version that happens to be circulating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Inquiry GroupTeaching Lateral Reading &#124; CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</span></span></span>
+When a claim goes viral, the post in your feed is often the last link in a much longer chain. A statistic may have started in a research paper, passed through a news article, been summarised by a blog, turned into a screenshot, reposted on several platforms, and finally reached you stripped of context. Finding the original source is one of the most useful habits in lateral reading because trust often changes when you discover who actually made the claim, when it was made, and what was left out along the way. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) routinely leave the shared post behind and trace claims back to their origin rather than evaluating only the version that happens to be circulating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Inquiry GroupTeaching Lateral Reading &#124; CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_real_source_viral_cl_407858-Illustration-1-dark.svg" | relative_url }}" alt="Real Source illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_real_source_viral_cl_407858-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_real_source_viral_cl_407858-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,7 +300,7 @@ Consider a common chain:
 
 By the time most people encounter the claim, they are several steps removed from the original [evidence]({{ 'evidence/' | relative_url }}).
 
-This is why the "T" in the SIFT framework—Trace claims, quotes, and media to the original source—is so important. Instead of evaluating the repost, you work backwards toward the earliest identifiable version. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[wisconsin.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">Evaluating Sources – Information Literacy: A Practical Guide SIFT stands for: Stop</span><span class="citation-popover-snippet">Investigate the source with lateral reading. Find trusted coverage. Trace claims, quotes, and media to the original source. We&#x27;ll</span></span></span>
+This is why the "T" in the SIFT framework—Trace claims, quotes, and media to the original source—is so important. Instead of evaluating the repost, you work backwards toward the earliest identifiable version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[wisconsin.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">Evaluating Sources – Information Literacy: A Practical Guide SIFT stands for: Stop</span><span class="citation-popover-snippet">Investigate the source with lateral reading. Find trusted coverage. Trace claims, quotes, and media to the original source. We&#x27;ll</span></span></span>
 
 When tracing a claim, ask:
 
@@ -314,7 +314,7 @@ When tracing a claim, ask:
 
 </div>
 
-Often the original source contains qualifications that disappeared during sharing. A study may discuss a limited sample, a politician's quote may be clipped from a longer answer, or a photograph may have been taken years earlier than the viral caption suggests. Reuters fact-check investigations frequently find that [old images]({{ 'old-images/' | relative_url }}), videos, and statements are recirculated with new descriptions that change their meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+Often the original source contains qualifications that disappeared during sharing. A study may discuss a limited sample, a politician's quote may be clipped from a longer answer, or a photograph may have been taken years earlier than the viral caption suggests. Reuters fact-check investigations frequently find that [old images]({{ 'old-images/' | relative_url }}), videos, and statements are recirculated with new descriptions that change their meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUiL-uJZmek" title="How to Fact Check Using Google Reverse Image Search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUiL-uJZmek" target="_blank" rel="noopener noreferrer">How to Fact Check Using Google Reverse Image Search</a></p><p class="youtube-embed-meta">Channel: The Learning Portal / Le Portail d’Apprentissage &middot; Views: 3.0K &middot; Uploaded: January 2024 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUiL-uJZmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUiL-uJZmek">Open on YouTube</a></p></div></div></div>
@@ -323,13 +323,13 @@ Often the original source contains qualifications that disappeared during sharin
 
 Many people try to judge a claim by judging the account that shared it. While account information can be useful, it is easy to overvalue.
 
-A large follower count does not establish expertise. Verification badges, professional graphics, emotional certainty, and confident language can create an impression of authority without proving anything about the underlying claim. Research on lateral reading found that less experienced readers often spend time examining the appearance of a source, while professional fact-checkers move quickly to independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — In contrast, fact checkers read latera...</span></span></span>
+A large follower count does not establish expertise. Verification badges, professional graphics, emotional certainty, and confident language can create an impression of authority without proving anything about the underlying claim. Research on lateral reading found that less experienced readers often spend time examining the appearance of a source, while professional fact-checkers move quickly to independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — In contrast, fact checkers read latera...</span></span></span>
 
 Several account signals deserve caution:
 
 **Reposted screenshots**
 
-A screenshot removes context. The original post may have been edited, deleted, satirical, or fabricated entirely. Screenshots are especially difficult because they often prevent readers from checking timestamps, replies, or account history. Researchers studying misattributed social media posts note that screenshots make it easier for false attributions to spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
+A screenshot removes context. The original post may have been edited, deleted, satirical, or fabricated entirely. Screenshots are especially difficult because they often prevent readers from checking timestamps, replies, or account history. Researchers studying misattributed social media posts note that screenshots make it easier for false attributions to spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
 
 **Aggregator accounts**
 
@@ -352,7 +352,7 @@ If a claim includes a distinctive sentence, statistic, or quotation, place a uni
 This can reveal:
 
 * Earlier versions of the claim
-* News coverage discussing it <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+* News coverage discussing it<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 * [Fact-checks]({{ 'fact-checks/' | relative_url }})
 * Original publications
 
@@ -364,7 +364,7 @@ If many results repeat the same wording but all trace back to one article, you m
 
 If a report is attributed to an institute, foundation, expert, or research group, open a new tab and investigate that entity separately.
 
-Professional fact-checkers frequently use this lateral-reading approach because it quickly reveals whether an organisation is widely recognised, newly created, politically affiliated, commercially motivated, or frequently criticised for inaccuracies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Inquiry GroupTeaching Lateral Reading &#124; CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</span></span></span>
+Professional fact-checkers frequently use this lateral-reading approach because it quickly reveals whether an organisation is widely recognised, newly created, politically affiliated, commercially motivated, or frequently criticised for inaccuracies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Inquiry GroupTeaching Lateral Reading &#124; CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</span></span></span>
 
 ### Follow citations backward
 
@@ -382,7 +382,7 @@ Look for:
 
 </div>
 
-A surprising number of viral claims collapse during this step because the cited source says something narrower than the social media summary suggests. Fact-checking guides consistently recommend opening the original study, transcript, dataset, or document whenever possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modeldiplomat.com">[Model Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modeldiplomat.com</span><span class="citation-popover-snippet">Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</span></span></span>
+A surprising number of viral claims collapse during this step because the cited source says something narrower than the social media summary suggests. Fact-checking guides consistently recommend opening the original study, transcript, dataset, or document whenever possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modeldiplomat.com">[Model Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modeldiplomat.com</span><span class="citation-popover-snippet">Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsrXJGpxwIE" title="Using SIFT to Evaluate Sources for Credibility Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsrXJGpxwIE" target="_blank" rel="noopener noreferrer">Using SIFT to Evaluate Sources for Credibility Tutorial</a></p><p class="youtube-embed-meta">Channel: Vanderbilt Libraries Teaching &amp; Learning &middot; Views: 22.6K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsrXJGpxwIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsrXJGpxwIE">Open on YouTube</a></p></div></div></div>
@@ -391,21 +391,21 @@ A surprising number of viral claims collapse during this step because the cited 
 
 Visual content often travels farther from its source than text.
 
-A dramatic image may be reshared thousands of times with different captions. A video from one country may be relabelled as an event in another. In many misinformation cases, the visual itself is real but the accompanying description is false. Reuters fact-checks regularly document examples where genuine images or videos are attached to incorrect narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+A dramatic image may be reshared thousands of times with different captions. A video from one country may be relabelled as an event in another. In many misinformation cases, the visual itself is real but the accompanying description is false. Reuters fact-checks regularly document examples where genuine images or videos are attached to incorrect narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 To trace visual content:
 
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* Use reverse image search tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modeldiplomat.com">[modeldiplomat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modeldiplomat.com</span><span class="citation-popover-snippet">Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</span></span></span>
+* Use reverse image search tools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modeldiplomat.com">[modeldiplomat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modeldiplomat.com</span><span class="citation-popover-snippet">Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</span></span></span>
 * Search key frames from videos.
 * Look for earlier appearances of the same media.
 * Compare dates, locations, and captions across versions.
 
 </div>
 
-Reverse image searches can often reveal that a supposedly current image first appeared years earlier. Fact-checkers and digital investigators rely heavily on this technique when verifying visual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google+2Pic Detective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">3 new ways to check images and sources online</span><span class="citation-popover-snippet">Fact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or topic.Read more...</span></span></span>
+Reverse image searches can often reveal that a supposedly current image first appeared years earlier. Fact-checkers and digital investigators rely heavily on this technique when verifying visual claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google+2Pic Detective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">3 new ways to check images and sources online</span><span class="citation-popover-snippet">Fact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or topic.Read more...</span></span></span>
 
 One useful mindset is to separate two questions:
 
@@ -450,178 +450,178 @@ For most viral claims, a quick source-tracing routine looks like this:
 You do not need to become an investigator to benefit from lateral reading. Often a few targeted searches are enough to reveal that a viral post is not the source at all—and that the real source tells a different story.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Actually Made This Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Actually Made This Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Promotes source scrutiny and evidence tracing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes source scrutiny and evidence tracing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Helps readers evaluate claims before accepting them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate claims before accepting them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News and How to Use It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12418127-M.jpg" alt="Cover for News and How to Use It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
-        </h4>
-        <p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News and How to Use It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12418127-M.jpg" alt="Cover for News and How to Use It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
+</h4>
+<p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
         
-        <p class="fr-book-desc">First published 2021.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
         
-        <p class="fr-book-desc">Promotes source scrutiny and evidence tracing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes source scrutiny and evidence tracing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=News+and+How+to+Use+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">News and How to Use It</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=News+and+How+to+Use+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">News and How to Use It</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="real-source-who-actually-made-this-claim-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ You do not need to become an investigator to benefit from lateral reading. Often
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ You do not need to become an investigator to benefit from lateral reading. Often
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ You do not need to become an investigator to benefit from lateral reading. Often
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ You do not need to become an investigator to benefit from lateral reading. Often
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ You do not need to become an investigator to benefit from lateral reading. Often
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,151 +827,151 @@ You do not need to become an investigator to benefit from lateral reading. Often
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — In contrast, fact checkers read latera...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — In contrast, fact checkers read latera...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/transgender-woman-misidentified-trump-shooter-2024-07-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/transgender-woman-misidentified-trump-shooter-2024-07-24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The misinformation originated from an anonymous post on 4chan, an online message board, which claimed the shooter was transgender. This c...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/transgender-woman-misidentified-trump-shooter-2024-07-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/transgender-woman-misidentified-trump-shooter-2024-07-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The misinformation originated from an anonymous post on 4chan, an online message board, which claimed the shooter was transgender. This c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
    Published: November 17, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.google  
    Title: 3 new ways to check images and sources online  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or topic.Read more...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-new-fact-checking-features/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or topic.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: poynter.org  
    Title: lateral reading the best media literacy tip to vet credible sources  
-   Link: <a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — We teach people digital media literacy and...</p></details>
+   Link:<a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poynter InstituteLateral reading: The best media literacy tip to vet credible...20 Jul 2023 — We teach people digital media literacy and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxAbout Fact Check ToolsThis tool allows you to easily browse and search for fact checks. For example, you can search for a p...</p></details>
+   Link:<a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ToolboxAbout Fact Check ToolsThis tool allows you to easily browse and search for fact checks. For example, you can search for a p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pressbooks.pub  
    Title: students and disinformation  
-   Link: <a href="https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Evaluation Skills: A “Bleak” Track RecordHow are we doing when it comes to recognizing disinformation and navigating the information...</p></details>
+   Link:<a href="https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Evaluation Skills: A “Bleak” Track RecordHow are we doing when it comes to recognizing disinformation and navigating the information...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cor.inquirygroup.org  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inquiry GroupTeaching Lateral Reading | CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</p></details>
+   Link:<a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inquiry GroupTeaching Lateral Reading | CORBy observing fact checkers, we found that the best way to learn about a website is lateral rea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: modeldiplomat.com  
-   Link: <a href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</p></details>
+   Link:<a href="https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/media/resources/fact-checking/complete-fact-checking-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Model DiplomatFact-Checking MethodologyImage? Reverse image search (see below). Triangulate. No single source is enough. Two or three ind...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: picdetective.com  
-   Link: <a href="https://picdetective.com/blog/reverse-image-search-identify-fake-news-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://picdetective.com/blog/reverse-image-search-identify-fake-news-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pic DetectiveSpot Fake News and Misinformation with Reverse Image...23 Jan 2026 — Reverse image search verifies whether an image is auth...</p></details>
+   Link:<a href="https://picdetective.com/blog/reverse-image-search-identify-fake-news-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://picdetective.com/blog/reverse-image-search-identify-fake-news-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pic DetectiveSpot Fake News and Misinformation with Reverse Image...23 Jan 2026 — Reverse image search verifies whether an image is auth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: libguides.milton.edu  
    Title: lateral reading  
-   Link: <a href="https://libguides.milton.edu/lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.milton.edu/lateral-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>milton.eduLIB: Source Evaluation: Lateral Reading - Resource Guides5 Mar 2026 — A recent study from the Stanford History Education Group...</p></details>
+   Link:<a href="https://libguides.milton.edu/lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.milton.edu/lateral-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>milton.eduLIB: Source Evaluation: Lateral Reading - Resource Guides5 Mar 2026 — A recent study from the Stanford History Education Group...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ReutersFacts" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ReutersFacts</a>  
+   Link:<a href="https://x.com/ReutersFacts" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ReutersFacts</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: libguides.chowan.edu  
-   Link: <a href="https://libguides.chowan.edu/evaluate" target="_blank" rel="noopener noreferrer nofollow">https://libguides.chowan.edu/evaluate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whitaker Library18 Sept 2024 — A lot of the SIFT strategies use a concept called lateral reading. That is doing an internet search to see...</p></details>
+   Link:<a href="https://libguides.chowan.edu/evaluate" target="_blank" rel="noopener noreferrer nofollow">https://libguides.chowan.edu/evaluate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whitaker Library18 Sept 2024 — A lot of the SIFT strategies use a concept called lateral reading. That is doing an internet search to see...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scienceofboosting.org  
    Title: Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boosting4 May 2023 — This short video from the Stanford History Education Group explains how to use lateral reading and outlines the rese...</p></details>
+   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boosting4 May 2023 — This short video from the Stanford History Education Group explains how to use lateral reading and outlines the rese...</p></details>
    Published: May 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: libguides.cmich.edu  
-   Link: <a href="https://libguides.cmich.edu/web_research/lateral" target="_blank" rel="noopener noreferrer nofollow">https://libguides.cmich.edu/web_research/lateral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research: Lateral Reading and SIFT12 Dec 2024 — SIFT stands for Stop; Investigate the source; Find better coverage; and Trace claims, quo...</p></details>
+   Link:<a href="https://libguides.cmich.edu/web_research/lateral" target="_blank" rel="noopener noreferrer nofollow">https://libguides.cmich.edu/web_research/lateral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research: Lateral Reading and SIFT12 Dec 2024 — SIFT stands for Stop; Investigate the source; Find better coverage; and Trace claims, quo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: libguides.clackamas.edu  
-   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research help18 May 2026 — The final step is to Trace Claims, Quotes, and Media to their Original Context. When an article references a q...</p></details>
+   Link:<a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research help18 May 2026 — The final step is to Trace Claims, Quotes, and Media to their Original Context. When an article references a q...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading: College students learn to critically...23 Feb 2021 — A small body of research suggests that students in face-to-face settings c...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading: College students learn to critically...23 Feb 2021 — A small body of research suggests that students in face-to-face settings c...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
+   Link:<a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingShe explains the right approach at first but gives far too much credit to a method (lat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingShe explains the right approach at first but gives far too much credit to a method (lat...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ed.stanford.edu  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — It doesn&#x27;t take long to learn how to spot misinformation on...</p></details>
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — It doesn&#x27;t take long to learn how to spot misinformation on...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an improve at judging the credibility of online sources...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an improve at judging the credibility of online sources...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thecrashcourse.com  
    Title: Check Yourself with Lateral Reading  
-   Link: <a href="https://thecrashcourse.com/courses/check-yourself-with-lateral-reading-crash-course-navigating-digital-information-3/" target="_blank" rel="noopener noreferrer nofollow">https://thecrashcourse.com/courses/check-yourself-with-lateral-reading-crash-course-navigating-digital-information-3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crash CourseJohn Green is going to teach you how to read laterally, using multiple tabs in your browser to look stuff up and fact-check a...</p></details>
+   Link:<a href="https://thecrashcourse.com/courses/check-yourself-with-lateral-reading-crash-course-navigating-digital-information-3/" target="_blank" rel="noopener noreferrer nofollow">https://thecrashcourse.com/courses/check-yourself-with-lateral-reading-crash-course-navigating-digital-information-3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crash CourseJohn Green is going to teach you how to read laterally, using multiple tabs in your browser to look stuff up and fact-check a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: libguides.csun.edu  
    Title: reading laterally fact checking  
-   Link: <a href="https://libguides.csun.edu/journalism/reading-laterally-fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://libguides.csun.edu/journalism/reading-laterally-fact-checking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>csun.eduJournalism: Reading Laterally for Fact Checking - LibGuides8 days ago — Video: Stanford History Education Group. This video provi...</p></details>
+   Link:<a href="https://libguides.csun.edu/journalism/reading-laterally-fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://libguides.csun.edu/journalism/reading-laterally-fact-checking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>csun.eduJournalism: Reading Laterally for Fact Checking - LibGuides8 days ago — Video: Stanford History Education Group. This video provi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wittenberg.libguides.com  
    Title: Wittenberg University Lib Guides Lateral Reading / SIFT Method  
-   Link: <a href="https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234" target="_blank" rel="noopener noreferrer nofollow">https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the original source say the same things as the re-reporting you read first? Adapted...</p></details>
+   Link:<a href="https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234" target="_blank" rel="noopener noreferrer nofollow">https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the original source say the same things as the re-reporting you read first? Adapted...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
    Title: Old photos are recycled  
-   Link: <a href="https://www.instagram.com/p/DXPD_msDSVk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPD_msDSVk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context is twisted. Narratives are...But you can verify. This simple 6-step guide to Google Reverse Image Search helps you trace where a...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXPD_msDSVk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXPD_msDSVk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Context is twisted. Narratives are...But you can verify. This simple 6-step guide to Google Reverse Image Search helps you trace where a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves)  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, Investigate the source, find bett...</p></details>
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, Investigate the source, find bett...</p></details>

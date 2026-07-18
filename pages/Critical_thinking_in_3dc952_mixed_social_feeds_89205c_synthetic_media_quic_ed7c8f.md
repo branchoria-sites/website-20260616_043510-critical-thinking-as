@@ -274,19 +274,19 @@ image: /assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synt
 
 ## Introduction
 
-Synthetic media has changed the economics of deception. In earlier eras, creating a convincing fake photograph, video or audio recording often required specialist skills, time and resources. Today, generative AI tools can produce realistic images, voices and video clips in minutes. The result is not simply that more false content exists. The deeper problem is that quick judgement has become more expensive. A reader scrolling through a mixed social feed must spend more time, attention and verification effort to decide whether a dramatic image or clip deserves trust. In a media environment where entertainment, humour, activism, advertising and news appear side by side, synthetic content weakens many of the visual shortcuts people once relied on. TIM Review+2Center for News, Technology &amp; Innovation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timreview.ca/article/1282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timreview.ca">[timreview.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timreview.ca</span><span class="citation-popover-snippet">TIM ReviewThe Emergence of Deepfake Technology: A Reviewby M Westerlund · 2019 · Cited by 1987 — Deepfakes are the product of artificial...</span></span></span>
+Synthetic media has changed the economics of deception. In earlier eras, creating a convincing fake photograph, video or audio recording often required specialist skills, time and resources. Today, generative AI tools can produce realistic images, voices and video clips in minutes. The result is not simply that more false content exists. The deeper problem is that quick judgement has become more expensive. A reader scrolling through a mixed social feed must spend more time, attention and verification effort to decide whether a dramatic image or clip deserves trust. In a media environment where entertainment, humour, activism, advertising and news appear side by side, synthetic content weakens many of the visual shortcuts people once relied on. TIM Review+2Center for News, Technology &amp; Innovation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timreview.ca/article/1282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timreview.ca">[timreview.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timreview.ca</span><span class="citation-popover-snippet">TIM ReviewThe Emergence of Deepfake Technology: A Reviewby M Westerlund · 2019 · Cited by 1987 — Deepfakes are the product of artificial...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-1-dark.svg" | relative_url }}" alt="Synthetic media illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The challenge is especially important for news trust. A striking image can arrive before any reporting, accumulate shares before verification, and influence discussion even after being debunked. Synthetic media therefore raises the cost of fast judgement precisely because it targets the conditions under which people often consume information: quickly, socially and emotionally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</span></span></span>
+The challenge is especially important for news trust. A striking image can arrive before any reporting, accumulate shares before verification, and influence discussion even after being debunked. Synthetic media therefore raises the cost of fast judgement precisely because it targets the conditions under which people often consume information: quickly, socially and emotionally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</span></span></span>
 
 ## Why synthetic visuals strain old trust cues
 
 For much of modern media history, people used practical trust cues when assessing images. Photographs were not automatically believed, but many viewers assumed that a clear visual record at least began with a real scene. Editing existed, yet producing convincing fabrications required effort and expertise.
 
-Generative AI changes that balance. Modern systems can create scenes that never happened, place real people in fictional situations, alter existing photographs, or generate entirely synthetic faces that resemble ordinary portraits. [Deepfakes]({{ 'deepfakes/' | relative_url }}) are only one part of a broader category of synthetic media that includes AI-generated images, audio and video. What distinguishes the current moment is not the existence of manipulation but the scale, speed and realism with which it can be produced. Center for News, Technology &amp; Innovation+2TIM Review <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnti.org">[cnti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnti.org</span><span class="citation-popover-title">synthetic media deepfakes</span><span class="citation-popover-snippet">Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</span></span></span>
+Generative AI changes that balance. Modern systems can create scenes that never happened, place real people in fictional situations, alter existing photographs, or generate entirely synthetic faces that resemble ordinary portraits. [Deepfakes]({{ 'deepfakes/' | relative_url }}) are only one part of a broader category of synthetic media that includes AI-generated images, audio and video. What distinguishes the current moment is not the existence of manipulation but the scale, speed and realism with which it can be produced. Center for News, Technology &amp; Innovation+2TIM Review<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnti.org">[cnti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnti.org</span><span class="citation-popover-title">synthetic media deepfakes</span><span class="citation-popover-snippet">Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</span></span></span>
 
-Research increasingly suggests that human intuition is a weak defence. Studies examining people's ability to distinguish authentic content from AI-generated material have found that performance often approaches chance levels, especially as generation quality improves. Confidence is frequently higher than accuracy, meaning people can feel certain while being mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Testing Human Ability To Detect Deepfake Images of Human Faces</span><span class="citation-popover-snippet">Testing Human Ability To Detect Deepfake Images of Human FacesDecember 7, 2022...</span><span class="citation-popover-meta">Published: December 7, 2022</span></span></span>
+Research increasingly suggests that human intuition is a weak defence. Studies examining people's ability to distinguish authentic content from AI-generated material have found that performance often approaches chance levels, especially as generation quality improves. Confidence is frequently higher than accuracy, meaning people can feel certain while being mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Testing Human Ability To Detect Deepfake Images of Human Faces</span><span class="citation-popover-snippet">Testing Human Ability To Detect Deepfake Images of Human FacesDecember 7, 2022...</span><span class="citation-popover-meta">Published: December 7, 2022</span></span></span>
 
 This creates a practical problem for feed-based news consumption. Traditional visual clues such as photographic realism, apparent eyewitness [evidence]({{ 'evidence/' | relative_url }}) or emotional authenticity become less reliable. The viewer must therefore spend more effort evaluating source, context and provenance rather than relying on appearance alone.
 
@@ -297,13 +297,13 @@ This creates a practical problem for feed-based news consumption. Traditional vi
 
 One reason synthetic media is difficult to evaluate is that it rarely arrives labelled as a political hoax. The same tools used for comedy, fan art, advertising, parody and creative experimentation can also produce misleading content. Humour, persuasion and fabrication can coexist within a single post.
 
-A synthetic image may begin as a joke, circulate as a meme, then become detached from its original context and be interpreted as evidence. A fabricated photograph can spread because it is emotionally compelling rather than because it makes a specific factual claim. In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), users often encounter content outside its original setting, making context loss a major factor in misunderstanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</span></span></span>
+A synthetic image may begin as a joke, circulate as a meme, then become detached from its original context and be interpreted as evidence. A fabricated photograph can spread because it is emotionally compelling rather than because it makes a specific factual claim. In [mixed social feeds]({{ 'mixed-feeds/' | relative_url }}), users often encounter content outside its original setting, making context loss a major factor in misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</span></span></span>
 
-Public affairs become entangled with these dynamics during crises and breaking events. Disaster imagery, conflict footage and political content often spread before verification is complete. The speed of social sharing rewards dramatic visuals, while verification usually takes longer. During emergencies, fabricated or AI-enhanced images can attract attention precisely because they intensify emotional reactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">A simple vista, las fotos muestran a una niña con un chaleco salvavidas sosteniendo un perro bajo la lluvia. Sin embargo, las imágenes pr...</span></span></span>
+Public affairs become entangled with these dynamics during crises and breaking events. Disaster imagery, conflict footage and political content often spread before verification is complete. The speed of social sharing rewards dramatic visuals, while verification usually takes longer. During emergencies, fabricated or AI-enhanced images can attract attention precisely because they intensify emotional reactions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">A simple vista, las fotos muestran a una niña con un chaleco salvavidas sosteniendo un perro bajo la lluvia. Sin embargo, las imágenes pr...</span></span></span>
 
-Recent controversies involving AI-generated images of public figures illustrate another mechanism. Viewers may react before investigating authenticity because the image appears plausible, aligns with existing beliefs or provokes [outrage]({{ 'outrage/' | relative_url }}). Even when [corrections]({{ 'corrections/' | relative_url }}) arrive later, the initial impression can influence public discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">In a Facebook post, Meloni criticized political opponents for using such fabrications to attack her and highlighted the broader risks of...</span></span></span>
+Recent controversies involving AI-generated images of public figures illustrate another mechanism. Viewers may react before investigating authenticity because the image appears plausible, aligns with existing beliefs or provokes [outrage]({{ 'outrage/' | relative_url }}). Even when [corrections]({{ 'corrections/' | relative_url }}) arrive later, the initial impression can influence public discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">In a Facebook post, Meloni criticized political opponents for using such fabrications to attack her and highlighted the broader risks of...</span></span></span>
 
-The result is not always direct belief in a falsehood. Sometimes the outcome is broader uncertainty. Research on deepfakes suggests that exposure can increase doubt and reduce trust in information environments generally. People may become less certain about what is true rather than fully convinced by a specific fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</span></span></span>
+The result is not always direct belief in a falsehood. Sometimes the outcome is broader uncertainty. Research on deepfakes suggests that exposure can increase doubt and reduce trust in information environments generally. People may become less certain about what is true rather than fully convinced by a specific fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-2-dark.svg" | relative_url }}" alt="Synthetic media illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ The phrase "cost of judgement" refers to the effort required to evaluate informa
 
 First, it expands the number of items that deserve scrutiny. A dramatic image can no longer be treated as evidence simply because it looks authentic.
 
-Second, it raises the technical demands placed on ordinary users. Assessing authenticity increasingly involves checking metadata, searching for original sources, comparing reports across outlets or using verification tools. Activities once associated mainly with journalists and investigators are becoming more relevant to everyday media consumers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</span></span></span>
+Second, it raises the technical demands placed on ordinary users. Assessing authenticity increasingly involves checking metadata, searching for original sources, comparing reports across outlets or using verification tools. Activities once associated mainly with journalists and investigators are becoming more relevant to everyday media consumers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</span></span></span>
 
-Third, synthetic media creates what some researchers describe as an environment of indeterminacy. When realistic fabrications become common knowledge, genuine evidence can also be questioned. A real image may be dismissed as fake, while a fake image may be defended as real. The public is left with more uncertainty and fewer widely shared assumptions about what visual evidence means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</span></span></span>
+Third, synthetic media creates what some researchers describe as an environment of indeterminacy. When realistic fabrications become common knowledge, genuine evidence can also be questioned. A real image may be dismissed as fake, while a fake image may be defended as real. The public is left with more uncertainty and fewer widely shared assumptions about what visual evidence means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</span></span></span>
 
-This is one reason experts increasingly discuss information integrity rather than only misinformation. The issue is not simply removing false content. It is preserving confidence that authentic evidence can still be recognised and trusted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-title">safeguarding human rights and information integrity age generative ai</span><span class="citation-popover-snippet">more...</span></span></span>
+This is one reason experts increasingly discuss information integrity rather than only misinformation. The issue is not simply removing false content. It is preserving confidence that authentic evidence can still be recognised and trusted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-title">safeguarding human rights and information integrity age generative ai</span><span class="citation-popover-snippet">more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yYwu8HNhdjI" title="When seeing is no longer believing: perils and possibilities in a world of synthetic media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yYwu8HNhdjI" target="_blank" rel="noopener noreferrer">When seeing is no longer believing: perils and possibilities in a world of synthetic media</a></p><p class="youtube-embed-meta">Channel: International Journalism Festival &middot; Views: 333 &middot; Uploaded: April 2026 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yYwu8HNhdjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yYwu8HNhdjI">Open on YouTube</a></p></div></div></div>
@@ -330,13 +330,13 @@ The most effective response is often slower judgement rather than instant judgem
 
 **Look for independent confirmation.** If a dramatic event genuinely occurred, multiple credible organisations or eyewitnesses are often reporting it.
 
-**Search for the image elsewhere.** Reverse-image search tools can reveal whether a picture is old, altered or being reused in a misleading context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</span></span></span>
+**Search for the image elsewhere.** Reverse-image search tools can reveal whether a picture is old, altered or being reused in a misleading context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</span></span></span>
 
-**Inspect details carefully.** AI-generated images can still contain inconsistencies involving text, hands, reflections, backgrounds or object relationships. These clues are not definitive, but they can justify further checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: codecentric.de">[codecentric AG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">codecentric.de</span><span class="citation-popover-snippet">codecentric AGDeepFake: Detect AI-Generated Images in 5 StepsDeepFakes are everywhere! Learn how to detect AI-generated images in minutes...</span></span></span>
+**Inspect details carefully.** AI-generated images can still contain inconsistencies involving text, hands, reflections, backgrounds or object relationships. These clues are not definitive, but they can justify further checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: codecentric.de">[codecentric AG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">codecentric.de</span><span class="citation-popover-snippet">codecentric AGDeepFake: Detect AI-Generated Images in 5 StepsDeepFakes are everywhere! Learn how to detect AI-generated images in minutes...</span></span></span>
 
-**Pause when content triggers a strong reaction.** Synthetic media often succeeds because it provokes surprise, anger, amusement or sympathy. Emotional intensity is a reason to verify, not a reason to share immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Ma&#x27;aly Hazzaz&#x27;s Post#FakeNews #Disinformation #Misleading #LackOfContext The challenge... As AI-generated content and deepfakes...</span></span></span>
+**Pause when content triggers a strong reaction.** Synthetic media often succeeds because it provokes surprise, anger, amusement or sympathy. Emotional intensity is a reason to verify, not a reason to share immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Ma&#x27;aly Hazzaz&#x27;s Post#FakeNews #Disinformation #Misleading #LackOfContext The challenge... As AI-generated content and deepfakes...</span></span></span>
 
-**Look for provenance signals.** Emerging authenticity systems and content-credential initiatives attempt to document where media came from and whether it has been altered. They are not perfect solutions, but they represent an effort to restore trust signals that are disappearing in AI-heavy information environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fotoware.com/blog/content-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fotoware.com">[fotoware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fotoware.com</span><span class="citation-popover-title">content authenticity</span><span class="citation-popover-snippet">How to protect trust in the digital age28 May 2026 — Learn how Content Authenticity can protect trust in digital content by verifying ori...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+**Look for provenance signals.** Emerging authenticity systems and content-credential initiatives attempt to document where media came from and whether it has been altered. They are not perfect solutions, but they represent an effort to restore trust signals that are disappearing in AI-heavy information environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fotoware.com/blog/content-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fotoware.com">[fotoware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fotoware.com</span><span class="citation-popover-title">content authenticity</span><span class="citation-popover-snippet">How to protect trust in the digital age28 May 2026 — Learn how Content Authenticity can protect trust in digital content by verifying ori...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-3-dark.svg" | relative_url }}" alt="Synthetic media illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,201 +344,201 @@ The most effective response is often slower judgement rather than instant judgem
 
 The practical answer is neither complete trust nor complete scepticism. Synthetic media has made appearance a weaker signal than it once was, but it has not made truth impossible to establish. What has changed is the amount of work required.
 
-In mixed social feeds, realism alone is no longer a reliable indicator of authenticity. A convincing image may be genuine, manipulated, satirical, synthetic or entirely fabricated. The reader who wants accurate information must therefore spend more effort examining source, context and [corroboration]({{ 'corroboration/' | relative_url }}). Synthetic media raises the cost of quick judgement because it forces people to replace visual instinct with deliberate verification. In the age of social media and AI, the most valuable habit may be the simplest: treating "it looks real" as the beginning of an investigation rather than the end of one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnti.org">[Center for News, Technology &amp; Innovation+2UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnti.org</span><span class="citation-popover-title">synthetic media deepfakes</span><span class="citation-popover-snippet">Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</span></span></span>
+In mixed social feeds, realism alone is no longer a reliable indicator of authenticity. A convincing image may be genuine, manipulated, satirical, synthetic or entirely fabricated. The reader who wants accurate information must therefore spend more effort examining source, context and [corroboration]({{ 'corroboration/' | relative_url }}). Synthetic media raises the cost of quick judgement because it forces people to replace visual instinct with deliberate verification. In the age of social media and AI, the most valuable habit may be the simplest: treating "it looks real" as the beginning of an investigation rather than the end of one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnti.org">[Center for News, Technology &amp; Innovation+2UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnti.org</span><span class="citation-popover-title">synthetic media deepfakes</span><span class="citation-popover-snippet">Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T-aOfE_w5bM" title="Can you handle the truth? Putting misinformation to the test with the OECD Truth Quest Survey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T-aOfE_w5bM" target="_blank" rel="noopener noreferrer">Can you handle the truth? Putting misinformation to the test with the OECD Truth Quest Survey</a></p><p class="youtube-embed-meta">Channel: OECD &middot; Views: 184 &middot; Uploaded: April 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T-aOfE_w5bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T-aOfE_w5bM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can you trust what looks real?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can you trust what looks real?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
-        </h4>
-        <p class="fr-book-author">By Nina Schick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
+</h4>
+<p class="fr-book-author">By Nina Schick</p>
         
-        <p class="fr-book-desc">Directly addresses AI-generated images, video and trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses AI-generated images, video and trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explains the societal implications of powerful AI tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the societal implications of powerful AI tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of algorithmic systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of algorithmic systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Places synthetic media within broader platform dynamics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places synthetic media within broader platform dynamics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="synthetic-media-can-you-trust-what-looks-real-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,208 +744,208 @@ In mixed social feeds, realism alone is no longer a reliable indicator of authen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unesdoc.unesco.org  
    Title: Docs Synthetic content and its implications for AI policy: a primer  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392181" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392181</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated content that can harm users or produce misinformation.... Deepfakes are commonly associated with disinformation and harm. T...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392181" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated content that can harm users or produce misinformation.... Deepfakes are commonly associated with disinformation and harm. T...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The threat of misinformation and disinformation, now massively amplified by synthe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Testing Human Ability To Detect Deepfake Images of Human Faces  
-   Link: <a href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.05056</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Human Ability To Detect Deepfake Images of Human FacesDecember 7, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.05056</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Human Ability To Detect Deepfake Images of Human FacesDecember 7, 2022...</p></details>
    Published: December 7, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.16760" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.16760</a>  
+   Link:<a href="https://arxiv.org/abs/2403.16760" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.16760</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/224FE549F3C1D2554450C2C9C74010CF/9781783305100c9_p129-146_CBO.pdf/images-reverse-image-searching-and-deepfakes.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment9 Images, Reverse Image Searching and DeepfakesA reverse image search can be produced from both in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fotoware.com  
    Title: content authenticity  
-   Link: <a href="https://www.fotoware.com/blog/content-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.fotoware.com/blog/content-authenticity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to protect trust in the digital age28 May 2026 — Learn how Content Authenticity can protect trust in digital content by verifying ori...</p></details>
+   Link:<a href="https://www.fotoware.com/blog/content-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.fotoware.com/blog/content-authenticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to protect trust in the digital age28 May 2026 — Learn how Content Authenticity can protect trust in digital content by verifying ori...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: codecentric.de  
-   Link: <a href="https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step" target="_blank" rel="noopener noreferrer nofollow">https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codecentric AGDeepFake: Detect AI-Generated Images in 5 StepsDeepFakes are everywhere! Learn how to detect AI-generated images in minutes...</p></details>
+   Link:<a href="https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step" target="_blank" rel="noopener noreferrer nofollow">https://www.codecentric.de/en/knowledge-hub/blog/deepfake-detect-ai-generated-images-in-5-step</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codecentric AGDeepFake: Detect AI-Generated Images in 5 StepsDeepFakes are everywhere! Learn how to detect AI-generated images in minutes...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2304.06470" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.06470</a>  
+   Link:<a href="https://arxiv.org/abs/2304.06470" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.06470</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ma&#x27;aly Hazzaz&#x27;s Post#FakeNews #Disinformation #Misleading #LackOfContext The challenge... As AI-generated content and deepfakes...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ma-aly-hazzaz-91033ba_fake-ai-deepfakes-activity-7446041841197592576-EwPf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ma&#x27;aly Hazzaz&#x27;s Post#FakeNews #Disinformation #Misleading #LackOfContext The challenge... As AI-generated content and deepfakes...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Peace through Education, Science and...UNESCO plays a vital role in safeguarding the social and cultural foundations t...</p></details>
+   Link:<a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Peace through Education, Science and...UNESCO plays a vital role in safeguarding the social and cultural foundations t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As online hate speech, disinformation...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-issue-brief-media-and-information-literacy-counter-hate-speech-digital-age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As online hate speech, disinformation...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
    Title: A I-generated content threatens trust in online information  
-   Link: <a href="https://www.linkedin.com/posts/nasifay-girma-65632b1b9_mediaandinformationliteracy-unesco-mil-activity-7419589603835179008-C5gJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nasifay-girma-65632b1b9_mediaandinformationliteracy-unesco-mil-activity-7419589603835179008-C5gJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO #MIL #AI #Deepfake #Misinformation #DigitalLiteracy #EthicalAI #InformationIntegrity.... Damage reputations * Undermine trust in...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nasifay-girma-65632b1b9_mediaandinformationliteracy-unesco-mil-activity-7419589603835179008-C5gJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nasifay-girma-65632b1b9_mediaandinformationliteracy-unesco-mil-activity-7419589603835179008-C5gJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO #MIL #AI #Deepfake #Misinformation #DigitalLiteracy #EthicalAI #InformationIntegrity.... Damage reputations * Undermine trust in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
    Title: UNESC O releases guidelines for AI and digital platform  
-   Link: <a href="https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated misinformation. UNESCO&#x27;s global assessments reveal... disinformation and deepfakes. Users must be equipped to critically...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated misinformation. UNESCO&#x27;s global assessments reveal... disinformation and deepfakes. Users must be equipped to critically...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
    Title: #ai #artificialintelligence #unescocourier #noexcuse #16days  
-   Link: <a href="https://www.linkedin.com/posts/unesco_ai-artificialintelligence-unescocourier-activity-7266676984024338432-HexP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco_ai-artificialintelligence-unescocourier-activity-7266676984024338432-HexP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake #AI #OnlineHarms #AIGovernance #EUAIAct #InformationTechnologyAct... AI generated misinformation. That said, the real test will...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/unesco_ai-artificialintelligence-unescocourier-activity-7266676984024338432-HexP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/unesco_ai-artificialintelligence-unescocourier-activity-7266676984024338432-HexP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake #AI #OnlineHarms #AIGovernance #EUAIAct #InformationTechnologyAct... AI generated misinformation. That said, the real test will...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Deepfake Detection &amp; Provenance: The Arms Race...Check multiple sources, look for provenance metadata, use reverse image search, a...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Deepfake Detection &amp; Provenance: The Arms Race...Check multiple sources, look for provenance metadata, use reverse image search, a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/welker_unesco-artificial-intelligence-and-elections-activity-7338152678419554305-DqEz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_unesco-artificial-intelligence-and-elections-activity-7338152678419554305-DqEz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO and UNDP release AI and elections reportGenerative AI has enabled the creation of smear deepfakes, targeting political figures and...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/welker_unesco-artificial-intelligence-and-elections-activity-7338152678419554305-DqEz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_unesco-artificial-intelligence-and-elections-activity-7338152678419554305-DqEz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO and UNDP release AI and elections reportGenerative AI has enabled the creation of smear deepfakes, targeting political figures and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.28064v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.28064v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st cues: instructional framing, affective priming, and provenance labeling...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.28064v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.28064v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st cues: instructional framing, affective priming, and provenance labeling...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.09495v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09495v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenFake: An Open Dataset and Platform Toward Large-...11 Sept 2025 — Existing deepfake detection datasets are often limited, relying on...</p></details>
+   Link:<a href="https://arxiv.org/html/2509.09495v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09495v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenFake: An Open Dataset and Platform Toward Large-...11 Sept 2025 — Existing deepfake detection datasets are often limited, relying on...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timreview.ca  
-   Link: <a href="https://timreview.ca/article/1282" target="_blank" rel="noopener noreferrer nofollow">https://timreview.ca/article/1282</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIM ReviewThe Emergence of Deepfake Technology: A Reviewby M Westerlund · 2019 · Cited by 1987 — Deepfakes are the product of artificial...</p></details>
+   Link:<a href="https://timreview.ca/article/1282" target="_blank" rel="noopener noreferrer nofollow">https://timreview.ca/article/1282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIM ReviewThe Emergence of Deepfake Technology: A Reviewby M Westerlund · 2019 · Cited by 1987 — Deepfakes are the product of artificial...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cnti.org  
    Title: synthetic media deepfakes  
-   Link: <a href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://cnti.org/issue-primers/synthetic-media-deepfakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</p></details>
+   Link:<a href="https://cnti.org/issue-primers/synthetic-media-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://cnti.org/issue-primers/synthetic-media-deepfakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for News, Technology &amp; InnovationSynthetic Media &amp; Deepfakes6 Oct 2025 — Deepfakes are AI-generated audio, video, or images that c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305120903408</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2056305120903408" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305120903408</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeepfakes and Disinformation: Exploring the Impact of...by C Vaccari · 2020 · Cited by 1585 — We find that people are more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A simple vista, las fotos muestran a una niña con un chaleco salvavidas sosteniendo un perro bajo la lluvia. Sin embargo, las imágenes pr...</p></details>
+   Link:<a href="https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/05/us-news/ai-deepfakes-of-hurricane-helene-victims-circulate-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A simple vista, las fotos muestran a una niña con un chaleco salvavidas sosteniendo un perro bajo la lluvia. Sin embargo, las imágenes pr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a Facebook post, Meloni criticized political opponents for using such fabrications to attack her and highlighted the broader risks of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a Facebook post, Meloni criticized political opponents for using such fabrications to attack her and highlighted the broader risks of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: un.org  
    Title: safeguarding human rights and information integrity age generative ai  
-   Link: <a href="https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/un-chronicle/safeguarding-human-rights-and-information-integrity-age-generative-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/-stop-generating-biased-content-generative-ai-can-reproduce-bias-misleading-info/698220612353490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-generating-biased-content-generative-ai-can-reproduce-bias-misleading-info/698220612353490/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoEurope&#x27;s initiative against disinformation and AI-generated... AI-generated Deepfakes in Education and Critical Online Content Con...</p></details>
+   Link:<a href="https://www.facebook.com/unesco/posts/-stop-generating-biased-content-generative-ai-can-reproduce-bias-misleading-info/698220612353490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-generating-biased-content-generative-ai-can-reproduce-bias-misleading-info/698220612353490/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoEurope&#x27;s initiative against disinformation and AI-generated... AI-generated Deepfakes in Education and Critical Online Content Con...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dig.watch  
-   Link: <a href="https://dig.watch/updates/unesco-report-warns-ai-driven-abuse-threatens-women-journalists-globally" target="_blank" rel="noopener noreferrer nofollow">https://dig.watch/updates/unesco-report-warns-ai-driven-abuse-threatens-women-journalists-globally</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report warns AI-driven abuse threatens women...18 May 2026 — Researchers documented increasing use of deepfakes, manipulated...</p></details>
+   Link:<a href="https://dig.watch/updates/unesco-report-warns-ai-driven-abuse-threatens-women-journalists-globally" target="_blank" rel="noopener noreferrer nofollow">https://dig.watch/updates/unesco-report-warns-ai-driven-abuse-threatens-women-journalists-globally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report warns AI-driven abuse threatens women...18 May 2026 — Researchers documented increasing use of deepfakes, manipulated...</p></details>
    Published: May 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/27523543251344971" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/27523543251344971</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation. An infocalypse of AI-generated misinformation: Deepfakes as a catalyst for deceptive content creation. AI technologies ha...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/27523543251344971" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/27523543251344971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation. An infocalypse of AI-generated misinformation: Deepfakes as a catalyst for deceptive content creation. AI technologies ha...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/01655515251330605" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/01655515251330605</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism, &#x27;fake news&#x27; and disinformation: a handbook for journalism education and training.Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/01655515251330605" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/01655515251330605</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism, &#x27;fake news&#x27; and disinformation: a handbook for journalism education and training.Read more...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: contentauthenticity.org  
-   Link: <a href="https://contentauthenticity.org/" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeWe are focused on cross-industry participation, with an open, extensible approach for providing media tran...</p></details>
+   Link:<a href="https://contentauthenticity.org/" target="_blank" rel="noopener noreferrer nofollow">https://contentauthenticity.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Authenticity InitiativeWe are focused on cross-industry participation, with an open, extensible approach for providing media tran...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1048019523623103/posts/1524435305981520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1048019523623103/posts/1524435305981520/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical thinking](&amp;#123;&amp;#123; &#x27;critical-thinking-in-the-age-of-social/&#x27; | relative_url &amp;#125;&amp;#125;) needed to detect ai-generated deepfakesThe detection approach here is to extract frames from the original and suspected...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1048019523623103/posts/1524435305981520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1048019523623103/posts/1524435305981520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical thinking](&amp;#123;&amp;#123; &#x27;critical-thinking-in-the-age-of-social/&#x27; | relative_url &amp;#125;&amp;#125;) needed to detect ai-generated deepfakesThe detection approach here is to extract frames from the original and suspected...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This poses serious risks, from political misinformation and financial scams to non-consensual image-based abuse and corporate fraud, whic...</p></details>
+   Link:<a href="https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This poses serious risks, from political misinformation and financial scams to non-consensual image-based abuse and corporate fraud, whic...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40altruistic_patriarch_fish_753/why-[content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40altruistic_patriarch_fish_753/why-[content-credentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VeraSnap — Why Content Credentials Alone Won&#x27;t Save...When an image&#x27;s authenticity is challenged as a deepfake, the LiDAR depth data and...</p></details>
+   Link:<a href="https://medium.com/%40altruistic_patriarch_fish_753/why-[content-credentials" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40altruistic_patriarch_fish_753/why-[content-credentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VeraSnap — Why Content Credentials Alone Won&#x27;t Save...When an image&#x27;s authenticity is challenged as a deepfake, the LiDAR depth data and...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Romanishyn · 2025 · Cited by 52 — Keywords: AI, disinformation, deepfake, policy recommendation, AI... These examples highlight...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Romanishyn · 2025 · Cited by 52 — Keywords: AI, disinformation, deepfake, policy recommendation, AI... These examples highlight...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: unric.org  
    Title: UN Regional Info Centre Artificial intelligence: What are deepfakes?  
-   Link: <a href="https://unric.org/en/artificial-intelligence-what-are-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/artificial-intelligence-what-are-deepfakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence: What are deepfakes?May 15, 2026 —... deepfake technology: realistic fake images, videos and audio generated usi...</p></details>
+   Link:<a href="https://unric.org/en/artificial-intelligence-what-are-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/artificial-intelligence-what-are-deepfakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence: What are deepfakes?May 15, 2026 —... deepfake technology: realistic fake images, videos and audio generated usi...</p></details>
    Published: May 15, 2026  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: edmo.eu  
    Title: prebunking ai generated disinformation ahead of eu elections  
-   Link: <a href="https://edmo.eu/publications/prebunking-ai-generated-disinformation-ahead-of-eu-elections/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/prebunking-ai-generated-disinformation-ahead-of-eu-elections/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking AI-generated disinformation ahead of EU elections27 Mar 2024 — AI-generated content used to convey disinformation is a signifi...</p></details>
+   Link:<a href="https://edmo.eu/publications/prebunking-ai-generated-disinformation-ahead-of-eu-elections/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/prebunking-ai-generated-disinformation-ahead-of-eu-elections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking AI-generated disinformation ahead of EU elections27 Mar 2024 — AI-generated content used to convey disinformation is a signifi...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1834093/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1834093/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and information literacy in the face of election...by A Suing · 2026 — Item P3 (deepfakes credibility), correlated with P6 (disinf...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1834093/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1834093/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and information literacy in the face of election...by A Suing · 2026 — Item P3 (deepfakes credibility), correlated with P6 (disinf...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wsj.com  
    Title: deepfake ai images reality adobe afaa48a0  
-   Link: <a href="https://www.wsj.com/tech/personal-tech/deepfake-ai-images-reality-adobe-afaa48a0" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/personal-tech/deepfake-ai-images-reality-adobe-afaa48a0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wall Street JournalA New Way to​ Tell Deepfakes From Real Photos: Can It...3 Nov 2023 — Instead of detecting fakes, this effort aims to...</p></details>
+   Link:<a href="https://www.wsj.com/tech/personal-tech/deepfake-ai-images-reality-adobe-afaa48a0" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/personal-tech/deepfake-ai-images-reality-adobe-afaa48a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wall Street JournalA New Way to​ Tell Deepfakes From Real Photos: Can It...3 Nov 2023 — Instead of detecting fakes, this effort aims to...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: unicef.org  
-   Link: <a href="https://www.unicef.org/nepal/media/24126/file/Exploring%20impacts%20of%20generative%20Ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/nepal/media/24126/file/Exploring%20impacts%20of%20generative%20Ai.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news and deepfakes: Genera ve AI can produce...Read more...</p></details>
+   Link:<a href="https://www.unicef.org/nepal/media/24126/file/Exploring%20impacts%20of%20generative%20Ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/nepal/media/24126/file/Exploring%20impacts%20of%20generative%20Ai.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news and deepfakes: Genera ve AI can produce...Read more...</p></details>

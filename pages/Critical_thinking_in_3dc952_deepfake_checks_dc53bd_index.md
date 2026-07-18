@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-deepfake/
 description: Focused pages that expand on Deepfakes.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_deepfake_checks_dc53bd
 parent_title: Deepfakes
@@ -16,7 +16,7 @@ parent_permalink: /deepfakes/
 
 # Explore Topics in Deepfakes
 
-The following pages expand on the main **[Deepfakes]({{ '/deepfakes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Deepfakes]({{ '/deepfakes/' | relative_url }})** page and cover its key branches in.
 
 - [Biden Robocall]({{ '/biden-robocall/' | relative_url }})
 - [Credentials]({{ '/credentials/' | relative_url }})

@@ -280,11 +280,11 @@ image: /assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_la
 
 ## Introduction
 
-SIFT is a practical framework that turns lateral reading from a good idea into a repeatable habit. Developed by digital literacy researcher Mike Caulfield, the method gives readers four simple moves—Stop, Investigate the source, Find better coverage, and Trace claims to their original context. Rather than asking people to become expert investigators, SIFT provides a short routine that can be used in seconds when encountering a social media post, news story, AI-generated answer, meme, screenshot or viral claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span>
+SIFT is a practical framework that turns lateral reading from a good idea into a repeatable habit. Developed by digital literacy researcher Mike Caulfield, the method gives readers four simple moves—Stop, Investigate the source, Find better coverage, and Trace claims to their original context. Rather than asking people to become expert investigators, SIFT provides a short routine that can be used in seconds when encountering a social media post, news story, AI-generated answer, meme, screenshot or viral claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-1-dark.svg" | relative_url }}" alt="SIFT Routine illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Its value lies in structure. Many people know they should “check sources”, but in fast-moving online environments they often lack a clear process. SIFT supplies that process. Each move encourages readers to leave the original page, gather context from elsewhere and make a more informed judgement before believing, sharing or acting on information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — This guide provides information to help you use lateral reading and the SIFT...</span></span></span>
+Its value lies in structure. Many people know they should “check sources”, but in fast-moving online environments they often lack a clear process. SIFT supplies that process. Each move encourages readers to leave the original page, gather context from elsewhere and make a more informed judgement before believing, sharing or acting on information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — This guide provides information to help you use lateral reading and the SIFT...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-3-dark.svg" | relative_url }}" alt="SIFT Routine illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc_sift_lateral_reading_4d79ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,9 +298,9 @@ Its value lies in structure. Many people know they should “check sources”, b
 
 SIFT works because it converts the broad principle of lateral reading into a sequence of actions. Instead of asking whether a post feels trustworthy, readers ask a series of focused questions.
 
-The four moves are: <span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span>
+The four moves are:<span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[hapgood.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span>
 
-1. **Stop** <span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[2. **Investigate the source**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 3. **Find better coverage**">[3. **Find better coverage**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">3. **Find better coverage**</span><span class="citation-popover-snippet">Evaluating Resources and MisinformationJun 30, 2025 — The SIFT Method · S - Stop · I - Investigate the Source · F - Find Better Coverage</span></span></span>
+1. **Stop**<span class="citation-chip-wrap"><a class="citation-chip" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[2. **Investigate the source**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 3. **Find better coverage**">[3. **Find better coverage**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">3. **Find better coverage**</span><span class="citation-popover-snippet">Evaluating Resources and MisinformationJun 30, 2025 — The SIFT Method · S - Stop · I - Investigate the Source · F - Find Better Coverage</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i1ZVzeIOeeM" title="Evaluating Sources: Lateral Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i1ZVzeIOeeM" target="_blank" rel="noopener noreferrer">Evaluating Sources: Lateral Reading</a></p><p class="youtube-embed-meta">Channel: University of Alabama Libraries &middot; Views: 563 &middot; Uploaded: August 2025 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i1ZVzeIOeeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i1ZVzeIOeeM">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +325,7 @@ In practice, this move shifts the question from “Do I agree with this?” to �
 ### Investigate the source
 
 [The second move puts lateral reading into action.](#endnote-11 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and the SIFT Method - Fake News &amp; Digital...7 days ago — Lateral reading involves leaving the website, opening a new tab, and se...&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and the SIFT Method - Fake News &amp; Digital...7 days ago — Lateral reading involves leaving the website, opening a new tab, and se...&quot;)...</p></details>
 
 Instead of carefully studying the page itself, readers leave it and search for information about the author, organisation or publication. Professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}) routinely open new tabs to see what independent sources say about a website before spending time on its content. Research comparing fact-checkers, historians and students found that fact-checkers were both faster and more accurate because they checked sources across the web rather than evaluating a site solely from its appearance. [SSRN+2digitalgreensboro.org](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994)
 
@@ -373,194 +373,194 @@ Research on digital literacy suggests that even relatively brief instruction in 
 By giving lateral reading a memorable sequence of actions, SIFT helps transform [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) from an occasional effort into a practical habit that can be applied before every share, repost or confident belief. [Hapgood+2library.nwacc.edu](https://hapgood.us/2019/06/19/sift-the-four-moves/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A Four Move Check Before You Share. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A Four Move Check Before You Share. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides practical methods for evaluating questionable claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for evaluating questionable claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Builds habits of evidence-based evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds habits of evidence-based evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages checking assumptions before sharing conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking assumptions before sharing conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Supports the broader critical-thinking skills behind SIFT.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the broader critical-thinking skills behind SIFT.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="sift-routine-a-four-move-check-before-you-share-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,176 +766,176 @@ By giving lateral reading a memorable sequence of actions, SIFT helps transform 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves)  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</p></details>
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) - HapgoodJun 19, 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, I...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: libguides.mnsu.edu  
-   Link: <a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — This guide provides information to help you use lateral reading and the SIFT...</p></details>
+   Link:<a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — This guide provides information to help you use lateral reading and the SIFT...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lib.iastate.edu  
-   Link: <a href="https://www.lib.iastate.edu/news/sift-savvy-how-evaluate-information-pro" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.iastate.edu/news/sift-savvy-how-evaluate-information-pro</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Savvy: How to evaluate information like a pro6 Dec 2024 — Lateral reading uses sites like Wikipedia, Google, and Snopes to verify th...</p></details>
+   Link:<a href="https://www.lib.iastate.edu/news/sift-savvy-how-evaluate-information-pro" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.iastate.edu/news/sift-savvy-how-evaluate-information-pro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Savvy: How to evaluate information like a pro6 Dec 2024 — Lateral reading uses sites like Wikipedia, Google, and Snopes to verify th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: library.nwacc.edu  
-   Link: <a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LibGuides: Lateral Reading: SIFT It9 Mar 2026 — Lateral reading is a key piece of the SIFT method developed by Mike Caulfield. Originally...</p></details>
+   Link:<a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LibGuides: Lateral Reading: SIFT It9 Mar 2026 — Lateral reading is a key piece of the SIFT method developed by Mike Caulfield. Originally...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — They read vertically, staying within a...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — They read vertically, staying within a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digitalgreensboro.org  
-   Link: <a href="https://www.digitalgreensboro.org/record/3817/files/facultystaff_4436_PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalgreensboro.org/record/3817/files/facultystaff_4436_PDF.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GICOIL Lateral ReadingFact-checkers were the most effective and the most efficient group when it came to online source evaluation. Why? B...</p></details>
+   Link:<a href="https://www.digitalgreensboro.org/record/3817/files/facultystaff_4436_PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalgreensboro.org/record/3817/files/facultystaff_4436_PDF.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GICOIL Lateral ReadingFact-checkers were the most effective and the most efficient group when it came to online source evaluation. Why? B...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/tl.20608" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/tl.20608</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCut the CRAAP: Replacing vertical evaluation with lateral...8 Jul 2024 — The Stanford History Education Group (SHEG)...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/tl.20608" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/tl.20608</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCut the CRAAP: Replacing vertical evaluation with lateral...8 Jul 2024 — The Stanford History Education Group (SHEG)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: guides.lib.wayne.edu  
-   Link: <a href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.wayne.edu/sift/find</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sometimes, after you investigate the source, you&#x27;ll find that the source is sufficient for your needs.Read more...</p></details>
+   Link:<a href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.wayne.edu/sift/find</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sometimes, after you investigate the source, you&#x27;ll find that the source is sufficient for your needs.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford EducationIt doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — Research from the Stanford History Edu...</p></details>
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford EducationIt doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — Research from the Stanford History Edu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centralmethodist.libguides.com  
    Title: lateral reading and sift  
-   Link: <a href="https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and the SIFT Method - Fake News &amp; Digital...7 days ago — Lateral reading involves leaving the website, opening a new tab, and se...</p></details>
+   Link:<a href="https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and the SIFT Method - Fake News &amp; Digital...7 days ago — Lateral reading involves leaving the website, opening a new tab, and se...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uscupstate.libguides.com  
-   Link: <a href="https://uscupstate.libguides.com/LateralReading/sift" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;SIFT&quot; in research stands for &quot;Stop, Investigate, Find, Trace&quot; and is a method developed by digital literacy...Read more...</p></details>
+   Link:<a href="https://uscupstate.libguides.com/LateralReading/sift" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;SIFT&quot; in research stands for &quot;Stop, Investigate, Find, Trace&quot; and is a method developed by digital literacy...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catawba.libguides.com  
-   Link: <a href="https://catawba.libguides.com/c.php?g=1174610&amp;p=8582457" target="_blank" rel="noopener noreferrer nofollow">https://catawba.libguides.com/c.php?g=1174610&amp;p=8582457</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</p></details>
+   Link:<a href="https://catawba.libguides.com/c.php?g=1174610&amp;p=8582457" target="_blank" rel="noopener noreferrer nofollow">https://catawba.libguides.com/c.php?g=1174610&amp;p=8582457</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: openoregon.pressbooks.pub  
    Title: Open Oregon The SIFT Method –  
-   Link: <a href="https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>source is worthy of your attention: SIFT: Stop. Investigate the source. Find better coverage. Trace claims, quotes. Stop. Just a reminder...</p></details>
+   Link:<a href="https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>source is worthy of your attention: SIFT: Stop. Investigate the source. Find better coverage. Trace claims, quotes. Stop. Just a reminder...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ecampusontario.pressbooks.pub  
    Title: e Campus Ontario Lateral Reading – Western Libraries Tutorials SIFT  
-   Link: <a href="https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Caulfield (Washington State University) developed the Four Moves or SIFT to support lateral reading evaluation. STOP: stop and take...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Caulfield (Washington State University) developed the Four Moves or SIFT to support lateral reading evaluation. STOP: stop and take...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: werkzeugkasten-ik.ch  
    Title: Information Literacy Toolkit The SIFT Method  
-   Link: <a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before you read or share a source, pause. · Investigate the Source. Research the origin of the content. · Find Better Coverage · Trace Cl...</p></details>
+   Link:<a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before you read or share a source, pause. · Investigate the Source. Research the origin of the content. · Find Better Coverage · Trace Cl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eosgmbh.com  
    Title: the sift method  
-   Link: <a href="https://eosgmbh.com/en/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://eosgmbh.com/en/the-sift-method/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Open Systems (EOS)The SIFT methodMar 11, 2025 — It consists of four steps: Stop, Investigate, Find better coverage, Trace clai...</p></details>
+   Link:<a href="https://eosgmbh.com/en/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://eosgmbh.com/en/the-sift-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Open Systems (EOS)The SIFT methodMar 11, 2025 — It consists of four steps: Stop, Investigate, Find better coverage, Trace clai...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: libguides.graduateinstitute.ch  
    Title: Graduate Institute Lib Guides Fact-Checking with SIFT  
-   Link: <a href="https://libguides.graduateinstitute.ch/how_to_search/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.graduateinstitute.ch/how_to_search/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read laterally. Once you get to the source of a claim, read...Read more...</p></details>
+   Link:<a href="https://libguides.graduateinstitute.ch/how_to_search/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.graduateinstitute.ch/how_to_search/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read laterally. Once you get to the source of a claim, read...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scienceofboosting.org  
    Title: Boosting Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BoostingLateral Reading - Boosting4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multiple tabs in your...</p></details>
+   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BoostingLateral Reading - Boosting4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multiple tabs in your...</p></details>
    Published: May 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: libguides.ucmerced.edu  
    Title: sift method  
-   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both can be used. In fact, &quot;Stop, Investigate, Find Better Coverage, and Trace Claims (SIFT)...Read more...</p></details>
+   Link:<a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both can be used. In fact, &quot;Stop, Investigate, Find Better Coverage, and Trace Claims (SIFT)...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pressbooks.pub  
-   Link: <a href="https://pressbooks.pub/webliteracy/chapter/four-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/webliteracy/chapter/four-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are associated with specific tactics. Here are the four moves this guide will hinge on.Read more...</p></details>
+   Link:<a href="https://pressbooks.pub/webliteracy/chapter/four-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/webliteracy/chapter/four-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They are associated with specific tactics. Here are the four moves this guide will hinge on.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pressbooks.pub  
    Title: students and disinformation  
-   Link: <a href="https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Evaluation Skills: A “Bleak” Track RecordIn 2017, the Stanford History Education Group conducted a study, “Lateral Reading: Reading L...</p></details>
+   Link:<a href="https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/students-and-disinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Evaluation Skills: A “Bleak” Track RecordIn 2017, the Stanford History Education Group conducted a study, “Lateral Reading: Reading L...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...SIFT was influenced by Wineburg and McGrew&#x27;s (2017) study, which found that pro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320657723_Lateral_Reading_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...SIFT was influenced by Wineburg and McGrew&#x27;s (2017) study, which found that pro...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: openmindsfoundation.org  
-   Link: <a href="https://www.openmindsfoundation.org/blog/the-power-of-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.openmindsfoundation.org/blog/the-power-of-lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The power of lateral readingIt enables a single source to gain more credibility than it potentially merits, and does not encourage the re...</p></details>
+   Link:<a href="https://www.openmindsfoundation.org/blog/the-power-of-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.openmindsfoundation.org/blog/the-power-of-lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The power of lateral readingIt enables a single source to gain more credibility than it potentially merits, and does not encourage the re...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingShe explains the right approach at first but gives far too much credit to a method (lat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingShe explains the right approach at first but gives far too much credit to a method (lat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: guides.lib.byu.edu  
-   Link: <a href="https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management: Source Evaluation (SIFT)May 6, 2026 — The SIFT method helps analyze information, especially news or other online media...</p></details>
+   Link:<a href="https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management: Source Evaluation (SIFT)May 6, 2026 — The SIFT method helps analyze information, especially news or other online media...</p></details>
    Published: May 6, 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: projectcora.org  
    Title: sift pick fact checking source evaluation  
-   Link: <a href="https://projectcora.org/assignment/sift-pick-fact-checking-source-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://projectcora.org/assignment/sift-pick-fact-checking-source-evaluation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT &amp; PICK Fact Checking &amp; Source Evaluation14 Apr 2023 — The SIFT &amp; PICK approach to evaluating sources adapts and builds on Mike Caulf...</p></details>
+   Link:<a href="https://projectcora.org/assignment/sift-pick-fact-checking-source-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://projectcora.org/assignment/sift-pick-fact-checking-source-evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT &amp; PICK Fact Checking &amp; Source Evaluation14 Apr 2023 — The SIFT &amp; PICK approach to evaluating sources adapts and builds on Mike Caulf...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: libguides.csun.edu  
    Title: reading laterally fact checking  
-   Link: <a href="https://libguides.csun.edu/coms-research/reading-laterally-fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://libguides.csun.edu/coms-research/reading-laterally-fact-checking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies: Reading Laterally for Fact Checking18 May 2026 — The University Library&#x27;s Reading Laterally for Fact Checking page offers in-dep...</p></details>
+   Link:<a href="https://libguides.csun.edu/coms-research/reading-laterally-fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://libguides.csun.edu/coms-research/reading-laterally-fact-checking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studies: Reading Laterally for Fact Checking18 May 2026 — The University Library&#x27;s Reading Laterally for Fact Checking page offers in-dep...</p></details>
    Published: May 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mediahelpingmedia.org  
    Title: sift for fact checking  
-   Link: <a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four steps: Stop, Investi...</p></details>
+   Link:<a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four steps: Stop, Investi...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: smu.ca  
-   Link: <a href="https://www.smu.ca/webfiles/SIFT_Method_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.ca/webfiles/SIFT_Method_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“SIFT”: A Method for Evaluating Information SourcesFor more information, watch this YouTube video by Mike Caulfied, the creator of SIFT...</p></details>
+   Link:<a href="https://www.smu.ca/webfiles/SIFT_Method_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.ca/webfiles/SIFT_Method_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“SIFT”: A Method for Evaluating Information SourcesFor more information, watch this YouTube video by Mike Caulfied, the creator of SIFT...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCISUBBsZSMpUGO8OcqAvGhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCISUBBsZSMpUGO8OcqAvGhA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mike.mike. (born Michael Francis Seander) is an American platinum recording artist. His musical journey started in 2012 recovering from s...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCISUBBsZSMpUGO8OcqAvGhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCISUBBsZSMpUGO8OcqAvGhA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mike.mike. (born Michael Francis Seander) is an American platinum recording artist. His musical journey started in 2012 recovering from s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itsjustmikenow/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsjustmikenow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s and info at mikeontour.com.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/itsjustmikenow/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsjustmikenow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s and info at mikeontour.com.Read more...</p></details>

@@ -418,7 +418,7 @@ image: /assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-overview-s
 
 ## Introduction
 
-Claim naming before fact-checking means pausing long enough to write down the exact statement that needs to be tested. Instead of reacting to a whole post — its anger, humour, screenshots, music, captions and implied accusation — the reader asks: “What would have to be true for this post to be accurate?” That small move matters because viral posts often combine a factual claim with commentary, emotion and suggestion. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) use a similar discipline: Full Fact says its first step is to understand what has been said or printed, including the underlying assumption, because factually correct information can still be used to make a misleading point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Frequently asked questions – Full Fact</span><span class="citation-popover-snippet">Full Fact Frequently asked questions – Full Fact</span></span></span>
+Claim naming before fact-checking means pausing long enough to write down the exact statement that needs to be tested. Instead of reacting to a whole post — its anger, humour, screenshots, music, captions and implied accusation — the reader asks: “What would have to be true for this post to be accurate?” That small move matters because viral posts often combine a factual claim with commentary, emotion and suggestion. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) use a similar discipline: Full Fact says its first step is to understand what has been said or printed, including the underlying assumption, because factually correct information can still be used to make a misleading point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Frequently asked questions – Full Fact</span><span class="citation-popover-snippet">Full Fact Frequently asked questions – Full Fact</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-overview.webp" | relative_url }}" alt="Overview image for Name Claim" loading="eager" decoding="sync" fetchpriority="high">
@@ -428,7 +428,7 @@ In the age of social media and AI, this is not a fussy academic habit. It is a p
 
 The first danger in a viral post is that it asks for a verdict before it has offered a clear proposition. A reader may feel pushed to decide whether they are “with” or “against” the post, when the better first question is narrower: which part is a factual assertion, and which part is interpretation?
 
-This distinction is central to professional fact-checking. Fact-checking organisations do not usually assess every word of a political speech, meme or video as one indivisible object. They select claims of public interest, identify what is being asserted, and test that assertion against [evidence]({{ 'evidence/' | relative_url }}). The International Fact-Checking Network’s Code of Principles requires signatories to use the same standard for every fact check, follow the same process, and let the evidence determine the conclusion. That process only works if the object being tested is clear enough to be handled consistently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ifcncodeofprinciples.poynter.org/the-commitments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifcncodeofprinciples.poynter.org">[IFCN Code of Principles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifcncodeofprinciples.poynter.org</span><span class="citation-popover-title">IFCN Code of Principlesifcncodeofprinciples.poynter.org</span><span class="citation-popover-snippet">IFCN Code of Principlesifcncodeofprinciples.poynter.org</span></span></span>
+This distinction is central to professional fact-checking. Fact-checking organisations do not usually assess every word of a political speech, meme or video as one indivisible object. They select claims of public interest, identify what is being asserted, and test that assertion against [evidence]({{ 'evidence/' | relative_url }}). The International Fact-Checking Network’s Code of Principles requires signatories to use the same standard for every fact check, follow the same process, and let the evidence determine the conclusion. That process only works if the object being tested is clear enough to be handled consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ifcncodeofprinciples.poynter.org/the-commitments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifcncodeofprinciples.poynter.org">[IFCN Code of Principles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifcncodeofprinciples.poynter.org</span><span class="citation-popover-title">IFCN Code of Principlesifcncodeofprinciples.poynter.org</span><span class="citation-popover-snippet">IFCN Code of Principlesifcncodeofprinciples.poynter.org</span></span></span>
 
 Claim naming also reduces the risk of checking the wrong thing. A post might contain a true statistic but use it to imply a false cause. It might show a real video but mislabel the place or date. It might quote a real policy document but omit the qualifying sentence. In those cases, the named claim is not simply “is this post true?” but something more precise, such as “Did this video show the protest in Birmingham on 12 June 2026?” or “Does this policy apply to all households, or only to applicants in one scheme?”
 
@@ -453,7 +453,7 @@ Only the first item may be directly checkable, but the surrounding commentary ch
 
 A useful test is to ask what evidence would settle the matter. If the answer is “a public record, original video, official statement, court document, dataset, archived page, or direct source”, the claim is probably checkable. If the answer is “people need to wake up” or “you can just tell”, the post may be offering an attitude rather than a fact.
 
-This pause is especially valuable because social platforms are designed around reaction. Research by Gordon Pennycook and colleagues found that subtly shifting people’s attention towards accuracy improved the quality of news they later shared; the authors argue that people often share misinformation because their attention is focused on something other than accuracy, not necessarily because they do not care about truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span> Claim naming is one way to force accuracy back into the centre of attention.
+This pause is especially valuable because social platforms are designed around reaction. Research by Gordon Pennycook and colleagues found that subtly shifting people’s attention towards accuracy improved the quality of news they later shared; the authors argue that people often share misinformation because their attention is focused on something other than accuracy, not necessarily because they do not care about truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span> Claim naming is one way to force accuracy back into the centre of attention.
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-1-dark.svg" | relative_url }}" alt="Name Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -487,7 +487,7 @@ The same applies to AI-generated or AI-assisted posts. A polished thread may cit
 
 </div>
 
-This is where [source-tracing]({{ 'source-tracing/' | relative_url }}) methods such as SIFT are useful, but only after the claim has been named. Mike Caulfield’s SIFT framework starts with stopping, then investigating the source, finding better coverage and tracing the original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves) – Hapgood</span><span class="citation-popover-snippet">SIFT (The Four Moves) – Hapgood...</span></span></span> Claim naming belongs inside that first “stop”: it defines what the reader is about to investigate.
+This is where [source-tracing]({{ 'source-tracing/' | relative_url }}) methods such as SIFT are useful, but only after the claim has been named. Mike Caulfield’s SIFT framework starts with stopping, then investigating the source, finding better coverage and tracing the original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves) – Hapgood</span><span class="citation-popover-snippet">SIFT (The Four Moves) – Hapgood...</span></span></span> Claim naming belongs inside that first “stop”: it defines what the reader is about to investigate.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fm0MpfKIs5w" title="Evaluating Sources &amp; Fact Checking: Crash Course Scientific Thinking #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer">Evaluating Sources &amp; Fact Checking: Crash Course Scientific Thinking #6</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 179.6K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fm0MpfKIs5w">Open on YouTube</a></p></div></div></div>
@@ -517,7 +517,7 @@ This is why “fact-check the post” is often too blunt. A viral post can be pa
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-2-dark.svg" | relative_url }}" alt="Name Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_claim_naming_ad2b46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why wording changes the result
 
-Claim naming is also important because fact-checking tools and search engines are sensitive to wording. A 2024 study evaluating Google Fact Check against 1,000 COVID-19-related false claims found that it retrieved fact-checking results for 15.8% of the input claims, and that different wordings of claims about the same issue could return different results. The researchers suggested that slightly adjusting the wording may help users retrieve more useful information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2402.13244] Are Fact-Checking Tools Helpful? An Exploration of the Usability of Google Fact Check...</span></span></span>
+Claim naming is also important because fact-checking tools and search engines are sensitive to wording. A 2024 study evaluating Google Fact Check against 1,000 COVID-19-related false claims found that it retrieved fact-checking results for 15.8% of the input claims, and that different wordings of claims about the same issue could return different results. The researchers suggested that slightly adjusting the wording may help users retrieve more useful information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2402.13244] Are Fact-Checking Tools Helpful? An Exploration of the Usability of Google Fact Check...</span></span></span>
 
 That finding has a practical lesson: if the first search fails, the claim may not be false, true or uncheckable; it may simply be poorly phrased. A meme’s wording may be emotionally sharp but factually awkward. A better search query often comes from naming the claim in plain language:
 
@@ -536,7 +536,7 @@ This is not about sanitising a claim to make it sound respectable. It is about t
 
 Generative AI makes claim naming more important because it can produce confident, coherent text without necessarily producing a clear, evidence-backed assertion. A chatbot answer, synthetic explainer or AI-generated infographic may sound more organised than an ordinary rumour, but still blur together facts, invented details and plausible-sounding interpretation.
 
-Research on automated fact-checking shows why the “claim” is a technical bottleneck as well as a reader skill. Work on document-level claim extraction describes claim selection as time-consuming for human fact-checkers, especially when documents contain multiple sentences and multiple claims; the researchers propose extracting check-worthy claims and rewriting them with enough context to be understood outside the original document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.03239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2406.03239] Document-level Claim Extraction and Decontextualisation for Fact-Checking...</span></span></span>
+Research on automated fact-checking shows why the “claim” is a technical bottleneck as well as a reader skill. Work on document-level claim extraction describes claim selection as time-consuming for human fact-checkers, especially when documents contain multiple sentences and multiple claims; the researchers propose extracting check-worthy claims and rewriting them with enough context to be understood outside the original document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.03239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2406.03239] Document-level Claim Extraction and Decontextualisation for Fact-Checking...</span></span></span>
 
 That mirrors the everyday reader’s task. A long AI-generated post may need to be broken into smaller units before any verification is meaningful. The reader should resist asking whether “the article” or “the thread” is true until they have identified which claims carry the weight of the argument.
 
@@ -549,7 +549,7 @@ AI also increases the amount of content that looks citation-ready. It can genera
 
 One reason misinformation persists is that the same claim can be recycled in many forms. A false story may reappear with a new location, a new date, a different image, or a slightly altered target. Professional fact-checkers and researchers call one response to this problem “claim matching”: identifying different messages that contain claims similar enough to be answered by the same fact check.
 
-A multilingual claim-matching study defines the task as identifying pairs of textual messages containing claims that can be served by one fact check. Its dataset included WhatsApp tipline and public group messages, first annotated for “claim-like statements” and then matched with related fact-checked claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2106.00853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2106.00853] Claim Matching Beyond English to Scale Global Fact-Checking...</span></span></span>
+A multilingual claim-matching study defines the task as identifying pairs of textual messages containing claims that can be served by one fact check. Its dataset included WhatsApp tipline and public group messages, first annotated for “claim-like statements” and then matched with related fact-checked claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2106.00853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2106.00853] Claim Matching Beyond English to Scale Global Fact-Checking...</span></span></span>
 
 For ordinary readers, this means exact wording is not sacred. A post saying “a school in Leeds is banning Christmas” and another saying “a UK council has outlawed Christmas decorations” may be versions of the same underlying rumour, or they may be different claims. Naming the claim helps the reader test whether a previous fact check applies:
 
@@ -594,9 +594,9 @@ Platforms could use claim-naming prompts in reporting flows: “Which claim in t
 
 Schools and libraries can teach claim naming as a pre-search skill. Instead of sending students straight to “find reliable sources”, teachers can ask them to rewrite a post into a checkable claim, underline the measurable details, and list what evidence would count. That makes later source evaluation less mechanical.
 
-Newsrooms and fact-checking projects already depend on this logic. Google’s ClaimReview structured data is built around pages that review claims made by others, allowing a fact-check to appear in relation to that claim in fact-checking tools. Google has said support for ClaimReview in general Search is being phased out, while it remains supported in Fact Check Explorer, but the underlying idea remains important: [fact checks]({{ 'fact-checks/' | relative_url }}) are most useful when the reviewed claim is explicitly identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersFact Check (ClaimReview) Markup for Search &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span>
+Newsrooms and fact-checking projects already depend on this logic. Google’s ClaimReview structured data is built around pages that review claims made by others, allowing a fact-check to appear in relation to that claim in fact-checking tools. Google has said support for ClaimReview in general Search is being phased out, while it remains supported in Fact Check Explorer, but the underlying idea remains important: [fact checks]({{ 'fact-checks/' | relative_url }}) are most useful when the reviewed claim is explicitly identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersFact Check (ClaimReview) Markup for Search &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span>
 
-Content creators are another target. UNESCO reported in 2024 that 62% of surveyed digital content creators did not carry out rigorous and systematic fact-checking before sharing information, while 73% wanted training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before...</span></span></span> A creator-facing version of claim naming could be simple: before posting a claim, write the sentence that would need to be corrected if it turned out to be wrong.
+Content creators are another target. UNESCO reported in 2024 that 62% of surveyed digital content creators did not carry out rigorous and systematic fact-checking before sharing information, while 73% wanted training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before...</span></span></span> A creator-facing version of claim naming could be simple: before posting a claim, write the sentence that would need to be corrected if it turned out to be wrong.
 
 ## Common failure modes
 
@@ -615,194 +615,194 @@ The core habit is small: before reacting to a viral post, name the exact claim. 
 In social feeds shaped by speed, identity and AI-generated fluency, the reader who can name the claim has already slowed the manipulation loop. They are no longer arguing with the whole atmosphere of a post. They are asking a sharper question: what exactly is being claimed, and what evidence would show whether it is true?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Exactly Is Being Claimed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Exactly Is Being Claimed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on identifying and testing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on identifying and testing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Encourages re-examining assumptions and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages re-examining assumptions and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="name-claim-what-exactly-is-being-claimed-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -818,7 +818,7 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -838,7 +838,7 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -870,7 +870,7 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -922,7 +922,7 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -967,7 +967,7 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1008,178 +1008,178 @@ In social feeds shaped by speed, identity and AI-generated fluency, the reader w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
    Title: Shifting attention to accuracy can reduce misinformation online | Nature  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves) – Hapgood  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) – Hapgood...</p></details>
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) – Hapgood...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.13244</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2402.13244] Are Fact-Checking Tools Helpful? An Exploration of the Usability of Google Fact Check...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.13244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.13244</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2402.13244] Are Fact-Checking Tools Helpful? An Exploration of the Usability of Google Fact Check...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.03239" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.03239</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2406.03239] Document-level Claim Extraction and Decontextualisation for Fact-Checking...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.03239" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.03239</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2406.03239] Document-level Claim Extraction and Decontextualisation for Fact-Checking...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2106.00853" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.00853</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2106.00853] Claim Matching Beyond English to Scale Global Fact-Checking...</p></details>
+   Link:<a href="https://arxiv.org/abs/2106.00853" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.00853</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2106.00853] Claim Matching Beyond English to Scale Global Fact-Checking...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersFact Check (ClaimReview) Markup for Search | Google Search Central | Documentation | Google for Developers...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersFact Check (ClaimReview) Markup for Search | Google Search Central | Documentation | Google for Developers...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
    Title: 2/3 of digital content creators do not check their facts before  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/about?hl=nl" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about?hl=nl</a>  
+   Link:<a href="https://toolbox.google.com/factcheck/about?hl=nl" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about?hl=nl</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/explorer" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/explorer</a>  
+   Link:<a href="https://toolbox.google.com/factcheck/explorer" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/explorer</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scholar.google.com  
-   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ</a>  
+   Link:<a href="https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-03083-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03083-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-024-03083-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03083-5</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: post.edu  
    Title: media literacy in the age of misinformation  
-   Link: <a href="https://post.edu/blog/media-literacy-in-the-age-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://post.edu/blog/media-literacy-in-the-age-of-misinformation/</a>  
+   Link:<a href="https://post.edu/blog/media-literacy-in-the-age-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://post.edu/blog/media-literacy-in-the-age-of-misinformation/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.13244v3</a>  
+   Link:<a href="https://arxiv.org/html/2402.13244v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.13244v3</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fullfact.org  
    Title: Full Fact Frequently asked questions – Full Fact  
-   Link: <a href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/frequently-asked-questions/</a>  
+   Link:<a href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/frequently-asked-questions/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ifcncodeofprinciples.poynter.org  
    Title: IFCN Code of Principlesifcncodeofprinciples.poynter.org  
-   Link: <a href="https://ifcncodeofprinciples.poynter.org/the-commitments" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/the-commitments</a>  
+   Link:<a href="https://ifcncodeofprinciples.poynter.org/the-commitments" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/the-commitments</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
+   Link:<a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/how-we-fact-check/</a>  
+   Link:<a href="https://fullfact.org/about/how-we-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/how-we-fact-check/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fullfact.org  
    Title: the web just got a little harder to trust  
-   Link: <a href="https://fullfact.org/technology/the-web-just-got-a-little-harder-to-trust/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/the-web-just-got-a-little-harder-to-trust/</a>  
+   Link:<a href="https://fullfact.org/technology/the-web-just-got-a-little-harder-to-trust/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/the-web-just-got-a-little-harder-to-trust/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fullfact.org  
    Title: afc global  
-   Link: <a href="https://fullfact.org/blog/2020/jul/afc-global/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2020/jul/afc-global/</a>  
+   Link:<a href="https://fullfact.org/blog/2020/jul/afc-global/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2020/jul/afc-global/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fullfact.org  
    Title: towards common definition claim matching  
-   Link: <a href="https://fullfact.org/blog/2021/oct/towards-common-definition-claim-matching/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2021/oct/towards-common-definition-claim-matching/</a>  
+   Link:<a href="https://fullfact.org/blog/2021/oct/towards-common-definition-claim-matching/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2021/oct/towards-common-definition-claim-matching/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cor.inquirygroup.org  
-   Link: <a href="https://cor.inquirygroup.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/about/</a>  
+   Link:<a href="https://cor.inquirygroup.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/about/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: utopia.ut.edu  
-   Link: <a href="https://utopia.ut.edu/FakeNews/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://utopia.ut.edu/FakeNews/factcheck</a>  
+   Link:<a href="https://utopia.ut.edu/FakeNews/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://utopia.ut.edu/FakeNews/factcheck</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: library.scottsdalecc.edu  
-   Link: <a href="https://library.scottsdalecc.edu/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.scottsdalecc.edu/SIFT</a>  
+   Link:<a href="https://library.scottsdalecc.edu/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.scottsdalecc.edu/SIFT</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.721731/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.721731/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.721731/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.721731/full</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1664890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1664890/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1664890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1664890/full</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: guides.lib.k-state.edu  
-   Link: <a href="https://guides.lib.k-state.edu/media-literacy/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.k-state.edu/media-literacy/factcheck</a>  
+   Link:<a href="https://guides.lib.k-state.edu/media-literacy/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.k-state.edu/media-literacy/factcheck</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cairwa.org  
-   Link: <a href="https://www.cairwa.org/blog/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairwa.org/blog/misinformation/</a>  
+   Link:<a href="https://www.cairwa.org/blog/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cairwa.org/blog/misinformation/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Evaluating Sources & Fact Checking: Crash Course Scientific Thinking #6  
-   Link: <a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Facts about Fact Checking: Crash Course Navigating Digital Information #2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Facts about Fact Checking: Crash Course Navigating Digital Information #2...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge</a>  
+   Link:<a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_[Accuracy-Nudge</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: credibilitycoalition.org  
-   Link: <a href="https://credibilitycoalition.org/credcatalog/project/civic-online-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://credibilitycoalition.org/credcatalog/project/civic-online-reasoning/</a>  
+   Link:<a href="https://credibilitycoalition.org/credcatalog/project/civic-online-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://credibilitycoalition.org/credcatalog/project/civic-online-reasoning/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: chequeado.com  
-   Link: <a href="https://chequeado.com/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://chequeado.com/code-of-principles/</a>  
+   Link:<a href="https://chequeado.com/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://chequeado.com/code-of-principles/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: factcheckni.org  
-   Link: <a href="https://factcheckni.org/about-us/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckni.org/about-us/code-of-principles/</a>  
+   Link:<a href="https://factcheckni.org/about-us/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckni.org/about-us/code-of-principles/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: factcheckni.org  
-   Link: <a href="https://factcheckni.org/about/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckni.org/about/code-of-principles/</a>  
+   Link:<a href="https://factcheckni.org/about/code-of-principles/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckni.org/about/code-of-principles/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cepr.org  
-   Link: <a href="https://cepr.org/voxeu/columns/emotional-content-influences-opinions-more-facts-evidence-large-scale-experiment" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/emotional-content-influences-opinions-more-facts-evidence-large-scale-experiment</a>  
+   Link:<a href="https://cepr.org/voxeu/columns/emotional-content-influences-opinions-more-facts-evidence-large-scale-experiment" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/emotional-content-influences-opinions-more-facts-evidence-large-scale-experiment</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: internews.org  
-   Link: <a href="https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf</a>  
+   Link:<a href="https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: rankmath.com  
-   Link: <a href="https://rankmath.com/kb/factcheck-schema/" target="_blank" rel="noopener noreferrer nofollow">https://rankmath.com/kb/factcheck-schema/</a>  
+   Link:<a href="https://rankmath.com/kb/factcheck-schema/" target="_blank" rel="noopener noreferrer nofollow">https://rankmath.com/kb/factcheck-schema/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: gbim.com  
-   Link: <a href="https://www.gbim.com/blog/guide-to-fact-check-claimreview-markup-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://www.gbim.com/blog/guide-to-fact-check-claimreview-markup-for-seo/</a>  
+   Link:<a href="https://www.gbim.com/blog/guide-to-fact-check-claimreview-markup-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://www.gbim.com/blog/guide-to-fact-check-claimreview-markup-for-seo/</a>  

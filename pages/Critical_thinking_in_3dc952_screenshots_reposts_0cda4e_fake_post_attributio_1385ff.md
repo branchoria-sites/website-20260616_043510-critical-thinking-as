@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fak
 
 ## Introduction
 
-A convincing screenshot can appear to settle an argument in seconds. It shows a familiar platform layout, a recognisable name, a profile picture, a timestamp and a statement that seems to come directly from a public figure, journalist, company or government agency. Yet one of the most common weaknesses in social-media [evidence]({{ 'evidence/' | relative_url }}) is that the screenshot may not prove the named account ever published the words shown. In misinformation research, this problem is known as misattribution: a claim of authorship that may be false or unsupported. Researchers studying fake post screenshots note that fabricated or altered social-media images are a significant vehicle for spreading false attribution because viewers often encounter the screenshot without access to the original post or its surrounding context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
+A convincing screenshot can appear to settle an argument in seconds. It shows a familiar platform layout, a recognisable name, a profile picture, a timestamp and a statement that seems to come directly from a public figure, journalist, company or government agency. Yet one of the most common weaknesses in social-media [evidence]({{ 'evidence/' | relative_url }}) is that the screenshot may not prove the named account ever published the words shown. In misinformation research, this problem is known as misattribution: a claim of authorship that may be false or unsupported. Researchers studying fake post screenshots note that fabricated or altered social-media images are a significant vehicle for spreading false attribution because viewers often encounter the screenshot without access to the original post or its surrounding context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-1-dark.svg" | relative_url }}" alt="Fake Posts illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the broader problem of screenshots as weak evidence, the key question is 
 
 ## Why Fake Post Images Look Credible
 
-Screenshots borrow credibility from the platforms they imitate. A fake post does not need to persuade people through argument alone; it can rely on visual familiarity. Research on screenshots in misinformation ecosystems shows that screenshots function as a form of visual evidence, drawing authority from recognisable interfaces, account names and social-media conventions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...Oct 6, 2024 — This study considers the role of screenshots i...</span></span></span>
+Screenshots borrow credibility from the platforms they imitate. A fake post does not need to persuade people through argument alone; it can rely on visual familiarity. Research on screenshots in misinformation ecosystems shows that screenshots function as a form of visual evidence, drawing authority from recognisable interfaces, account names and social-media conventions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...Oct 6, 2024 — This study considers the role of screenshots i...</span></span></span>
 
 Several features make fabricated screenshots persuasive:
 
@@ -297,9 +297,9 @@ Several features make fabricated screenshots persuasive:
 * **Apparent specificity.** Dates, engagement numbers and profile pictures create an impression of documentary proof.
 * **Context removal.** Viewers see only the selected image rather than the live post, replies, [corrections]({{ 'corrections/' | relative_url }}) or account history.
 
-Researchers examining author misattribution describe screenshots as particularly effective because they allow false claims of authorship to circulate independently of the original platform. Once detached from a live record, the image itself becomes the evidence people evaluate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2410.06443v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction9 Oct 2024 — We discuss the difference between misinformation and disinformation and how screenshots are used to sprea...</span></span></span>
+Researchers examining author misattribution describe screenshots as particularly effective because they allow false claims of authorship to circulate independently of the original platform. Once detached from a live record, the image itself becomes the evidence people evaluate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2410.06443v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction9 Oct 2024 — We discuss the difference between misinformation and disinformation and how screenshots are used to sprea...</span></span></span>
 
-The rise of AI-assisted image generation adds another layer. Studies of visual misinformation suggest that realistic images can increase belief in false claims when they appear to provide supporting evidence. A fabricated social-media post can therefore benefit from both interface familiarity and increasingly convincing image-generation tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with...by S Guo · 2025 · Cited by 2 — In a pre-registered experiment...</span></span></span>
+The rise of AI-assisted image generation adds another layer. Studies of visual misinformation suggest that realistic images can increase belief in false claims when they appear to provide supporting evidence. A fabricated social-media post can therefore benefit from both interface familiarity and increasingly convincing image-generation tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewPeople are more susceptible to misinformation with...by S Guo · 2025 · Cited by 2 — In a pre-registered experiment...</span></span></span>
 
 ## How Attribution Fails in Screenshots
 
@@ -307,7 +307,7 @@ The rise of AI-assisted image generation adds another layer. Studies of visual m
 
 The most direct form of attribution failure occurs when someone creates a screenshot from scratch and assigns it to a real account.
 
-[Fact-checkers]({{ 'fact-checkers/' | relative_url }}) regularly investigate viral images that appear to show a politician, media outlet or public institution making a controversial statement. In many cases, no corresponding post can be found in platform records, archives or reporting. Researchers studying tweet misattribution note that fabricated screenshots of posts that were never published are a recurring form of disinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
+[Fact-checkers]({{ 'fact-checkers/' | relative_url }}) regularly investigate viral images that appear to show a politician, media outlet or public institution making a controversial statement. In many cases, no corresponding post can be found in platform records, archives or reporting. Researchers studying tweet misattribution note that fabricated screenshots of posts that were never published are a recurring form of disinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qW96515QG6Y" title="OSINT At Home #1 - Starting an investigation with image reverse search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qW96515QG6Y" target="_blank" rel="noopener noreferrer">OSINT At Home #1 - Starting an investigation with image reverse search</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 205.7K &middot; Uploaded: February 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qW96515QG6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qW96515QG6Y">Open on YouTube</a></p></div></div></div>
@@ -316,19 +316,19 @@ The most direct form of attribution failure occurs when someone creates a screen
 
 Not every fake screenshot is entirely invented. Sometimes a genuine post is edited.
 
-The account name, profile picture and timestamp may be authentic while the text is modified. Because most viewers focus on the message rather than small visual details, even minor edits can create a convincing forgery. Researchers developing methods for extracting metadata from screenshots have highlighted how misinformation can spread through manipulated images that preserve enough authentic elements to appear genuine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extracting Information from Twitter Screenshots</span><span class="citation-popover-snippet">Extracting Information from Twitter ScreenshotsJune 14, 2023...</span><span class="citation-popover-meta">Published: June 14, 2023</span></span></span>
+The account name, profile picture and timestamp may be authentic while the text is modified. Because most viewers focus on the message rather than small visual details, even minor edits can create a convincing forgery. Researchers developing methods for extracting metadata from screenshots have highlighted how misinformation can spread through manipulated images that preserve enough authentic elements to appear genuine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extracting Information from Twitter Screenshots</span><span class="citation-popover-snippet">Extracting Information from Twitter ScreenshotsJune 14, 2023...</span><span class="citation-popover-meta">Published: June 14, 2023</span></span></span>
 
 ### A Deleted Post Is Claimed Without Evidence
 
 A common defence of suspicious screenshots is that the original was "deleted".
 
-Deleted content certainly exists, and screenshots can preserve genuine posts that later disappear. The problem is that deletion alone does not prove authenticity. Researchers working on attribution verification have explored using web archives and other records precisely because claims about deleted posts are otherwise difficult to evaluate. Archived captures, fact-check databases and specialised collections such as Politwoops can sometimes provide independent evidence that a post existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+Deleted content certainly exists, and screenshots can preserve genuine posts that later disappear. The problem is that deletion alone does not prove authenticity. Researchers working on attribution verification have explored using web archives and other records precisely because claims about deleted posts are otherwise difficult to evaluate. Archived captures, fact-check databases and specialised collections such as Politwoops can sometimes provide independent evidence that a post existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 ### Impersonation and Account Confusion
 
 Attribution can also fail when a screenshot shows a lookalike account.
 
-A username may differ by a single character. A profile image may be copied from a genuine account. The screenshot may be cropped so that important account information is hidden. In these cases, viewers often remember the famous name associated with the image rather than the exact account details that would reveal the deception. Fact-checking and media-literacy organisations repeatedly identify impersonation as a major source of fake social-media screenshots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Lesson plan: How to spot fake screenshots on social mediaNovember 18, 2022 — 17 Nov 2022 — Students will learn four clues that help id...</span><span class="citation-popover-meta">Published: November 18, 2022</span></span></span>
+A username may differ by a single character. A profile image may be copied from a genuine account. The screenshot may be cropped so that important account information is hidden. In these cases, viewers often remember the famous name associated with the image rather than the exact account details that would reveal the deception. Fact-checking and media-literacy organisations repeatedly identify impersonation as a major source of fake social-media screenshots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Lesson plan: How to spot fake screenshots on social mediaNovember 18, 2022 — 17 Nov 2022 — Students will learn four clues that help id...</span><span class="citation-popover-meta">Published: November 18, 2022</span></span></span>
 
 ## Checks That Confirm or Weaken Authorship
 
@@ -340,7 +340,7 @@ Several checks are especially useful.
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-2-dark.svg" | relative_url }}" alt="Fake Posts illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Look for the Live Post
 
-The simplest test is often the most powerful. Search the account directly and look for the alleged post. Journalistic verification guides recommend checking the actual account timeline and using platform search tools rather than relying on the screenshot alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">simple tips for verifying if a tweet screenshot is real or fake</span><span class="citation-popover-snippet">Simple Tips for Verifying if a Tweet Screenshot Is Real or...4 Oct 2022 — The easiest way to check if the screenshot is real is by c...</span></span></span>
+The simplest test is often the most powerful. Search the account directly and look for the alleged post. Journalistic verification guides recommend checking the actual account timeline and using platform search tools rather than relying on the screenshot alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">simple tips for verifying if a tweet screenshot is real or fake</span><span class="citation-popover-snippet">Simple Tips for Verifying if a Tweet Screenshot Is Real or...4 Oct 2022 — The easiest way to check if the screenshot is real is by c...</span></span></span>
 
 Finding the live post does not automatically prove everything about the surrounding claim, but it substantially strengthens attribution.
 
@@ -360,7 +360,7 @@ Many fabricated screenshots contain distinctive phrases. Searching exact text st
 
 </div>
 
-Verification guides frequently recommend searching quoted text because genuine high-profile posts often leave traces across search engines, archives and news reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">How to identify fake social media screenshotsAn easy way to find out if a screenshot is real or not is to type the words in the scr...</span></span></span>
+Verification guides frequently recommend searching quoted text because genuine high-profile posts often leave traces across search engines, archives and news reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">How to identify fake social media screenshotsAn easy way to find out if a screenshot is real or not is to type the words in the scr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o3YsTIfXGBk" title="How we found the people behind a bot network" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o3YsTIfXGBk" target="_blank" rel="noopener noreferrer">How we found the people behind a bot network</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 43.6K &middot; Uploaded: August 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o3YsTIfXGBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o3YsTIfXGBk">Open on YouTube</a></p></div></div></div>
@@ -369,7 +369,7 @@ Verification guides frequently recommend searching quoted text because genuine h
 
 A valuable attribution test is whether the post appears in web archives or specialised collections.
 
-Recent research has demonstrated methods for extracting account names, timestamps and text from screenshots and using them to locate archived versions of social-media posts. If a matching archived record exists, authorship becomes more plausible. If extensive searching produces no trace despite a supposedly high-profile post, confidence should decrease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+Recent research has demonstrated methods for extracting account names, timestamps and text from screenshots and using them to locate archived versions of social-media posts. If a matching archived record exists, authorship becomes more plausible. If extensive searching produces no trace despite a supposedly high-profile post, confidence should decrease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 ### Look for Independent Reporting
 
@@ -404,199 +404,199 @@ These clues can raise suspicion, but a technically perfect forgery may show none
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-3-dark.svg" | relative_url }}" alt="Fake Posts illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_fake_post_attributio_1385ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Better Standard Than “It Looks Real”
 
-The central lesson of fake social post screenshots is that authorship cannot be established by appearance alone. A screenshot may accurately preserve a real post, partially alter a genuine one, or invent a statement entirely. Research on misattribution and screenshot verification consistently points to the same conclusion: the decisive evidence comes from traceable records—live posts, archives, contemporaneous reporting and independent documentation—not from the visual persuasiveness of the image itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
+The central lesson of fake social post screenshots is that authorship cannot be established by appearance alone. A screenshot may accurately preserve a real post, partially alter a genuine one, or invent a statement entirely. Research on misattribution and screenshot verification consistently points to the same conclusion: the decisive evidence comes from traceable records—live posts, archives, contemporaneous reporting and independent documentation—not from the visual persuasiveness of the image itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
 
 When a screenshot asks readers to trust a picture instead of a verifiable public record, the most important question remains: where is the evidence that this person or institution actually posted it?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did They Really Post That?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did They Really Post That?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how seemingly credible evidence can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how seemingly credible evidence can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="fake-posts-did-they-really-post-that-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,150 +802,150 @@ When a screenshot asks readers to trust a picture instead of a verifiable public
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
    Published: November 17, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.06443</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[2410.06443] Categorizing Social Media Screenshots for...by AM Farris · 2024 · Cited by 1 — We discuss the difference between misinforma...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.06443" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.06443</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[2410.06443] Categorizing Social Media Screenshots for...by AM Farris · 2024 · Cited by 1 — We discuss the difference between misinforma...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.06443v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.06443v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction9 Oct 2024 — We discuss the difference between misinformation and disinformation and how screenshots are used to sprea...</p></details>
+   Link:<a href="https://arxiv.org/html/2410.06443v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.06443v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction9 Oct 2024 — We discuss the difference between misinformation and disinformation and how screenshots are used to sprea...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Extracting Information from Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08236</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Information from Twitter ScreenshotsJune 14, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08236</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Information from Twitter ScreenshotsJune 14, 2023...</p></details>
    Published: June 14, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Web Archives for Verifying Attribution in Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
    Published: October 27, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3720553.3746682" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3720553.3746682</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 4 shows how the tweet text from a screenshot can be used to verify the attribution of...Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3720553.3746682" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3720553.3746682</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 4 shows how the tweet text from a screenshot can be used to verify the attribution of...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson plan: How to spot fake screenshots on social mediaNovember 18, 2022 — 17 Nov 2022 — Students will learn four clues that help id...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson plan: How to spot fake screenshots on social mediaNovember 18, 2022 — 17 Nov 2022 — Students will learn four clues that help id...</p></details>
    Published: November 18, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gijn.org  
    Title: simple tips for verifying if a tweet screenshot is real or fake  
-   Link: <a href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simple Tips for Verifying if a Tweet Screenshot Is Real or...4 Oct 2022 — The easiest way to check if the screenshot is real is by c...</p></details>
+   Link:<a href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simple Tips for Verifying if a Tweet Screenshot Is Real or...4 Oct 2022 — The easiest way to check if the screenshot is real is by c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dubawa.org  
-   Link: <a href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/how-to-identify-fake-social-media-screenshots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify fake social media screenshotsAn easy way to find out if a screenshot is real or not is to type the words in the scr...</p></details>
+   Link:<a href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/how-to-identify-fake-social-media-screenshots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify fake social media screenshotsAn easy way to find out if a screenshot is real or not is to type the words in the scr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/abs/10.1145/3720553.3746682" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1145/3720553.3746682</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for Verifying Attribution in Twitter Screenshotsby T Zaki · 2025 — We focus on the use of web archives, since the attribution of...</p></details>
+   Link:<a href="https://dl.acm.org/doi/abs/10.1145/3720553.3746682" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1145/3720553.3746682</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for Verifying Attribution in Twitter Screenshotsby T Zaki · 2025 — We focus on the use of web archives, since the attribution of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/fullHtml/10.1145/3613904.3642448" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3613904.3642448</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media and discuss important considerations... Visual Disinformation in a Digital Age: A Literature Synthesis an...</p></details>
+   Link:<a href="https://dl.acm.org/doi/fullHtml/10.1145/3613904.3642448" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3613904.3642448</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media and discuss important considerations... Visual Disinformation in a Digital Age: A Literature Synthesis an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...Oct 6, 2024 — This study considers the role of screenshots i...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...Oct 6, 2024 — This study considers the role of screenshots i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/14703572241255664?af=R&amp;ai=1gvoi&amp;mi=3ricys" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/14703572241255664?af=R&amp;ai=1gvoi&amp;mi=3ricys</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/14703572241255664?af=R&amp;ai=1gvoi&amp;mi=3ricys" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/14703572241255664?af=R&amp;ai=1gvoi&amp;mi=3ricys</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with...by S Guo · 2025 · Cited by 2 — In a pre-registered experiment...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/people-are-more-susceptible-to-misinformation-with-realistic-ai-synthesized-images-that-provide-strong-evidence-to-headlines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPeople are more susceptible to misinformation with...by S Guo · 2025 · Cited by 2 — In a pre-registered experiment...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchers.westernsydney.edu.au  
    Title: the legitimation of screenshots as visual evidence in social medi  
-   Link: <a href="https://researchers.westernsydney.edu.au/en/publications/the-legitimation-of-screenshots-as-visual-evidence-in-social-medi/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.westernsydney.edu.au/en/publications/the-legitimation-of-screenshots-as-visual-evidence-in-social-medi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>legitimation of screenshots as visual evidence in social...by O Inwood · 2024 · Cited by 13 — The legitimation of screenshots as visual...</p></details>
+   Link:<a href="https://researchers.westernsydney.edu.au/en/publications/the-legitimation-of-screenshots-as-visual-evidence-in-social-medi/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.westernsydney.edu.au/en/publications/the-legitimation-of-screenshots-as-visual-evidence-in-social-medi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>legitimation of screenshots as visual evidence in social...by O Inwood · 2024 · Cited by 13 — The legitimation of screenshots as visual...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchers-admin.westernsydney.edu.au  
-   Link: <a href="https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>legitimation of screenshots as visual evidence in social...Both terms misinformation and disinformation are used in this research to ack...</p></details>
+   Link:<a href="https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>legitimation of screenshots as visual evidence in social...Both terms misinformation and disinformation are used in this research to ack...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/10776990251357299" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990251357299</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Different Forms of Visual Disinformationby T Weikmann · 2025 · Cited by 5 — [Deepfakes](&amp;#123;&amp;#123; &#x27;deepfakes/&#x27; | relative_url &amp;#125;&amp;#125;) dominate discussions about manipulated v...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/10776990251357299" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990251357299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Different Forms of Visual Disinformationby T Weikmann · 2025 · Cited by 5 — [Deepfakes](&amp;#123;&amp;#123; &#x27;deepfakes/&#x27; | relative_url &amp;#125;&amp;#125;) dominate discussions about manipulated v...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The legitimation of screenshots as visual evidence in...The legitimation of screenshots as visual evidence in social media: YouTub...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The legitimation of screenshots as visual evidence in...The legitimation of screenshots as visual evidence in social media: YouTub...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-legitimation-of-screenshots-as-visual-evidence-Inwood-Zappavigna/31b812a8bc18da78eacdada73c7287dab2c758b2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-legitimation-of-screenshots-as-visual-evidence-Inwood-Zappavigna/31b812a8bc18da78eacdada73c7287dab2c758b2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legitimation of screenshots as visual evidence in social...The legitimation of screenshots as visual evidence in social media: YouTu...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-legitimation-of-screenshots-as-visual-evidence-Inwood-Zappavigna/31b812a8bc18da78eacdada73c7287dab2c758b2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-legitimation-of-screenshots-as-visual-evidence-Inwood-Zappavigna/31b812a8bc18da78eacdada73c7287dab2c758b2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legitimation of screenshots as visual evidence in social...The legitimation of screenshots as visual evidence in social media: YouTu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/A-Framework-to-Detect-Fake-Tweet-Images-on-Social-Parikh-Khedia/3ba87078fd5ecd6d40ef98bb7257f4879c3f1f41" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Framework-to-Detect-Fake-Tweet-Images-on-Social-Parikh-Khedia/3ba87078fd5ecd6d40ef98bb7257f4879c3f1f41</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/A-Framework-to-Detect-Fake-Tweet-Images-on-Social-Parikh-Khedia/3ba87078fd5ecd6d40ef98bb7257f4879c3f1f41" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Framework-to-Detect-Fake-Tweet-Images-on-Social-Parikh-Khedia/3ba87078fd5ecd6d40ef98bb7257f4879c3f1f41</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/view/journals/vjep/9/1/article-p1_012.xml?srsltid=AfmBOoqWezqOHtjcPYXkCfHbleUPwPK8GG12ikX6_Nh4ZEjB3j--6NAy" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/view/journals/vjep/9/1/article-p1_012.xml?srsltid=AfmBOoqWezqOHtjcPYXkCfHbleUPwPK8GG12ikX6_Nh4ZEjB3j--6NAy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Pictures We Trust: Evaluating Digital Information and...by M Reicho · 2024 · Cited by 5 — Combatting disinformation and misinformatio...</p></details>
+   Link:<a href="https://brill.com/view/journals/vjep/9/1/article-p1_012.xml?srsltid=AfmBOoqWezqOHtjcPYXkCfHbleUPwPK8GG12ikX6_Nh4ZEjB3j--6NAy" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/view/journals/vjep/9/1/article-p1_012.xml?srsltid=AfmBOoqWezqOHtjcPYXkCfHbleUPwPK8GG12ikX6_Nh4ZEjB3j--6NAy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Pictures We Trust: Evaluating Digital Information and...by M Reicho · 2024 · Cited by 5 — Combatting disinformation and misinformatio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 396968017 Web Archives for Verifying Attribution in Twitter Screenshots  
-   Link: <a href="https://www.researchgate.net/publication/396968017_Web_Archives_for_Verifying_Attribution_in_Twitter_Screenshots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396968017_Web_Archives_for_Verifying_Attribution_in_Twitter_Screenshots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter Screenshots30 Oct 2025 — We are exploring methods to verify the attribution of a social...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396968017_Web_Archives_for_Verifying_Attribution_in_Twitter_Screenshots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396968017_Web_Archives_for_Verifying_Attribution_in_Twitter_Screenshots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter Screenshots30 Oct 2025 — We are exploring methods to verify the attribution of a social...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govan integrated analysis using PLS-SEM and fs QCA  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12719425/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12719425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>integrated analysis using PLS-SEM and fsQCA - PMCby R Wang · 2025 · Cited by 2 — The findings highlight three distinct ways users process...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12719425/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12719425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>integrated analysis using PLS-SEM and fsQCA - PMCby R Wang · 2025 · Cited by 2 — The findings highlight three distinct ways users process...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ahrecs.com  
    Title: ethical use visual social media content research publications  
-   Link: <a href="https://ahrecs.com/ethical-use-visual-social-media-content-research-publications/" target="_blank" rel="noopener noreferrer nofollow">https://ahrecs.com/ethical-use-visual-social-media-content-research-publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical use of visual social media content in research...In a 2016 paper that we co-authored, we used screenshots from Instagram, Tumblr...</p></details>
+   Link:<a href="https://ahrecs.com/ethical-use-visual-social-media-content-research-publications/" target="_blank" rel="noopener noreferrer nofollow">https://ahrecs.com/ethical-use-visual-social-media-content-research-publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical use of visual social media content in research...In a 2016 paper that we co-authored, we used screenshots from Instagram, Tumblr...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 368954323 Visual misinformation on Facebook  
-   Link: <a href="https://www.researchgate.net/publication/368954323_Visual_misinformation_on_Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368954323_Visual_misinformation_on_Facebook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual misinformation on Facebook30 Apr 2026 — We conduct the first large-scale study of image-based political misinformation on Facebook...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368954323_Visual_misinformation_on_Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368954323_Visual_misinformation_on_Facebook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual misinformation on Facebook30 Apr 2026 — We conduct the first large-scale study of image-based political misinformation on Facebook...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2354389" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2354389</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee (Eds.), Disinformation, Misinformation, and Fake News in Social Media (Lecture Notes in Social Networks) (pp. 141–161). Cham...Read...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2354389" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2354389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lee (Eds.), Disinformation, Misinformation, and Fake News in Social Media (Lecture Notes in Social Networks) (pp. 141–161). Cham...Read...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: GOV.UK  
    Title: www.gov.uk Snapshot Paper  
-   Link: <a href="https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-deepfakes-and-audiovisual-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-deepfakes-and-audiovisual-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation, in particular &#x27;fake news&#x27;, has become a globally recognised phenomenon. Think tanks, media pundits...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-deepfakes-and-audiovisual-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-deepfakes-and-audiovisual-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation, in particular &#x27;fake news&#x27;, has become a globally recognised phenomenon. Think tanks, media pundits...Read more...</p></details>

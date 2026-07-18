@@ -422,13 +422,13 @@ Lateral reading is the habit of checking a source by leaving it. Instead of stay
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc-overview.webp" | relative_url }}" alt="Overview image for Lateral Reading" loading="eager" decoding="sync" fetchpriority="high">
-The core idea is simple: when a claim matters, do not let the claim’s own presentation be your only [evidence]({{ 'evidence/' | relative_url }}). Find out who is behind it, whether other credible outlets confirm it, what context is missing, and whether the original evidence can be traced. Research comparing professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}), historians and students found that fact-checkers reached better credibility judgements faster because they left unfamiliar sites quickly and searched across the open web. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</span></span></span>
+The core idea is simple: when a claim matters, do not let the claim’s own presentation be your only [evidence]({{ 'evidence/' | relative_url }}). Find out who is behind it, whether other credible outlets confirm it, what context is missing, and whether the original evidence can be traced. Research comparing professional [fact-checkers]({{ 'fact-checkers/' | relative_url }}), historians and students found that fact-checkers reached better credibility judgements faster because they left unfamiliar sites quickly and searched across the open web.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</span></span></span>
 
 ## What Lateral Reading Means
 
 Lateral reading is a source-checking strategy built around a small act of resistance: refusing to evaluate an online source only on its own terms. “Vertical” reading stays inside the page. It checks the layout, domain name, internal links, mission statement, biography, references and tone. Those clues can help, but they are also easy to stage. A misleading site can have a professional logo, a respectable-sounding name, a long “About us” page and links to real institutions. Lateral reading moves sideways instead: it opens search results, independent profiles, news coverage, [fact-checks]({{ 'fact-checks/' | relative_url }}), public records, academic sources, [archived pages]({{ 'archived-pages/' | relative_url }}) or reputable explainers.
 
-The method became prominent through research by Sam Wineburg and Sarah McGrew, who studied how people evaluated live websites. Their sample included 10 professional fact-checkers, 10 PhD historians and 25 Stanford undergraduates. The striking finding was not that fact-checkers read more deeply; it was that they often read less of the original site before checking elsewhere. Historians and students were more likely to be drawn into the site’s own surface signals, while fact-checkers used outside sources to establish whether the site deserved attention at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</span></span></span>
+The method became prominent through research by Sam Wineburg and Sarah McGrew, who studied how people evaluated live websites. Their sample included 10 professional fact-checkers, 10 PhD historians and 25 Stanford undergraduates. The striking finding was not that fact-checkers read more deeply; it was that they often read less of the original site before checking elsewhere. Historians and students were more likely to be drawn into the site’s own surface signals, while fact-checkers used outside sources to establish whether the site deserved attention at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</span></span></span>
 
 This makes lateral reading especially useful for social media. A post may not include a full article, and a screenshot may strip away author, date and publication context. A video may be clipped from another country, year or event. An AI-generated answer may cite sources that sound plausible but are incomplete, misread or fabricated. Lateral reading turns the first question from “Does this look convincing?” into “Can I place this claim in a wider evidence landscape?”
 
@@ -455,9 +455,9 @@ The phrase “read less, learn more” sounds counterintuitive, but it captures 
 
 A think tank report, activist website, local rumour, satirical post, sponsored article, AI-generated summary and peer-reviewed paper may all appear in the same feed and use similar visual signals. The page itself may not announce its weaknesses. Lateral reading gives the reader a way to classify the source before investing trust.
 
-The Digital Inquiry Group’s national assessment of 3,446 US high school students illustrates the problem. In one task, 52% of students treated a grainy video said to show US voter fraud as strong evidence, even though the video was actually shot in Russia; among more than 3,000 responses, only three students tracked down the video’s source. In another task, two-thirds of students could not distinguish news stories from “Sponsored Content” on Slate’s homepage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inquirygroup.org/students-civic-online-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquirygroup.org">[Digital Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquirygroup.org</span><span class="citation-popover-title">Digital Inquiry Group Students&#x27; Civic Online Reasoning &#124; Digital Inquiry Group</span><span class="citation-popover-snippet">Digital Inquiry Group Students&#x27; Civic Online Reasoning &#124; Digital Inquiry Group</span></span></span> These were not failures of intelligence. They were failures of source routine. Students often looked at what was in front of them, not what could be learned by stepping outside it.
+The Digital Inquiry Group’s national assessment of 3,446 US high school students illustrates the problem. In one task, 52% of students treated a grainy video said to show US voter fraud as strong evidence, even though the video was actually shot in Russia; among more than 3,000 responses, only three students tracked down the video’s source. In another task, two-thirds of students could not distinguish news stories from “Sponsored Content” on Slate’s homepage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inquirygroup.org/students-civic-online-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquirygroup.org">[Digital Inquiry Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquirygroup.org</span><span class="citation-popover-title">Digital Inquiry Group Students&#x27; Civic Online Reasoning &#124; Digital Inquiry Group</span><span class="citation-popover-snippet">Digital Inquiry Group Students&#x27; Civic Online Reasoning &#124; Digital Inquiry Group</span></span></span> These were not failures of intelligence. They were failures of source routine. Students often looked at what was in front of them, not what could be learned by stepping outside it.
 
-Lateral reading also counters a common trap: mistaking surface credibility for source credibility. A dot-org domain, a sober design or a confident author biography may lower a reader’s guard. In an online nutrition course study, students were explicitly taught to challenge misconceptions such as assuming that a dot-org domain makes a site trustworthy or that links to authoritative sources automatically confer credibility. Before instruction, only 3 of 87 students left the original site to consult another source; after four one-hour modules, 67 of 87 did so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course &#124; HKS Misinforma...</span></span></span>
+Lateral reading also counters a common trap: mistaking surface credibility for source credibility. A dot-org domain, a sober design or a confident author biography may lower a reader’s guard. In an online nutrition course study, students were explicitly taught to challenge misconceptions such as assuming that a dot-org domain makes a site trustworthy or that links to authoritative sources automatically confer credibility. Before instruction, only 3 of 87 students left the original site to consult another source; after four one-hour modules, 67 of 87 did so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course &#124; HKS Misinforma...</span></span></span>
 
 The lesson is not that all unfamiliar sources are bad. It is that unfamiliar sources need triangulation. The more consequential the claim, the more important it is to see whether the source survives contact with outside evidence.
 
@@ -465,9 +465,9 @@ The lesson is not that all unfamiliar sources are bad. It is that unfamiliar sou
 
 Professional fact-checkers do not treat every page as a neutral reading assignment. They use quick orientation moves to decide where to spend attention. When they land on an unfamiliar site, they may scan briefly, then search the organisation’s name, its funders, its reputation, its prior work and the claim itself. The aim is not to find a source that agrees with them. It is to understand the source’s standing before accepting its framing.
 
-This is why lateral reading fits well with Mike Caulfield’s SIFT method: Stop, Investigate the source, Find better coverage, and Trace claims, quotes and media back to their original context. Caulfield presents SIFT as a practical set of moves for sorting truth from fiction online, with lateral reading at the heart of investigating sources and finding better coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves) – Hapgood</span><span class="citation-popover-snippet">SIFT (The Four Moves) – Hapgood...</span></span></span>
+This is why lateral reading fits well with Mike Caulfield’s SIFT method: Stop, Investigate the source, Find better coverage, and Trace claims, quotes and media back to their original context. Caulfield presents SIFT as a practical set of moves for sorting truth from fiction online, with lateral reading at the heart of investigating sources and finding better coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves) – Hapgood</span><span class="citation-popover-snippet">SIFT (The Four Moves) – Hapgood...</span></span></span>
 
-A useful fact-checking sequence looks like this: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">and fact checking</span><span class="citation-popover-snippet">and fact checking</span></span></span>
+A useful fact-checking sequence looks like this:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">and fact checking</span><span class="citation-popover-snippet">and fact checking</span></span></span>
 
 1. **Stop before reacting.** The more a post triggers anger, fear, amusement or tribal loyalty, the more valuable the pause becomes. Emotional urgency is often the reason people skip verification.
 2. **Investigate the source from outside the source.** Search the publisher, author, account or organisation in a new tab. Look for independent descriptions, not just the source’s own self-description.
@@ -523,13 +523,13 @@ A useful personal rule is: if a claim would change how someone votes, spends mon
 
 Generative AI changes the verification problem because fluency is no longer a strong signal of knowledge. AI systems can produce confident prose, plausible citations, realistic images, synthetic voices and tidy summaries at scale. A lateral-reading habit is therefore not only for checking websites. It is also for checking AI output.
 
-UNESCO’s media and information literacy guidance stresses habits such as pausing before sharing, questioning the source, diversifying information sources and learning how AI systems work. It also argues that lasting progress requires platform design and AI developer transparency, not only individual effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">AI can make mistakes: Why media literacy matters more than ever</span><span class="citation-popover-snippet">AI can make mistakes: Why media literacy matters more than ever...</span></span></span> That distinction matters: lateral reading is a personal defence, but it should not become an excuse for platforms and AI companies to push all responsibility onto users.
+UNESCO’s media and information literacy guidance stresses habits such as pausing before sharing, questioning the source, diversifying information sources and learning how AI systems work. It also argues that lasting progress requires platform design and AI developer transparency, not only individual effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">AI can make mistakes: Why media literacy matters more than ever</span><span class="citation-popover-snippet">AI can make mistakes: Why media literacy matters more than ever...</span></span></span> That distinction matters: lateral reading is a personal defence, but it should not become an excuse for platforms and AI companies to push all responsibility onto users.
 
-Still, the individual habit remains valuable. When an AI answer cites a study, names a legal rule, summarises a breaking news event or gives health-related advice, lateral reading means leaving the chatbot and checking the underlying sources directly. The University of Maryland’s library guidance on fact-checking AI describes this plainly: apply fact-checking techniques by leaving the AI output and consulting other sources to evaluate what the AI has provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.guides.umd.edu">[UMD Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.guides.umd.edu</span><span class="citation-popover-title">Library Guides Fact-checking AI with Lateral Reading</span><span class="citation-popover-snippet">UMD Library GuidesFact-checking AI with Lateral Reading - Research Guides13 Jan 2026 — Lateral reading is done when you apply fact-checki...</span></span></span>
+Still, the individual habit remains valuable. When an AI answer cites a study, names a legal rule, summarises a breaking news event or gives health-related advice, lateral reading means leaving the chatbot and checking the underlying sources directly. The University of Maryland’s library guidance on fact-checking AI describes this plainly: apply fact-checking techniques by leaving the AI output and consulting other sources to evaluate what the AI has provided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.guides.umd.edu">[UMD Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.guides.umd.edu</span><span class="citation-popover-title">Library Guides Fact-checking AI with Lateral Reading</span><span class="citation-popover-snippet">UMD Library GuidesFact-checking AI with Lateral Reading - Research Guides13 Jan 2026 — Lateral reading is done when you apply fact-checki...</span></span></span>
 
-Stanford researchers have also connected lateral reading to AI literacy, noting that educational tools such as video tutorials on lateral reading have shown promise for improving digital literacy and may be adapted for AI education. Their broader work focuses on interventions that help users judge AI-generated information and avoid AI-powered deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.stanford.edu">[Stanford Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.stanford.edu</span><span class="citation-popover-snippet">Stanford ReportEmpowering users to discern fact from fiction in the age of AI &#124; Stanford Report...</span></span></span>
+Stanford researchers have also connected lateral reading to AI literacy, noting that educational tools such as video tutorials on lateral reading have shown promise for improving digital literacy and may be adapted for AI education. Their broader work focuses on interventions that help users judge AI-generated information and avoid AI-powered deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.stanford.edu">[Stanford Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.stanford.edu</span><span class="citation-popover-snippet">Stanford ReportEmpowering users to discern fact from fiction in the age of AI &#124; Stanford Report...</span></span></span>
 
-For everyday readers, the AI-era version of lateral reading has three extra rules: <span class="citation-chip-wrap"><a class="citation-chip" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[cor.inquirygroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-title">teaching lateral reading</span><span class="citation-popover-snippet">Lateral Reading - Civic Online ReasoningThese lessons also introduce students to resources they can use when laterally reading: Wikipedia...</span></span></span>
+For everyday readers, the AI-era version of lateral reading has three extra rules:<span class="citation-chip-wrap"><a class="citation-chip" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[cor.inquirygroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-title">teaching lateral reading</span><span class="citation-popover-snippet">Lateral Reading - Civic Online ReasoningThese lessons also introduce students to resources they can use when laterally reading: Wikipedia...</span></span></span>
 
 * **Do not trust a citation because it looks academic.** Check whether the source exists, whether the title matches, and whether the cited work actually says what the [AI claims]({{ 'ai-claims/' | relative_url }}).
 * **Do not trust an image because it looks natural.** Search for earlier appearances, original uploads, credible captions and reporting around the event.
@@ -541,7 +541,7 @@ Lateral reading does not require people to detect every synthetic artefact by ey
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc-Illustration-3-dark.svg" | relative_url }}" alt="Lateral Reading illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_lateral_reading_afeebc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Good Implementation Looks Like
 
-Teaching lateral reading works best when it is treated as a repeated habit, not a one-off warning about fake news. Research on Civic Online Reasoning across the curriculum emphasises modelling expert processes, guided practice, gradually fading support and formative assessments that reveal how students evaluate digital sources. In that work, teachers used short evaluation tasks to see whether students were actually applying lateral reading and then adjusted instruction accordingly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1405276.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">Open source on ed.gov.</span></span></span>
+Teaching lateral reading works best when it is treated as a repeated habit, not a one-off warning about fake news. Research on Civic Online Reasoning across the curriculum emphasises modelling expert processes, guided practice, gradually fading support and formative assessments that reveal how students evaluate digital sources. In that work, teachers used short evaluation tasks to see whether students were actually applying lateral reading and then adjusted instruction accordingly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1405276.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">Open source on ed.gov.</span></span></span>
 
 That has implications beyond schools. Workplaces, universities, newsrooms, libraries, community organisations and public agencies can all make lateral reading easier by embedding it into ordinary routines.
 
@@ -555,7 +555,7 @@ A good implementation has four features:
 
 **It makes the habit socially normal.** In group chats, classrooms and workplaces, people should be able to ask “Where did this come from?” without sounding hostile. Lateral reading works better when verification is treated as care for the group, not as point-scoring.
 
-The online-course study of 87 college students is encouraging because it showed that relatively compact instruction can change behaviour: after four one-hour modules, students were much more likely to leave the original site and consult other sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course &#124; HKS Misinforma...</span></span></span> The broader challenge is durability. A habit learned in a lesson must survive the pressure of fast feeds, group identity, humour, anger and convenience.
+The online-course study of 87 college students is encouraging because it showed that relatively compact instruction can change behaviour: after four one-hour modules, students were much more likely to leave the original site and consult other sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course &#124; HKS Misinforma...</span></span></span> The broader challenge is durability. A habit learned in a lesson must survive the pressure of fast feeds, group identity, humour, anger and convenience.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO9oTd_bzX4" title="Research and Disinformation – Episode 5: Lateral Reading (part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO9oTd_bzX4" target="_blank" rel="noopener noreferrer">Research and Disinformation – Episode 5: Lateral Reading (part 1)</a></p><p class="youtube-embed-meta">Channel: University of Iowa Libraries &middot; Views: 2.3K &middot; Uploaded: May 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO9oTd_bzX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO9oTd_bzX4">Open on YouTube</a></p></div></div></div>
@@ -581,194 +581,194 @@ Its value is practical. It helps a reader spot when a “research institute” i
 The habit does not ask people to become cynical, slow or expert in everything. It asks them to change the first move. When something online matters, leave the page. Check what the wider web knows. Then decide what the claim deserves: trust, doubt, context, correction or silence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Better Readers Leave the Page. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Better Readers Leave the Page. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Strongest match for lateral reading and verification habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongest match for lateral reading and verification habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Provides practical approaches to resisting deceptive claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical approaches to resisting deceptive claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages cross-checking assumptions against data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages cross-checking assumptions against data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="lateral-reading-why-better-readers-leave-the-page-critical-thinking-in-the-age-of-social-media-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -784,7 +784,7 @@ The habit does not ask people to become cynical, slow or expert in everything. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -804,7 +804,7 @@ The habit does not ask people to become cynical, slow or expert in everything. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -836,7 +836,7 @@ The habit does not ask people to become cynical, slow or expert in everything. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -888,7 +888,7 @@ The habit does not ask people to become cynical, slow or expert in everything. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -933,7 +933,7 @@ The habit does not ask people to become cynical, slow or expert in everything. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -974,232 +974,232 @@ The habit does not ask people to become cynical, slow or expert in everything. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves) – Hapgood  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) – Hapgood...</p></details>
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) – Hapgood...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
    Title: AI can make mistakes: Why media literacy matters more than ever  
-   Link: <a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI can make mistakes: Why media literacy matters more than ever...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI can make mistakes: Why media literacy matters more than ever...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lib.guides.umd.edu  
    Title: Library Guides Fact-checking AI with Lateral Reading  
-   Link: <a href="https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575" target="_blank" rel="noopener noreferrer nofollow">https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UMD Library GuidesFact-checking AI with Lateral Reading - Research Guides13 Jan 2026 — Lateral reading is done when you apply fact-checki...</p></details>
+   Link:<a href="https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575" target="_blank" rel="noopener noreferrer nofollow">https://lib.guides.umd.edu/c.php?g=1340355&amp;p=9880575</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UMD Library GuidesFact-checking AI with Lateral Reading - Research Guides13 Jan 2026 — Lateral reading is done when you apply fact-checki...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.stanford.edu  
-   Link: <a href="https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford ReportEmpowering users to discern fact from fiction in the age of AI | Stanford Report...</p></details>
+   Link:<a href="https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford ReportEmpowering users to discern fact from fiction in the age of AI | Stanford Report...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1405276.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1405276.pdf</a>  
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1405276.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1405276.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stacks.stanford.edu  
    Title: Wineburg Mc Grew Lateral Reading and the Nature of Expertise  
-   Link: <a href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf</a>  
+   Link:<a href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ed.stanford.edu  
-   Link: <a href="https://ed.stanford.edu/faculty/wineburg" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/faculty/wineburg</a>  
+   Link:<a href="https://ed.stanford.edu/faculty/wineburg" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/faculty/wineburg</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: purl.stanford.edu  
-   Link: <a href="https://purl.stanford.edu/yk133ht8603" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/yk133ht8603</a>  
+   Link:<a href="https://purl.stanford.edu/yk133ht8603" target="_blank" rel="noopener noreferrer nofollow">https://purl.stanford.edu/yk133ht8603</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.stanford.edu  
    Title: fact checkers outperform historians evaluating online information  
-   Link: <a href="https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information</a>  
+   Link:<a href="https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.stanford.edu  
    Title: deep lab opening nanotechnology  
-   Link: <a href="https://news.stanford.edu/stories/2026/05/deep-lab-opening-nanotechnology" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/deep-lab-opening-nanotechnology</a>  
+   Link:<a href="https://news.stanford.edu/stories/2026/05/deep-lab-opening-nanotechnology" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/deep-lab-opening-nanotechnology</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stacks.stanford.edu  
    Title: COR Curriculum Evaluation  
-   Link: <a href="https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf</a>  
+   Link:<a href="https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392035" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392035</a>  
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392035" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392035</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
    Title: [deepfakes](&#123;&#123; 'deepfakes/' | relative_url &#125;&#125;) and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief</a>  
+   Link:<a href="https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/examining-media-and-information-literacy-responses-generative-ai-unesco-policy-brief</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hapgood.us  
-   Link: <a href="https://hapgood.us/about/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/about/</a>  
+   Link:<a href="https://hapgood.us/about/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/about/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/016146811912101102</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/016146811912101102</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLateral Reading and the Nature of Expertise: Reading Less and Learning More When Evaluating Digital Information - Sam Winebu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: inquirygroup.org  
    Title: Digital Inquiry Group Students' Civic Online Reasoning | Digital Inquiry Group  
-   Link: <a href="https://www.inquirygroup.org/students-civic-online-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/students-civic-online-reasoning</a>  
+   Link:<a href="https://www.inquirygroup.org/students-civic-online-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/students-civic-online-reasoning</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course | HKS Misinforma...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewLateral reading: College students learn to critically evaluate internet sources in an online course | HKS Misinforma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cor.inquirygroup.org  
    Title: teaching lateral reading  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading - Civic Online ReasoningThese lessons also introduce students to resources they can use when laterally reading: Wikipedia...</p></details>
+   Link:<a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading - Civic Online ReasoningThese lessons also introduce students to resources they can use when laterally reading: Wikipedia...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cor.inquirygroup.org  
    Title: lateral reading resources practice  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-resources-practice/?cuid=teaching-lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-resources-practice/?cuid=teaching-lateral-reading</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-resources-practice/?cuid=teaching-lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-resources-practice/?cuid=teaching-lateral-reading</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cor.inquirygroup.org  
    Title: intro to lateral reading  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: inquirygroup.org  
-   Link: <a href="https://www.inquirygroup.org/about/updates/2018/lateral-reading-reading-less-and-learning-more-online" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/about/updates/2018/lateral-reading-reading-less-and-learning-more-online</a>  
+   Link:<a href="https://www.inquirygroup.org/about/updates/2018/lateral-reading-reading-less-and-learning-more-online" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirygroup.org/about/updates/2018/lateral-reading-reading-less-and-learning-more-online</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cor.inquirygroup.org  
    Title: lateral reading with fact checking websites  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-with-fact-checking-websites/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-with-fact-checking-websites/</a>  
+   Link:<a href="https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-with-fact-checking-websites/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-with-fact-checking-websites/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Sam Wineburg  
-   Link: <a href="https://en.wikipedia.org/wiki/Sam_Wineburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sam_Wineburg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sam_Wineburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sam_Wineburg</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Stanford University  
-   Link: <a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Fact checking  
-   Link: <a href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fact-checking</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fact-checking</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: and fact checking  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia_and_fact-checking</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
+   Link:<a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uscupstate.libguides.com  
-   Link: <a href="https://uscupstate.libguides.com/LateralReading/sift" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading/sift</a>  
+   Link:<a href="https://uscupstate.libguides.com/LateralReading/sift" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading/sift</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=EJ1262001" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1262001</a>  
+   Link:<a href="https://eric.ed.gov/?id=EJ1262001" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1262001</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scienceofboosting.org  
    Title: Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: new sources of inaccuracy a conceptual framework for studying [ai hallucinations](&#123;&#123; 'hallucinations/' | relative_url &#125;&#125;)  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/new-sources-of-inaccuracy-a-conceptual-framework-for-studying-ai-hallucinations/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: openlearninglibrary.mit.edu  
-   Link: <a href="https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about" target="_blank" rel="noopener noreferrer nofollow">https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about</a>  
+   Link:<a href="https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about" target="_blank" rel="noopener noreferrer nofollow">https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theness.com  
    Title: Civic Online Reasoning  
-   Link: <a href="https://theness.com/neurologicablog/civic-online-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/civic-online-reasoning/</a>  
+   Link:<a href="https://theness.com/neurologicablog/civic-online-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/civic-online-reasoning/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: libguides.scu.edu  
-   Link: <a href="https://libguides.scu.edu/generativeai/evaluation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.scu.edu/generativeai/evaluation</a>  
+   Link:<a href="https://libguides.scu.edu/generativeai/evaluation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.scu.edu/generativeai/evaluation</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: library.nwacc.edu  
-   Link: <a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
+   Link:<a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: libguides.ucmerced.edu  
    Title: sift method  
-   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
+   Link:<a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Sam Wineburg: How to improve American students' fact-checking skills  
-   Link: <a href="https://www.youtube.com/watch?v=aP3Dx0LYwis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aP3Dx0LYwis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources &amp; Fact Checking: Crash Course Scientific Thinking #6...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aP3Dx0LYwis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aP3Dx0LYwis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources &amp; Fact Checking: Crash Course Scientific Thinking #6...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Evaluating Sources & Fact Checking: Crash Course Scientific Thinking #6  
-   Link: <a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral Reading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral Reading...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Intro to Lateral Reading  
-   Link: <a href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=as1IzVljNAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sam Wineburg: How to improve American students&#x27; fact-checking skills...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=as1IzVljNAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sam Wineburg: How to improve American students&#x27; fact-checking skills...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ETwinningeurope/posts/your-students-are-surrounded-by-misleading-content-every-day-but-do-they-have-th/1440391271468036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ETwinningeurope/posts/your-students-are-surrounded-by-misleading-content-every-day-but-do-they-have-th/1440391271468036/</a>  
+   Link:<a href="https://www.facebook.com/ETwinningeurope/posts/your-students-are-surrounded-by-misleading-content-every-day-but-do-they-have-th/1440391271468036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ETwinningeurope/posts/your-students-are-surrounded-by-misleading-content-every-day-but-do-they-have-th/1440391271468036/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/en/observances/media-information-literacy-week" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/observances/media-information-literacy-week</a>  
+   Link:<a href="https://www.un.org/en/observances/media-information-literacy-week" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/observances/media-information-literacy-week</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: publicmediaalliance.org  
-   Link: <a href="https://www.publicmediaalliance.org/knowledge-hub/tools/caribbean-media-literacy-digital-library/global-media-literacy-resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.publicmediaalliance.org/knowledge-hub/tools/caribbean-media-literacy-digital-library/global-media-literacy-resources/</a>  
+   Link:<a href="https://www.publicmediaalliance.org/knowledge-hub/tools/caribbean-media-literacy-digital-library/global-media-literacy-resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.publicmediaalliance.org/knowledge-hub/tools/caribbean-media-literacy-digital-library/global-media-literacy-resources/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/356330143_Lateral_Reading_and_the_Nature_of_Expertise_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356330143_Lateral_Reading_and_the_Nature_of_Expertise_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
+   Link:<a href="https://www.researchgate.net/publication/356330143_Lateral_Reading_and_the_Nature_of_Expertise_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356330143_Lateral_Reading_and_the_Nature_of_Expertise_Reading_Less_and_Learning_More_When_Evaluating_Digital_Information</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/spring2025/caulfield_wineburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2025/caulfield_wineburg</a>  
+   Link:<a href="https://www.aft.org/ae/spring2025/caulfield_wineburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2025/caulfield_wineburg</a>  

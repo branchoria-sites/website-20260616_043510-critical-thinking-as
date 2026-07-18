@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data
 
 ## Introduction
 
-A data void is a situation where a search query, hashtag, keyword or topic has little reliable information attached to it. In those moments, weak [evidence]({{ 'evidence/' | relative_url }}) can appear far stronger than it really is—not because it has been verified, but because there is little else available for comparison. Researchers Michael Golebiewski and danah boyd coined the term to describe search environments where obscure, new or poorly documented topics can be dominated by low-quality or manipulative content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+A data void is a situation where a search query, hashtag, keyword or topic has little reliable information attached to it. In those moments, weak [evidence]({{ 'evidence/' | relative_url }}) can appear far stronger than it really is—not because it has been verified, but because there is little else available for comparison. Researchers Michael Golebiewski and danah boyd coined the term to describe search environments where obscure, new or poorly documented topics can be dominated by low-quality or manipulative content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-1-dark.svg" | relative_url }}" alt="Data Voids illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ For anyone evaluating online claims, data voids create a distinctive problem. No
 
 ## Why obscure terms are vulnerable
 
-Most people assume search engines surface the best information available. Data voids reveal an important limitation: search systems can only rank what exists. When reliable material is scarce, [ranking]({{ 'ranking/' | relative_url }}) algorithms may elevate whatever content has been created, regardless of quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+Most people assume search engines surface the best information available. Data voids reveal an important limitation: search systems can only rank what exists. When reliable material is scarce, [ranking]({{ 'ranking/' | relative_url }}) algorithms may elevate whatever content has been created, regardless of quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 This vulnerability is especially common in three situations:
 
@@ -297,7 +297,7 @@ This vulnerability is especially common in three situations:
 
 * **Brand-new events** where journalists, researchers and institutions have not yet published substantial material.
 * **Obscure phrases or niche topics** that receive little attention from reliable sources.
-* **Newly invented terms** that have been deliberately created before any authoritative coverage exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+* **Newly invented terms** that have been deliberately created before any authoritative coverage exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 </div>
 
@@ -307,20 +307,20 @@ This differs from ordinary misinformation. The problem is not merely that false 
 
 ## How manipulators exploit early searches
 
-Researchers have documented several ways that actors exploit data voids. One approach is to create content around a term before anyone else does. When public attention suddenly shifts toward that term, searchers encounter the pre-positioned material first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+Researchers have documented several ways that actors exploit data voids. One approach is to create content around a term before anyone else does. When public attention suddenly shifts toward that term, searchers encounter the pre-positioned material first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NgjyBKfqJEs" title="DEF CON 33 - Mind the Data Voids: Hijacking Copilot Trust - Tobias Diehl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NgjyBKfqJEs" target="_blank" rel="noopener noreferrer">DEF CON 33 - Mind the Data Voids: Hijacking Copilot Trust - Tobias Diehl</a></p><p class="youtube-embed-meta">Channel: DEFCONConference &middot; Views: 1.0K &middot; Uploaded: October 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NgjyBKfqJEs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NgjyBKfqJEs">Open on YouTube</a></p></div></div></div>
 
 ### Strategic new terms
 
-One of the most effective tactics is introducing a new label, slogan or phrase and then building content around it before promoting it widely. Because reliable organisations have not yet written about the term, search results can become dominated by the creators' preferred interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+One of the most effective tactics is introducing a new label, slogan or phrase and then building content around it before promoting it widely. Because reliable organisations have not yet written about the term, search results can become dominated by the creators' preferred interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 The strength of this tactic comes from timing. Searchers believe they are independently researching a topic, yet the information environment was effectively constructed before they arrived.
 
 ### Breaking-news gaps
 
-Data voids also emerge during rapidly developing events. Immediately after a crisis, disaster or controversial incident, people search for explanations before verified information is available. During this period, speculation can outrun evidence. Early posts may receive visibility not because they are accurate but because they appeared first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+Data voids also emerge during rapidly developing events. Immediately after a crisis, disaster or controversial incident, people search for explanations before verified information is available. During this period, speculation can outrun evidence. Early posts may receive visibility not because they are accurate but because they appeared first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 This helps explain why rumours often flourish in the first hours of a major event. The demand for information arrives faster than the supply of verified reporting.
 
@@ -328,7 +328,7 @@ This helps explain why rumours often flourish in the first hours of a major even
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-2-dark.svg" | relative_url }}" alt="Data Voids illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fragmented information worlds
 
-Researchers have also identified situations where closely related ideas become separated into different search pathways. Different search terms can lead users toward dramatically different information ecosystems, even when they are investigating the same underlying topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+Researchers have also identified situations where closely related ideas become separated into different search pathways. Different search terms can lead users toward dramatically different information ecosystems, even when they are investigating the same underlying topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 In these cases, weak evidence gains apparent strength because users repeatedly encounter similar claims within a narrow information cluster while remaining unaware of stronger evidence elsewhere.
 
@@ -344,7 +344,7 @@ In these cases, weak evidence gains apparent strength because users repeatedly e
 
 **Confidence fills uncertainty.** In low-information environments, highly confident language can be persuasive. Detailed explanations, charts, images and AI-generated summaries may create an impression of expertise even when the underlying evidence is thin.
 
-These effects are amplified on social platforms where recommendation systems, autocomplete suggestions and trending features can steer users toward the same limited pool of content. Researchers have noted that data voids are often compounded by these adjacent discovery systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
+These effects are amplified on social platforms where recommendation systems, autocomplete suggestions and trending features can steer users toward the same limited pool of content. Researchers have noted that data voids are often compounded by these adjacent discovery systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datasociety.net">[Data &amp; Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datasociety.net</span><span class="citation-popover-title">data voids</span><span class="citation-popover-snippet">Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M9c_rEPnJ9c" title="Trusted Elections Network: What are data voids and how can journalists combat them?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M9c_rEPnJ9c" target="_blank" rel="noopener noreferrer">Trusted Elections Network: What are data voids and how can journalists combat them?</a></p><p class="youtube-embed-meta">Channel: American Press Institute &middot; Views: 231 &middot; Uploaded: May 2020 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M9c_rEPnJ9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M9c_rEPnJ9c">Open on YouTube</a></p></div></div></div>
@@ -372,7 +372,7 @@ In practice, the strongest conclusion during a data void is often: “There is n
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-3-dark.svg" | relative_url }}" alt="Data Voids illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_evidence_hierarchy_e76119_data_voids_weak_evid_584442-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Search engines are trying to address the problem
 
-Search companies have increasingly recognised data voids as a distinct information-quality challenge. Google has experimented with warning messages for queries where information may be low quality, low relevance or rapidly changing. Research examining these warning systems found that they appeared for only a small fraction of potentially problematic searches and that many likely data voids remained undetected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyber.fsi.stanford.edu">[cyber.fsi.stanford.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyber.fsi.stanford.edu</span><span class="citation-popover-title">data voids and warning banners google search</span><span class="citation-popover-snippet">Data Voids and Warning Banners on Google Search &#124; FSI25 Feb 2025 — Google Search attempts to help its users navigate three distinct types...</span></span></span>
+Search companies have increasingly recognised data voids as a distinct information-quality challenge. Google has experimented with warning messages for queries where information may be low quality, low relevance or rapidly changing. Research examining these warning systems found that they appeared for only a small fraction of potentially problematic searches and that many likely data voids remained undetected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyber.fsi.stanford.edu">[cyber.fsi.stanford.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyber.fsi.stanford.edu</span><span class="citation-popover-title">data voids and warning banners google search</span><span class="citation-popover-snippet">Data Voids and Warning Banners on Google Search &#124; FSI25 Feb 2025 — Google Search attempts to help its users navigate three distinct types...</span></span></span>
 
 The existence of such warnings highlights an important point: even sophisticated search systems sometimes recognise that they lack enough reliable material to provide confident answers.
 
@@ -383,178 +383,178 @@ For critical thinkers, that recognition is useful. When the information landscap
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When search results go empty. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When search results go empty. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps evaluate claims when evidence is sparse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate claims when evidence is sparse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Useful for judging weak evidence and missing data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for judging weak evidence and missing data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Shows how reliable knowledge develops over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reliable knowledge develops over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="data-voids-when-search-results-go-empty-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ For critical thinkers, that recognition is useful. When the information landscap
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ For critical thinkers, that recognition is useful. When the information landscap
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ For critical thinkers, that recognition is useful. When the information landscap
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ For critical thinkers, that recognition is useful. When the information landscap
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ For critical thinkers, that recognition is useful. When the information landscap
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,124 +760,124 @@ For critical thinkers, that recognition is useful. When the information landscap
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cyber.fsi.stanford.edu  
    Title: data voids and warning banners google search  
-   Link: <a href="https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search" target="_blank" rel="noopener noreferrer nofollow">https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids and Warning Banners on Google Search | FSI25 Feb 2025 — Google Search attempts to help its users navigate three distinct types...</p></details>
+   Link:<a href="https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search" target="_blank" rel="noopener noreferrer nofollow">https://cyber.fsi.stanford.edu/publication/data-voids-and-warning-banners-google-search</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids and Warning Banners on Google Search | FSI25 Feb 2025 — Google Search attempts to help its users navigate three distinct types...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.17542v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.17542v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids and Warning Banners on Google Search24 Feb 2025 — Google Search attempts to help its users navigate three distinct types of da...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.17542v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.17542v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids and Warning Banners on Google Search24 Feb 2025 — Google Search attempts to help its users navigate three distinct types of da...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Data Voids and Warning Banners on Google Search  
-   Link: <a href="https://arxiv.org/abs/2502.17542" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.17542</a>  
+   Link:<a href="https://arxiv.org/abs/2502.17542" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.17542</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: datasociety.net  
    Title: data voids  
-   Link: <a href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/library/data-voids/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</p></details>
+   Link:<a href="https://datasociety.net/library/data-voids/" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/library/data-voids/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; SocietyData Voids29 Oct 2019 — Data Voids demonstrates how manipulators expose people to problematic content by exploiting search...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: datasociety.net  
-   Link: <a href="https://datasociety.net/wp-content/uploads/2019/11/Data-Voids-2.0-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/wp-content/uploads/2019/11/Data-Voids-2.0-Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data VoidsData voids are one such way that search users can be led into disinformation or manipulated content. These voids occur when obs...</p></details>
+   Link:<a href="https://datasociety.net/wp-content/uploads/2019/11/Data-Voids-2.0-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/wp-content/uploads/2019/11/Data-Voids-2.0-Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data VoidsData voids are one such way that search users can be led into disinformation or manipulated content. These voids occur when obs...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rcmediafreedom.eu  
    Title: Media Freedom Resource Centre OBCTData Voids  
-   Link: <a href="https://www.rcmediafreedom.eu/Resources/Reports-and-papers/Data-Voids.-Where-Missing-Data-Can-Easily-Be-Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Reports-and-papers/Data-Voids.-Where-Missing-Data-Can-Easily-Be-Exploited</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids. Where Missing Data Can Easily Be ExploitedData voids can come both naturally and through manipulation. Unusual search terms c...</p></details>
+   Link:<a href="https://www.rcmediafreedom.eu/Resources/Reports-and-papers/Data-Voids.-Where-Missing-Data-Can-Easily-Be-Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Reports-and-papers/Data-Voids.-Where-Missing-Data-Can-Easily-Be-Exploited</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids. Where Missing Data Can Easily Be ExploitedData voids can come both naturally and through manipulation. Unusual search terms c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gcdi.commons.gc.cuny.edu  
    Title: data voids data society  
-   Link: <a href="https://gcdi.commons.gc.cuny.edu/2019/11/12/data-voids-data-society/" target="_blank" rel="noopener noreferrer nofollow">https://gcdi.commons.gc.cuny.edu/2019/11/12/data-voids-data-society/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Voids | Data &amp; Society12 Nov 2019 — In this Data &amp; Society report, Michael Golebiewski and danah boyd identify the types of data voids in...</p></details>
+   Link:<a href="https://gcdi.commons.gc.cuny.edu/2019/11/12/data-voids-data-society/" target="_blank" rel="noopener noreferrer nofollow">https://gcdi.commons.gc.cuny.edu/2019/11/12/data-voids-data-society/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voids | Data &amp; Society12 Nov 2019 — In this Data &amp; Society report, Michael Golebiewski and danah boyd identify the types of data voids in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: datasociety.net  
-   Link: <a href="https://datasociety.net/research/media-manipulation/?type=report" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/research/media-manipulation/?type=report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Manipulation &amp; Disinformation&quot;Data Voids&quot; demonstrates how manipulators expose people to problematic... New Data &amp; Society report...</p></details>
+   Link:<a href="https://datasociety.net/research/media-manipulation/?type=report" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/research/media-manipulation/?type=report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Manipulation &amp; Disinformation&quot;Data Voids&quot; demonstrates how manipulators expose people to problematic... New Data &amp; Society report...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 356909935 Data Voids Where Missing Data Can Easily Be Exploited  
-   Link: <a href="https://www.researchgate.net/publication/356909935_Data_Voids_Where_Missing_Data_Can_Easily_Be_Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356909935_Data_Voids_Where_Missing_Data_Can_Easily_Be_Exploited</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids: Where Missing Data Can Easily Be Exploited1 Apr 2026 — Data voids are a security vulnerability that must be systematically, i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/356909935_Data_Voids_Where_Missing_Data_Can_Easily_Be_Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356909935_Data_Voids_Where_Missing_Data_Can_Easily_Be_Exploited</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Voids: Where Missing Data Can Easily Be Exploited1 Apr 2026 — Data voids are a security vulnerability that must be systematically, i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apo.org.au  
-   Link: <a href="https://apo.org.au/node/265631" target="_blank" rel="noopener noreferrer nofollow">https://apo.org.au/node/265631</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data voids: where missing data can easily be exploitedby M Golebiewski · 2019 · Cited by 155 — This report demonstrate how data voids are...</p></details>
+   Link:<a href="https://apo.org.au/node/265631" target="_blank" rel="noopener noreferrer nofollow">https://apo.org.au/node/265631</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data voids: where missing data can easily be exploitedby M Golebiewski · 2019 · Cited by 155 — This report demonstrate how data voids are...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.siemens.com  
    Title: data voids the hidden gaps that can mislead ai  
-   Link: <a href="https://blog.siemens.com/2025/10/data-voids-the-hidden-gaps-that-can-mislead-ai/" target="_blank" rel="noopener noreferrer nofollow">https://blog.siemens.com/2025/10/data-voids-the-hidden-gaps-that-can-mislead-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voids: The Hidden Gaps That Can Mislead AI14 Oct 2025 — As researchers note, a data void happens when a search query “turns up little to...</p></details>
+   Link:<a href="https://blog.siemens.com/2025/10/data-voids-the-hidden-gaps-that-can-mislead-ai/" target="_blank" rel="noopener noreferrer nofollow">https://blog.siemens.com/2025/10/data-voids-the-hidden-gaps-that-can-mislead-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voids: The Hidden Gaps That Can Mislead AI14 Oct 2025 — As researchers note, a data void happens when a search query “turns up little to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: diggitmagazine.com  
    Title: data voids what are they and do they threaten democracy  
-   Link: <a href="https://www.diggitmagazine.com/articles/data-voids-what-are-they-and-do-they-threaten-democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.diggitmagazine.com/articles/data-voids-what-are-they-and-do-they-threaten-democracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data voids: What are they and do they threaten democracy?15 Nov 2020 — Data voids are intricate systems in which media manipulators find...</p></details>
+   Link:<a href="https://www.diggitmagazine.com/articles/data-voids-what-are-they-and-do-they-threaten-democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.diggitmagazine.com/articles/data-voids-what-are-they-and-do-they-threaten-democracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data voids: What are they and do they threaten democracy?15 Nov 2020 — Data voids are intricate systems in which media manipulators find...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mediamanipulation.org  
-   Link: <a href="https://mediamanipulation.org/definitions/data-void/" target="_blank" rel="noopener noreferrer nofollow">https://mediamanipulation.org/definitions/data-void/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data voidData voids are social or technical security risks depending on the subject matter of the query. Data void is a Casebook value un...</p></details>
+   Link:<a href="https://mediamanipulation.org/definitions/data-void/" target="_blank" rel="noopener noreferrer nofollow">https://mediamanipulation.org/definitions/data-void/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data voidData voids are social or technical security risks depending on the subject matter of the query. Data void is a Casebook value un...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ijcai.org  
-   Link: <a href="https://www.ijcai.org/proceedings/2025/1218.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijcai.org/proceedings/2025/1218.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical report, Data &amp; Society Research. Institute, 2019. [Google Blog, 2012] Google Blog...Read more...</p></details>
+   Link:<a href="https://www.ijcai.org/proceedings/2025/1218.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijcai.org/proceedings/2025/1218.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical report, Data &amp; Society Research. Institute, 2019. [Google Blog, 2012] Google Blog...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/906176349/Data-Voids-Where-Missing-Data-Can-Easily-Be-Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906176349/Data-Voids-Where-Missing-Data-Can-Easily-Be-Exploited</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploiting Data Voids in Search Engines | PDF | InformationThe document discusses &#x27;data voids,&#x27; which are gaps in available information f...</p></details>
+   Link:<a href="https://www.scribd.com/document/906176349/Data-Voids-Where-Missing-Data-Can-Easily-Be-Exploited" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906176349/Data-Voids-Where-Missing-Data-Can-Easily-Be-Exploited</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploiting Data Voids in Search Engines | PDF | InformationThe document discusses &#x27;data voids,&#x27; which are gaps in available information f...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: platformer.news  
    Title: google data voids warning banners 2024 election  
-   Link: <a href="https://www.platformer.news/google-data-voids-warning-banners-2024-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.platformer.news/google-data-voids-warning-banners-2024-election/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google gives up on data voids24 Feb 2025 — Data voids are often exploited by actors seeking to spread misinformation on topics where litt...</p></details>
+   Link:<a href="https://www.platformer.news/google-data-voids-warning-banners-2024-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.platformer.news/google-data-voids-warning-banners-2024-election/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google gives up on data voids24 Feb 2025 — Data voids are often exploited by actors seeking to spread misinformation on topics where litt...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DJYIzQFx_7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJYIzQFx_7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEF CON 33 - Mind the Data Voids: Hijacking Copilot Trust - Tobias Diehl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DJYIzQFx_7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJYIzQFx_7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEF CON 33 - Mind the Data Voids: Hijacking Copilot Trust - Tobias Diehl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.publishing.umich.edu  
-   Link: <a href="https://journals.publishing.umich.edu/nasig/article/id/7739/" target="_blank" rel="noopener noreferrer nofollow">https://journals.publishing.umich.edu/nasig/article/id/7739/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voids and Echo Chambers: The Transformative...by FB Tripodi · 2025 — Their report shows that when little to nothing exists about a subje...</p></details>
+   Link:<a href="https://journals.publishing.umich.edu/nasig/article/id/7739/" target="_blank" rel="noopener noreferrer nofollow">https://journals.publishing.umich.edu/nasig/article/id/7739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voids and Echo Chambers: The Transformative...by FB Tripodi · 2025 — Their report shows that when little to nothing exists about a subje...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: DEF CON 33  
-   Link: <a href="https://www.youtube.com/watch?v=NgjyBKfqJEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NgjyBKfqJEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted Elections Network: What are data voids and how can journalists combat them?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NgjyBKfqJEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NgjyBKfqJEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted Elections Network: What are data voids and how can journalists combat them?...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M9c_rEPnJ9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M9c_rEPnJ9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diggit Wiki: the concept of &#x27;Data voids&#x27; explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M9c_rEPnJ9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M9c_rEPnJ9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diggit Wiki: the concept of &#x27;Data voids&#x27; explained...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reposit.haw-hamburg.de  
-   Link: <a href="https://reposit.haw-hamburg.de/handle/20.500.12738/15237" target="_blank" rel="noopener noreferrer nofollow">https://reposit.haw-hamburg.de/handle/20.500.12738/15237</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>haw-hamburg.deGoogle, data voids, and the dynamics of the politics...by OC Norocel · 2023 · Cited by 39 — This study deploys a critical...</p></details>
+   Link:<a href="https://reposit.haw-hamburg.de/handle/20.500.12738/15237" target="_blank" rel="noopener noreferrer nofollow">https://reposit.haw-hamburg.de/handle/20.500.12738/15237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>haw-hamburg.deGoogle, data voids, and the dynamics of the politics...by OC Norocel · 2023 · Cited by 39 — This study deploys a critical...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How You Tube's Algorithms Can Fool You  
-   Link: <a href="https://www.youtube.com/watch?v=CuFKYSSZtpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CuFKYSSZtpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Truth: Youtube &amp; Data Voids (pt 1 &amp; 2) | Knight Media Forum 2019...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CuFKYSSZtpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CuFKYSSZtpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Truth: Youtube &amp; Data Voids (pt 1 &amp; 2) | Knight Media Forum 2019...</p></details>

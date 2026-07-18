@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-primary/
 description: Focused pages that expand on Primary Sources.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_primary_sources_4ab073
 parent_title: Primary Sources
@@ -16,7 +16,7 @@ parent_permalink: /primary-sources/
 
 # Explore Topics in Primary Sources
 
-The following pages expand on the main **[Primary Sources]({{ '/primary-sources/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Primary Sources]({{ '/primary-sources/' | relative_url }})** page and cover its key branches in.
 
 - [Robocall Trail]({{ '/robocall-trail/' | relative_url }})
 - [Archived Pages]({{ '/archived-pages/' | relative_url }})

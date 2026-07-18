@@ -422,17 +422,17 @@ A social media claim can be true in the narrowest sense and still mislead. The t
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff-overview.webp" | relative_url }}" alt="Overview image for Missing Context" loading="eager" decoding="sync" fetchpriority="high">
-The critical question is therefore not only “Is this false?” but “What did the post leave out?” A post that says crime is “up”, a clip that appears to show today’s protest, or a chart comparing two countries may all collapse once the date, comparison group, population size or measurement method is restored. Good statistical communication guidance makes the same point: numbers need context, including limitations, long-term trends, geographical comparisons and explanations of what the figures mean in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics – Government Analysis Function...</span></span></span>
+The critical question is therefore not only “Is this false?” but “What did the post leave out?” A post that says crime is “up”, a clip that appears to show today’s protest, or a chart comparing two countries may all collapse once the date, comparison group, population size or measurement method is restored. Good statistical communication guidance makes the same point: numbers need context, including limitations, long-term trends, geographical comparisons and explanations of what the figures mean in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics – Government Analysis Function...</span></span></span>
 
 ## Dates and Old Content
 
 One of the simplest ways to mislead online is to make old material look current. The image or video may be real, but its date has been stripped away and replaced with a new caption. This is powerful because viewers often react to the scene before checking whether it belongs to the event being discussed.
 
-Full Fact’s 2025 report identifies the re-use of [old footage]({{ 'old-footage/' | relative_url }}) and imagery in new false contexts as a recurring tactic, especially during breaking news. It gives examples including footage from a Hindu religious festival procession being misrepresented during the UK riots of summer 2024, a 2015 warehouse explosion in Tianjin being presented as an explosion at Mossad headquarters, and 2022 footage being re-used in claims about Ukrainian troops in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2025</span><span class="citation-popover-snippet">Full FactFull Fact Report 2025 – Full Fact...</span></span></span>
+Full Fact’s 2025 report identifies the re-use of [old footage]({{ 'old-footage/' | relative_url }}) and imagery in new false contexts as a recurring tactic, especially during breaking news. It gives examples including footage from a Hindu religious festival procession being misrepresented during the UK riots of summer 2024, a 2015 warehouse explosion in Tianjin being presented as an explosion at Mossad headquarters, and 2022 footage being re-used in claims about Ukrainian troops in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2025</span><span class="citation-popover-snippet">Full FactFull Fact Report 2025 – Full Fact...</span></span></span>
 
 This kind of claim works because it exploits the “now” bias of the feed. A video appears between fresh posts, current reactions and breaking-news hashtags, so the platform itself supplies a false sense of recency. The missing date is not a small detail; it is the difference between [evidence]({{ 'evidence/' | relative_url }}) and atmosphere.
 
-Old content is especially damaging during crises because it competes with real-time updates. When authentic footage from a previous event is repurposed, it can confuse the public and divert attention from reliable current information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2025</span><span class="citation-popover-snippet">Full FactFull Fact Report 2025 – Full Fact...</span></span></span> Full Fact’s earlier guidance on misleading videos makes the same distinction: some videos are not fake in the sense of being staged or edited, but are mislabelled as happening in another country, involving different people, or showing a different incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact How to spot misleading videos online – Full Fact</span><span class="citation-popover-snippet">Full Fact How to spot misleading videos online – Full Fact</span></span></span>
+Old content is especially damaging during crises because it competes with real-time updates. When authentic footage from a previous event is repurposed, it can confuse the public and divert attention from reliable current information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">full fact report 2025</span><span class="citation-popover-snippet">Full FactFull Fact Report 2025 – Full Fact...</span></span></span> Full Fact’s earlier guidance on misleading videos makes the same distinction: some videos are not fake in the sense of being staged or edited, but are mislabelled as happening in another country, involving different people, or showing a different incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact How to spot misleading videos online – Full Fact</span><span class="citation-popover-snippet">Full Fact How to spot misleading videos online – Full Fact</span></span></span>
 
 A useful reader test is: “Would this claim still matter if the video were five years old, from another country, or from an unrelated event?” If the answer is no, the date and location are not background information. They are the claim.
 
@@ -444,9 +444,9 @@ Numbers are often most misleading when they look most precise. A percentage can 
 
 [Denominators]({{ 'denominators/' | relative_url }}) are the quiet base of a claim. A post saying “10,000 cases” sounds alarming or trivial depending on whether it refers to a city, a country, a hospital system, a week, a decade, or a population of millions. A percentage can hide the same problem in reverse. “A 100% increase” may mean two cases rising to four; “only 1%” may still mean a very large number of people if the population is huge.
 
-The UK Code of Practice for Statistics says producers should present statistics impartially and objectively, avoid misleading communication, and provide clear explanations that support appropriate interpretation. It also says notable misuse should be challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: code.statisticsauthority.gov.uk">[Code of Practice for Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">code.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> These are not technical niceties for statisticians; they are the exact missing pieces readers need when a number is posted without its frame.
+The UK Code of Practice for Statistics says producers should present statistics impartially and objectively, avoid misleading communication, and provide clear explanations that support appropriate interpretation. It also says notable misuse should be challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: code.statisticsauthority.gov.uk">[Code of Practice for Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">code.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> These are not technical niceties for statisticians; they are the exact missing pieces readers need when a number is posted without its frame.
 
-A clear example is Full Fact’s analysis of viral Facebook posts about UK state pensions. The posts treated National Insurance contributions as if they built up in an individual pension pot with interest, then asked why pensioners were not receiving the resulting large sum. The underlying mechanism was wrong: National Insurance operates broadly on a pay-as-you-go basis, funding current pensions and other contributory benefits rather than building an individual investment account. Full Fact also found that even under the posts’ mistaken assumption, the arithmetic was wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again – Full Fact</span><span class="citation-popover-snippet">Full Fact Viral Facebook pension posts get maths wrong again – Full Fact</span></span></span>
+A clear example is Full Fact’s analysis of viral Facebook posts about UK state pensions. The posts treated National Insurance contributions as if they built up in an individual pension pot with interest, then asked why pensioners were not receiving the resulting large sum. The underlying mechanism was wrong: National Insurance operates broadly on a pay-as-you-go basis, funding current pensions and other contributory benefits rather than building an individual investment account. Full Fact also found that even under the posts’ mistaken assumption, the arithmetic was wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again – Full Fact</span><span class="citation-popover-snippet">Full Fact Viral Facebook pension posts get maths wrong again – Full Fact</span></span></span>
 
 That example matters because the claim was not merely a bad calculation. It used the wrong definition of the system. Once the definition changes from “personal investment pot” to “current-year public fund”, the emotional force of the comparison changes too.
 
@@ -459,7 +459,7 @@ Comparisons are persuasive because they seem to answer the reader’s natural qu
 
 A hidden baseline often appears in phrases such as “up by”, “more than”, “worse than”, “highest since” or “only”. These phrases are incomplete unless the reader knows the starting point. “Spending doubled” sounds dramatic, but may be unsurprising if the original figure was unusually low, the population grew, prices rose, or a new duty was added. “Country A has more cases than Country B” may be meaningless without population size, testing rates, age structure or reporting rules.
 
-PolitiFact’s check of a claim that “95%” of gun violence occurs in “inner cities” shows how a denominator can steer interpretation. The source claim relied on county-level concentration, but PolitiFact noted that using all US counties as the baseline can mislead because many counties have very small populations; collectively, large numbers of small counties account for only a tiny share of the population. It also noted that “[inner city]({{ 'inner-city/' | relative_url }})” has no standard federal definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">Politi Fact Is 95% of gun violence occurring in &#x27;inner cities&#x27;?</span><span class="citation-popover-snippet">No10 May 2023 — However, using the nation&#x27;s 3,145 counties as a baseline can be misleading, because the country includes many small-popul...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+PolitiFact’s check of a claim that “95%” of gun violence occurs in “inner cities” shows how a denominator can steer interpretation. The source claim relied on county-level concentration, but PolitiFact noted that using all US counties as the baseline can mislead because many counties have very small populations; collectively, large numbers of small counties account for only a tiny share of the population. It also noted that “[inner city]({{ 'inner-city/' | relative_url }})” has no standard federal definition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">Politi Fact Is 95% of gun violence occurring in &#x27;inner cities&#x27;?</span><span class="citation-popover-snippet">No10 May 2023 — However, using the nation&#x27;s 3,145 counties as a baseline can be misleading, because the country includes many small-popul...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 This is the mechanism behind many [viral charts]({{ 'viral-charts/' | relative_url }}): the comparison unit is technically countable, but not necessarily fair. Counties, countries, age bands, schools, hospitals, social media accounts and time periods can all be used as units. The question is whether the unit matches the claim being made.
 
@@ -471,11 +471,11 @@ A bad comparison may also smuggle in a moral judgement. For example, comparing r
 
 Generative AI does not create the missing-context problem, but it can make it more fluent. A chatbot summary, AI-written caption or synthetic explainer can present an old statistic with clean wording and confident structure, even when the key date, source, denominator or uncertainty has disappeared.
 
-Research on AI-generated misinformation on X, using a dataset of 91,452 misleading posts flagged through Community Notes, found that AI-generated misinformation was more likely to be entertainment-centred, more likely to come from smaller accounts, and more likely to go viral than non-AI-generated misinformation, while being judged slightly less believable and harmful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> That finding is important for missing context because a post does not have to look like formal propaganda to spread. It may look like a witty summary, a neat “explainer”, or a shareable comparison.
+Research on AI-generated misinformation on X, using a dataset of 91,452 misleading posts flagged through Community Notes, found that AI-generated misinformation was more likely to be entertainment-centred, more likely to come from smaller accounts, and more likely to go viral than non-AI-generated misinformation, while being judged slightly less believable and harmful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> That finding is important for missing context because a post does not have to look like formal propaganda to spread. It may look like a witty summary, a neat “explainer”, or a shareable comparison.
 
-AI systems also struggle with temporal context. Recent research on temporal fact conflicts in large language models describes how models can struggle with outdated or evolving information in their training data, and how external context does not always resolve those conflicts reliably across datasets and methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.15892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULANMarch 16, 2026...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span> For readers, the practical lesson is simple: when a claim depends on who currently holds a role, what the latest figures show, or whether a rule has changed, the date of the evidence matters.
+AI systems also struggle with temporal context. Recent research on temporal fact conflicts in large language models describes how models can struggle with outdated or evolving information in their training data, and how external context does not always resolve those conflicts reliably across datasets and methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.15892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULANMarch 16, 2026...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span> For readers, the practical lesson is simple: when a claim depends on who currently holds a role, what the latest figures show, or whether a rule has changed, the date of the evidence matters.
 
-The Reuters Institute’s 2025 work on how people check information found that when users suspect something may be wrong, they rely on a mixed set of sources: news media, official sources, search engines, [fact-checkers]({{ 'fact-checkers/' | relative_url }}), Wikipedia, specialist experts, online personalities, social media and AI chatbots. Younger adults were more likely than older adults to mention comments, social media and AI chatbots as places they would use to check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">Open source on ox.ac.uk.</span></span></span> That makes context literacy more important, because verification is no longer confined to professional sources.
+The Reuters Institute’s 2025 work on how people check information found that when users suspect something may be wrong, they rely on a mixed set of sources: news media, official sources, search engines, [fact-checkers]({{ 'fact-checkers/' | relative_url }}), Wikipedia, specialist experts, online personalities, social media and AI chatbots. Younger adults were more likely than older adults to mention comments, social media and AI chatbots as places they would use to check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">Open source on ox.ac.uk.</span></span></span> That makes context literacy more important, because verification is no longer confined to professional sources.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dfaMdpyaAaU" title="The Media Literacy Crisis Is Crisis-ing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dfaMdpyaAaU" target="_blank" rel="noopener noreferrer">The Media Literacy Crisis Is Crisis-ing</a></p><p class="youtube-embed-meta">Channel: Curiosity Theory &middot; Views: 1.3K &middot; Uploaded: May 2026 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dfaMdpyaAaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dfaMdpyaAaU">Open on YouTube</a></p></div></div></div>
@@ -508,7 +508,7 @@ These questions are especially useful because missing context often survives ord
 
 A trustworthy post does not need to include every caveat, but it should give readers enough frame to interpret the claim. For a statistic, that means the source, date range, population, definition and comparison point. For a video, it means when and where it was filmed. For a chart, it means labelled axes, units, [baselines]({{ 'baselines/' | relative_url }}) and any changes in method.
 
-The Government Statistical Service’s writing guidance says commentary should provide a full picture and help readers understand strengths, limitations, long-term trends and geographical comparisons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics – Government Analysis Function...</span></span></span> The same principle applies to social media, even in compressed form. A short post can still say “per 100,000 people”, “in England and Wales”, “in 2023/24”, “compared with the five-year average”, or “old footage from 2022”.
+The Government Statistical Service’s writing guidance says commentary should provide a full picture and help readers understand strengths, limitations, long-term trends and geographical comparisons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-snippet">ernment Analysis FunctionWriting about statistics – Government Analysis Function...</span></span></span> The same principle applies to social media, even in compressed form. A short post can still say “per 100,000 people”, “in England and Wales”, “in 2023/24”, “compared with the five-year average”, or “old footage from 2022”.
 
 The aim is not to make every reader suspicious of every number. It is to make the missing frame visible. In the age of social media and AI, many misleading claims are not lies in disguise. They are fragments presented as if they were the whole picture. Critical thinking begins when the reader asks what the fragment was cut away from.
 
@@ -517,178 +517,178 @@ The aim is not to make every reader suspicious of every number. It is to make th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Post Leave Out?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Post Leave Out?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly addresses missing context, denominators, and misleading comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses missing context, denominators, and misleading comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains how context omissions distort conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how context omissions distort conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows why trends and statistics need context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why trends and statistics need context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="missing-context-what-did-the-post-leave-out-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -704,7 +704,7 @@ The aim is not to make every reader suspicious of every number. It is to make th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -724,7 +724,7 @@ The aim is not to make every reader suspicious of every number. It is to make th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -756,7 +756,7 @@ The aim is not to make every reader suspicious of every number. It is to make th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -808,7 +808,7 @@ The aim is not to make every reader suspicious of every number. It is to make th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -853,7 +853,7 @@ The aim is not to make every reader suspicious of every number. It is to make th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -894,175 +894,175 @@ The aim is not to make every reader suspicious of every number. It is to make th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: politifact.com  
    Title: Politi Fact Is 95% of gun violence occurring in 'inner cities'?  
-   Link: <a href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No10 May 2023 — However, using the nation&#x27;s 3,145 counties as a baseline can be misleading, because the country includes many small-popul...</p></details>
+   Link:<a href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No10 May 2023 — However, using the nation&#x27;s 3,145 counties as a baseline can be misleading, because the country includes many small-popul...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Characterizing AI-Generated Misinformation on Social Media  
-   Link: <a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
    Published: May 15, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.15892" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.15892</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULANMarch 16, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.15892" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.15892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULANMarch 16, 2026...</p></details>
    Published: March 16, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/how-public-checks-information-it-thinks-might-be-wrong</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2603.11058v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.11058v1</a>  
+   Link:<a href="https://arxiv.org/html/2603.11058v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.11058v1</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.05565v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05565v1</a>  
+   Link:<a href="https://arxiv.org/html/2503.05565v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05565v1</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
+   Link:<a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
+   Link:<a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: analysisfunction.civilservice.gov.uk  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionWriting about statistics – Government Analysis Function...</p></details>
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/writing-about-statistics-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionWriting about statistics – Government Analysis Function...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fullfact.org  
    Title: full fact report 2025  
-   Link: <a href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactFull Fact Report 2025 – Full Fact...</p></details>
+   Link:<a href="https://fullfact.org/policy/reports/full-fact-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/reports/full-fact-report-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactFull Fact Report 2025 – Full Fact...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fullfact.org  
    Title: Full Fact How to spot misleading videos online – Full Fact  
-   Link: <a href="https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/</a>  
+   Link:<a href="https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2018/aug/how-spot-misleading-videos-online/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: code.statisticsauthority.gov.uk  
-   Link: <a href="https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/</a>  
+   Link:<a href="https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/standards-of-the-code-of-practice/standards-for-official-statistics-with-required-practices/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fullfact.org  
    Title: Full Fact Viral Facebook pension posts get maths wrong again – Full Fact  
-   Link: <a href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/</a>  
+   Link:<a href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fullfact.org  
    Title: missing information disappearing archives data sources  
-   Link: <a href="https://fullfact.org/technology/missing-information-disappearing-archives-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/missing-information-disappearing-archives-data-sources/</a>  
+   Link:<a href="https://fullfact.org/technology/missing-information-disappearing-archives-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/technology/missing-information-disappearing-archives-data-sources/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/frequently-asked-questions/</a>  
+   Link:<a href="https://fullfact.org/about/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/frequently-asked-questions/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fullfact.org  
    Title: a year of fact checking the middle east conflict  
-   Link: <a href="https://fullfact.org/blog/2024/oct/a-year-of-fact-checking-the-middle-east-conflict/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2024/oct/a-year-of-fact-checking-the-middle-east-conflict/</a>  
+   Link:<a href="https://fullfact.org/blog/2024/oct/a-year-of-fact-checking-the-middle-east-conflict/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/blog/2024/oct/a-year-of-fact-checking-the-middle-east-conflict/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fullfact.org  
    Title: covid vaccine rap battle  
-   Link: <a href="https://fullfact.org/health/covid-vaccine-rap-battle/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/health/covid-vaccine-rap-battle/</a>  
+   Link:<a href="https://fullfact.org/health/covid-vaccine-rap-battle/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/health/covid-vaccine-rap-battle/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/about/[corrections" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/[corrections</a>  
+   Link:<a href="https://fullfact.org/about/[corrections" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/about/[corrections</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fullfact.org  
    Title: china gaza planes aid pyramids claimfalse  
-   Link: <a href="https://fullfact.org/conflict/china-gaza-planes-aid-pyramids-claimfalse/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/conflict/china-gaza-planes-aid-pyramids-claimfalse/</a>  
+   Link:<a href="https://fullfact.org/conflict/china-gaza-planes-aid-pyramids-claimfalse/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/conflict/china-gaza-planes-aid-pyramids-claimfalse/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fullfact.org  
    Title: penalty charge notice  
-   Link: <a href="https://fullfact.org/online/penalty-charge-notice/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/penalty-charge-notice/</a>  
+   Link:<a href="https://fullfact.org/online/penalty-charge-notice/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/penalty-charge-notice/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: statisticsauthority.gov.uk Guidance  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/guidance/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/guidance/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: short guide to code of practice standard six be rigorous  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/guidance/short-guide-to-code-of-practice-standard-six-be-rigorous/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/short-guide-to-code-of-practice-standard-six-be-rigorous/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/guidance/short-guide-to-code-of-practice-standard-six-be-rigorous/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/short-guide-to-code-of-practice-standard-six-be-rigorous/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: osr.statisticsauthority.gov.uk  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/wp-content/uploads/2023/02/OSR_Statistical_Literacy_Research_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/wp-content/uploads/2023/02/OSR_Statistical_Literacy_Research_Report.pdf</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/wp-content/uploads/2023/02/OSR_Statistical_Literacy_Research_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/wp-content/uploads/2023/02/OSR_Statistical_Literacy_Research_Report.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: GOV.UK  
    Title: guidance on accessing and using comparable datasets for uk government officials  
-   Link: <a href="https://www.gov.uk/government/publications/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials</a>  
+   Link:<a href="https://www.gov.uk/government/publications/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials/guidance-on-accessing-and-using-comparable-datasets-for-uk-government-officials</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.ons.gov.uk  
    Title: the truth behind the numbers spotting statistical misuse  
-   Link: <a href="https://blog.ons.gov.uk/2025/02/17/the-truth-behind-the-numbers-spotting-statistical-misuse/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ons.gov.uk/2025/02/17/the-truth-behind-the-numbers-spotting-statistical-misuse/</a>  
+   Link:<a href="https://blog.ons.gov.uk/2025/02/17/the-truth-behind-the-numbers-spotting-statistical-misuse/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ons.gov.uk/2025/02/17/the-truth-behind-the-numbers-spotting-statistical-misuse/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How (Not) to Lie with Data Visualisations  
-   Link: <a href="https://www.youtube.com/watch?v=2204fMpL84E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2204fMpL84E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSMC 2024 | The Subtle Art of Lying with Statistics by Dave McAllister...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2204fMpL84E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2204fMpL84E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSMC 2024 | The Subtle Art of Lying with Statistics by Dave McAllister...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Media Literacy Crisis Is Crisis-ing  
-   Link: <a href="https://www.youtube.com/watch?v=dfaMdpyaAaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dfaMdpyaAaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How (Not) to Lie with Data Visualisations - Curtis Wilson - NIDC 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dfaMdpyaAaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dfaMdpyaAaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How (Not) to Lie with Data Visualisations - Curtis Wilson - NIDC 2025...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: globalfactcheck.org  
-   Link: <a href="https://www.globalfactcheck.org/documents/2019-06-27%20RoyalStatScandal.%20%20Documentary%20evidence%20-%20Royal%20Statistical%20Society%20false%20and%20misleading%20claims.%20%20Matt%20Berkley%20draft%20192.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globalfactcheck.org/documents/2019-06-27%20RoyalStatScandal.%20%20Documentary%20evidence%20-%20Royal%20Statistical%20Society%20false%20and%20misleading%20claims.%20%20Matt%20Berkley%20draft%20192.pdf</a>  
+   Link:<a href="https://www.globalfactcheck.org/documents/2019-06-27%20RoyalStatScandal.%20%20Documentary%20evidence%20-%20Royal%20Statistical%20Society%20false%20and%20misleading%20claims.%20%20Matt%20Berkley%20draft%20192.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globalfactcheck.org/documents/2019-06-27%20RoyalStatScandal.%20%20Documentary%20evidence%20-%20Royal%20Statistical%20Society%20false%20and%20misleading%20claims.%20%20Matt%20Berkley%20draft%20192.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362867698_Identifying_the_Drivers_Behind_the_Dissemination_of_Online_Misinformation_A_Study_on_Political_Attitudes_and_Individual_Characteristics_in_the_Context_of_Engaging_With_Misinformation_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362867698_Identifying_the_Drivers_Behind_the_Dissemination_of_Online_Misinformation_A_Study_on_Political_Attitudes_and_Individual_Characteristics_in_the_Context_of_Engaging_With_Misinformation_on_Social_Media</a>  
+   Link:<a href="https://www.researchgate.net/publication/362867698_Identifying_the_Drivers_Behind_the_Dissemination_of_Online_Misinformation_A_Study_on_Political_Attitudes_and_Individual_Characteristics_in_the_Context_of_Engaging_With_Misinformation_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362867698_Identifying_the_Drivers_Behind_the_Dissemination_of_Online_Misinformation_A_Study_on_Political_Attitudes_and_Individual_Characteristics_in_the_Context_of_Engaging_With_Misinformation_on_Social_Media</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/d7b22abc420a0732ca16c277f0b54822" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/d7b22abc420a0732ca16c277f0b54822</a>  
+   Link:<a href="https://www.scilit.com/publications/d7b22abc420a0732ca16c277f0b54822" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/d7b22abc420a0732ca16c277f0b54822</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: mtu.edu  
-   Link: <a href="https://www.mtu.edu/badinfo/" target="_blank" rel="noopener noreferrer nofollow">https://www.mtu.edu/badinfo/</a>  
+   Link:<a href="https://www.mtu.edu/badinfo/" target="_blank" rel="noopener noreferrer nofollow">https://www.mtu.edu/badinfo/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340810923_Causes_of_Misleading_Statistics_and_Research_Results_Irreproducibility_A_Concise_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340810923_Causes_of_Misleading_Statistics_and_Research_Results_Irreproducibility_A_Concise_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/340810923_Causes_of_Misleading_Statistics_and_Research_Results_Irreproducibility_A_Concise_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340810923_Causes_of_Misleading_Statistics_and_Research_Results_Irreproducibility_A_Concise_Review</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: stratcomcoe.org  
-   Link: <a href="https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf</a>  
+   Link:<a href="https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40khaoujai/how-large-language-models-detect-misinformation-391f84fd5f7b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40khaoujai/how-large-language-models-detect-misinformation-391f84fd5f7b</a>  
+   Link:<a href="https://medium.com/%40khaoujai/how-large-language-models-detect-misinformation-391f84fd5f7b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40khaoujai/how-large-language-models-detect-misinformation-391f84fd5f7b</a>  

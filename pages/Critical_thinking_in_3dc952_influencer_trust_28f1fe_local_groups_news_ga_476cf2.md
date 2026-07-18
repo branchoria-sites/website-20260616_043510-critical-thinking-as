@@ -294,7 +294,7 @@ People naturally place weight on information from those who appear to share thei
 
 Unlike a newspaper article, a Facebook post may come from someone who says, “I was there”, “my neighbour saw it” or “this happened outside my child’s school”. Even when evidence is incomplete, the claim feels close to everyday experience. The social relationship becomes part of the credibility assessment.
 
-Research on Facebook groups has found that local groups frequently reflect and reinforce existing community ties and forms of social capital, meaning that trust built offline can carry into online information-sharing. People often judge claims through community relationships rather than formal verification processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2201.12513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Geography of Facebook Groups in the United States</span><span class="citation-popover-snippet">The Geography of Facebook Groups in the United StatesJanuary 29, 2022...</span><span class="citation-popover-meta">Published: January 29, 2022</span></span></span>
+Research on Facebook groups has found that local groups frequently reflect and reinforce existing community ties and forms of social capital, meaning that trust built offline can carry into online information-sharing. People often judge claims through community relationships rather than formal verification processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2201.12513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Geography of Facebook Groups in the United States</span><span class="citation-popover-snippet">The Geography of Facebook Groups in the United StatesJanuary 29, 2022...</span><span class="citation-popover-meta">Published: January 29, 2022</span></span></span>
 
 This can be valuable. Residents often know local conditions better than national media outlets. They may provide rapid warnings about flooding, transport disruptions or public safety concerns. However, the same trust mechanism can also allow rumours to circulate quickly because group members may assume that a familiar voice is a reliable source.
 
@@ -328,13 +328,13 @@ As a result, a post that begins as uncertainty—“I heard there was an inciden
 
 The growth of local Facebook groups as news substitutes is closely connected to the decline of local journalism.
 
-Across many countries, researchers have documented the emergence of “[news deserts]({{ 'news-deserts/' | relative_url }})”: places with little or no consistent local reporting. When newspapers close or significantly reduce coverage, communities lose routine reporting on councils, schools, policing, health services and local politics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjproject.org">[Charitable Journalism Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjproject.org</span><span class="citation-popover-title">local news deserts in the uk</span><span class="citation-popover-snippet">Charitable Journalism ProjectLOCAL NEWS DESERTS IN THE UKJune 14, 2022 — 14 Jun 2022 — The Charitable Journalism Project was formed to re...</span><span class="citation-popover-meta">Published: June 14, 2022</span></span></span>
+Across many countries, researchers have documented the emergence of “[news deserts]({{ 'news-deserts/' | relative_url }})”: places with little or no consistent local reporting. When newspapers close or significantly reduce coverage, communities lose routine reporting on councils, schools, policing, health services and local politics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjproject.org">[Charitable Journalism Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjproject.org</span><span class="citation-popover-title">local news deserts in the uk</span><span class="citation-popover-snippet">Charitable Journalism ProjectLOCAL NEWS DESERTS IN THE UKJune 14, 2022 — 14 Jun 2022 — The Charitable Journalism Project was formed to re...</span><span class="citation-popover-meta">Published: June 14, 2022</span></span></span>
 
-Studies and industry reports have found that people increasingly turn to Facebook and similar platforms to fill these information gaps. A UK study on local news deserts reported that many residents now obtain local information primarily through Facebook rather than local newspapers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-snippet">City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</span></span></span>
+Studies and industry reports have found that people increasingly turn to Facebook and similar platforms to fill these information gaps. A UK study on local news deserts reported that many residents now obtain local information primarily through Facebook rather than local newspapers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-snippet">City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</span></span></span>
 
-Recent research has highlighted the risks. Analysis by the Social Market Foundation found substantially higher levels of misinformation in local online groups located in areas with weaker local journalism. Researchers observed false claims, fabricated local authority messages, misleading images and other forms of inaccurate content circulating through community networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</span></span></span>
+Recent research has highlighted the risks. Analysis by the Social Market Foundation found substantially higher levels of misinformation in local online groups located in areas with weaker local journalism. Researchers observed false claims, fabricated local authority messages, misleading images and other forms of inaccurate content circulating through community networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</span></span></span>
 
-The relationship is not entirely straightforward. Some academic research has found little evidence that people in news deserts automatically consume more low-quality websites than other populations. Instead, many continue to access mainstream national news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An evaluation of online information acquisition in US news...by KT Greene · 2024 · Cited by 8 — We find little evidence that those in...</span></span></span>
+The relationship is not entirely straightforward. Some academic research has found little evidence that people in news deserts automatically consume more low-quality websites than other populations. Instead, many continue to access mainstream national news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An evaluation of online information acquisition in US news...by KT Greene · 2024 · Cited by 8 — We find little evidence that those in...</span></span></span>
 
 However, even where national news remains available, it often does not answer highly local questions:
 
@@ -379,9 +379,9 @@ These reactions can create an illusion of confirmation. In reality, many comment
 
 This dynamic is especially important in discussions about crime, immigration, public safety, schools or local politics. Once a narrative becomes established within a group, later [corrections]({{ 'corrections/' | relative_url }}) may receive less attention than the original post.
 
-Research examining local misinformation has found that false or misleading content can become embedded within community discussions, particularly where trusted local reporting is limited. The effect is not simply technological; it is social. People trust information because other members of their community appear to trust it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF+2Smart Thinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</span></span></span>
+Research examining local misinformation has found that false or misleading content can become embedded within community discussions, particularly where trusted local reporting is limited. The effect is not simply technological; it is social. People trust information because other members of their community appear to trust it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smf.co.uk">[SMF+2Smart Thinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smf.co.uk</span><span class="citation-popover-snippet">cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</span></span></span>
 
-AI-generated images, fabricated screenshots and edited videos increase this challenge. Community members may assume that locally relevant content is genuine because it concerns familiar places or institutions, even when the underlying material has been manipulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+AI-generated images, fabricated screenshots and edited videos increase this challenge. Community members may assume that locally relevant content is genuine because it concerns familiar places or institutions, even when the underlying material has been manipulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UT3KBYEOkXY" title="LEFT UNCOVERED: News deserts and North Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UT3KBYEOkXY" target="_blank" rel="noopener noreferrer">LEFT UNCOVERED: News deserts and North Carolina</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 289 &middot; Uploaded: June 2026 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UT3KBYEOkXY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UT3KBYEOkXY">Open on YouTube</a></p></div></div></div>
@@ -425,194 +425,194 @@ Local Facebook groups illustrate a broader lesson about information and trust. P
 That trust can provide valuable local knowledge. It can also encourage people to accept claims that have never undergone basic verification. As local journalism contracts in some areas, the temptation to treat community discussion as a substitute for reporting becomes stronger. Critical thinking requires recognising the difference between information that feels local and information that has actually been checked. The two often overlap, but they are not the same thing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Local Trust Replaces Local Reporting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Local Trust Replaces Local Reporting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how online communities amplify information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how online communities amplify information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Addresses misinformation in community settings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses misinformation in community settings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence over anecdote and local rumour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence over anecdote and local rumour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="local-groups-23e450-when-local-trust-replaces-local-reporting-critical-thinking-in-the-age-of-so-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ That trust can provide valuable local knowledge. It can also encourage people to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ That trust can provide valuable local knowledge. It can also encourage people to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ That trust can provide valuable local knowledge. It can also encourage people to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ That trust can provide valuable local knowledge. It can also encourage people to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ That trust can provide valuable local knowledge. It can also encourage people to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,154 +818,154 @@ That trust can provide valuable local knowledge. It can also encourage people to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv The Geography of Facebook Groups in the United States  
-   Link: <a href="https://arxiv.org/abs/2201.12513" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.12513</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Geography of Facebook Groups in the United StatesJanuary 29, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2201.12513" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.12513</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Geography of Facebook Groups in the United StatesJanuary 29, 2022...</p></details>
    Published: January 29, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</p></details>
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cebook groups... 1 in 5 &#x27;fake news&#x27; (19%) posts analysed on Facebook groups...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news nearly three times more common in areas...5 days ago — Analysis of four Facebook groups in Gorton and Denton during the recent...</p></details>
+   Link:<a href="https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/fake-news-nearly-three-times-more-common-in-areas-without-local-journalism-and-spikes-during-elections-new-research-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news nearly three times more common in areas...5 days ago — Analysis of four Facebook groups in Gorton and Denton during the recent...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An evaluation of online information acquisition in US news...by KT Greene · 2024 · Cited by 8 — We find little evidence that those in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An evaluation of online information acquisition in US news...by KT Greene · 2024 · Cited by 8 — We find little evidence that those in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/business/help/315131736305613?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/315131736305613?locale=en_GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking policies on Facebook, Instagram and ThreadsThe focus of this fact-checking programme is identifying and addressing viral mi...</p></details>
+   Link:<a href="https://www.facebook.com/business/help/315131736305613?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/315131736305613?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking policies on Facebook, Instagram and ThreadsThe focus of this fact-checking programme is identifying and addressing viral mi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>l news outlets, a new report has found. Research from the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/384926985723985/posts/1751943585688978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/384926985723985/posts/1751943585688978/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l news outlets, a new report has found. Research from the...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: The Guardian  
-   Link: <a href="https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation reveals more than 4.4 million...This lack of local reporting is clearly contributing to the spread of misinformation - we...</p></details>
+   Link:<a href="https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/photos/investigation-reveals-more-than-44-million-people-live-in-news-deserts-that-lack/1429000595924856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation reveals more than 4.4 million...This lack of local reporting is clearly contributing to the spread of misinformation - we...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/2243057433190633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/2243057433190633/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>usted local news outlets, a new report has found...</p></details>
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/2243057433190633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/2243057433190633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usted local news outlets, a new report has found...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local journalism decline spreads misinformationHow local journalism can upend the &#x27;fake news&#x27; narrative. Koulay... misinformation and sm...</p></details>
+   Link:<a href="https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/enemyofthepeople/posts/10174691490960058/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local journalism decline spreads misinformationHow local journalism can upend the &#x27;fake news&#x27; narrative. Koulay... misinformation and sm...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: When local news disappears, social media fills the void  
-   Link: <a href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utcpwphDjdE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=utcpwphDjdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utcpwphDjdE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cjproject.org  
    Title: local news deserts in the uk  
-   Link: <a href="https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charitable Journalism ProjectLOCAL NEWS DESERTS IN THE UKJune 14, 2022 — 14 Jun 2022 — The Charitable Journalism Project was formed to re...</p></details>
+   Link:<a href="https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cjproject.org/wp-content/uploads/2022/06/local-news-deserts-in-the-uk.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charitable Journalism ProjectLOCAL NEWS DESERTS IN THE UKJune 14, 2022 — 14 Jun 2022 — The Charitable Journalism Project was formed to re...</p></details>
    Published: June 14, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: citystgeorges.ac.uk  
-   Link: <a href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</p></details>
+   Link:<a href="https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/news-and-events/news/2022/06/uk-towns-have-become-news-deserts-as-people-get-their-news-from-facebook-rather-local-papers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City St George&#x27;s, University of LondonUK towns have become &#x27;news deserts&#x27; as people get their...17 Jun 2022 — A new Charitable Journalis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smartthinking.org.uk  
-   Link: <a href="https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local misinformation: social media groups and the role of...5 days ago — The SMF has carried out research into usage of and trust in loc...</p></details>
+   Link:<a href="https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://smartthinking.org.uk/event/local-misinformation-social-media-groups-and-the-role-of-local-journalism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local misinformation: social media groups and the role of...5 days ago — The SMF has carried out research into usage of and trust in loc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: British armed forces intercept Russian shadow fleet vessel in Channel  
-   Link: <a href="https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from the Guardian, the world&#x27;s leading liberal voice...</p></details>
+   Link:<a href="https://www.theguardian.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from the Guardian, the world&#x27;s leading liberal voice...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: transparency.meta.com  
-   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
+   Link:<a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — Similar to disinformation, “fake news” is defined as information presented as news that is intentio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — Similar to disinformation, “fake news” is defined as information presented as news that is intentio...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors and MisinformationMisinformation and disinformation are elements of “fake news”, defined by scholars as “fabricated information th...</p></details>
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors and MisinformationMisinformation and disinformation are elements of “fake news”, defined by scholars as “fabricated information th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: usnewsdeserts.com  
-   Link: <a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local newspapers, the implications...</p></details>
+   Link:<a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local newspapers, the implications...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.com  
-   Link: <a href="https://x.com/pressgazette/status/2064262530579476726" target="_blank" rel="noopener noreferrer nofollow">https://x.com/pressgazette/status/2064262530579476726</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformationA report from the Social Market Foundation has found areas deemed local news deserts h...</p></details>
+   Link:<a href="https://x.com/pressgazette/status/2064262530579476726" target="_blank" rel="noopener noreferrer nofollow">https://x.com/pressgazette/status/2064262530579476726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hidden threat of unchecked local misinformationA report from the Social Market Foundation has found areas deemed local news deserts h...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/video/social-media-news-desert-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/video/social-media-news-desert-june-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the voidHowever, these platforms lack journalistic integrity, leading to rampant misinform...</p></details>
+   Link:<a href="https://www.wral.com/video/social-media-news-desert-june-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/video/social-media-news-desert-june-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the voidHowever, these platforms lack journalistic integrity, leading to rampant misinform...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: policyalternatives.ca  
    Title: quality not just quantity of news outlets matter especially in rural canada  
-   Link: <a href="https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts appear to be no more susceptible to misinformation than those who are served by local news media. This may have a lot to do...</p></details>
+   Link:<a href="https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.policyalternatives.ca/news-research/quality-not-just-quantity-of-news-outlets-matter-especially-in-rural-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news deserts appear to be no more susceptible to misinformation than those who are served by local news media. This may have a lot to do...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: news deserts social media local news medill survey  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no local news, those in news deserts turn to social media...10 Feb 2026 — Residents who attend local government meetings aren&#x27;t fully in...</p></details>
+   Link:<a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no local news, those in news deserts turn to social media...10 Feb 2026 — Residents who attend local government meetings aren&#x27;t fully in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: localnewsresearchproject.ca  
    Title: the rise of news deserts local journalism in crisis  
-   Link: <a href="https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2025, 603 local news outlets closed in 388 communities across Canada. Only 264 have launched and survived over the...Read more...</p></details>
+   Link:<a href="https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsresearchproject.ca/2025/10/31/the-rise-of-news-deserts-local-journalism-in-crisis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2025, 603 local news outlets closed in 388 communities across Canada. Only 264 have launched and survived over the...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Death of Local News is Killing American Democracy  
-   Link: <a href="https://www.youtube.com/watch?v=VKHhdO5JUTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VKHhdO5JUTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos directly addresses how the decline of traditional media creates &quot;news deserts,&quot; forcing communities to rely on a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VKHhdO5JUTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VKHhdO5JUTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos directly addresses how the decline of traditional media creates &quot;news deserts,&quot; forcing communities to rely on a...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Community Resilience Approach to Understanding News...by JR Collier · 2025 · Cited by 1 — This research asks: what can we learn from n...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2574935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Community Resilience Approach to Understanding News...by JR Collier · 2025 · Cited by 1 — This research asks: what can we learn from n...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=L1NSNYbCoew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1NSNYbCoew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the void...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L1NSNYbCoew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1NSNYbCoew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When local news disappears, social media fills the void...</p></details>

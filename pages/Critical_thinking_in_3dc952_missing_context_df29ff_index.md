@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-missing/
 description: Focused pages that expand on Missing Context.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_missing_context_df29ff
 parent_title: Missing Context
@@ -16,7 +16,7 @@ parent_permalink: /missing-context/
 
 # Explore Topics in Missing Context
 
-The following pages expand on the main **[Missing Context]({{ '/missing-context/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Missing Context]({{ '/missing-context/' | relative_url }})** page and cover its key branches in.
 
 - [AI Caveats]({{ '/ai-caveats/' | relative_url }})
 - [Baselines]({{ '/baselines/' | relative_url }})

@@ -280,17 +280,17 @@ image: /assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_com
 
 ## Introduction
 
-Community Notes and similar crowd-sourced correction systems can reduce the spread of misleading posts once a correction becomes visible. The problem is timing. A misleading claim may collect most of its attention before a note appears, and screenshots taken during that early period can continue circulating long after the original post has been corrected. In the context of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}), this creates a gap between a platform’s live governance tools and the wider information ecosystem. A corrected post may be less misleading on the platform where the note appears, yet copies of the earlier version can keep moving through group chats, reposts, image shares and other platforms without carrying the later context. Research increasingly suggests that [corrections]({{ 'corrections/' | relative_url }}) work, but that their effectiveness is constrained by delays and by the persistence of screenshots detached from their original source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2Justus-Liebig-Universität Gießen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
+Community Notes and similar crowd-sourced correction systems can reduce the spread of misleading posts once a correction becomes visible. The problem is timing. A misleading claim may collect most of its attention before a note appears, and screenshots taken during that early period can continue circulating long after the original post has been corrected. In the context of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}), this creates a gap between a platform’s live governance tools and the wider information ecosystem. A corrected post may be less misleading on the platform where the note appears, yet copies of the earlier version can keep moving through group chats, reposts, image shares and other platforms without carrying the later context. Research increasingly suggests that [corrections]({{ 'corrections/' | relative_url }}) work, but that their effectiveness is constrained by delays and by the persistence of screenshots detached from their original source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2Justus-Liebig-Universität Gießen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-1-dark.svg" | relative_url }}" alt="Late Notes illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Live Correction Labels Can Add
 
-Community Notes on X are designed to allow contributors to add context to potentially misleading posts. Notes become visible only after they receive sufficient agreement from contributors with differing viewpoints, creating a form of crowd-based review rather than a simple majority vote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+Community Notes on X are designed to allow contributors to add context to potentially misleading posts. Notes become visible only after they receive sufficient agreement from contributors with differing viewpoints, creating a form of crowd-based review rather than a simple majority vote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
-When a note is attached, it can change how users interpret a claim. Multiple studies have found that community-generated corrections reduce engagement, lower willingness to share misleading content and increase the likelihood that authors delete problematic posts. Large-scale analyses of hundreds of thousands of misinformation cascades report substantial reductions in reposting after notes become visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[Nature+3PNAS+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
+When a note is attached, it can change how users interpret a claim. Multiple studies have found that community-generated corrections reduce engagement, lower willingness to share misleading content and increase the likelihood that authors delete problematic posts. Large-scale analyses of hundreds of thousands of misinformation cascades report substantial reductions in reposting after notes become visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[Nature+3PNAS+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
 
-For readers evaluating [evidence]({{ 'evidence/' | relative_url }}), this means a live post containing a visible correction is not the same object as an uncorrected screenshot. The note supplies additional information about disputed facts, [missing context]({{ 'missing-context/' | relative_url }}) or misleading framing. It may also link to supporting sources. A screenshot captured before the note appeared lacks all of that later information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+For readers evaluating [evidence]({{ 'evidence/' | relative_url }}), this means a live post containing a visible correction is not the same object as an uncorrected screenshot. The note supplies additional information about disputed facts, [missing context]({{ 'missing-context/' | relative_url }}) or misleading framing. It may also link to supporting sources. A screenshot captured before the note appeared lacks all of that later information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
 The important critical-thinking point is that a screenshot freezes one moment in a post’s history. Community Notes operate on the current version of that history.
 
@@ -315,7 +315,7 @@ Once this happens, viewers may encounter the claim without ever seeing the subse
 
 This creates what might be called a screenshot afterlife: the continued circulation of a captured version of a post after the platform's governance mechanisms have updated the original. The screenshot may be technically authentic—it may genuinely show what the post looked like at a particular moment—yet still be incomplete evidence because it omits everything that happened afterwards.
 
-The issue is especially significant during fast-moving news events. Analyses of Community Notes during major breaking-news periods found that many notes appeared hours after misleading claims had already spread widely. Researchers examining misinformation on X repeatedly found that notes often arrive after the most viral stage of dissemination has already occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Although community notes are broadly</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Additionally, community notes increase the...</span></span></span>
+The issue is especially significant during fast-moving news events. Analyses of Community Notes during major breaking-news periods found that many notes appeared hours after misleading claims had already spread widely. Researchers examining misinformation on X repeatedly found that notes often arrive after the most viral stage of dissemination has already occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Although community notes are broadly</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Additionally, community notes increase the...</span></span></span>
 
 In practical terms, a screenshot captured during those early hours can continue travelling even if the original post later receives a correction.
 
@@ -326,11 +326,11 @@ In practical terms, a screenshot captured during those early hours can continue 
 
 A common misunderstanding is that the key question is whether Community Notes are accurate. Accuracy matters, but timing can matter just as much.
 
-Several studies report that published notes are often useful and factually strong. Research on vaccine misinformation, for example, found high levels of accuracy in examined notes. Other experimental work suggests users trust and respond to community-generated contextual labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-snippet">UC San Diego TodayStudy Finds X&#x27;s Community Notes Provides Accurate Responses to...April 24, 2024 — A new UC San Diego-led study publish...</span><span class="citation-popover-meta">Published: April 24, 2024</span></span></span>
+Several studies report that published notes are often useful and factually strong. Research on vaccine misinformation, for example, found high levels of accuracy in examined notes. Other experimental work suggests users trust and respond to community-generated contextual labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-snippet">UC San Diego TodayStudy Finds X&#x27;s Community Notes Provides Accurate Responses to...April 24, 2024 — A new UC San Diego-led study publish...</span><span class="citation-popover-meta">Published: April 24, 2024</span></span></span>
 
 However, effectiveness depends on when readers encounter the correction.
 
-Research examining Community Notes has repeatedly identified delays as a major limitation. Studies have found that notes may appear many hours after a post begins spreading, while some analyses report average publication delays measured in days rather than minutes. Researchers have therefore argued that notes are frequently too slow to intervene during the period when engagement is highest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[Digital Democracy Institute+3arXiv+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Timeliness, Consensus, and Composition of the Crowd: Community Notes on XOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span>
+Research examining Community Notes has repeatedly identified delays as a major limitation. Studies have found that notes may appear many hours after a post begins spreading, while some analyses report average publication delays measured in days rather than minutes. Researchers have therefore argued that notes are frequently too slow to intervene during the period when engagement is highest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[Digital Democracy Institute+3arXiv+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Timeliness, Consensus, and Composition of the Crowd: Community Notes on XOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span>
 
 This timing problem interacts directly with screenshots:
 
@@ -377,7 +377,7 @@ But it may not answer:
 * Was the claim later corrected?
 * Did the author retract it?
 * Did additional evidence emerge?
-* Was a Community Note added? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Community Notes that are rated as helpful are then displayed beneath the post for...</span></span></span>
+* Was a Community Note added?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Community Notes that are rated as helpful are then displayed beneath the post for...</span></span></span>
 * Did the platform remove the content?
 
 </div>
@@ -395,7 +395,7 @@ Several checks can help:
 
 **Look for the original post.** If a link, username or date is visible, search for the live version rather than relying on the image alone.
 
-**Check for Community Notes or other labels.** The current post may contain context that did not exist when the screenshot was captured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+**Check for Community Notes or other labels.** The current post may contain context that did not exist when the screenshot was captured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
 **Compare timestamps.** A screenshot only proves what was visible at the moment it was taken. It does not prove that the same information remained unchanged afterwards.
 
@@ -409,7 +409,7 @@ These checks do not guarantee truth, but they help prevent a common reasoning er
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-3-dark.svg" | relative_url }}" alt="Late Notes illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_community_notes_scre_fa6f89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Governance Challenge
 
-Community Notes illustrate both the strengths and limits of platform-based correction systems. Evidence increasingly suggests that visible notes can reduce the spread and influence of misleading content. Yet the same research highlights a structural challenge: information moves quickly, while consensus-based correction takes time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[Nature+3PNAS+3LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
+Community Notes illustrate both the strengths and limits of platform-based correction systems. Evidence increasingly suggests that visible notes can reduce the spread and influence of misleading content. Yet the same research highlights a structural challenge: information moves quickly, while consensus-based correction takes time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[Nature+3PNAS+3LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
 
 Screenshots exploit that gap. They allow an earlier version of a post to travel independently of the platform mechanisms designed to add context. As a result, a corrected post and a circulating screenshot of that post can tell different stories about the same event.
 
@@ -420,178 +420,178 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Corrections Cannot Catch in Time. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Corrections Cannot Catch in Time. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating questionable information and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating questionable information and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating claims and corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating claims and corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based thinking and caution with narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based thinking and caution with narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="late-notes-34de48-what-corrections-cannot-catch-in-time-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,156 +797,156 @@ For readers assessing evidence online, the lesson is straightforward: a screensh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
    Title: Although community notes are broadly  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Additionally, community notes increase the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Additionally, community notes increase the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — Studies investigating the effectiveness of these l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — Studies investigating the effectiveness of these l...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
+   Link:<a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
+   Link:<a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaAltogether, these results imply that community notes consistently impro...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaAltogether, these results imply that community notes consistently impro...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeliness, Consensus, and Composition of the Crowd: Community Notes on XOctober 14, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timeliness, Consensus, and Composition of the Crowd: Community Notes on XOctober 14, 2025...</p></details>
    Published: October 14, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uni-giessen.de  
-   Link: <a href="https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, notes often appear too late to prevent...Read more...</p></details>
+   Link:<a href="https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, notes often appear too late to prevent...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: help.x.com  
-   Link: <a href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow">https://help.x.com/en/using-x/community-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterAbout Community Notes on XCommunity Notes aim to create a better informed world by empowering people on X to collaboratively a...</p></details>
+   Link:<a href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow">https://help.x.com/en/using-x/community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterAbout Community Notes on XCommunity Notes aim to create a better informed world by empowering people on X to collaboratively a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: today.ucsd.edu  
-   Link: <a href="https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodayStudy Finds X&#x27;s Community Notes Provides Accurate Responses to...April 24, 2024 — A new UC San Diego-led study publish...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodayStudy Finds X&#x27;s Community Notes Provides Accurate Responses to...April 24, 2024 — A new UC San Diego-led study publish...</p></details>
    Published: April 24, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ddia.org  
    Title: a deep dive into xs community notes report  
-   Link: <a href="https://ddia.org/en/a-deep-dive-into-xs-community-notes-report" target="_blank" rel="noopener noreferrer nofollow">https://ddia.org/en/a-deep-dive-into-xs-community-notes-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into X&#x27;s Community Notes9 Jul 2025 — A 14-day lag is still too slow to counter the rapid viral spread of online misinformatio...</p></details>
+   Link:<a href="https://ddia.org/en/a-deep-dive-into-xs-community-notes-report" target="_blank" rel="noopener noreferrer nofollow">https://ddia.org/en/a-deep-dive-into-xs-community-notes-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into X&#x27;s Community Notes9 Jul 2025 — A 14-day lag is still too slow to counter the rapid viral spread of online misinformatio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.lse.ac.uk  
    Title: LSE Blogs Do Community Notes work?  
-   Link: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsDo Community Notes work? - LSE Impact14 Jan 2025 — This study found that notes on inaccurate tweets reduce retweets by half, and...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsDo Community Notes work? - LSE Impact14 Jan 2025 — This study found that notes on inaccurate tweets reduce retweets by half, and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: x.com  
-   Link: <a href="https://x.com/CommunityNotes" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CommunityNotes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes (@CommunityNotes) / Posts / XTop-performing AI Note Writers can now access an even larger set of posts, making it possibl...</p></details>
+   Link:<a href="https://x.com/CommunityNotes" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CommunityNotes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes (@CommunityNotes) / Posts / XTop-performing AI Note Writers can now access an even larger set of posts, making it possibl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/CommunityNotes/status/1882183383855362308" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CommunityNotes/status/1882183383855362308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesStarting today, you can add a source when you request a Community Note. This makes it easier for note writers to understan...</p></details>
+   Link:<a href="https://x.com/CommunityNotes/status/1882183383855362308" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CommunityNotes/status/1882183383855362308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesStarting today, you can add a source when you request a Community Note. This makes it easier for note writers to understan...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: transparency.meta.com  
    Title: community notes  
-   Link: <a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We remove misinformation where it is likely to directly contribute to the risk...Read more...</p></details>
+   Link:<a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We remove misinformation where it is likely to directly contribute to the risk...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Community Notes on posts reduces eng...</p></details>
+   Link:<a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Community Notes on posts reduces eng...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: giesbusiness.illinois.edu  
    Title: study community notes on x could be key to curbing misinformation  
-   Link: <a href="https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illinois.eduStudy: Community Notes on X could be key to curbing misinformationNovember 18, 2024 — Gies research reveals that crowd-source...</p></details>
+   Link:<a href="https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illinois.eduStudy: Community Notes on X could be key to curbing misinformationNovember 18, 2024 — Gies research reveals that crowd-source...</p></details>
    Published: November 18, 2024  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes that are rated as helpful are then displayed beneath the post for...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Screenshot-of-X-Community-Notes-added-context-under-posts-from-the-walkthrough-analysis_fig4_394083212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes that are rated as helpful are then displayed beneath the post for...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: about.fb.com  
    Title: That's the broad approach we are adopting  
-   Link: <a href="https://about.fb.com/news/2025/03/testing-begins-community-notes-facebook-instagram-threads/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/03/testing-begins-community-notes-facebook-instagram-threads/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Begins for Community Notes on Facebook, Instagram...13 Mar 2025 — Many of you will be familiar with X&#x27;s Community Notes system, in which...</p></details>
+   Link:<a href="https://about.fb.com/news/2025/03/testing-begins-community-notes-facebook-instagram-threads/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/03/testing-begins-community-notes-facebook-instagram-threads/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Begins for Community Notes on Facebook, Instagram...13 Mar 2025 — Many of you will be familiar with X&#x27;s Community Notes system, in which...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: washington.edu  
    Title: community notes x false information viral  
-   Link: <a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</p></details>
+   Link:<a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rochester.edu  
    Title: The most effective online fact-checkers?  
-   Link: <a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/" target="_blank" rel="noopener noreferrer nofollow">https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your peersNovember 17, 2025 — Research shows that being called out by peers, not algorithms or experts, makes online authors think twice...</p></details>
+   Link:<a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/" target="_blank" rel="noopener noreferrer nofollow">https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your peersNovember 17, 2025 — Research shows that being called out by peers, not algorithms or experts, makes online authors think twice...</p></details>
    Published: November 17, 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing users to community notes reduces the subsequent...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing users to community notes reduces the subsequent...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ced the spread of misleading posts by, on average, 61.4%...</p></details>
+   Link:<a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ced the spread of misleading posts by, on average, 61.4%...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: verfassungsblog.de  
    Title: community notes auf dem prufstand  
-   Link: <a href="https://verfassungsblog.de/community-notes-auf-dem-prufstand/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/community-notes-auf-dem-prufstand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes auf dem Prüfstand8 Jan 2024 — Community Notes auf dem Prüfstand... Die Kommission verweist zur Beantwortung der Frage nu...</p></details>
+   Link:<a href="https://verfassungsblog.de/community-notes-auf-dem-prufstand/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/community-notes-auf-dem-prufstand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes auf dem Prüfstand8 Jan 2024 — Community Notes auf dem Prüfstand... Die Kommission verweist zur Beantwortung der Frage nu...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: globalbusinessjournalism.com  
    Title: Community Notes: How it works  
-   Link: <a href="https://www.globalbusinessjournalism.com/post/community-notes-how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.globalbusinessjournalism.com/post/community-notes-how-it-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Business Journalism10 Jan 2025 — disinformation · fact-checking · Misinformation · X · Twitter · Facebook · truth · Alexandre Guer...</p></details>
+   Link:<a href="https://www.globalbusinessjournalism.com/post/community-notes-how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.globalbusinessjournalism.com/post/community-notes-how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Business Journalism10 Jan 2025 — disinformation · fact-checking · Misinformation · X · Twitter · Facebook · truth · Alexandre Guer...</p></details>

@@ -284,7 +284,7 @@ When a social-media post warns of a shooting, a missing suspect, a dangerous che
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-1-dark.svg" | relative_url }}" alt="Safety Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In public-safety situations, misinformation can have immediate consequences. False warnings can cause panic, overwhelm emergency lines, divert aid, damage reputations, and discourage people from following genuine instructions. Emergency-management agencies have repeatedly warned that rumours circulating during disasters can interfere with response efforts and prevent people from obtaining accurate assistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fema.gov">[FEMA+2Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fema.gov</span><span class="citation-popover-title">hurricane rumor response</span><span class="citation-popover-snippet">Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</span></span></span>
+In public-safety situations, misinformation can have immediate consequences. False warnings can cause panic, overwhelm emergency lines, divert aid, damage reputations, and discourage people from following genuine instructions. Emergency-management agencies have repeatedly warned that rumours circulating during disasters can interfere with response efforts and prevent people from obtaining accurate assistance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fema.gov">[FEMA+2Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fema.gov</span><span class="citation-popover-title">hurricane rumor response</span><span class="citation-popover-snippet">Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</span></span></span>
 
 Independent [evidence]({{ 'evidence/' | relative_url }}) is therefore not simply “more people saying the same thing”. It is evidence that comes from separate channels of observation, reporting, or documentation and that can be checked against identifiable facts.
 
@@ -292,7 +292,7 @@ Independent [evidence]({{ 'evidence/' | relative_url }}) is therefore not simply
 
 For public-safety claims, the strongest [corroboration]({{ 'corroboration/' | relative_url }}) usually comes from organisations that are both close to the event and accountable for [corrections]({{ 'corrections/' | relative_url }}).
 
-Police statements, emergency-service updates, [court records]({{ 'court-records/' | relative_url }}), official incident reports, and public warnings issued by recognised authorities are often among the first reliable forms of confirmation. These sources may still make mistakes, but they have identifiable responsibilities, documented procedures, and public records that can later be scrutinised. Emergency-management agencies routinely advise the public to rely on official response organisations and verified government channels during crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncdps.gov">[ncdps.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncdps.gov</span><span class="citation-popover-title">guide highlighting trusted information sources</span><span class="citation-popover-snippet">State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</span></span></span>
+Police statements, emergency-service updates, [court records]({{ 'court-records/' | relative_url }}), official incident reports, and public warnings issued by recognised authorities are often among the first reliable forms of confirmation. These sources may still make mistakes, but they have identifiable responsibilities, documented procedures, and public records that can later be scrutinised. Emergency-management agencies routinely advise the public to rely on official response organisations and verified government channels during crises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncdps.gov">[ncdps.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncdps.gov</span><span class="citation-popover-title">guide highlighting trusted information sources</span><span class="citation-popover-snippet">State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</span></span></span>
 
 Local journalists can also provide valuable independent evidence. A reporter physically present at a scene may verify road closures, evacuation orders, arrests, or emergency activity without relying on the same social-media rumour that sparked public attention. The important question is whether the reporting reflects direct observation, official confirmation, or independently gathered information rather than [repetition]({{ 'repetition/' | relative_url }}) of an online claim.
 
@@ -318,9 +318,9 @@ The order can change in unusual circumstances, but claims generally become stron
 
 Eyewitnesses matter, but not all witness accounts carry equal evidential weight.
 
-A named witness who can explain where they were, what they saw, and when they saw it provides information that can potentially be checked against CCTV footage, photographs, official timelines, or other witnesses. Even then, eyewitness memory is often incomplete during stressful events. People may accurately report that something happened while misidentifying who was involved or misunderstanding what caused it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</span><span class="citation-popover-meta">Published: October 14, 2019</span></span></span>
+A named witness who can explain where they were, what they saw, and when they saw it provides information that can potentially be checked against CCTV footage, photographs, official timelines, or other witnesses. Even then, eyewitness memory is often incomplete during stressful events. People may accurately report that something happened while misidentifying who was involved or misunderstanding what caused it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</span><span class="citation-popover-meta">Published: October 14, 2019</span></span></span>
 
-Anonymous claims are more difficult. An unnamed social-media account stating that “my friend in the police confirmed this” provides almost no way to evaluate access, competence, motives, or accuracy. Journalism ethics organisations generally treat anonymous sourcing as an exception requiring additional verification rather than a substitute for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethicsandjournalism.org">[Ethics and Journalism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethicsandjournalism.org</span><span class="citation-popover-snippet">Ethics and JournalismBest Practices: Anonymous SourcesIn this post, we&#x27;re exploring the best practices and ethical considerations when us...</span></span></span>
+Anonymous claims are more difficult. An unnamed social-media account stating that “my friend in the police confirmed this” provides almost no way to evaluate access, competence, motives, or accuracy. Journalism ethics organisations generally treat anonymous sourcing as an exception requiring additional verification rather than a substitute for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethicsandjournalism.org">[Ethics and Journalism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethicsandjournalism.org</span><span class="citation-popover-snippet">Ethics and JournalismBest Practices: Anonymous SourcesIn this post, we&#x27;re exploring the best practices and ethical considerations when us...</span></span></span>
 
 When assessing witness-based evidence, several questions help:
 
@@ -370,7 +370,7 @@ By contrast:
 
 </div>
 
-Verification specialists often emphasise tracing information back to its origin and identifying whether each purported source actually gathered information independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</span><span class="citation-popover-meta">Published: October 14, 2019</span></span></span>
+Verification specialists often emphasise tracing information back to its origin and identifying whether each purported source actually gathered information independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</span><span class="citation-popover-meta">Published: October 14, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-2-dark.svg" | relative_url }}" alt="Safety Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_public_safety_claim_f6e769-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -394,7 +394,7 @@ Readers should pay attention to statements such as:
 
 These distinctions matter because misinformation frequently enters the information stream through premature certainty rather than outright fabrication.
 
-Many disaster-related rumours have spread by filling gaps before officials had enough information to speak confidently. During major hurricanes and wildfires, emergency agencies have maintained dedicated rumour-control pages specifically because inaccurate claims often emerge before facts are established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fema.gov">[FEMA+2FEMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fema.gov</span><span class="citation-popover-title">hurricane rumor response</span><span class="citation-popover-snippet">Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</span></span></span>
+Many disaster-related rumours have spread by filling gaps before officials had enough information to speak confidently. During major hurricanes and wildfires, emergency agencies have maintained dedicated rumour-control pages specifically because inaccurate claims often emerge before facts are established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fema.gov">[FEMA+2FEMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fema.gov</span><span class="citation-popover-title">hurricane rumor response</span><span class="citation-popover-snippet">Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</span></span></span>
 
 A claim should not become more believable merely because it offers a complete explanation before investigators have finished gathering evidence.
 
@@ -410,9 +410,9 @@ Consider a social-media post claiming that residents must immediately evacuate b
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* Emergency-management alerts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FEMA Federal Emergency Management AgencyRumor: FEMA will only provide $750 to #Helene survivors. Fact: This is false. Disaster assistance...</span></span></span>
+* Emergency-management alerts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FEMA Federal Emergency Management AgencyRumor: FEMA will only provide $750 to #Helene survivors. Fact: This is false. Disaster assistance...</span></span></span>
 * Local authority evacuation orders.
-* Confirmations from emergency services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncdps.gov">[ncdps.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncdps.gov</span><span class="citation-popover-title">guide highlighting trusted information sources</span><span class="citation-popover-snippet">State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</span></span></span>
+* Confirmations from emergency services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncdps.gov">[ncdps.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncdps.gov</span><span class="citation-popover-title">guide highlighting trusted information sources</span><span class="citation-popover-snippet">State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</span></span></span>
 * On-the-ground reporting from local journalists.
 * Multiple independently verified photographs from the location.
 
@@ -454,194 +454,194 @@ Rumour accounts, anonymous reposts, and automated content often lack those safeg
 For that reason, independent evidence in public-safety claims is not merely about quantity. It is about separate access to facts, transparency about uncertainty, and accountability for getting the story right. When those elements are present, readers have a much stronger basis for deciding whether a warning deserves attention—or whether it should remain unconfirmed until better evidence arrives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Checking danger before sharing warnings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Checking danger before sharing warnings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages readers to pause, verify, and question alarming claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to pause, verify, and question alarming claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verification Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verification Handbook">Verification Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Craig Silverman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verification Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verification Handbook">Verification Handbook</a>
+</h4>
+<p class="fr-book-author">By Craig Silverman</p>
         
-        <p class="fr-book-desc">Directly relevant to checking public-safety claims before sharing them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to checking public-safety claims before sharing them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UnSpun: Finding Facts in a World of Disinformation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UnSpun: Finding Facts in a World of Disinformation">UnSpun: Finding Facts in a World of Disinformation</a>
-        </h4>
-        <p class="fr-book-author">By Brooks Jackson and Kathleen Hall Jamieson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UnSpun: Finding Facts in a World of Disinformation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UnSpun: Finding Facts in a World of Disinformation">UnSpun: Finding Facts in a World of Disinformation</a>
+</h4>
+<p class="fr-book-author">By Brooks Jackson and Kathleen Hall Jamieson</p>
         
-        <p class="fr-book-desc">Helps readers distinguish accountable sources from rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish accountable sources from rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UnSpun%3A+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson+and+Kathleen+Hall+Jamieson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Verification+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Verification books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Verification+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Verification books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27"><img src="{{ '/assets/images/marketplace-covers/fe3b3f3b637f256c486b.jpg' | relative_url }}" alt="Listing image for 1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27"><img src="{{ '/assets/images/marketplace-covers/fe3b3f3b637f256c486b.jpg' | relative_url }}" alt="Listing image for 1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">1x FIRE EXIT DOWN RIGHT Health &amp; Safety Sign Self Adhesive 435mmx145mm Sticker27</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27"><img src="{{ '/assets/images/marketplace-covers/7e154019aa02da518897.jpg' | relative_url }}" alt="Listing image for 1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27"><img src="{{ '/assets/images/marketplace-covers/7e154019aa02da518897.jpg' | relative_url }}" alt="Listing image for 1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">1x FIRE EXIT UP RIGHT Health &amp; Safety Sign Self Adhesive 435mm x 145mm Sticker27</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure"><img src="{{ '/assets/images/marketplace-covers/d5953eb50c90df5ccf8c.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure"><img src="{{ '/assets/images/marketplace-covers/d5953eb50c90df5ccf8c.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print"><img src="{{ '/assets/images/marketplace-covers/362b6b6fa823663ed23e.jpg' | relative_url }}" alt="Listing image for 🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print"><img src="{{ '/assets/images/marketplace-covers/362b6b6fa823663ed23e.jpg' | relative_url }}" alt="Listing image for 🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">🚋 Vintage Hungarian Public Transport Poster - 24x36” - Premium 💎 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public safety poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public safety poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+safety+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public safety poster" data-ebay-reference="safety-claims-checking-danger-before-sharing-warnings-critical-thinking-in-the-age-of-social-med-public-safety-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -806,7 +806,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,104 +847,104 @@ For that reason, independent evidence in public-safety claims is not merely abou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fema.gov  
    Title: hurricane rumor response  
-   Link: <a href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</p></details>
+   Link:<a href="https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/recover/rumor/hurricane-rumor-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hurricane Rumor Response14 Oct 2024 — We have seen many rumors that have the potential to seriously hamper storm response efforts or...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: brookings.edu  
    Title: fighting hurricane misinformation requires aggressive pushback  
-   Link: <a href="https://www.brookings.edu/articles/fighting-hurricane-misinformation-requires-aggressive-pushback/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/fighting-hurricane-misinformation-requires-aggressive-pushback/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting hurricane misinformation requires aggressive...9 Oct 2024 — FEMA has a rumor control page to deal with disaster-related misinfo...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/fighting-hurricane-misinformation-requires-aggressive-pushback/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/fighting-hurricane-misinformation-requires-aggressive-pushback/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting hurricane misinformation requires aggressive...9 Oct 2024 — FEMA has a rumor control page to deal with disaster-related misinfo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncdps.gov  
    Title: guide highlighting trusted information sources  
-   Link: <a href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</p></details>
+   Link:<a href="https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.ncdps.gov/news/press-releases/2024/10/04/guide-highlighting-trusted-information-sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Emergency Response Team Publishing Guide...Oct 4, 2024 — The public should get information about storm response and impacts from t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fema.gov  
-   Link: <a href="https://www.fema.gov/disaster/historic/coronavirus/rumor-control" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/historic/coronavirus/rumor-control</a>  
+   Link:<a href="https://www.fema.gov/disaster/historic/coronavirus/rumor-control" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/historic/coronavirus/rumor-control</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fema.gov  
    Title: rumor response  
-   Link: <a href="https://www.fema.gov/disaster/recover/rumor-response" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/recover/rumor-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Disaster-Related Rumors18 Nov 2025 — There often are many rumors and scams after a disaster. Do your part to stop the spread of ru...</p></details>
+   Link:<a href="https://www.fema.gov/disaster/recover/rumor-response" target="_blank" rel="noopener noreferrer nofollow">https://www.fema.gov/disaster/recover/rumor-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Disaster-Related Rumors18 Nov 2025 — There often are many rumors and scams after a disaster. Do your part to stop the spread of ru...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: accc.gov.au  
-   Link: <a href="https://www.accc.gov.au/system/files/ACCC%2Bcommissioned%2Breport%2B-%2BThe%2Bimpact%2Bof%2Bdigital%2Bplatforms%2Bon%2Bnews%2Band%2Bjournalistic%2Bcontent%2C%2BCentre%2Bfor%2BMedia%2BTransition%2B%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.accc.gov.au/system/files/ACCC%2Bcommissioned%2Breport%2B-%2BThe%2Bimpact%2Bof%2Bdigital%2Bplatforms%2Bon%2Bnews%2Band%2Bjournalistic%2Bcontent%2C%2BCentre%2Bfor%2BMedia%2BTransition%2B%282%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Digital Platforms on News and Journalistic...by S CRIC · 2018 · Cited by 268 — We investigate key areas of media evolution...</p></details>
+   Link:<a href="https://www.accc.gov.au/system/files/ACCC%2Bcommissioned%2Breport%2B-%2BThe%2Bimpact%2Bof%2Bdigital%2Bplatforms%2Bon%2Bnews%2Band%2Bjournalistic%2Bcontent%2C%2BCentre%2Bfor%2BMedia%2BTransition%2B%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.accc.gov.au/system/files/ACCC%2Bcommissioned%2Breport%2B-%2BThe%2Bimpact%2Bof%2Bdigital%2Bplatforms%2Bon%2Bnews%2Band%2Bjournalistic%2Bcontent%2C%2BCentre%2Bfor%2BMedia%2BTransition%2B%282%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Digital Platforms on News and Journalistic...by S CRIC · 2018 · Cited by 268 — We investigate key areas of media evolution...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</p></details>
+   Link:<a href="https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/verifying-online-information-the-absolute-essentials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftVerifying online information: The absolute essentialsOctober 14, 2019 — 14 Oct 2019 — This is your little condensed guide to t...</p></details>
    Published: October 14, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ethicsandjournalism.org  
-   Link: <a href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow">https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and JournalismBest Practices: Anonymous SourcesIn this post, we&#x27;re exploring the best practices and ethical considerations when us...</p></details>
+   Link:<a href="https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/" target="_blank" rel="noopener noreferrer nofollow">https://ethicsandjournalism.org/resources/best-practices/best-practices-anonymous-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and JournalismBest Practices: Anonymous SourcesIn this post, we&#x27;re exploring the best practices and ethical considerations when us...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cjr.org  
    Title: first draft field guide fake news  
-   Link: <a href="https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft and Public Data Lab release guide to savvy...7 Apr 2017 — Public Data Lab and First Draft News have produced a “Field Guide...</p></details>
+   Link:<a href="https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Draft and Public Data Lab release guide to savvy...7 Apr 2017 — Public Data Lab and First Draft News have produced a “Field Guide...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ross.house.gov  
-   Link: <a href="https://ross.house.gov/2024/10/lawmakers-call-for-investigation-into-social-media-fueled-hurricane-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://ross.house.gov/2024/10/lawmakers-call-for-investigation-into-social-media-fueled-hurricane-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representative Deborah RossLawmakers call for investigation into social media-fueled...Oct 23, 2024 — FEMA Director Deanne Criswell call...</p></details>
+   Link:<a href="https://ross.house.gov/2024/10/lawmakers-call-for-investigation-into-social-media-fueled-hurricane-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://ross.house.gov/2024/10/lawmakers-call-for-investigation-into-social-media-fueled-hurricane-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Representative Deborah RossLawmakers call for investigation into social media-fueled...Oct 23, 2024 — FEMA Director Deanne Criswell call...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Federal Emergency Management AgencyRumor: FEMA will only provide $750 to #Helene survivors. Fact: This is false. Disaster assistance...</p></details>
+   Link:<a href="https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FEMA/posts/during-a-disaster-its-critical-to-avoid-spreading-false-informationrumor-fema-wi/974470851377436/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Federal Emergency Management AgencyRumor: FEMA will only provide $750 to #Helene survivors. Fact: This is false. Disaster assistance...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/journal/fema-launches-rumor-response-page-to-counter-misinformation-after-disasters" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/journal/fema-launches-rumor-response-page-to-counter-misinformation-after-disasters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Launches “Rumor Response” Page to Counter...The rumor response page is organized to provide accurate, accessible information that c...</p></details>
+   Link:<a href="https://vocal.media/journal/fema-launches-rumor-response-page-to-counter-misinformation-after-disasters" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/journal/fema-launches-rumor-response-page-to-counter-misinformation-after-disasters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Launches “Rumor Response” Page to Counter...The rumor response page is organized to provide accurate, accessible information that c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/thecrisislab_crisismanagement-disinformation-emergencymanagement-activity-7435330794929266688-ywaf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/thecrisislab_crisismanagement-disinformation-emergencymanagement-activity-7435330794929266688-ywaf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA&#x27;s Hurricane Rumor Response Fails to Keep Pace...Most emergency communication plans follow a reactive model: monitor social media, i...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/thecrisislab_crisismanagement-disinformation-emergencymanagement-activity-7435330794929266688-ywaf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/thecrisislab_crisismanagement-disinformation-emergencymanagement-activity-7435330794929266688-ywaf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA&#x27;s Hurricane Rumor Response Fails to Keep Pace...Most emergency communication plans follow a reactive model: monitor social media, i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apmreports.org  
-   Link: <a href="https://www.apmreports.org/news-ethics-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.apmreports.org/news-ethics-guidelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Ethics GuidelinesWe expect APM Reports journalists to use this document to guide their conduct and to hold themselves and each other...</p></details>
+   Link:<a href="https://www.apmreports.org/news-ethics-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.apmreports.org/news-ethics-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Ethics GuidelinesWe expect APM Reports journalists to use this document to guide their conduct and to hold themselves and each other...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EmergencyManagement/comments/1fwbsb9/official_fema_hurricane_helene_rumor_response_page/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EmergencyManagement/comments/1fwbsb9/official_fema_hurricane_helene_rumor_response_page/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official FEMA Hurricane Helene: Rumor Response PageFact: Rumors about FEMA turning away donations, stopping trucks or vehicles with donat...</p></details>
+   Link:<a href="https://www.reddit.com/r/EmergencyManagement/comments/1fwbsb9/official_fema_hurricane_helene_rumor_response_page/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EmergencyManagement/comments/1fwbsb9/official_fema_hurricane_helene_rumor_response_page/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official FEMA Hurricane Helene: Rumor Response PageFact: Rumors about FEMA turning away donations, stopping trucks or vehicles with donat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Appalachia/comments/1fx3b4x/quashing_rumors_about_fema/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Appalachia/comments/1fx3b4x/quashing_rumors_about_fema/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quashing rumors about FEMA: r/AppalachiaThe most absurd rumor going around is if you take the initial payment from them they can automat...</p></details>
+   Link:<a href="https://www.reddit.com/r/Appalachia/comments/1fx3b4x/quashing_rumors_about_fema/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Appalachia/comments/1fx3b4x/quashing_rumors_about_fema/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quashing rumors about FEMA: r/AppalachiaThe most absurd rumor going around is if you take the initial payment from them they can automat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Special Reports from Reuters journalists around the worldA Reuters investigation found nearly all clemency decisions made by Trump this t...</p></details>
+   Link:<a href="https://www.reuters.com/investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Special Reports from Reuters journalists around the worldA Reuters investigation found nearly all clemency decisions made by Trump this t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hstoday.us  
-   Link: <a href="https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-launches-web-page-to-respond-to-rumors-and-confirm-the-facts-related-to-hurricane-helene/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-launches-web-page-to-respond-to-rumors-and-confirm-the-facts-related-to-hurricane-helene/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Launches Web Page to Respond to Rumors and...Oct 7, 2024 — FEMA launched a rumor response page and Hurricane Helene web page to pro...</p></details>
+   Link:<a href="https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-launches-web-page-to-respond-to-rumors-and-confirm-the-facts-related-to-hurricane-helene/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-launches-web-page-to-respond-to-rumors-and-confirm-the-facts-related-to-hurricane-helene/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEMA Launches Web Page to Respond to Rumors and...Oct 7, 2024 — FEMA launched a rumor response page and Hurricane Helene web page to pro...</p></details>

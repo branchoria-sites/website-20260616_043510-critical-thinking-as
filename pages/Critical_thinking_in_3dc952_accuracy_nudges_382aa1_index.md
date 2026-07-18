@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-accuracy/
 description: Focused pages that expand on Accuracy Nudge.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_accuracy_nudges_382aa1
 parent_title: Accuracy Nudge
@@ -16,7 +16,7 @@ parent_permalink: /accuracy-nudge/
 
 # Explore Topics in Accuracy Nudge
 
-The following pages expand on the main **[Accuracy Nudge]({{ '/accuracy-nudge/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Accuracy Nudge]({{ '/accuracy-nudge/' | relative_url }})** page and cover its key branches in.
 
 - [Evidence]({{ '/evidence/' | relative_url }})
 - [Backfire Risk]({{ '/backfire-risk/' | relative_url }})

@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_tru
 
 ## Introduction
 
-What if social platforms rewarded users for sharing information that later proved accurate rather than information that simply attracted attention? This idea has gained increasing support from researchers studying misinformation, because [evidence]({{ 'evidence/' | relative_url }}) suggests that many users are not indifferent to truth. Instead, they respond to the incentives embedded in platform design. When likes, reposts and follower growth are tied primarily to engagement, users learn to optimise for attention. When rewards are tied to accuracy, people become more selective and share higher-quality information. The central governance question is therefore not whether social media should reward behaviour, but which behaviour it should reward. Research increasingly suggests that changing reward structures may improve [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) and information quality without requiring heavy-handed censorship or assuming that users are fundamentally unconcerned with truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
+What if social platforms rewarded users for sharing information that later proved accurate rather than information that simply attracted attention? This idea has gained increasing support from researchers studying misinformation, because [evidence]({{ 'evidence/' | relative_url }}) suggests that many users are not indifferent to truth. Instead, they respond to the incentives embedded in platform design. When likes, reposts and follower growth are tied primarily to engagement, users learn to optimise for attention. When rewards are tied to accuracy, people become more selective and share higher-quality information. The central governance question is therefore not whether social media should reward behaviour, but which behaviour it should reward. Research increasingly suggests that changing reward structures may improve [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) and information quality without requiring heavy-handed censorship or assuming that users are fundamentally unconcerned with truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-1-dark.svg" | relative_url }}" alt="Truth Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ What if social platforms rewarded users for sharing information that later prove
 
 Every social platform teaches users what kinds of behaviour succeed. Visible signals such as likes, shares, replies and follower counts act as feedback mechanisms. Over time, users learn which posts receive attention and adapt accordingly.
 
-This learning process matters because attention and accuracy are not the same thing. Content that is surprising, emotionally charged, partisan or morally outraging often generates strong engagement. If engagement becomes the primary source of social reward, users receive repeated reinforcement for posting material that attracts reactions regardless of whether it is true. Researchers studying misinformation habits argue that repeated exposure to these reward patterns can make low-quality sharing increasingly automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
+This learning process matters because attention and accuracy are not the same thing. Content that is surprising, emotionally charged, partisan or morally outraging often generates strong engagement. If engagement becomes the primary source of social reward, users receive repeated reinforcement for posting material that attracts reactions regardless of whether it is true. Researchers studying misinformation habits argue that repeated exposure to these reward patterns can make low-quality sharing increasingly automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
 
-Importantly, the evidence does not support a simple story in which people knowingly spread falsehoods because they do not care about truth. Studies by Gordon Pennycook, David Rand and colleagues suggest that many users fail to focus on accuracy when deciding what to share. Social media environments direct attention toward social approval, identity expression and entertainment value. When accuracy becomes more salient, sharing behaviour improves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
+Importantly, the evidence does not support a simple story in which people knowingly spread falsehoods because they do not care about truth. Studies by Gordon Pennycook, David Rand and colleagues suggest that many users fail to focus on accuracy when deciding what to share. Social media environments direct attention toward social approval, identity expression and entertainment value. When accuracy becomes more salient, sharing behaviour improves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
 From a critical-thinking perspective, this shifts the problem. Rather than treating users as irrational, it highlights how [platform incentives]({{ 'platform-incentives/' | relative_url }}) influence which considerations are most prominent at the moment of sharing.
 
@@ -293,20 +293,20 @@ From a critical-thinking perspective, this shifts the problem. Rather than treat
 
 ## What happened when researchers rewarded truth?
 
-One of the clearest tests of accuracy-based incentives came from research examining whether misinformation sharing reflects stable preferences or learned habits. In experiments involving simulated social-media environments, researchers rewarded some participants for sharing accurate information and avoiding misinformation. Others received rewards that mimicked existing attention-driven incentives. The results were striking: participants quickly adapted to the incentive structure. When accuracy was rewarded, people became substantially more discerning about what they shared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
+One of the clearest tests of accuracy-based incentives came from research examining whether misinformation sharing reflects stable preferences or learned habits. In experiments involving simulated social-media environments, researchers rewarded some participants for sharing accurate information and avoiding misinformation. Others received rewards that mimicked existing attention-driven incentives. The results were striking: participants quickly adapted to the incentive structure. When accuracy was rewarded, people became substantially more discerning about what they shared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
 
-The findings suggest that users learn from feedback. Behaviour that receives rewards becomes habitual, while unrewarded behaviour fades. In these studies, rewarding accuracy improved sharing quality without eliminating sharing activity itself. Participants continued to engage; they simply became more selective about what they amplified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
+The findings suggest that users learn from feedback. Behaviour that receives rewards becomes habitual, while unrewarded behaviour fades. In these studies, rewarding accuracy improved sharing quality without eliminating sharing activity itself. Participants continued to engage; they simply became more selective about what they amplified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
 
-Related work has explored smaller interventions that do not involve direct rewards. [Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }})—brief requests asking users to think about whether information is true—consistently improve sharing discernment across numerous experiments. A large body of evidence indicates that simply redirecting attention toward accuracy reduces willingness to share misinformation while having little effect on sharing true information. Meta-analytic evidence covering dozens of experiments has found the effect to be robust across different contexts and populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Rand, D. G. Fighting COVID-19 misinformation on social media: experimental evidence for a scalable accuracy nudge intervention. Psychol S...</span></span></span>
+Related work has explored smaller interventions that do not involve direct rewards. [Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }})—brief requests asking users to think about whether information is true—consistently improve sharing discernment across numerous experiments. A large body of evidence indicates that simply redirecting attention toward accuracy reduces willingness to share misinformation while having little effect on sharing true information. Meta-analytic evidence covering dozens of experiments has found the effect to be robust across different contexts and populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Rand, D. G. Fighting COVID-19 misinformation on social media: experimental evidence for a scalable accuracy nudge intervention. Psychol S...</span></span></span>
 
-Further studies suggest that explicitly endorsing accuracy can be even more effective than traditional prompts because it both discourages false content and encourages sharing of true content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/01461672221117691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEndorsing Accuracy Decreases the Sharing of Fake News...by V Capraro · 2023 · Cited by 59 — Accuracy prompts, nudges that m...</span></span></span>
+Further studies suggest that explicitly endorsing accuracy can be even more effective than traditional prompts because it both discourages false content and encourages sharing of true content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/01461672221117691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEndorsing Accuracy Decreases the Sharing of Fake News...by V Capraro · 2023 · Cited by 59 — Accuracy prompts, nudges that m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L_YHlpKedk8" title="What drives the spread of misinformation? | Gizem Ceylan | Nobel Prize Summit 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L_YHlpKedk8" target="_blank" rel="noopener noreferrer">What drives the spread of misinformation? | Gizem Ceylan | Nobel Prize Summit 2023</a></p><p class="youtube-embed-meta">Channel: Nobel Prize &middot; Views: 1.2K &middot; Uploaded: May 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L_YHlpKedk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L_YHlpKedk8">Open on YouTube</a></p></div></div></div>
 
 ### Why small rewards can have large effects
 
-The success of these interventions appears disproportionate to their size. In some experiments, tiny financial incentives or simple appeals to personal integrity improved participants' ability to distinguish true information from false claims. Researchers argue that the key mechanism is motivational rather than educational. Many users already possess the skills needed to identify reliable information much of the time; the challenge is ensuring those skills are activated when sharing decisions are made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">misinformation and the truth, according to a new study. The findings suggest that fake news thrives on social media not only because peop...</span></span></span>
+The success of these interventions appears disproportionate to their size. In some experiments, tiny financial incentives or simple appeals to personal integrity improved participants' ability to distinguish true information from false claims. Researchers argue that the key mechanism is motivational rather than educational. Many users already possess the skills needed to identify reliable information much of the time; the challenge is ensuring those skills are activated when sharing decisions are made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">misinformation and the truth, according to a new study. The findings suggest that fake news thrives on social media not only because peop...</span></span></span>
 
 This distinction is important because it means platforms may not need to transform users into expert [fact-checkers]({{ 'fact-checkers/' | relative_url }}). Instead, they may be able to improve information quality by making accuracy socially valuable.
 
@@ -320,9 +320,9 @@ Possible approaches include:
 * Badges or trust indicators linked to consistent accuracy.
 * [Ranking]({{ 'ranking/' | relative_url }}) systems that increase visibility for accounts with strong reliability records.
 * Community fact-checking systems whose evaluations influence future reach.
-* Positive feedback mechanisms that reward correction and updating rather than merely being first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
+* Positive feedback mechanisms that reward correction and updating rather than merely being first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
 
-Some researchers have proposed combining accuracy prompts with crowd-based assessments. In this model, users periodically evaluate the reliability of content they encounter. Those assessments both encourage accuracy-minded thinking and generate data that platforms can use when ranking posts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
+Some researchers have proposed combining accuracy prompts with crowd-based assessments. In this model, users periodically evaluate the reliability of content they encounter. Those assessments both encourage accuracy-minded thinking and generate data that platforms can use when ranking posts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
 
 The appeal of these approaches is that they preserve user choice. Instead of removing content outright, they alter the incentive landscape so that truthful behaviour becomes more rewarding.
 
@@ -336,7 +336,7 @@ The idea sounds straightforward, but implementation raises difficult governance 
 
 Any reward system requires some method of determining whether information is true. For straightforward factual claims, independent fact-checking or crowd-based assessments may work reasonably well. More complex political, scientific or predictive claims are harder to evaluate.
 
-Critics worry that systems built around official judgements could create concerns about bias, legitimacy or over-centralisation. Designers therefore face a tension between promoting accuracy and preserving trust in the process used to assess it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
+Critics worry that systems built around official judgements could create concerns about bias, legitimacy or over-centralisation. Designers therefore face a tension between promoting accuracy and preserving trust in the process used to assess it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRl51MKW9Qw" title="Understanding And Reducing The Spread Of Misinformation Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer">Understanding And Reducing The Spread Of Misinformation Online</a></p><p class="youtube-embed-meta">Channel: GBH Forum Network &middot; Views: 1.1K &middot; Uploaded: February 2020 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRl51MKW9Qw">Open on YouTube</a></p></div></div></div>
@@ -345,13 +345,13 @@ Critics worry that systems built around official judgements could create concern
 
 Not every valuable contribution is immediately verifiable. Journalists, whistleblowers, researchers and eyewitnesses often share emerging information before complete confirmation is available.
 
-An overly rigid accuracy system could unintentionally penalise uncertainty, caution or early reporting. Effective designs would likely need ways to distinguish between deliberate misinformation and good-faith sharing of incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
+An overly rigid accuracy system could unintentionally penalise uncertainty, caution or early reporting. Effective designs would likely need ways to distinguish between deliberate misinformation and good-faith sharing of incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">360387098 Nudging Social Media toward Accuracy</span><span class="citation-popover-snippet">accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</span></span></span>
 
 ### What happens to engagement?
 
 Many platforms depend economically on user attention. Engagement-based systems are attractive because they maximise interaction and time spent on the platform.
 
-One reason the experimental evidence attracted attention is that rewarding accuracy did not appear to eliminate sharing behaviour. Participants continued posting while improving information quality. Nevertheless, large-scale platforms would need to test whether accuracy-focused incentives affect user retention, advertising revenue and content diversity when deployed in real-world environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabPeople share misinformation because of social media&#x27;s...Aug 8, 2023 — People share misinformation because of social media&#x27;s in...</span></span></span>
+One reason the experimental evidence attracted attention is that rewarding accuracy did not appear to eliminate sharing behaviour. Participants continued posting while improving information quality. Nevertheless, large-scale platforms would need to test whether accuracy-focused incentives affect user retention, advertising revenue and content diversity when deployed in real-world environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabPeople share misinformation because of social media&#x27;s...Aug 8, 2023 — People share misinformation because of social media&#x27;s in...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-3-dark.svg" | relative_url }}" alt="Truth Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_truth_rewards_sharin_b4e3a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,199 +359,199 @@ One reason the experimental evidence attracted attention is that rewarding accur
 
 Critical thinking is often presented as an individual skill: evaluating evidence, checking sources and questioning claims. Yet social media demonstrates that thinking is also shaped by incentives. People reason within environments that signal what behaviours are valued.
 
-Rewarding accurate sharing instead of viral sharing does not guarantee perfect information. Users will still make mistakes, disagree and encounter uncertainty. However, the evidence suggests that even modest shifts in incentives can change habits, improve discernment and reduce the spread of misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
+Rewarding accurate sharing instead of viral sharing does not guarantee perfect information. Users will still make mistakes, disagree and encounter uncertainty. However, the evidence suggests that even modest shifts in incentives can change habits, improve discernment and reduce the spread of misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</span></span></span>
 
-The broader lesson is that information quality is not determined solely by what people know. It is also influenced by what social systems reward. When attention is rewarded, attention-seeking behaviour grows. When accuracy is rewarded, truth-seeking behaviour has a better chance to compete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
+The broader lesson is that information quality is not determined solely by what people know. It is also influenced by what social systems reward. When attention is rewarded, attention-seeking behaviour grows. When accuracy is rewarded, truth-seeking behaviour has a better chance to compete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What if platforms rewarded accuracy instead?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What if platforms rewarded accuracy instead?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Directly addresses systems that reward accuracy over attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses systems that reward accuracy over attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explores how engagement-driven systems shape behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how engagement-driven systems shape behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how incentives can distort information quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how incentives can distort information quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the psychology underlying sharing decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the psychology underlying sharing decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="truth-rewards-what-if-platforms-rewarded-accuracy-instead-critical-thinking-in-the-age-of-social-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The broader lesson is that information quality is not determined solely by what 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The broader lesson is that information quality is not determined solely by what 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The broader lesson is that information quality is not determined solely by what 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The broader lesson is that information quality is not determined solely by what 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The broader lesson is that information quality is not determined solely by what 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,144 +757,144 @@ The broader lesson is that information quality is not determined solely by what 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: insights.som.yale.edu  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale InsightsMar 31, 2023 — Read the study: “Sharing of misinformation is habitual...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rand, D. G. Fighting COVID-19 misinformation on social media: experimental evidence for a scalable [accuracy nudge](&amp;#123;&amp;#123; &#x27;accuracy-nudge/&#x27; | relative_url &amp;#125;&amp;#125;) intervention. Psychol S...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rand, D. G. Fighting COVID-19 misinformation on social media: experimental evidence for a scalable [accuracy nudge](&amp;#123;&amp;#123; &#x27;accuracy-nudge/&#x27; | relative_url &amp;#125;&amp;#125;) intervention. Psychol S...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 359 — Interventions that shift users attention to...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 359 — Interventions that shift users attention to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 360387098 Nudging Social Media toward Accuracy  
-   Link: <a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy prompts decrease misinformation sharing... 003. Pennycook, Gordon, and David G. Rand. 2021b. The psychology of fake news. Trend...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-023-01540-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-023-01540-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and social motivations shape judgements of (mis)...by S Rathje · 2023 · Cited by 158 — Misinformation—which can refer to fabric...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-023-01540-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-023-01540-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and social motivations shape judgements of (mis)...by S Rathje · 2023 · Cited by 158 — Misinformation—which can refer to fabric...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
    Title: the quality of being correct and without  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarythe ability to do something without making mistakes: She says she can type 85 words per m...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarythe ability to do something without making mistakes: She says she can type 85 words per m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37278047/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37278047/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37278047/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37278047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23794607261423714</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23794607261423714</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabPeople share misinformation because of social media&#x27;s...Aug 8, 2023 — People share misinformation because of social media&#x27;s in...</p></details>
+   Link:<a href="https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2023/08/people-share-misinformation-because-of-social-medias-incentives-but-those-can-be-changed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabPeople share misinformation because of social media&#x27;s...Aug 8, 2023 — People share misinformation because of social media&#x27;s in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221092342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsNudging Social Media toward Accuracyby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sha...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221092342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsNudging Social Media toward Accuracyby G Pennycook · 2022 · Cited by 125 — A meaningful portion of online misinformation sha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672221117691" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672221117691</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEndorsing Accuracy Decreases the Sharing of Fake News...by V Capraro · 2023 · Cited by 59 — Accuracy prompts, nudges that m...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672221117691" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672221117691</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEndorsing Accuracy Decreases the Sharing of Fake News...by V Capraro · 2023 · Cited by 59 — Accuracy prompts, nudges that m...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC“I Think This News Is Accurate”: Endorsing Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Capraro · 2022 · Cited by 59 — Accuracy prompts, nudges that make accuracy salient, typically decrease the sharing of fake news...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cam.ac.uk  
-   Link: <a href="https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation and the truth, according to a new study. The findings suggest that fake news thrives on social media not only because peop...</p></details>
+   Link:<a href="https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/rewarding-accuracy-instead-of-partisan-pandering-reduces-political-divisions-over-the-truth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation and the truth, according to a new study. The findings suggest that fake news thrives on social media not only because peop...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People tend to select...Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10259455/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People tend to select...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2753 — We did so by drawing on a recently proposed inattention-ba...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2753 — We did so by drawing on a recently proposed inattention-ba...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hbs.edu  
    Title: Ghezae, Jordan et al 2024 PNAS Nexus 45b95ff1 a5d8 4c6e a1de d311189b0c59  
-   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/Ghezae%2C%20Jordan%20et%20al%202024%20PNAS%20Nexus_45b95ff1-a5d8-4c6e-a1de-d311189b0c59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/Ghezae%2C%20Jordan%20et%20al%202024%20PNAS%20Nexus_45b95ff1-a5d8-4c6e-a1de-d311189b0c59.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Partisans neither expect nor receive reputational rewards...by I Ghezae · 2024 · Cited by 8 — Across all three studies, we do not find t...</p></details>
+   Link:<a href="https://www.hbs.edu/ris/Publication%20Files/Ghezae%2C%20Jordan%20et%20al%202024%20PNAS%20Nexus_45b95ff1-a5d8-4c6e-a1de-d311189b0c59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/Ghezae%2C%20Jordan%20et%20al%202024%20PNAS%20Nexus_45b95ff1-a5d8-4c6e-a1de-d311189b0c59.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Partisans neither expect nor receive reputational rewards...by I Ghezae · 2024 · Cited by 8 — Across all three studies, we do not find t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sjdm.org  
-   Link: <a href="https://sjdm.org/presentations/2023-Poster-Stock-Friederike-Misinformation-Accuracy-SelfNudge~.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/presentations/2023-Poster-Stock-Friederike-Misinformation-Accuracy-SelfNudge~.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A., Eckles, D., &amp; Rand, D. G. (2021). Shifting attention to accuracy can reduce misinformation online.Read more...</p></details>
+   Link:<a href="https://sjdm.org/presentations/2023-Poster-Stock-Friederike-Misinformation-Accuracy-SelfNudge~.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/presentations/2023-Poster-Stock-Friederike-Misinformation-Accuracy-SelfNudge~.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A., Eckles, D., &amp; Rand, D. G. (2021). Shifting attention to accuracy can reduce misinformation online.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: prompting people to reflect on the accuracy of news headlines increases the qual  
-   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Well, recent work by Pennycook et al., (2021) examined how social media sharing judgements diverge...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Well, recent work by Pennycook et al., (2021) examined how social media sharing judgements diverge...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the importance of accuracy reduce...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, rightApr 4, 2024 — They found that “nudges” regarding the importance of accuracy reduce...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dornsife.usc.edu  
    Title: social media reward accurate instead of misinformation  
-   Link: <a href="https://dornsife.usc.edu/news/stories/social-media-reward-accurate-instead-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/news/stories/social-media-reward-accurate-instead-of-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeSocial media can in fact be made betterAug 1, 2023 —... Research shows it is possible to reward users for sharing accurate i...</p></details>
+   Link:<a href="https://dornsife.usc.edu/news/stories/social-media-reward-accurate-instead-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/news/stories/social-media-reward-accurate-instead-of-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeSocial media can in fact be made betterAug 1, 2023 —... Research shows it is possible to reward users for sharing accurate i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ide.mit.edu  
    Title: Pennycook et al Shifting attention to accuracy  
-   Link: <a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1584 — Misinformation and morality: Encountering fake-news h...</p></details>
+   Link:<a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attention to accuracy can reduce misinformation...by G Pennycook · Cited by 1584 — Misinformation and morality: Encountering fake-news h...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: ronzani different incentives 20240125  
-   Link: <a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2024/01/ronzani_different_incentives_20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2024/01/ronzani_different_incentives_20240125.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewHow different incentives reduce scientific misinformation onlineby P Ronzani · 2024 · Cited by 9 — Some strategies f...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2024/01/ronzani_different_incentives_20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2024/01/ronzani_different_incentives_20240125.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewHow different incentives reduce scientific misinformation onlineby P Ronzani · 2024 · Cited by 9 — Some strategies f...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Accuracy and precision  
-   Link: <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accuracy_and_precision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and precisionAccuracy and precision are measures of observational error; accuracy is how close a given set of measurements is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accuracy_and_precision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and precisionAccuracy and precision are measures of observational error; accuracy is how close a given set of measurements is...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2507676" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2507676</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Effect of Accuracy Nudge and Warning Label...by K Fujimoto · 2026 · Cited by 2 — Research on accuracy nudges is underway to examin...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2507676" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2507676</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Effect of Accuracy Nudge and Warning Label...by K Fujimoto · 2026 · Cited by 2 — Research on accuracy nudges is underway to examin...</p></details>

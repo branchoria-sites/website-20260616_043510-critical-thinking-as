@@ -278,11 +278,11 @@ One of the most persistent pension myths on social media is the claim that Natio
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-1-dark.svg" | relative_url }}" alt="Pension Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes the case a useful lesson in [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}). A calculation can appear morally compelling while being built on the wrong model. Once the definition of National Insurance is corrected, the emotional force of the comparison changes dramatically. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) have repeatedly found that viral pension posts misunderstand how NI works and, in some cases, also contain arithmetic errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+This makes the case a useful lesson in [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}). A calculation can appear morally compelling while being built on the wrong model. Once the definition of National Insurance is corrected, the emotional force of the comparison changes dramatically. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) have repeatedly found that viral pension posts misunderstand how NI works and, in some cases, also contain arithmetic errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 ## What the Facebook pension posts claimed
 
-Several widely shared Facebook posts argued that someone paying National Insurance over a working lifetime should have accumulated a substantial pension fund. The posts typically estimated annual contributions, multiplied them over several decades, then added a hypothetical investment return—often around 5% per year. The resulting figure was presented as the amount pensioners should supposedly receive or have available in retirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+Several widely shared Facebook posts argued that someone paying National Insurance over a working lifetime should have accumulated a substantial pension fund. The posts typically estimated annual contributions, multiplied them over several decades, then added a hypothetical investment return—often around 5% per year. The resulting figure was presented as the amount pensioners should supposedly receive or have available in retirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 The argument usually followed a simple structure:
 
@@ -292,14 +292,14 @@ The argument usually followed a simple structure:
 1. Add up a worker's lifetime NI contributions.
 2. Assume those contributions were invested for decades.
 3. Apply compound interest.
-4. Compare the resulting total with the State Pension actually paid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
+4. Compare the resulting total with the State Pension actually paid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
 5. Conclude that pensioners have been deprived of money that belongs to them.
 
 </div>
 
 Because compound interest produces very large numbers over long periods, the final comparison often appears shocking. Readers can easily come away believing that the State Pension system has withheld wealth that was personally accumulated.
 
-However, the conclusion depends entirely on one assumption: that National Insurance contributions are deposited into an individual's own investment account. That assumption is the critical error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+However, the conclusion depends entirely on one assumption: that National Insurance contributions are deposited into an individual's own investment account. That assumption is the critical error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GQtGuXfFbT0" title="Why Britain&#x27;s Pension System Is Structurally Unjust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GQtGuXfFbT0" target="_blank" rel="noopener noreferrer">Why Britain&#x27;s Pension System Is Structurally Unjust</a></p><p class="youtube-embed-meta">Channel: Richard J Murphy &middot; Views: 25.2K &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GQtGuXfFbT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GQtGuXfFbT0">Open on YouTube</a></p></div></div></div>
@@ -310,9 +310,9 @@ The central misunderstanding is the treatment of National Insurance as though it
 
 A private pension generally involves money being invested on behalf of an individual. The value of the pension depends partly on contributions and partly on investment performance over time. In that model, calculating decades of compound growth makes sense.
 
-National Insurance is different. The UK system links contribution records to benefit eligibility, but contributions are not held in personal accounts earning investment returns for each contributor. The National Insurance Fund operates broadly on a pay-as-you-go basis: contributions collected in a given period are used to help fund current pensions and other contributory benefits. Parliament's House of Commons Library explicitly describes the National Insurance Fund as a pay-as-you-go fund in which receipts are spent in the same year, and notes that there is no direct connection between the amount an individual pays and the value of benefits they later receive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/sn04517/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-snippet">Therefore, receipts from contributions in one year are spent in the same year for contributory benefits.Read more...</span></span></span>
+National Insurance is different. The UK system links contribution records to benefit eligibility, but contributions are not held in personal accounts earning investment returns for each contributor. The National Insurance Fund operates broadly on a pay-as-you-go basis: contributions collected in a given period are used to help fund current pensions and other contributory benefits. Parliament's House of Commons Library explicitly describes the National Insurance Fund as a pay-as-you-go fund in which receipts are spent in the same year, and notes that there is no direct connection between the amount an individual pays and the value of benefits they later receive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/sn04517/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-snippet">Therefore, receipts from contributions in one year are spent in the same year for contributory benefits.Read more...</span></span></span>
 
-Government and independent guidance make the same distinction. National Insurance contributions build entitlement to the State Pension and certain benefits, but they do not create a personal investment account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
+Government and independent guidance make the same distinction. National Insurance contributions build entitlement to the State Pension and certain benefits, but they do not create a personal investment account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
 
 This means the viral posts were comparing two different systems:
 
@@ -330,7 +330,7 @@ The striking feature of these posts is that the numbers seem self-evidently unfa
 Imagine two questions:
 
 * "What would happen if every National Insurance payment had been invested in a personal account for fifty years?"
-* "How does the UK State Pension system actually operate?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
+* "How does the UK State Pension system actually operate?"<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
 
 Both are legitimate questions, but they are not the same question.
 
@@ -338,7 +338,7 @@ The viral posts often moved from the first question to the second without tellin
 
 This is a classic example of a framing error. The calculation may be internally consistent within the imaginary system, but it does not describe the real one. As a result, the large final figure acquires emotional power that it has not earned analytically.
 
-Fact-checkers examining these posts found not only that the underlying model was wrong, but also that some calculations contained mathematical mistakes even within their own assumptions. In other words, the posts often failed both the definitional test and the arithmetic test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+Fact-checkers examining these posts found not only that the underlying model was wrong, but also that some calculations contained mathematical mistakes even within their own assumptions. In other words, the posts often failed both the definitional test and the arithmetic test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Viral Facebook pension posts get maths wrong again</span><span class="citation-popover-snippet">Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_8GkTNgyXqs" title="How to check your State Pension and pay for gaps in your National Insurance record" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_8GkTNgyXqs" target="_blank" rel="noopener noreferrer">How to check your State Pension and pay for gaps in your National Insurance record</a></p><p class="youtube-embed-meta">Channel: Department for Work and Pensions (DWP) &middot; Views: 46.3K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_8GkTNgyXqs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_8GkTNgyXqs">Open on YouTube</a></p></div></div></div>
@@ -347,9 +347,9 @@ Fact-checkers examining these posts found not only that the underlying model was
 
 One way to see the difference is to look at how State Pension entitlement is actually determined.
 
-Under the current system, eligibility is based largely on National Insurance qualifying years rather than the total amount of money paid over a lifetime. People generally need a minimum number of qualifying years to receive any new State Pension, and around 35 qualifying years for the full new State Pension. Credits can also count in some circumstances, such as caring responsibilities or certain benefits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalandgeneral.com">[Legal &amp; General+2LITRG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalandgeneral.com</span><span class="citation-popover-snippet">Legal &amp; GeneralUnderstanding the UK State PensionTo receive the full State Pension you must have paid 35 years of NI contributions. If yo...</span></span></span>
+Under the current system, eligibility is based largely on National Insurance qualifying years rather than the total amount of money paid over a lifetime. People generally need a minimum number of qualifying years to receive any new State Pension, and around 35 qualifying years for the full new State Pension. Credits can also count in some circumstances, such as caring responsibilities or certain benefits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalandgeneral.com">[Legal &amp; General+2LITRG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalandgeneral.com</span><span class="citation-popover-snippet">Legal &amp; GeneralUnderstanding the UK State PensionTo receive the full State Pension you must have paid 35 years of NI contributions. If yo...</span></span></span>
 
-That structure makes little sense if NI were a personal investment pot. In a true personal account system, the critical variable would be the amount accumulated and invested. Instead, the UK's State Pension framework focuses primarily on contribution records and qualifying years. The design itself signals that the system is based on entitlement rules rather than ownership of an individual fund. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
+That structure makes little sense if NI were a personal investment pot. In a true personal account system, the critical variable would be the amount accumulated and invested. Instead, the UK's State Pension framework focuses primarily on contribution records and qualifying years. The design itself signals that the system is based on entitlement rules rather than ownership of an individual fund.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">your state pension explained</span><span class="citation-popover-snippet">6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h0-8UUgV3CU" title="⁠Will the State Pension Be There When You Retire?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h0-8UUgV3CU" target="_blank" rel="noopener noreferrer">⁠Will the State Pension Be There When You Retire?</a></p><p class="youtube-embed-meta">Channel: Making Money Podcast &middot; Views: 38.0K &middot; Uploaded: March 2026 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h0-8UUgV3CU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h0-8UUgV3CU">Open on YouTube</a></p></div></div></div>
@@ -373,194 +373,194 @@ In the National Insurance case, the persuasive power of the posts depended on re
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-3-dark.svg" | relative_url }}" alt="Pension Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_pension_claim_ni_def_3c4585-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Bad Definition Drives the Whole Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Bad Definition Drives the Whole Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how calculations can mislead when assumptions and definitions are wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how calculations can mislead when assumptions and definitions are wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why persuasive but flawed arguments can feel correct.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why persuasive but flawed arguments can feel correct.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to challenge faulty premises behind impressive figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to challenge faulty premises behind impressive figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages readers to examine assumptions before accepting numerical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to examine assumptions before accepting numerical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="pension-claim-when-a-bad-definition-drives-the-whole-claim-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ In the National Insurance case, the persuasive power of the posts depended on re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ In the National Insurance case, the persuasive power of the posts depended on re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ In the National Insurance case, the persuasive power of the posts depended on re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ In the National Insurance case, the persuasive power of the posts depended on re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ In the National Insurance case, the persuasive power of the posts depended on re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,175 +766,175 @@ In the National Insurance case, the persuasive power of the posts depended on re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commonslibrary.parliament.uk  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/sn04517/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/sn04517/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, receipts from contributions in one year are spent in the same year for contributory benefits.Read more...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/sn04517/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/sn04517/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, receipts from contributions in one year are spent in the same year for contributory benefits.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: your state pension explained  
-   Link: <a href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/your-new-state-pension-explained/your-state-pension-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Apr 2026 — When you reach State Pension age, you will not have to pay National Insurance contributions, even if you continue working. 4...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: litrg.org.uk  
-   Link: <a href="https://www.litrg.org.uk/pensions/state-pension/national-insurance-and-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.litrg.org.uk/pensions/state-pension/national-insurance-and-state-pension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance and the state pensionYou usually need to have 35 qualifying years on your National Insurance record in order to qualif...</p></details>
+   Link:<a href="https://www.litrg.org.uk/pensions/state-pension/national-insurance-and-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.litrg.org.uk/pensions/state-pension/national-insurance-and-state-pension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance and the state pensionYou usually need to have 35 qualifying years on your National Insurance record in order to qualif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/state-pension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gets the basic State PensionEveryone eligible for the basic State Pension has now reached State Pension age. To get it you need to have e...</p></details>
+   Link:<a href="https://www.gov.uk/state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/state-pension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gets the basic State PensionEveryone eligible for the basic State Pension has now reached State Pension age. To get it you need to have e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/voluntary-national-insurance-contributions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance: OverviewVoluntary contributions do not always increase your State Pension, for example if you were contracted out. If...</p></details>
+   Link:<a href="https://www.gov.uk/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/voluntary-national-insurance-contributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance: OverviewVoluntary contributions do not always increase your State Pension, for example if you were contracted out. If...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/voluntary-national-insurance-contributions/deadlines" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/voluntary-national-insurance-contributions/deadlines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The deadline is 5 April each year. For example, you have until 5 April 2032 to make up gaps for...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/voluntary-national-insurance-contributions/deadlines" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/voluntary-national-insurance-contributions/deadlines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The deadline is 5 April each year. For example, you have until 5 April 2032 to make up gaps for...Read more...</p></details>
    Published: April 2032  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/national-insurance-fund-accounts/great-britain-national-insurance-fund-account-for-the-year-ended-31-march-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/national-insurance-fund-accounts/great-britain-national-insurance-fund-account-for-the-year-ended-31-march-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain National Insurance Fund Account for the year...The NIF Account presents the receipts and payments for the financial year, as wel...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/national-insurance-fund-accounts/great-britain-national-insurance-fund-account-for-the-year-ended-31-march-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/national-insurance-fund-accounts/great-britain-national-insurance-fund-account-for-the-year-ended-31-march-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain National Insurance Fund Account for the year...The NIF Account presents the receipts and payments for the financial year, as wel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/564527223636908/posts/24131076603221972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/564527223636908/posts/24131076603221972/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>en you pay National Insurance contributions, you are in fact buying for want...</p></details>
+   Link:<a href="https://www.facebook.com/groups/564527223636908/posts/24131076603221972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/564527223636908/posts/24131076603221972/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en you pay National Insurance contributions, you are in fact buying for want...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FullFact.org/videos/fact-checked-videos-claiming-state-pension-will-be-reduced-in-april-2026/1012080597751229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/fact-checked-videos-claiming-state-pension-will-be-reduced-in-april-2026/1012080597751229/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>at starting 1st November people will have to withdraw their...</p></details>
+   Link:<a href="https://www.facebook.com/FullFact.org/videos/fact-checked-videos-claiming-state-pension-will-be-reduced-in-april-2026/1012080597751229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/videos/fact-checked-videos-claiming-state-pension-will-be-reduced-in-april-2026/1012080597751229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at starting 1st November people will have to withdraw their...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/701903791021795/posts/1674930630385768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/701903791021795/posts/1674930630385768/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You have to pay 35 years NI to receive the full pension. That is a pot. Members need to stop arguing over semantics...</p></details>
+   Link:<a href="https://www.facebook.com/groups/701903791021795/posts/1674930630385768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/701903791021795/posts/1674930630385768/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You have to pay 35 years NI to receive the full pension. That is a pot. Members need to stop arguing over semantics...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Retired age 80 after 50+ years in NHS  
-   Link: <a href="https://www.facebook.com/groups/445975453041451/posts/1741768940128756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/445975453041451/posts/1741768940128756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>letter re...Retired age 80 after 50+ years in NHS. Dot.Gov letter re State Pension increase arrived today. Why is Dot.Gov calling my Pen...</p></details>
+   Link:<a href="https://www.facebook.com/groups/445975453041451/posts/1741768940128756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/445975453041451/posts/1741768940128756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>letter re...Retired age 80 after 50+ years in NHS. Dot.Gov letter re State Pension increase arrived today. Why is Dot.Gov calling my Pen...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/564527223636908/posts/9379707402118802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/564527223636908/posts/9379707402118802/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The new one flies a head when we get % rises...</p></details>
+   Link:<a href="https://www.facebook.com/groups/564527223636908/posts/9379707402118802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/564527223636908/posts/9379707402118802/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The new one flies a head when we get % rises...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adam.slee.7505/videos/your-future-pension-pot-has-been-spent-already-there-is-no-pot/1659904252102605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adam.slee.7505/videos/your-future-pension-pot-has-been-spent-already-there-is-no-pot/1659904252102605/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>not investment growth. It&#x27;s pretty simple really A. change pension...</p></details>
+   Link:<a href="https://www.facebook.com/adam.slee.7505/videos/your-future-pension-pot-has-been-spent-already-there-is-no-pot/1659904252102605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adam.slee.7505/videos/your-future-pension-pot-has-been-spent-already-there-is-no-pot/1659904252102605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>not investment growth. It&#x27;s pretty simple really A. change pension...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HMRC/posts/paying-national-insurance-means-youre-contributing-to-your-state-pension-use-the/824617083175021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HMRC/posts/paying-national-insurance-means-youre-contributing-to-your-state-pension-use-the/824617083175021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or any of the other benefits we are told they are used for. 1.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HMRC/posts/paying-national-insurance-means-youre-contributing-to-your-state-pension-use-the/824617083175021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HMRC/posts/paying-national-insurance-means-youre-contributing-to-your-state-pension-use-the/824617083175021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or any of the other benefits we are told they are used for. 1.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nidirect.gov.uk  
-   Link: <a href="https://www.nidirect.gov.uk/articles/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.nidirect.gov.uk/articles/voluntary-national-insurance-contributions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary National Insurance contributionsQualifying for State Pension. You qualify for State Pension based on the number of qualifying y...</p></details>
+   Link:<a href="https://www.nidirect.gov.uk/articles/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.nidirect.gov.uk/articles/voluntary-national-insurance-contributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary National Insurance contributionsQualifying for State Pension. You qualify for State Pension based on the number of qualifying y...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nidirect.gov.uk  
-   Link: <a href="https://www.nidirect.gov.uk/articles/your-national-insurance-record-and-new-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.nidirect.gov.uk/articles/your-national-insurance-record-and-new-state-pension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your National Insurance record and new State PensionYou will usually need to have 10 qualifying years on your National Insurance record t...</p></details>
+   Link:<a href="https://www.nidirect.gov.uk/articles/your-national-insurance-record-and-new-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.nidirect.gov.uk/articles/your-national-insurance-record-and-new-state-pension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your National Insurance record and new State PensionYou will usually need to have 10 qualifying years on your National Insurance record t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fullfact.org  
    Title: Full Fact Viral Facebook pension posts get maths wrong again  
-   Link: <a href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</p></details>
+   Link:<a href="https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pensions-maths-facebook-viral-repeat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactViral Facebook pension posts get maths wrong againNovember 28, 2025 — 28 Nov 2025 — The posts suggest that the pension pots accr...</p></details>
    Published: November 28, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fullfact.org  
    Title: viral pensions post  
-   Link: <a href="https://fullfact.org/online/viral-pensions-post/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/viral-pensions-post/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>has its maths all wrong20 Apr 2022 — The 600-word long viral essay makes a number of claims, including some dodgy calculations that claim...</p></details>
+   Link:<a href="https://fullfact.org/online/viral-pensions-post/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/online/viral-pensions-post/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has its maths all wrong20 Apr 2022 — The 600-word long viral essay makes a number of claims, including some dodgy calculations that claim...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: taxaid.org.uk  
    Title: national insurance  
-   Link: <a href="https://taxaid.org.uk/tax-information/what-are-taxes/national-insurance" target="_blank" rel="noopener noreferrer nofollow">https://taxaid.org.uk/tax-information/what-are-taxes/national-insurance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2026 — Although it&#x27;s linked to benefits, National Insurance isn&#x27;t held in a personal fund for you. The money goes into government f...</p></details>
+   Link:<a href="https://taxaid.org.uk/tax-information/what-are-taxes/national-insurance" target="_blank" rel="noopener noreferrer nofollow">https://taxaid.org.uk/tax-information/what-are-taxes/national-insurance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Apr 2026 — Although it&#x27;s linked to benefits, National Insurance isn&#x27;t held in a personal fund for you. The money goes into government f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: legalandgeneral.com  
-   Link: <a href="https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/" target="_blank" rel="noopener noreferrer nofollow">https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal &amp; GeneralUnderstanding the UK State PensionTo receive the full State Pension you must have paid 35 years of NI contributions. If yo...</p></details>
+   Link:<a href="https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/" target="_blank" rel="noopener noreferrer nofollow">https://www.legalandgeneral.com/retirement/pensions/guides/pensions-explained/state-pension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legal &amp; GeneralUnderstanding the UK State PensionTo receive the full State Pension you must have paid 35 years of NI contributions. If yo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fullfact.org  
    Title: pension withdrawal fined 20 per cent false  
-   Link: <a href="https://fullfact.org/economy/pension-withdrawal-fined-20-per-cent-false/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pension-withdrawal-fined-20-per-cent-false/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video falsely claims pensions will have to be withdrawn...30 Oct 2025 — A video circulating online wrongly claims pensioners could lose...</p></details>
+   Link:<a href="https://fullfact.org/economy/pension-withdrawal-fined-20-per-cent-false/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/economy/pension-withdrawal-fined-20-per-cent-false/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video falsely claims pensions will have to be withdrawn...30 Oct 2025 — A video circulating online wrongly claims pensioners could lose...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: litrg.org.uk  
-   Link: <a href="https://www.litrg.org.uk/tax-nic/national-insurance/national-insurance-after-state-pension-age" target="_blank" rel="noopener noreferrer nofollow">https://www.litrg.org.uk/tax-nic/national-insurance/national-insurance-after-state-pension-age</a>  
+   Link:<a href="https://www.litrg.org.uk/tax-nic/national-insurance/national-insurance-after-state-pension-age" target="_blank" rel="noopener noreferrer nofollow">https://www.litrg.org.uk/tax-nic/national-insurance/national-insurance-after-state-pension-age</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: citizensadvice.org.uk  
-   Link: <a href="https://www.citizensadvice.org.uk/debt-and-money/pensions/types-of-pension/state-pension/" target="_blank" rel="noopener noreferrer nofollow">https://www.citizensadvice.org.uk/debt-and-money/pensions/types-of-pension/state-pension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State PensionYou need 39 qualifying years of National Insurance contributions to get the full amount. You&#x27;ll still get something if you h...</p></details>
+   Link:<a href="https://www.citizensadvice.org.uk/debt-and-money/pensions/types-of-pension/state-pension/" target="_blank" rel="noopener noreferrer nofollow">https://www.citizensadvice.org.uk/debt-and-money/pensions/types-of-pension/state-pension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State PensionYou need 39 qualifying years of National Insurance contributions to get the full amount. You&#x27;ll still get something if you h...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unbiased.co.uk  
    Title: do you pay national insurance on your pension contributions  
-   Link: <a href="https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/do-you-pay-national-insurance-on-your-pension-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/do-you-pay-national-insurance-on-your-pension-contributions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you pay National Insurance on your pension...1 Jul 2025 — No, you don&#x27;t pay NI contributions on your pension income, whether from the...</p></details>
+   Link:<a href="https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/do-you-pay-national-insurance-on-your-pension-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.unbiased.co.uk/discover/pensions-retirement/managing-a-pension/do-you-pay-national-insurance-on-your-pension-contributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you pay National Insurance on your pension...1 Jul 2025 — No, you don&#x27;t pay NI contributions on your pension income, whether from the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tax.org.uk  
    Title: national insurance contributions nics an explainer  
-   Link: <a href="https://www.tax.org.uk/national-insurance-contributions-nics-an-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.tax.org.uk/national-insurance-contributions-nics-an-explainer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance Contributions (NICs) – an explainer28 Jul 2021 — Voluntary Class 3 contributions may be paid by individuals not liable...</p></details>
+   Link:<a href="https://www.tax.org.uk/national-insurance-contributions-nics-an-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.tax.org.uk/national-insurance-contributions-nics-an-explainer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Insurance Contributions (NICs) – an explainer28 Jul 2021 — Voluntary Class 3 contributions may be paid by individuals not liable...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: charles-stanley.co.uk  
-   Link: <a href="https://www.charles-stanley.co.uk/insights/commentary/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.charles-stanley.co.uk/insights/commentary/voluntary-national-insurance-contributions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ns and how they can give your retirement savings a financial boost...</p></details>
+   Link:<a href="https://www.charles-stanley.co.uk/insights/commentary/voluntary-national-insurance-contributions" target="_blank" rel="noopener noreferrer nofollow">https://www.charles-stanley.co.uk/insights/commentary/voluntary-national-insurance-contributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ns and how they can give your retirement savings a financial boost...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: moneysavingexpert.com  
    Title: voluntary national insurance contributions  
-   Link: <a href="https://www.moneysavingexpert.com/pensions/voluntary-national-insurance-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.moneysavingexpert.com/pensions/voluntary-national-insurance-contributions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Urgently consider buying National...If you&#x27;re aged between 45 and 73(ish), buying extra national insurance years could massively boost y...</p></details>
+   Link:<a href="https://www.moneysavingexpert.com/pensions/voluntary-national-insurance-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.moneysavingexpert.com/pensions/voluntary-national-insurance-contributions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Urgently consider buying National...If you&#x27;re aged between 45 and 73(ish), buying extra national insurance years could massively boost y...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY45wdDC3yU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY45wdDC3yU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So stack up a few missing years and you could literally lose...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY45wdDC3yU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY45wdDC3yU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So stack up a few missing years and you could literally lose...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: moneyhelper.org.uk  
-   Link: <a href="https://www.moneyhelper.org.uk/en/pensions-and-retirement/state-pension/voluntary-national-insurance-contributions-and-the-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/pensions-and-retirement/state-pension/voluntary-national-insurance-contributions-and-the-state-pension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These increase your qualifying years and amount you get...</p></details>
+   Link:<a href="https://www.moneyhelper.org.uk/en/pensions-and-retirement/state-pension/voluntary-national-insurance-contributions-and-the-state-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/pensions-and-retirement/state-pension/voluntary-national-insurance-contributions-and-the-state-pension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These increase your qualifying years and amount you get...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Why Britain's Pension System Is Structurally Unjust  
-   Link: <a href="https://www.youtube.com/watch?v=GQtGuXfFbT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQtGuXfFbT0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Will the State Pension Be There When You Retire?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GQtGuXfFbT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQtGuXfFbT0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Will the State Pension Be There When You Retire?...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Will the State Pension Be There When You Retire?  
-   Link: <a href="https://www.youtube.com/watch?v=h0-8UUgV3CU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0-8UUgV3CU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 What are National Insurance Contributions?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h0-8UUgV3CU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0-8UUgV3CU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 What are National Insurance Contributions?...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_8GkTNgyXqs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_8GkTNgyXqs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_8GkTNgyXqs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_8GkTNgyXqs</a>  

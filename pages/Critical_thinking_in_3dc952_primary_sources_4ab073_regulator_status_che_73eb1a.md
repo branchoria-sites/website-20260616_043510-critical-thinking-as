@@ -303,9 +303,9 @@ A useful way to think about regulatory documents is to ask what they actually do
 
 </div>
 
-This distinction appears across many regulatory systems. The UK's Financial Conduct Authority (FCA), for example, explicitly states that a warning notice is issued when it *proposes* taking action and is not the final decision. Decision notices and final notices occur later in the process after representations and review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/about/how-we-regulate/enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-snippet">April 22, 2016 — 20 Apr 2016 — Warning notices are issued when we propose taking action, a warning notice is not the final decision of th...</span><span class="citation-popover-meta">Published: April 22, 2016</span></span></span>
+This distinction appears across many regulatory systems. The UK's Financial Conduct Authority (FCA), for example, explicitly states that a warning notice is issued when it *proposes* taking action and is not the final decision. Decision notices and final notices occur later in the process after representations and review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/about/how-we-regulate/enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-snippet">April 22, 2016 — 20 Apr 2016 — Warning notices are issued when we propose taking action, a warning notice is not the final decision of th...</span><span class="citation-popover-meta">Published: April 22, 2016</span></span></span>
 
-Similarly, regulators often publish consultation documents that describe proposed changes and invite responses before any binding rule exists. The UK government's 2026 consultation on product regulation states that responses will be analysed before legislation or implementation steps are decided. A consultation is [evidence]({{ 'evidence/' | relative_url }}) that a policy is being considered, not proof that it has already been enacted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The UK&#x27;s new core product regulation market surveillance</span><span class="citation-popover-snippet">We will analyse all consultation responses and publish the government response shortly thereafter.Read more...</span></span></span>
+Similarly, regulators often publish consultation documents that describe proposed changes and invite responses before any binding rule exists. The UK government's 2026 consultation on product regulation states that responses will be analysed before legislation or implementation steps are decided. A consultation is [evidence]({{ 'evidence/' | relative_url }}) that a policy is being considered, not proof that it has already been enacted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The UK&#x27;s new core product regulation market surveillance</span><span class="citation-popover-snippet">We will analyse all consultation responses and publish the government response shortly thereafter.Read more...</span></span></span>
 
 ### Why proposals are often mistaken for completed action
 
@@ -339,9 +339,9 @@ The distinction is not merely procedural. It affects what readers should conclud
 
 Regulatory stageWhat can be accurately claimed?InvestigationThe regulator is examining conduct.Warning or preliminary noticeThe regulator believes action may be justified.Proposed penaltyA fine or sanction has been suggested, not yet imposed.SettlementParties have agreed to specified terms.Final order or final noticeA binding regulatory decision has been issued.AppealThe outcome may still change.
 
-Some enforcement systems explicitly distinguish proposed and final orders. Ofgem's enforcement guidance, for example, describes procedures involving proposed modifications, publication of decisions, final orders and subsequent appeal opportunities. A proposal and a final order are separate stages with different legal consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofgem.gov.uk">[Ofgem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofgem.gov.uk</span><span class="citation-popover-title">Ofgem Enforcement Guidelines</span><span class="citation-popover-snippet">Enforcement GuidelinesMarch 23, 2023 — by CE Team · 2023 · Cited by 2 — Following the making of a final order, a Notice of Reasons22...</span><span class="citation-popover-meta">Published: March 23, 2023</span></span></span>
+Some enforcement systems explicitly distinguish proposed and final orders. Ofgem's enforcement guidance, for example, describes procedures involving proposed modifications, publication of decisions, final orders and subsequent appeal opportunities. A proposal and a final order are separate stages with different legal consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofgem.gov.uk">[Ofgem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofgem.gov.uk</span><span class="citation-popover-title">Ofgem Enforcement Guidelines</span><span class="citation-popover-snippet">Enforcement GuidelinesMarch 23, 2023 — by CE Team · 2023 · Cited by 2 — Following the making of a final order, a Notice of Reasons22...</span><span class="citation-popover-meta">Published: March 23, 2023</span></span></span>
 
-Regulators themselves often publish enforcement policies explaining that advice, warning letters, investigations and formal enforcement actions serve different purposes. Environmental and water regulators in the UK similarly distinguish guidance and warning mechanisms from formal enforcement measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sepa.org.uk">[sepa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sepa.org.uk</span><span class="citation-popover-title">GUIDANC E ON THE USE OF ENFORCEMENT ACTION</span><span class="citation-popover-snippet">Table A - The different types of enforcement actions available for SEPA to initiate (in alphabetical order). Enforcement action. Role of...</span></span></span>
+Regulators themselves often publish enforcement policies explaining that advice, warning letters, investigations and formal enforcement actions serve different purposes. Environmental and water regulators in the UK similarly distinguish guidance and warning mechanisms from formal enforcement measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sepa.org.uk">[sepa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sepa.org.uk</span><span class="citation-popover-title">GUIDANC E ON THE USE OF ENFORCEMENT ACTION</span><span class="citation-popover-snippet">Table A - The different types of enforcement actions available for SEPA to initiate (in alphabetical order). Enforcement action. Role of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLy8893NRtg" title="FDA’s Rulemaking Process and Planned Tobacco Product Standards webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLy8893NRtg" target="_blank" rel="noopener noreferrer">FDA’s Rulemaking Process and Planned Tobacco Product Standards webinar</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 3.9K &middot; Uploaded: March 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLy8893NRtg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLy8893NRtg">Open on YouTube</a></p></div></div></div>
@@ -350,17 +350,17 @@ Regulators themselves often publish enforcement policies explaining that advice,
 
 AI-related regulation provides a useful illustration because developments move quickly and attract heavy online attention.
 
-In May 2024, the US Federal Communications Commission (FCC) announced a proposed $6 million penalty against political consultant Steve Kramer over AI-generated robocalls that imitated President Biden's voice before the New Hampshire primary. The agency's document was a proposal, formally known as a notice of apparent liability, not yet a final penalty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov+2FCC Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-snippet">FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
+In May 2024, the US Federal Communications Commission (FCC) announced a proposed $6 million penalty against political consultant Steve Kramer over AI-generated robocalls that imitated President Biden's voice before the New Hampshire primary. The agency's document was a proposal, formally known as a notice of apparent liability, not yet a final penalty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov+2FCC Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-snippet">FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
 
 At the same time, some coverage and social-media discussions treated the proposal as though the fine had already been imposed.
 
-Months later, the FCC finalised the $6 million penalty. At that point, it became accurate to state that the regulator had imposed the fine. The difference between the May proposal and the September final action was legally significant even though both concerned the same underlying conduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Consultant fined $6 million for using AI to fake Biden&#x27;s voice in robocalls</span><span class="citation-popover-snippet">These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process....</span></span></span>
+Months later, the FCC finalised the $6 million penalty. At that point, it became accurate to state that the regulator had imposed the fine. The difference between the May proposal and the September final action was legally significant even though both concerned the same underlying conduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-biden-robocalls-2024-09-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Consultant fined $6 million for using AI to fake Biden&#x27;s voice in robocalls</span><span class="citation-popover-snippet">These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process....</span></span></span>
 
-The same episode generated a second layer of confusion. The FCC also launched a rulemaking process concerning AI-generated calls and texts. The agency's Notice of Proposed Rulemaking described potential future requirements and sought comment. Those proposals were not themselves final regulations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.fcc.gov">[FCC Docs+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.fcc.gov</span><span class="citation-popover-snippet">FCC DocsJuly 17, 2024 FCC FACT SHEET* Implications of Artificial...July 17, 2024 — 17 Jul 2024 — In this Notice of Proposed Rulemaking...</span><span class="citation-popover-meta">Published: July 17, 2024</span></span></span>
+The same episode generated a second layer of confusion. The FCC also launched a rulemaking process concerning AI-generated calls and texts. The agency's Notice of Proposed Rulemaking described potential future requirements and sought comment. Those proposals were not themselves final regulations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.fcc.gov">[FCC Docs+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.fcc.gov</span><span class="citation-popover-snippet">FCC DocsJuly 17, 2024 FCC FACT SHEET* Implications of Artificial...July 17, 2024 — 17 Jul 2024 — In this Notice of Proposed Rulemaking...</span><span class="citation-popover-meta">Published: July 17, 2024</span></span></span>
 
 A reader who failed to distinguish between:
 
-1. a proposed fine, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-snippet">FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
+1. a proposed fine,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-snippet">FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
 2. a final fine,
 3. a proposed rule, and
 4. an existing prohibition,
@@ -394,7 +394,7 @@ By contrast, terms such as:
 * final notice
 * judgment
 * penalty notice
-* consent order <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalpolicywatch.com">[globalpolicywatch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalpolicywatch.com</span><span class="citation-popover-title">Global Policy Watch FTC Sets Aside Rytr Final Order Pursuant to White House</span><span class="citation-popover-snippet">Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span>
+* consent order<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalpolicywatch.com">[globalpolicywatch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalpolicywatch.com</span><span class="citation-popover-title">Global Policy Watch FTC Sets Aside Rytr Final Order Pursuant to White House</span><span class="citation-popover-snippet">Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span>
 * settlement agreement
 * enforcement order
 
@@ -427,7 +427,7 @@ A proposed penalty may later become:
 * a court challenge,
 * a vacated order.
 
-In some cases, regulators even revisit earlier decisions. The existence of a past enforcement action does not automatically mean the regulatory position remained unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalpolicywatch.com">[Global Policy Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalpolicywatch.com</span><span class="citation-popover-title">Global Policy Watch FTC Sets Aside Rytr Final Order Pursuant to White House</span><span class="citation-popover-snippet">Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span>
+In some cases, regulators even revisit earlier decisions. The existence of a past enforcement action does not automatically mean the regulatory position remained unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalpolicywatch.com">[Global Policy Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalpolicywatch.com</span><span class="citation-popover-title">Global Policy Watch FTC Sets Aside Rytr Final Order Pursuant to White House</span><span class="citation-popover-snippet">Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_regulator_status_che_73eb1a-Illustration-3-dark.svg" | relative_url }}" alt="Regulator Status illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_regulator_status_che_73eb1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_regulator_status_che_73eb1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -440,178 +440,178 @@ A genuine consultation is not a final rule. A warning notice is not a final find
 Many misleading social-media claims begin with a real regulatory document. The error appears when procedural status disappears. Checking whether an action was proposed, pending, settled, appealed or final is often enough to transform a dramatic claim into a far more accurate understanding of what regulators actually did.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was It Banned Or Just Proposed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was It Banned Or Just Proposed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers distinguish proposals from final actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish proposals from final actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-first interpretation of public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-first interpretation of public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people overstate conclusions from preliminary information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people overstate conclusions from preliminary information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
-        </h4>
-        <p class="fr-book-author">By T. H. Bingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
+</h4>
+<p class="fr-book-author">By T. H. Bingham</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Human rights, Law, Rule of law, Social aspects, Political aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Human rights, Law, Rule of law, Social aspects, Political aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="regulator-status-was-it-banned-or-just-proposed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ Many misleading social-media claims begin with a real regulatory document. The e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ Many misleading social-media claims begin with a real regulatory document. The e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ Many misleading social-media claims begin with a real regulatory document. The e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ Many misleading social-media claims begin with a real regulatory document. The e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ Many misleading social-media claims begin with a real regulatory document. The e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,144 +817,144 @@ Many misleading social-media claims begin with a real regulatory document. The e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fca.org.uk  
-   Link: <a href="https://www.fca.org.uk/about/how-we-regulate/enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/about/how-we-regulate/enforcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 22, 2016 — 20 Apr 2016 — Warning notices are issued when we propose taking action, a warning notice is not the final decision of th...</p></details>
+   Link:<a href="https://www.fca.org.uk/about/how-we-regulate/enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/about/how-we-regulate/enforcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 22, 2016 — 20 Apr 2016 — Warning notices are issued when we propose taking action, a warning notice is not the final decision of th...</p></details>
    Published: April 22, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: The UK's new core product regulation market surveillance  
-   Link: <a href="https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We will analyse all consultation responses and publish the government response shortly thereafter.Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework/the-uks-new-core-product-regulation-market-surveillance-and-enforcement-framework</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We will analyse all consultation responses and publish the government response shortly thereafter.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ofgem.gov.uk  
    Title: Ofgem Enforcement Guidelines  
-   Link: <a href="https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement GuidelinesMarch 23, 2023 — by CE Team · 2023 · Cited by 2 — Following the making of a final order, a Notice of Reasons22...</p></details>
+   Link:<a href="https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofgem.gov.uk/sites/default/files/2023-03/Enforcement%20Guidelines%20v11%20March%202023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement GuidelinesMarch 23, 2023 — by CE Team · 2023 · Cited by 2 — Following the making of a final order, a Notice of Reasons22...</p></details>
    Published: March 23, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sepa.org.uk  
    Title: GUIDANC E ON THE USE OF ENFORCEMENT ACTION (  
-   Link: <a href="https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Table A - The different types of enforcement actions available for SEPA to initiate (in alphabetical order). Enforcement action. Role of...</p></details>
+   Link:<a href="https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sepa.org.uk/media/219242/enforcement-guidance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Table A - The different types of enforcement actions available for SEPA to initiate (in alphabetical order). Enforcement action. Role of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dwi.gov.uk  
-   Link: <a href="https://www.dwi.gov.uk/what-we-do/enforcement_policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dwi.gov.uk/what-we-do/enforcement_policy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drinking Water InspectorateEnforcement Policy – Drinking Water Quality RegulationThis Enforcement Policy document sets out the general pr...</p></details>
+   Link:<a href="https://www.dwi.gov.uk/what-we-do/enforcement_policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dwi.gov.uk/what-we-do/enforcement_policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drinking Water InspectorateEnforcement Policy – Drinking Water Quality RegulationThis Enforcement Policy document sets out the general pr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: doj.nh.gov  
-   Link: <a href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</p></details>
+   Link:<a href="https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/item-2-kramer-robocall-nal.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC PROPOSES $6 MILLION FINE FOR ILLEGAL...WASHINGTON, May 23, 2024—The Federal Communications Commission today proposed a substantial f...</p></details>
    Published: May 23, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: docs.fcc.gov  
-   Link: <a href="https://docs.fcc.gov/public/attachments/FCC-24-59A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/FCC-24-59A1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC DocsFederal Communications Commission FCC 24-59 124 May 2024 — We propose a penalty of $6,000,000 against Steve Kramer (Kramer) for p...</p></details>
+   Link:<a href="https://docs.fcc.gov/public/attachments/FCC-24-59A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/FCC-24-59A1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC DocsFederal Communications Commission FCC 24-59 124 May 2024 — We propose a penalty of $6,000,000 against Steve Kramer (Kramer) for p...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/fcc-chair-asks-telecoms-detail-efforts-block-fraudulent-ai-political-robocalls-2024-06-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/fcc-chair-asks-telecoms-detail-efforts-block-fraudulent-ai-political-robocalls-2024-06-27/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>En mayo, la FCC propuso multar con 6 millones de dólares a Steven Kramer, un consultor político demócrata, por una supuesta llamada autom...</p></details>
+   Link:<a href="https://www.reuters.com/technology/artificial-intelligence/fcc-chair-asks-telecoms-detail-efforts-block-fraudulent-ai-political-robocalls-2024-06-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/fcc-chair-asks-telecoms-detail-efforts-block-fraudulent-ai-political-robocalls-2024-06-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>En mayo, la FCC propuso multar con 6 millones de dólares a Steven Kramer, un consultor político demócrata, por una supuesta llamada autom...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: Consultant fined $6 million for using AI to fake Biden's voice in robocalls  
-   Link: <a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These calls urged New Hampshire voters not to participate in the state&#x27;s Democratic primary, potentially disrupting the election process...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: docs.fcc.gov  
-   Link: <a href="https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC DocsJuly 17, 2024 FCC FACT SHEET* Implications of Artificial...July 17, 2024 — 17 Jul 2024 — In this Notice of Proposed Rulemaking...</p></details>
+   Link:<a href="https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/DOC-404036A1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC DocsJuly 17, 2024 FCC FACT SHEET* Implications of Artificial...July 17, 2024 — 17 Jul 2024 — In this Notice of Proposed Rulemaking...</p></details>
    Published: July 17, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: <a href="https://www.thepensionsregulator.gov.uk/en/document-library/consultations/enforcement-strategy-consultation/new-approach-to-enforcement-consultation-document" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/consultations/enforcement-strategy-consultation/new-approach-to-enforcement-consultation-document</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new approach to enforcement consultation documentThis consultation is intended for anyone with an interest in how we approach and use o...</p></details>
+   Link:<a href="https://www.thepensionsregulator.gov.uk/en/document-library/consultations/enforcement-strategy-consultation/new-approach-to-enforcement-consultation-document" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/consultations/enforcement-strategy-consultation/new-approach-to-enforcement-consultation-document</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new approach to enforcement consultation documentThis consultation is intended for anyone with an interest in how we approach and use o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of Artificial Intelligence Technologies on...10 Sept 2024 — The Federal Communications Commission (Commission or FCC) propo...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of Artificial Intelligence Technologies on...10 Sept 2024 — The Federal Communications Commission (Commission or FCC) propo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: globalpolicywatch.com  
    Title: Global Policy Watch FTC Sets Aside Rytr Final Order Pursuant to White House  
-   Link: <a href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</p></details>
+   Link:<a href="https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalpolicywatch.com/2026/01/ftc-sets-aside-rytr-final-order-pursuant-to-white-house-ai-action-plan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Policy WatchFTC Sets Aside Rytr Final Order Pursuant to White House...January 8, 2026 — 8 Jan 2026 — On December 22, the Federal...</p></details>
    Published: January 8, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Approves Final Order against Workado, LLC, Which...28 Aug 2025 — FTC Approves Final Order against Workado, LLC, Which Misrepresented...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Approves Final Order against Workado, LLC, Which...28 Aug 2025 — FTC Approves Final Order against Workado, LLC, Which Misrepresented...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bankofengland.co.uk  
-   Link: <a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/enforcement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CP9/23 – The Bank of England&#x27;s approach to enforcement4 May 2023 — This consultation paper (CP) proposes changes to the Bank of England (...</p></details>
+   Link:<a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/enforcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CP9/23 – The Bank of England&#x27;s approach to enforcement4 May 2023 — This consultation paper (CP) proposes changes to the Bank of England (...</p></details>
    Published: May 2023  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/FCC/status/1793678256727814168" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FCC/status/1793678256727814168</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>$6 million proposed fine for illegal robocalls that used...FCC (@FCC). 12 likes. $6 million proposed fine for illegal robocalls that use...</p></details>
+   Link:<a href="https://x.com/FCC/status/1793678256727814168" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FCC/status/1793678256727814168</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>$6 million proposed fine for illegal robocalls that used...FCC (@FCC). 12 likes. $6 million proposed fine for illegal robocalls that use...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ailegalauthority.com  
-   Link: <a href="https://ailegalauthority.com/ftc-ai-enforcement-legal" target="_blank" rel="noopener noreferrer nofollow">https://ailegalauthority.com/ftc-ai-enforcement-legal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC AI Enforcement Actions: Legal Standards and Case...This page covers the legal standards the FTC applies to AI enforcement, the proce...</p></details>
+   Link:<a href="https://ailegalauthority.com/ftc-ai-enforcement-legal" target="_blank" rel="noopener noreferrer nofollow">https://ailegalauthority.com/ftc-ai-enforcement-legal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC AI Enforcement Actions: Legal Standards and Case...This page covers the legal standards the FTC applies to AI enforcement, the proce...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: businesscompanion.info  
-   Link: <a href="https://www.businesscompanion.info/en/quick-guides/miscellaneous/trading-standards-powers-enforcement-and-penalties" target="_blank" rel="noopener noreferrer nofollow">https://www.businesscompanion.info/en/quick-guides/miscellaneous/trading-standards-powers-enforcement-and-penalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trading Standards: powers, enforcement and penaltiesA TSO&#x27;s main powers include the power to enter premises, powers of inspection and pow...</p></details>
+   Link:<a href="https://www.businesscompanion.info/en/quick-guides/miscellaneous/trading-standards-powers-enforcement-and-penalties" target="_blank" rel="noopener noreferrer nofollow">https://www.businesscompanion.info/en/quick-guides/miscellaneous/trading-standards-powers-enforcement-and-penalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trading Standards: powers, enforcement and penaltiesA TSO&#x27;s main powers include the power to enter premises, powers of inspection and pow...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: perkinscoie.com  
    Title: fcc fines telecom transmitted ai generated deepfake robocalls impersonating  
-   Link: <a href="https://perkinscoie.com/insights/update/fcc-fines-telecom-transmitted-ai-generated-deepfake-robocalls-impersonating" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/fcc-fines-telecom-transmitted-ai-generated-deepfake-robocalls-impersonating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Fines Telecom That Transmitted AI-Generated...3 Sept 2024 — Two days before the 2024 New Hampshire Democratic primary, thousands of...</p></details>
+   Link:<a href="https://perkinscoie.com/insights/update/fcc-fines-telecom-transmitted-ai-generated-deepfake-robocalls-impersonating" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/fcc-fines-telecom-transmitted-ai-generated-deepfake-robocalls-impersonating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Fines Telecom That Transmitted AI-Generated...3 Sept 2024 — Two days before the 2024 New Hampshire Democratic primary, thousands of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: akingump.com  
    Title: fcc continues focus on ai targeting robocalls and political advertisements  
-   Link: <a href="https://www.akingump.com/en/insights/alerts/fcc-continues-focus-on-ai-targeting-robocalls-and-political-advertisements" target="_blank" rel="noopener noreferrer nofollow">https://www.akingump.com/en/insights/alerts/fcc-continues-focus-on-ai-targeting-robocalls-and-political-advertisements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Continues Focus on AI, Targeting Robocalls and...30 Sept 2024 — These actions include: a declaratory ruling that made illegal “artif...</p></details>
+   Link:<a href="https://www.akingump.com/en/insights/alerts/fcc-continues-focus-on-ai-targeting-robocalls-and-political-advertisements" target="_blank" rel="noopener noreferrer nofollow">https://www.akingump.com/en/insights/alerts/fcc-continues-focus-on-ai-targeting-robocalls-and-political-advertisements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Continues Focus on AI, Targeting Robocalls and...30 Sept 2024 — These actions include: a declaratory ruling that made illegal “artif...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V1HxvRFyP4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V1HxvRFyP4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC declares AI-generated voices in robocalls are illegalThe move comes as New Hampshire investigates AI-generated robocalls that mimicke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V1HxvRFyP4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V1HxvRFyP4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC declares AI-generated voices in robocalls are illegalThe move comes as New Hampshire investigates AI-generated robocalls that mimicke...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZnGnOnRyzys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZnGnOnRyzys</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZnGnOnRyzys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZnGnOnRyzys</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: digitalcommons.law.seattleu.edu  
-   Link: <a href="https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1001&amp;context=sjteil" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1001&amp;context=sjteil</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC and AI Governance: A Regulatory Proposalby M Spiro · 2020 · Cited by 11 — For the most part, the FTC can issue fines only in a contem...</p></details>
+   Link:<a href="https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1001&amp;context=sjteil" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1001&amp;context=sjteil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC and AI Governance: A Regulatory Proposalby M Spiro · 2020 · Cited by 11 — For the most part, the FTC can issue fines only in a contem...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wiley.law  
    Title: alert FCC Proposes New Rules for AI Generated Calls and Texts  
-   Link: <a href="https://www.wiley.law/alert-FCC-Proposes-New-Rules-for-AI-Generated-Calls-and-Texts" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FCC-Proposes-New-Rules-for-AI-Generated-Calls-and-Texts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Proposes New Rules for AI-Generated Calls and Texts18 Jul 2024 — Propose new rules to regulate AI-generated calls and texts and seek...</p></details>
+   Link:<a href="https://www.wiley.law/alert-FCC-Proposes-New-Rules-for-AI-Generated-Calls-and-Texts" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FCC-Proposes-New-Rules-for-AI-Generated-Calls-and-Texts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Proposes New Rules for AI-Generated Calls and Texts18 Jul 2024 — Propose new rules to regulate AI-generated calls and texts and seek...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cooley.com  
    Title: 2024 06 14 fcc proposes big fines for robocall violations  
-   Link: <a href="https://www.cooley.com/news/insight/2024/2024-06-14-fcc-proposes-big-fines-for-robocall-violations" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2024/2024-06-14-fcc-proposes-big-fines-for-robocall-violations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Proposes Big Fines for Robocall Violations14 Jun 2024 — The Federal Communications Commission (FCC) has adopted two notices of appare...</p></details>
+   Link:<a href="https://www.cooley.com/news/insight/2024/2024-06-14-fcc-proposes-big-fines-for-robocall-violations" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2024/2024-06-14-fcc-proposes-big-fines-for-robocall-violations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCC Proposes Big Fines for Robocall Violations14 Jun 2024 — The Federal Communications Commission (FCC) has adopted two notices of appare...</p></details>

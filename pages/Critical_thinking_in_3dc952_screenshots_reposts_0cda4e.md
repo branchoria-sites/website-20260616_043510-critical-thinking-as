@@ -418,19 +418,19 @@ image: /assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e-ove
 
 ## Introduction
 
-A screenshot or repost can be useful as a clue, but it is weak evidence on its own. It often strips away the live link, author record, timestamp, edit trail, replies, deletion history, platform warnings and surrounding conversation that help people judge whether a claim is real, current and fairly represented. In social media feeds, this matters because many viral claims no longer reach people as [primary sources]({{ 'primary-sources/' | relative_url }}). They arrive as cropped fragments: a tweet screenshot, a headline image, a quote-card, a forwarded post, or somebody else’s summary of what “they said”. Researchers and fact-checkers have repeatedly found that fabricated screenshots, miscaptioned images and old material presented as new can travel widely before the original context is recovered. The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) task is therefore not “never believe screenshots”; it is “treat them as leads, not proof, until you can trace the claim back to a source that can be checked”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+A screenshot or repost can be useful as a clue, but it is weak evidence on its own. It often strips away the live link, author record, timestamp, edit trail, replies, deletion history, platform warnings and surrounding conversation that help people judge whether a claim is real, current and fairly represented. In social media feeds, this matters because many viral claims no longer reach people as [primary sources]({{ 'primary-sources/' | relative_url }}). They arrive as cropped fragments: a tweet screenshot, a headline image, a quote-card, a forwarded post, or somebody else’s summary of what “they said”. Researchers and fact-checkers have repeatedly found that fabricated screenshots, miscaptioned images and old material presented as new can travel widely before the original context is recovered. The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) task is therefore not “never believe screenshots”; it is “treat them as leads, not proof, until you can trace the claim back to a source that can be checked”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e-overview.webp" | relative_url }}" alt="Overview image for Screenshots" loading="eager" decoding="sync" fetchpriority="high">
 ## What Screenshots Remove
 
-A screenshot looks solid because it is visual. It appears to preserve a moment: here is the post, here is the name, here is the date, here are the likes. That impression is exactly why screenshots can be persuasive. A 2024 study on screenshots as visual [evidence]({{ 'evidence/' | relative_url }}) in misinformation and disinformation argues that screenshots gain force not only from what they show, but from the social relationships they imply: a familiar platform interface, a recognisable account, a supposed exchange, or a cue that “people are talking about this”. The image can make a claim feel documented even when the documentation is thin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — Overall, this research contribut...</span></span></span>
+A screenshot looks solid because it is visual. It appears to preserve a moment: here is the post, here is the name, here is the date, here are the likes. That impression is exactly why screenshots can be persuasive. A 2024 study on screenshots as visual [evidence]({{ 'evidence/' | relative_url }}) in misinformation and disinformation argues that screenshots gain force not only from what they show, but from the social relationships they imply: a familiar platform interface, a recognisable account, a supposed exchange, or a cue that “people are talking about this”. The image can make a claim feel documented even when the documentation is thin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — Overall, this research contribut...</span></span></span>
 
 What the image removes is often more important than what it preserves. A live post can show whether the account is verified or impersonated, whether the wording has been edited, whether a community note or fact-check label has been added, whether the post is part of a thread, whether replies challenge it, whether the author later corrected it, and whether the platform has removed it. A screenshot freezes one chosen view and leaves the viewer dependent on the person who captured or reposted it.
 
-This is especially risky with public-figure posts. Researchers studying tweet misattribution note that screenshots of social media posts are now commonplace, but their ubiquity makes fabricated posts easier to spread. Their work treats the core verification problem as one of attribution: did the named person or account actually publish the text shown in the image? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
+This is especially risky with public-figure posts. Researchers studying tweet misattribution note that screenshots of social media posts are now commonplace, but their ubiquity makes fabricated posts easier to spread. Their work treats the core verification problem as one of attribution: did the named person or account actually publish the text shown in the image?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</span><span class="citation-popover-meta">Published: November 17, 2022</span></span></span>
 
-The same problem applies to screenshots of news articles. An image can mimic the mobile layout of a newspaper, a television chyron, a government alert or a police statement without linking to any published page. AP has debunked a fake image designed to resemble a New York Post article about a supposed 9/11 speech bill, noting that it imitated the outlet’s format while differing from real New York Post stories. Reuters has similarly checked fabricated screenshots purporting to show posts by high-profile political figures and public personalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Posts share fake New York Post story saying a bill would</span><span class="citation-popover-snippet">AP NewsMay 2, 2024 — THE FACTS: Social media users are sharing the false image to erroneously allege that the U.S. government is consider...</span><span class="citation-popover-meta">Published: May 2, 2024</span></span></span>
+The same problem applies to screenshots of news articles. An image can mimic the mobile layout of a newspaper, a television chyron, a government alert or a police statement without linking to any published page. AP has debunked a fake image designed to resemble a New York Post article about a supposed 9/11 speech bill, noting that it imitated the outlet’s format while differing from real New York Post stories. Reuters has similarly checked fabricated screenshots purporting to show posts by high-profile political figures and public personalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Posts share fake New York Post story saying a bill would</span><span class="citation-popover-snippet">AP NewsMay 2, 2024 — THE FACTS: Social media users are sharing the false image to erroneously allege that the U.S. government is consider...</span><span class="citation-popover-meta">Published: May 2, 2024</span></span></span>
 
 The weakness is not that screenshots are always false. Sometimes they preserve posts that later disappear. The weakness is that, by themselves, they rarely provide enough provenance: a reliable chain showing where the claim came from, when it appeared, who made it, and whether the displayed version is complete.
 
@@ -440,17 +440,17 @@ The weakness is not that screenshots are always false. Sometimes they preserve p
 
 Screenshots and reposts fail in several recurring ways. The pattern matters because the same verification habits work across many platforms, whether the fragment appears on X, Instagram, TikTok, Facebook, WhatsApp, Reddit or a private group.
 
-**The post never existed.** A fake social post can be built from scratch or created by editing a real screenshot. Snopes has explained this pattern in checks on fake tweets, including a fabricated United Nations tweet that claimed “pedophilia is not a crime”. The article notes that fake tweet images are often made by altering a real high-profile post while leaving platform-like details intact, although some are wholly created images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/un-twitter-pedophilia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">un twitter pedophilia</span><span class="citation-popover-snippet">No, the UN Didn&#x27;t Tweet &#x27;Pedophilia Is Not a Crime&#x27;8 Jun 2023 — Oftentimes, to create a fake tweet, social media users start by tak...</span></span></span>
+**The post never existed.** A fake social post can be built from scratch or created by editing a real screenshot. Snopes has explained this pattern in checks on fake tweets, including a fabricated United Nations tweet that claimed “pedophilia is not a crime”. The article notes that fake tweet images are often made by altering a real high-profile post while leaving platform-like details intact, although some are wholly created images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/un-twitter-pedophilia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">un twitter pedophilia</span><span class="citation-popover-snippet">No, the UN Didn&#x27;t Tweet &#x27;Pedophilia Is Not a Crime&#x27;8 Jun 2023 — Oftentimes, to create a fake tweet, social media users start by tak...</span></span></span>
 
-**The account is not the account it appears to be.** During the Israel-Hamas war, AP reported that a circulating screenshot claimed to show a Facebook post from an account posing as the Israeli military; no such post appeared on the military’s actual social media pages, and an official spokesperson said no such statement had been issued. The screenshot’s danger came from borrowed authority: it looked like an institutional statement without being one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Israel-Hamas war: Misinformation is spreading</span><span class="citation-popover-snippet">Here are the factsTHE FACTS: A screenshot circulating online shows a Facebook post from an account posing as the Israeli military. No suc...</span></span></span>
+**The account is not the account it appears to be.** During the Israel-Hamas war, AP reported that a circulating screenshot claimed to show a Facebook post from an account posing as the Israeli military; no such post appeared on the military’s actual social media pages, and an official spokesperson said no such statement had been issued. The screenshot’s danger came from borrowed authority: it looked like an institutional statement without being one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Israel-Hamas war: Misinformation is spreading</span><span class="citation-popover-snippet">Here are the factsTHE FACTS: A screenshot circulating online shows a Facebook post from an account posing as the Israeli military. No suc...</span></span></span>
 
-**The image is real but the caption is wrong.** A screenshot of a real image or video can be repackaged with a false claim about place, time or cause. AP’s fact-checking around the Israel-Hamas war found old clips and unrelated visuals recirculated as if they showed current events. This kind of misinformation does not require advanced AI or sophisticated forgery; it relies on the viewer accepting the repost’s caption as the [missing context]({{ 'missing-context/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
+**The image is real but the caption is wrong.** A screenshot of a real image or video can be repackaged with a false claim about place, time or cause. AP’s fact-checking around the Israel-Hamas war found old clips and unrelated visuals recirculated as if they showed current events. This kind of misinformation does not require advanced AI or sophisticated forgery; it relies on the viewer accepting the repost’s caption as the [missing context]({{ 'missing-context/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
 
-**The source is a parody, joke or fabrication account, but the repost hides that origin.** Reuters traced a fabricated screenshot of a supposed Elon Musk post about Donald Trump to a Reddit account that creates [fake posts]({{ 'fake-posts/' | relative_url }}). In another case, Reuters found that a fake Trump post about ending dual citizenship originated as an April Fool’s joke but was later shared as if it were genuine. Once a screenshot escapes its original setting, the cues that marked it as satire, parody or a joke can disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">musk x post saying trump would do anything him is fabricated 2024 11 26</span><span class="citation-popover-snippet">musk x post saying trump would do anything him is fabricated 2024 11 26</span></span></span>
+**The source is a parody, joke or fabrication account, but the repost hides that origin.** Reuters traced a fabricated screenshot of a supposed Elon Musk post about Donald Trump to a Reddit account that creates [fake posts]({{ 'fake-posts/' | relative_url }}). In another case, Reuters found that a fake Trump post about ending dual citizenship originated as an April Fool’s joke but was later shared as if it were genuine. Once a screenshot escapes its original setting, the cues that marked it as satire, parody or a joke can disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">musk x post saying trump would do anything him is fabricated</span><span class="citation-popover-snippet">musk x post saying trump would do anything him is fabricated</span></span></span>
 
-**The date has been severed from the event.** Reposts often present old material as current, especially during crises. A date visible in a screenshot may refer to when somebody reposted the image, not when the original event occurred. Reuters’ fact-check page regularly documents this problem in current news cycles, including videos and images miscaptioned as recent events when they predate the claim being made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**The date has been severed from the event.** Reposts often present old material as current, especially during crises. A date visible in a screenshot may refer to when somebody reposted the image, not when the original event occurred. Reuters’ fact-check page regularly documents this problem in current news cycles, including videos and images miscaptioned as recent events when they predate the claim being made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-**The screenshot has lost the correction.** A viral image may preserve the false first version of a claim but not the later correction, deletion, community note or official denial. Research on Community Notes on X found that notes can reduce the spread of misleading posts and increase deletion of misleading posts, but also warned that notes may arrive too slowly for the earliest and most viral stage of diffusion. A screenshot taken before the correction can keep circulating after the live post has changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+**The screenshot has lost the correction.** A viral image may preserve the false first version of a claim but not the later correction, deletion, community note or official denial. Research on Community Notes on X found that notes can reduce the spread of misleading posts and increase deletion of misleading posts, but also warned that notes may arrive too slowly for the earliest and most viral stage of diffusion. A screenshot taken before the correction can keep circulating after the live post has changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e-Illustration-3-dark.svg" | relative_url }}" alt="Screenshots illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -461,11 +461,11 @@ Screenshots and reposts fail in several recurring ways. The pattern matters beca
 
 Reposting adds [social proof]({{ 'social-proof/' | relative_url }}). A claim that might look flimsy as a lone screenshot can feel more credible when it is shared by a friend, influencer, community group, commentator or account with a large following. The repost supplies a second layer of authority: not just “this happened”, but “someone I recognise thinks this matters”.
 
-That social layer can make weak evidence travel faster than verification. First Draft’s work on information disorder distinguishes between disinformation, misinformation and other forms of misleading content, and notes that false material can be picked up and reshared by people who believe they are helping. A person who reposts a screenshot may not have created the falsehood; they may simply have passed on a fragment that felt urgent, funny, outrageous or identity-confirming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">First Draft Understanding Information disorder</span></span></span>
+That social layer can make weak evidence travel faster than verification. First Draft’s work on information disorder distinguishes between disinformation, misinformation and other forms of misleading content, and notes that false material can be picked up and reshared by people who believe they are helping. A person who reposts a screenshot may not have created the falsehood; they may simply have passed on a fragment that felt urgent, funny, outrageous or identity-confirming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">First Draft Understanding Information disorder</span></span></span>
 
 This is why screenshots are common in emotionally charged claims. They are compact, portable and easy to quote-post. They can cross platforms without the friction of a link, survive deletion of the original post, and travel inside closed or semi-closed spaces where outside checking is harder. A screenshot can move from a private chat to a Facebook group to X to TikTok commentary, while each new layer makes the original source harder to locate.
 
-Local and community groups show the risk clearly. A 2026 report covered by The Guardian found that UK local social media groups can become important channels for misinformation, especially in “[news deserts]({{ 'news-deserts/' | relative_url }})” where trusted local journalism is weaker. The reported examples included fake quotes, AI-generated content and fabricated local authority messages. These are exactly the kinds of claims that can gain force when shared as screenshots in trusted neighbourhood spaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span>
+Local and community groups show the risk clearly. A 2026 report covered by The Guardian found that UK local social media groups can become important channels for misinformation, especially in “[news deserts]({{ 'news-deserts/' | relative_url }})” where trusted local journalism is weaker. The reported examples included fake quotes, AI-generated content and fabricated local authority messages. These are exactly the kinds of claims that can gain force when shared as screenshots in trusted neighbourhood spaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</span></span></span>
 
 AI adds another complication, but it does not replace the older problem. Generative tools make it easier to create convincing fake posts, fake images and fake article layouts, yet many screenshot failures remain low-tech: cropping, miscaptioning, impersonation, old material and missing links. The practical lesson is not to look only for AI artefacts. A perfectly ordinary-looking screenshot can still be unreliable if it cannot be traced.
 
@@ -478,7 +478,7 @@ AI adds another complication, but it does not replace the older problem. Generat
 
 The best response to a viral screenshot is not an argument in the comments. It is a short source hunt. The aim is to move from image to record: from “someone shared this” to “here is the original post, article, statement, archive or official denial”.
 
-A useful approach is the SIFT method, developed by digital literacy expert Mike Caulfield: stop, investigate the source, find better coverage, and trace claims, quotes and media to the original context. The final move is especially important for screenshots because the screenshot is usually not the original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves</span></span></span>
+A useful approach is the SIFT method, developed by digital literacy expert Mike Caulfield: stop, investigate the source, find better coverage, and trace claims, quotes and media to the original context. The final move is especially important for screenshots because the screenshot is usually not the original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hapgood.us">[Hapgood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hapgood.us</span><span class="citation-popover-title">SIFT (The Four Moves</span><span class="citation-popover-snippet">SIFT (The Four Moves</span></span></span>
 
 For a screenshot of a social post, start with the details visible in the image:
 
@@ -530,178 +530,178 @@ Third, who benefits from the missing context? Cropping can make a joke look like
 Screenshots and reposts are weak evidence because they are detached fragments. Critical thinking in social media and AI environments means rebuilding the missing trail before acting on them: source, date, author, edit history, surrounding context and independent corroboration. A screenshot may start the investigation, but it should not end it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Screenshots Make Claims Harder to Trust. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Screenshots Make Claims Harder to Trust. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers how to evaluate evidence, claims and misleading presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers how to evaluate evidence, claims and misleading presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers evaluating claims, sources and misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating claims, sources and misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Helps readers question assumptions and examine evidence carefully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers question assumptions and examine evidence carefully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Builds skepticism toward persuasive but incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds skepticism toward persuasive but incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="screenshots-why-screenshots-make-claims-harder-to-trust-critical-thinking-in-the-age-of-social-m-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -717,7 +717,7 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -737,7 +737,7 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -769,7 +769,7 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -821,7 +821,7 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -866,7 +866,7 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -907,325 +907,325 @@ Screenshots and reposts are weak evidence because they are detached fragments. C
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Web Archives for Verifying Attribution in Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
    Published: October 27, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: snopes.com  
    Title: un twitter pedophilia  
-   Link: <a href="https://www.snopes.com/fact-check/un-twitter-pedophilia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/un-twitter-pedophilia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No, the UN Didn&#x27;t Tweet &#x27;Pedophilia Is Not a Crime&#x27;8 Jun 2023 — Oftentimes, to create a fake tweet, social media users start by tak...</p></details>
+   Link:<a href="https://www.snopes.com/fact-check/un-twitter-pedophilia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/un-twitter-pedophilia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, the UN Didn&#x27;t Tweet &#x27;Pedophilia Is Not a Crime&#x27;8 Jun 2023 — Oftentimes, to create a fake tweet, social media users start by tak...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did They Really Tweet That? Querying Fact-Checking Sites and Politwoops to Determine Tweet MisattributionNovember 17, 2022...</p></details>
    Published: November 17, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: musk x post saying trump would do anything him is fabricated 2024 11 26  
-   Link: <a href="https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/musk-x-post-saying-trump-would-do-anything-him-is-fabricated-2024-11-26/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: trump post criticizing musk after x interview is fake 2024 08 19  
-   Link: <a href="https://www.reuters.com/fact-check/trump-post-criticizing-musk-after-x-interview-is-fake-2024-08-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-post-criticizing-musk-after-x-interview-is-fake-2024-08-19/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/trump-post-criticizing-musk-after-x-interview-is-fake-2024-08-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-post-criticizing-musk-after-x-interview-is-fake-2024-08-19/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/trump-announcement-ending-dual-citizenship-is-fake-its-an-april-fools-joke-2025-04-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-announcement-ending-dual-citizenship-is-fake-its-an-april-fools-joke-2025-04-04/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/trump-announcement-ending-dual-citizenship-is-fake-its-an-april-fools-joke-2025-04-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-announcement-ending-dual-citizenship-is-fake-its-an-april-fools-joke-2025-04-04/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
+   Link:<a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves)  
-   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+   Link:<a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: help.archive.org  
-   Link: <a href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/save-pages-in-the-wayback-machine/</a>  
+   Link:<a href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/save-pages-in-the-wayback-machine/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: help.archive.org  
    Title: Internet Archive Help Center Using the Wayback Machine This  
-   Link: <a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
+   Link:<a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.09188</a>  
+   Link:<a href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.09188</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/</a>  
+   Link:<a href="https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WaybackMachine/comments/1gunabl/is_there_a_easy_way_to_search_for_images_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WaybackMachine/comments/1gunabl/is_there_a_easy_way_to_search_for_images_from/</a>  
+   Link:<a href="https://www.reddit.com/r/WaybackMachine/comments/1gunabl/is_there_a_easy_way_to_search_for_images_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WaybackMachine/comments/1gunabl/is_there_a_easy_way_to_search_for_images_from/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
+   Link:<a href="https://toolbox.google.com/factcheck/about" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/about</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
+   Link:<a href="https://toolbox.google.com/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: toolbox.google.com  
-   Link: <a href="https://toolbox.google.com/factcheck/explorer" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/explorer</a>  
+   Link:<a href="https://toolbox.google.com/factcheck/explorer" target="_blank" rel="noopener noreferrer nofollow">https://toolbox.google.com/factcheck/explorer</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/factcheck" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/factcheck</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: snopes.com  
    Title: trump truth social collection  
-   Link: <a href="https://www.snopes.com/collections/trump-truth-social-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/collections/trump-truth-social-collection/</a>  
+   Link:<a href="https://www.snopes.com/collections/trump-truth-social-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/collections/trump-truth-social-collection/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: snopes.com  
-   Link: <a href="https://www.snopes.com/tag/fake-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/tag/fake-tweet/</a>  
+   Link:<a href="https://www.snopes.com/tag/fake-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/tag/fake-tweet/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: snopes.com  
    Title: 2009 trump tweet pandemic  
-   Link: <a href="https://www.snopes.com/fact-check/2009-trump-tweet-pandemic/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/2009-trump-tweet-pandemic/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/2009-trump-tweet-pandemic/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/2009-trump-tweet-pandemic/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: snopes.com  
    Title: fake twitter api leak  
-   Link: <a href="https://www.snopes.com/fact-check/fake-twitter-api-leak/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/fake-twitter-api-leak/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/fake-twitter-api-leak/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/fake-twitter-api-leak/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: snopes.com  
    Title: theres always a tweet  
-   Link: <a href="https://www.snopes.com/articles/362690/theres-always-a-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/362690/theres-always-a-tweet/</a>  
+   Link:<a href="https://www.snopes.com/articles/362690/theres-always-a-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/362690/theres-always-a-tweet/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: snopes.com  
    Title: fox news reality winner parody account broadcast  
-   Link: <a href="https://www.snopes.com/fact-check/fox-news-reality-winner-parody-account-broadcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/fox-news-reality-winner-parody-account-broadcast/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/fox-news-reality-winner-parody-account-broadcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/fox-news-reality-winner-parody-account-broadcast/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: snopes.com  
    Title: trump dow jones tweet  
-   Link: <a href="https://www.snopes.com/fact-check/trump-dow-jones-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/trump-dow-jones-tweet/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/trump-dow-jones-tweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/trump-dow-jones-tweet/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: snopes.com  
-   Link: <a href="https://www.snopes.com/latest/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/latest/</a>  
+   Link:<a href="https://www.snopes.com/latest/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/latest/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: snopes.com  
    Title: shelia jackson tweet president trump determined start war north japan  
-   Link: <a href="https://www.snopes.com/fact-check/shelia-jackson-tweet-president-trump-determined-start-war-north-japan/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/shelia-jackson-tweet-president-trump-determined-start-war-north-japan/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/shelia-jackson-tweet-president-trump-determined-start-war-north-japan/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/shelia-jackson-tweet-president-trump-determined-start-war-north-japan/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/no-evidence-us-president-trump-demanded-release-separatist-leader-nigeria-2025-11-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/no-evidence-us-president-trump-demanded-release-separatist-leader-nigeria-2025-11-10/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/no-evidence-us-president-trump-demanded-release-separatist-leader-nigeria-2025-11-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/no-evidence-us-president-trump-demanded-release-separatist-leader-nigeria-2025-11-10/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/misinformation-narratives-fact-checked-wake-trump-assassination-attempt-2024-07-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/misinformation-narratives-fact-checked-wake-trump-assassination-attempt-2024-07-15/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/misinformation-narratives-fact-checked-wake-trump-assassination-attempt-2024-07-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/misinformation-narratives-fact-checked-wake-trump-assassination-attempt-2024-07-15/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reuters.com  
    Title: trump did not call bruce springsteen overrated communist singer post 2024 12 24  
-   Link: <a href="https://www.reuters.com/fact-check/trump-did-not-call-bruce-springsteen-overrated-communist-singer-post-2024-12-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-did-not-call-bruce-springsteen-overrated-communist-singer-post-2024-12-24/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/trump-did-not-call-bruce-springsteen-overrated-communist-singer-post-2024-12-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/trump-did-not-call-bruce-springsteen-overrated-communist-singer-post-2024-12-24/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reuters.com  
    Title: no evidence burning man officials announced ebola case x 2023 09 13  
-   Link: <a href="https://www.reuters.com/fact-check/no-evidence-burning-man-officials-announced-ebola-case-x-2023-09-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/no-evidence-burning-man-officials-announced-ebola-case-x-2023-09-13/</a>  
+   Link:<a href="https://www.reuters.com/fact-check/no-evidence-burning-man-officials-announced-ebola-case-x-2023-09-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/no-evidence-burning-man-officials-announced-ebola-case-x-2023-09-13/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reuters.com  
    Title: alleged trump fundraising email with nuke codes is fabricated id USL1N2ZO2P5  
-   Link: <a href="https://www.reuters.com/article/fact-check/alleged-trump-fundraising-email-with-nuke-codes-is-fabricated-idUSL1N2ZO2P5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/alleged-trump-fundraising-email-with-nuke-codes-is-fabricated-idUSL1N2ZO2P5/</a>  
+   Link:<a href="https://www.reuters.com/article/fact-check/alleged-trump-fundraising-email-with-nuke-codes-is-fabricated-idUSL1N2ZO2P5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/alleged-trump-fundraising-email-with-nuke-codes-is-fabricated-idUSL1N2ZO2P5/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/fact-check/anti-trump-tweet-purportedly-published-by-filmmaker-rob-reiner-is-fabricated-idUSL1N3482FG/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/anti-trump-tweet-purportedly-published-by-filmmaker-rob-reiner-is-fabricated-idUSL1N3482FG/</a>  
+   Link:<a href="https://www.reuters.com/article/fact-check/anti-trump-tweet-purportedly-published-by-filmmaker-rob-reiner-is-fabricated-idUSL1N3482FG/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/anti-trump-tweet-purportedly-published-by-filmmaker-rob-reiner-is-fabricated-idUSL1N3482FG/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
+   Link:<a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/364346213400333/posts/793834313784852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/364346213400333/posts/793834313784852/</a>  
+   Link:<a href="https://www.facebook.com/groups/364346213400333/posts/793834313784852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/364346213400333/posts/793834313784852/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZceJXalxCj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZceJXalxCj/</a>  
+   Link:<a href="https://www.instagram.com/p/DZceJXalxCj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZceJXalxCj/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQCMVd0jhFE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQCMVd0jhFE/</a>  
+   Link:<a href="https://www.instagram.com/reel/DQCMVd0jhFE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQCMVd0jhFE/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVeFnh0GmWx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVeFnh0GmWx/</a>  
+   Link:<a href="https://www.instagram.com/p/DVeFnh0GmWx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVeFnh0GmWx/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.17978v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.17978v2</a>  
+   Link:<a href="https://arxiv.org/html/2505.17978v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.17978v2</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: apnews.com  
    Title: AP News Israel-Hamas war: Misinformation is spreading  
-   Link: <a href="https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the factsTHE FACTS: A screenshot circulating online shows a Facebook post from an account posing as the Israeli military. No suc...</p></details>
+   Link:<a href="https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the factsTHE FACTS: A screenshot circulating online shows a Facebook post from an account posing as the Israeli military. No suc...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — Overall, this research contribut...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — Overall, this research contribut...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: apnews.com  
    Title: AP News Posts share fake New York Post story saying a bill would  
-   Link: <a href="https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsMay 2, 2024 — THE FACTS: Social media users are sharing the false image to erroneously allege that the U.S. government is consider...</p></details>
+   Link:<a href="https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-new-york-post-bill-911-088293173576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsMay 2, 2024 — THE FACTS: Social media users are sharing the false image to erroneously allege that the U.S. government is consider...</p></details>
    Published: May 2, 2024  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e</a>  
+   Link:<a href="https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/e58f9ab8696309305c3ea2bfb269258e</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
+   Link:<a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPs and media advocates warn that unregulated local online groups are eroding trust and influencing public opinion, often more than forma...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: apnews.com  
    Title: AP News It's International Fact-Checking Day. Refresh your AI identification  
-   Link: <a href="https://apnews.com/article/misinformation-fact-checking-day-ai-iran-war-760d91b9658b4e40e653e84de09b27d6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/misinformation-fact-checking-day-ai-iran-war-760d91b9658b4e40e653e84de09b27d6</a>  
+   Link:<a href="https://apnews.com/article/misinformation-fact-checking-day-ai-iran-war-760d91b9658b4e40e653e84de09b27d6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/misinformation-fact-checking-day-ai-iran-war-760d91b9658b4e40e653e84de09b27d6</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: apnews.com  
    Title: FAC T FOCUS: Trump repeats false claims about Greenland's security  
-   Link: <a href="https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b</a>  
+   Link:<a href="https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: apnews.com  
    Title: Posts spread fake Atlantic headline on economy under Biden  
-   Link: <a href="https://apnews.com/article/fact-check-atlantic-biden-economy-718855815174" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-atlantic-biden-economy-718855815174</a>  
+   Link:<a href="https://apnews.com/article/fact-check-atlantic-biden-economy-718855815174" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-check-atlantic-biden-economy-718855815174</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: apnews.com  
    Title: NO T REAL NEWS: A look at what didn't happen this week | AP News  
-   Link: <a href="https://apnews.com/article/russia-ukraine-coronavirus-pandemic-health-ap-fact-check-social-media-afc5b3f35731bbfb518d9750631267c7" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/russia-ukraine-coronavirus-pandemic-health-ap-fact-check-social-media-afc5b3f35731bbfb518d9750631267c7</a>  
+   Link:<a href="https://apnews.com/article/russia-ukraine-coronavirus-pandemic-health-ap-fact-check-social-media-afc5b3f35731bbfb518d9750631267c7" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/russia-ukraine-coronavirus-pandemic-health-ap-fact-check-social-media-afc5b3f35731bbfb518d9750631267c7</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: apnews.com  
    Title: Tweet attributed to Australian health officer is fake | AP News  
-   Link: <a href="https://apnews.com/article/fact-checking-109005809505" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-checking-109005809505</a>  
+   Link:<a href="https://apnews.com/article/fact-checking-109005809505" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-checking-109005809505</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: apnews.com  
    Title: Screenshot of CNN report on Afghanistan is fake  
-   Link: <a href="https://apnews.com/article/fact-checking-575513421950" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-checking-575513421950</a>  
+   Link:<a href="https://apnews.com/article/fact-checking-575513421950" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fact-checking-575513421950</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: apnews.com  
    Title: A P FACT CHECK: Trump's made-up claims of fake Georgia votes  
-   Link: <a href="https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-electoral-college-407d934b6649a4e4059ec28c4cb70512" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-electoral-college-407d934b6649a4e4059ec28c4cb70512</a>  
+   Link:<a href="https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-electoral-college-407d934b6649a4e4059ec28c4cb70512" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-electoral-college-407d934b6649a4e4059ec28c4cb70512</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: apnews.com  
    Title: A P Fact Check  
-   Link: <a href="https://apnews.com/ap-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/ap-fact-check</a>  
+   Link:<a href="https://apnews.com/ap-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/ap-fact-check</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: guides.lib.lsu.edu  
-   Link: <a href="https://guides.lib.lsu.edu/hnrs2000/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.lsu.edu/hnrs2000/SIFT</a>  
+   Link:<a href="https://guides.lib.lsu.edu/hnrs2000/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.lsu.edu/hnrs2000/SIFT</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: libguides.clackamas.edu  
-   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
+   Link:<a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: libguides.olympic.edu  
-   Link: <a href="https://libguides.olympic.edu/media/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://libguides.olympic.edu/media/SIFT</a>  
+   Link:<a href="https://libguides.olympic.edu/media/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://libguides.olympic.edu/media/SIFT</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: crln.acrl.org  
-   Link: <a href="https://crln.acrl.org/index.php/crlnews/article/view/26143/34085" target="_blank" rel="noopener noreferrer nofollow">https://crln.acrl.org/index.php/crlnews/article/view/26143/34085</a>  
+   Link:<a href="https://crln.acrl.org/index.php/crlnews/article/view/26143/34085" target="_blank" rel="noopener noreferrer nofollow">https://crln.acrl.org/index.php/crlnews/article/view/26143/34085</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: werkzeugkasten-ik.ch  
    Title: The SIFT Method  
-   Link: <a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
+   Link:<a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: library.ctstate.edu  
-   Link: <a href="https://library.ctstate.edu/Norwalk/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.ctstate.edu/Norwalk/SIFT</a>  
+   Link:<a href="https://library.ctstate.edu/Norwalk/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.ctstate.edu/Norwalk/SIFT</a>  
 
 ### Additional References
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
    Title: How to Verify Digital Content in the Age of AI  
-   Link: <a href="https://www.youtube.com/watch?v=Ui35agIYmC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ui35agIYmC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News in Your Classroom? Use This 5-Step Method to Spot Misinformation - YouTube Fake News in Your Classroom? Use This 5-Step Method...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ui35agIYmC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ui35agIYmC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News in Your Classroom? Use This 5-Step Method to Spot Misinformation - YouTube Fake News in Your Classroom? Use This 5-Step Method...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/9OvaGMnWoUg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/9OvaGMnWoUg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the tools, platforms, or resources I use or are mentioned in this lesson...</p></details>
+   Link:<a href="https://youtu.be/9OvaGMnWoUg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/9OvaGMnWoUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the tools, platforms, or resources I use or are mentioned in this lesson...</p></details>
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
    Title: Fake News in Your Classroom? Use This 5-Step Method to Spot Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=-2DieY7bxYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-2DieY7bxYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading: Your Defense Against Online Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-2DieY7bxYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-2DieY7bxYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading: Your Defense Against Online Deception...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
    Title: Lateral Reading: Your Defense Against Online Deception  
-   Link: <a href="https://www.youtube.com/watch?v=EsQK4x6MH9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EsQK4x6MH9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify Digital Content in the Age of AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EsQK4x6MH9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EsQK4x6MH9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify Digital Content in the Age of AI...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: gijn.org  
-   Link: <a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
+   Link:<a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: originality.ai  
-   Link: <a href="https://originality.ai/blog/fact-checking-social-media" target="_blank" rel="noopener noreferrer nofollow">https://originality.ai/blog/fact-checking-social-media</a>  
+   Link:<a href="https://originality.ai/blog/fact-checking-social-media" target="_blank" rel="noopener noreferrer nofollow">https://originality.ai/blog/fact-checking-social-media</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/351836357_Making_moves_Lateral_reading_and_strategic_thinking_during_digital_source_evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351836357_Making_moves_Lateral_reading_and_strategic_thinking_during_digital_source_evaluation</a>  
+   Link:<a href="https://www.researchgate.net/publication/351836357_Making_moves_Lateral_reading_and_strategic_thinking_during_digital_source_evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351836357_Making_moves_Lateral_reading_and_strategic_thinking_during_digital_source_evaluation</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: keyano.ca  
-   Link: <a href="https://www.keyano.ca/media/csgljamt/sift-evaluation-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keyano.ca/media/csgljamt/sift-evaluation-strategy.pdf</a>  
+   Link:<a href="https://www.keyano.ca/media/csgljamt/sift-evaluation-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keyano.ca/media/csgljamt/sift-evaluation-strategy.pdf</a>  

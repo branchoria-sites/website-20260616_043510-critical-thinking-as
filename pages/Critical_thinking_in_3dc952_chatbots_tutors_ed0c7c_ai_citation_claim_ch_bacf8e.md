@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_cita
 
 ## Introduction
 
-AI-generated answers often look more trustworthy when they include citations. A linked source suggests that the information has been checked and supported by [evidence]({{ 'evidence/' | relative_url }}). However, a citation beside an AI answer does not automatically prove that the claim is true. In many cases, the source is real but does not actually support the specific statement being made. In other cases, the citation contains errors, points to the wrong page, or attributes information to a source that never said it. Research on AI search tools and answer engines increasingly shows that citation quality and claim support are separate questions. A reader must verify not only whether a source exists, but whether it genuinely backs the claim attached to it. This distinction has become a central [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) skill as chatbots evolve into search engines and tutors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
+AI-generated answers often look more trustworthy when they include citations. A linked source suggests that the information has been checked and supported by [evidence]({{ 'evidence/' | relative_url }}). However, a citation beside an AI answer does not automatically prove that the claim is true. In many cases, the source is real but does not actually support the specific statement being made. In other cases, the citation contains errors, points to the wrong page, or attributes information to a source that never said it. Research on AI search tools and answer engines increasingly shows that citation quality and claim support are separate questions. A reader must verify not only whether a source exists, but whether it genuinely backs the claim attached to it. This distinction has become a central [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) skill as chatbots evolve into search engines and tutors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e-Illustration-1-dark.svg" | relative_url }}" alt="Citation Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,23 +284,23 @@ The most common misunderstanding is that a [real source]({{ 'real-source/' | rel
 
 First, the cited page may discuss the same topic but not support the exact claim. An AI system might correctly identify a source about climate policy, for example, but then attach a specific statistic or conclusion that never appears on that page. The source is real; the support is missing.
 
-Second, the source may support only part of the statement. AI systems often combine information from multiple places into a single sentence. A citation may justify one clause while leaving another unsupported. Readers who glance only at the source title can easily miss this distinction. Research on citation verification increasingly describes these as “semantic citation errors”: the reference exists, but the relationship between source and claim is inaccurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2511.16198v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Citation Verification with AI-Powered Full-Text Analysis...20 Nov 2025 — Yet academic literature faces mounting challenges: seman...</span></span></span>
+Second, the source may support only part of the statement. AI systems often combine information from multiple places into a single sentence. A citation may justify one clause while leaving another unsupported. Readers who glance only at the source title can easily miss this distinction. Research on citation verification increasingly describes these as “semantic citation errors”: the reference exists, but the relationship between source and claim is inaccurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2511.16198v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Citation Verification with AI-Powered Full-Text Analysis...20 Nov 2025 — Yet academic literature faces mounting challenges: seman...</span></span></span>
 
-Third, the source may be misattributed. AI systems sometimes point to a syndicated copy, summary, or secondary report instead of the original source. This can obscure context, introduce errors, or make verification more difficult. Researchers examining AI search engines found frequent cases where systems identified the wrong publication or incorrectly attributed content to a different outlet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — Overall, the chatbots often failed to retrieve the correct articles...</span></span></span>
+Third, the source may be misattributed. AI systems sometimes point to a syndicated copy, summary, or secondary report instead of the original source. This can obscure context, introduce errors, or make verification more difficult. Researchers examining AI search engines found frequent cases where systems identified the wrong publication or incorrectly attributed content to a different outlet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — Overall, the chatbots often failed to retrieve the correct articles...</span></span></span>
 
-A final problem is omission. An answer may be broadly correct but leave out qualifications, uncertainty, or contradictory evidence present in the cited source. Readers see a confident claim while the underlying source is more cautious than the AI summary suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+A final problem is omission. An answer may be broadly correct but leave out qualifications, uncertainty, or contradictory evidence present in the cited source. Readers see a confident claim while the underlying source is more cautious than the AI summary suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 ## What Citation Studies Found
 
 Recent research has moved beyond asking whether AI provides citations and instead examines whether those citations actually support claims.
 
-A large 2025 study by the Tow Center for Digital Journalism tested eight AI-powered search tools using 1,600 news-related queries. Across the tests, the systems failed to retrieve correct citation information more than 60% of the time. Errors included incorrect article identification, wrong publication details and inaccurate source attribution. The study's significance is not simply that mistakes occurred, but that many incorrect answers were delivered confidently and accompanied by citations that appeared credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
+A large 2025 study by the Tow Center for Digital Journalism tested eight AI-powered search tools using 1,600 news-related queries. Across the tests, the systems failed to retrieve correct citation information more than 60% of the time. Errors included incorrect article identification, wrong publication details and inaccurate source attribution. The study's significance is not simply that mistakes occurred, but that many incorrect answers were delivered confidently and accompanied by citations that appeared credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab+2Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
 
-Research into Google AI Overviews reached a different but equally important conclusion. After breaking responses into nearly 100,000 individual factual claims, researchers found that approximately 11% of atomic claims were unsupported by the cited pages. The dominant failure mode was not necessarily fabricated sources but unsupported assertions and omitted context. In other words, the citation existed, yet the evidence chain between source and claim was incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+Research into Google AI Overviews reached a different but equally important conclusion. After breaking responses into nearly 100,000 individual factual claims, researchers found that approximately 11% of atomic claims were unsupported by the cited pages. The dominant failure mode was not necessarily fabricated sources but unsupported assertions and omitted context. In other words, the citation existed, yet the evidence chain between source and claim was incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
-Other analyses have reported even higher rates of unsupported information. One 2026 examination of AI Overviews found that around half contained facts that could not be verified from the cited sources, highlighting the difference between source presence and source support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oumi.ai">[oumi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oumi.ai</span><span class="citation-popover-snippet">Oumi&#x27;s Study Finds 50% of AI Overviews UntrustworthyApr 14, 2026 — And about half of AI Overviews contained facts not supported by the ci...</span></span></span>
+Other analyses have reported even higher rates of unsupported information. One 2026 examination of AI Overviews found that around half contained facts that could not be verified from the cited sources, highlighting the difference between source presence and source support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oumi.ai">[oumi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oumi.ai</span><span class="citation-popover-snippet">Oumi&#x27;s Study Finds 50% of AI Overviews UntrustworthyApr 14, 2026 — And about half of AI Overviews contained facts not supported by the ci...</span></span></span>
 
-Academic studies have also documented fabricated references. A widely cited 2023 investigation found that language models frequently generated scholarly citations that did not correspond to real publications. More recent analyses suggest that hallucinated references are increasingly appearing in research workflows and even published literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</span></span></span>
+Academic studies have also documented fabricated references. A widely cited 2023 investigation found that language models frequently generated scholarly citations that did not correspond to real publications. More recent analyses suggest that hallucinated references are increasingly appearing in research workflows and even published literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</span></span></span>
 
 These findings point to a broader lesson: citation errors are not limited to completely [fake references]({{ 'fake-references/' | relative_url }}). A citation can be genuine and still fail a claim check.
 
@@ -311,7 +311,7 @@ These findings point to a broader lesson: citation errors are not limited to com
 
 The underlying reason is that language models are designed primarily to generate plausible responses, not to perform formal evidence tracing.
 
-When an AI system produces an answer, it may retrieve sources, summarise them, combine information from multiple documents and then generate a fluent explanation. Each step introduces opportunities for error. A model may misunderstand a source, merge facts from different documents, overstate a conclusion or infer a detail that was never explicitly supported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+When an AI system produces an answer, it may retrieve sources, summarise them, combine information from multiple documents and then generate a fluent explanation. Each step introduces opportunities for error. A model may misunderstand a source, merge facts from different documents, overstate a conclusion or infer a detail that was never explicitly supported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The problem becomes more difficult because many claims are not simple quotations. They are paraphrases, summaries or syntheses. Determining whether a source truly supports such claims often requires interpretation. Humans disagree about support levels, and AI systems can make those judgments incorrectly.
 
@@ -323,7 +323,7 @@ Researchers studying citation verification have therefore distinguished between 
 * **Supported**: the source clearly backs the claim.
 * **Partially supported**: some elements are supported while others are not.
 * **Unsupported**: the source does not justify the statement.
-* **Uncertain**: the evidence is ambiguous or incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+* **Uncertain**: the evidence is ambiguous or incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 </div>
 
@@ -339,7 +339,7 @@ When using chatbots as search engines or tutors, a practical verification routin
 
 Open the cited page. Confirm that it exists, loads correctly and comes from the publication or organisation named in the citation.
 
-This basic check remains important because fabricated or distorted references continue to appear in AI-generated outputs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</span></span></span>
+This basic check remains important because fabricated or distorted references continue to appear in AI-generated outputs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</span></span></span>
 
 ### Step 2: Find the exact claim
 
@@ -383,7 +383,7 @@ Common warning signs include:
 
 </div>
 
-Unsupported claims often emerge from context being removed rather than facts being completely invented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+Unsupported claims often emerge from context being removed rather than facts being completely invented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring Google AI Overviews: Activation, Source Quality</span><span class="citation-popover-snippet">Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EfM017tIoxs" title="4 Types of AI Hallucinations And Errors Every Developer and Professional Needs to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EfM017tIoxs" target="_blank" rel="noopener noreferrer">4 Types of AI Hallucinations And Errors Every Developer and Professional Needs to Know</a></p><p class="youtube-embed-meta">Channel: Start &amp; Grow Your Business &middot; Views: 300 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EfM017tIoxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EfM017tIoxs">Open on YouTube</a></p></div></div></div>
@@ -400,197 +400,197 @@ If multiple independent sources support the same claim, confidence increases. If
 
 The rise of answer engines changes the verification task. Traditional search required people to find sources and build their own conclusions. AI systems increasingly provide conclusions first and sources second.
 
-That convenience is useful for learning and orientation, but it can create a false sense of certainty. The most important question is no longer merely “Does this answer have a citation?” but “Does the citation actually support this sentence?” Studies of AI search systems repeatedly show that these are different questions with different answers. A reader who performs even a quick claim-by-claim check is far more likely to catch unsupported assertions, misattributions and omitted context before accepting them as true. nursing.ufl.edu+3Nieman Lab+3Columbia Journalism Review <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[niemanlab.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
+That convenience is useful for learning and orientation, but it can create a false sense of certainty. The most important question is no longer merely “Does this answer have a citation?” but “Does the citation actually support this sentence?” Studies of AI search systems repeatedly show that these are different questions with different answers. A reader who performs even a quick claim-by-claim check is far more likely to catch unsupported assertions, misattributions and omitted context before accepting them as true. nursing.ufl.edu+3Nieman Lab+3Columbia Journalism Review<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[niemanlab.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do AI Citations Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do AI Citations Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how evidence can be misused or misrepresented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence can be misused or misrepresented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Promotes questioning apparent certainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes questioning apparent certainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="citation-checks-5afce1-do-ai-citations-prove-anything-critical-thinking-in-the-age-of-social-med-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ That convenience is useful for learning and orientation, but it can create a fal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ That convenience is useful for learning and orientation, but it can create a fal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ That convenience is useful for learning and orientation, but it can create a fal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ That convenience is useful for learning and orientation, but it can create a fal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ That convenience is useful for learning and orientation, but it can create a fal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,128 +796,128 @@ That convenience is useful for learning and orientation, but it can create a fal
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Measuring Google AI Overviews: Activation, Source Quality  
-   Link: <a href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.14021v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — Our third research question is: what fraction of atomic claim...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.14021v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.14021v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — Our third research question is: what fraction of atomic claim...</p></details>
    Published: May 13, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2511.16198v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.16198v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Citation Verification with AI-Powered Full-Text Analysis...20 Nov 2025 — Yet academic literature faces mounting challenges: seman...</p></details>
+   Link:<a href="https://arxiv.org/html/2511.16198v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.16198v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Citation Verification with AI-Powered Full-Text Analysis...20 Nov 2025 — Yet academic literature faces mounting challenges: seman...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.16198</a>  
+   Link:<a href="https://arxiv.org/abs/2511.16198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.16198</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journalism.columbia.edu  
    Title: tow ai report 2025  
-   Link: <a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism SchoolTow Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tes...</p></details>
+   Link:<a href="https://journalism.columbia.edu/news/tow-ai-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://journalism.columbia.edu/news/tow-ai-report-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism SchoolTow Center&#x27;s Latest Report on AI Search Engines5 Mar 2025 — The Tow Center for Digital Journalism conducted tes...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Measuring Google AI Overviews: Activation, Source Quality  
-   Link: <a href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2605.14021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2605.14021" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2605.14021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Google AI Overviews: Activation, Source Quality...May 13, 2026 — by H Xu · 2026 — Third, decomposing re- sponses into 98...</p></details>
    Published: May 13, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oumi.ai  
-   Link: <a href="https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews" target="_blank" rel="noopener noreferrer nofollow">https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oumi&#x27;s Study Finds 50% of AI Overviews UntrustworthyApr 14, 2026 — And about half of AI Overviews contained facts not supported by the ci...</p></details>
+   Link:<a href="https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews" target="_blank" rel="noopener noreferrer nofollow">https://oumi.ai/blog/oumis-study-finds-50-of-ai-overviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oumi&#x27;s Study Finds 50% of AI Overviews UntrustworthyApr 14, 2026 — And about half of AI Overviews contained facts not supported by the ci...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41032-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41032-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 530 — This study investigates one particul...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-026-00969-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00969-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucinated citations are polluting the scientific literature....1 Apr 2026 — Tens of thousands of publications from 2025 might include...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-026-00969-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00969-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hallucinated citations are polluting the scientific literature....1 Apr 2026 — Tens of thousands of publications from 2025 might include...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.07723</a>  
+   Link:<a href="https://arxiv.org/abs/2605.07723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.07723</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nursing.ufl.edu  
    Title: the illusion of evidence why fake [ai citations](&#123;&#123; 'ai-citations/' | relative_url &#125;&#125;) demand caution in nursing  
-   Link: <a href="https://nursing.ufl.edu/2026/03/17/the-illusion-of-evidence-why-fake-ai-citations-demand-caution-in-nursing/" target="_blank" rel="noopener noreferrer nofollow">https://nursing.ufl.edu/2026/03/17/the-illusion-of-evidence-why-fake-ai-citations-demand-caution-in-nursing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Evidence: Why Fake AI Citations Demand...17 Mar 2026 — The risk emerges when users rely on AI-generated citations withou...</p></details>
+   Link:<a href="https://nursing.ufl.edu/2026/03/17/the-illusion-of-evidence-why-fake-ai-citations-demand-caution-in-nursing/" target="_blank" rel="noopener noreferrer nofollow">https://nursing.ufl.edu/2026/03/17/the-illusion-of-evidence-why-fake-ai-citations-demand-caution-in-nursing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Evidence: Why Fake AI Citations Demand...17 Mar 2026 — The risk emerges when users rely on AI-generated citations withou...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cloud.google.com  
    Title: what is artificial intelligence  
-   Link: <a href="https://cloud.google.com/learn/what-is-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/learn/what-is-artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is Artificial Intelligence (AI)?Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perfo...</p></details>
+   Link:<a href="https://cloud.google.com/learn/what-is-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/learn/what-is-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is Artificial Intelligence (AI)?Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perfo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</p></details>
+   Link:<a href="https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAI search engines fail to produce accurate citations in over...10 Mar 2025 — Across the 1600 test queries, the search engines...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cjr.org  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — Overall, the chatbots often failed to retrieve the correct articles...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — Overall, the chatbots often failed to retrieve the correct articles...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman Journalism Lab&#x27;s Post10 Mar 2025 — AI search engines fail to produce accurate citations in over 60% of tests, according to new Tow...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niemanlab-harvard-university_httpswwwniemanlaborg202503ai-search-engines-fail-to-produce-accurate-citations-in-over-activity-7304945141746749440-C8LQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman Journalism Lab&#x27;s Post10 Mar 2025 — AI search engines fail to produce accurate citations in over 60% of tests, according to new Tow...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-hallucination-why-your-cites-real-sources-never-qlkmc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-hallucination-why-your-cites-real-sources-never-qlkmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucination: Why Your AI Cites Real Sources That...Your AI isn&#x27;t inventing sources it&#x27;s misrepresenting real ones. Here&#x27;s how to de...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-hallucination-why-your-cites-real-sources-never-qlkmc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-hallucination-why-your-cites-real-sources-never-qlkmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucination: Why Your AI Cites Real Sources That...Your AI isn&#x27;t inventing sources it&#x27;s misrepresenting real ones. Here&#x27;s how to de...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: citeme.app  
-   Link: <a href="https://citeme.app/tools/ai-reference-verifier" target="_blank" rel="noopener noreferrer nofollow">https://citeme.app/tools/ai-reference-verifier</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check AI Citations Are Real — Reference VerifierHallucinated Reference Checker. Paste references from ChatGPT, Gemini, or any AI tool and...</p></details>
+   Link:<a href="https://citeme.app/tools/ai-reference-verifier" target="_blank" rel="noopener noreferrer nofollow">https://citeme.app/tools/ai-reference-verifier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Check AI Citations Are Real — Reference VerifierHallucinated Reference Checker. Paste references from ChatGPT, Gemini, or any AI tool and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commonslibrary.parliament.uk  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10823/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with AI and spotting AI-generated text6 days ago — The best guard against [hallucinations](&amp;#123;&amp;#123; &#x27;hallucinations/&#x27; | relative_url &amp;#125;&amp;#125;) from AI is to check everything generated careful...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10823/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with AI and spotting AI-generated text6 days ago — The best guard against [hallucinations](&amp;#123;&amp;#123; &#x27;hallucinations/&#x27; | relative_url &amp;#125;&amp;#125;) from AI is to check everything generated careful...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/maxtopaz_an-ai-generated-citation-almost-made-it-into-activity-7420446484120178688-QKkO" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/maxtopaz_an-ai-generated-citation-almost-made-it-into-activity-7420446484120178688-QKkO</a>  
+   Link:<a href="https://www.linkedin.com/posts/maxtopaz_an-ai-generated-citation-almost-made-it-into-activity-7420446484120178688-QKkO" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/maxtopaz_an-ai-generated-citation-almost-made-it-into-activity-7420446484120178688-QKkO</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/stevetothjr_ainotebook-activity-7447991725291106304-8k7v" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stevetothjr_ainotebook-activity-7447991725291106304-8k7v</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy improving while verifiability declines means we&#x27;re training users to trust answers...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/stevetothjr_ainotebook-activity-7447991725291106304-8k7v" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stevetothjr_ainotebook-activity-7447991725291106304-8k7v</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy improving while verifiability declines means we&#x27;re training users to trust answers...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wacclearinghouse.org  
-   Link: <a href="https://wacclearinghouse.org/repository/collections/continuing-experiments/august-2025/ai-literacy/understanding-avoiding-hallucinated-references/" target="_blank" rel="noopener noreferrer nofollow">https://wacclearinghouse.org/repository/collections/continuing-experiments/august-2025/ai-literacy/understanding-avoiding-hallucinated-references/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ucinations—false or fabricated content generated by AI—with a focus on [academic references](&amp;#123;&amp;#123; &#x27;academic-references/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://wacclearinghouse.org/repository/collections/continuing-experiments/august-2025/ai-literacy/understanding-avoiding-hallucinated-references/" target="_blank" rel="noopener noreferrer nofollow">https://wacclearinghouse.org/repository/collections/continuing-experiments/august-2025/ai-literacy/understanding-avoiding-hallucinated-references/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucinations—false or fabricated content generated by AI—with a focus on [academic references](&amp;#123;&amp;#123; &#x27;academic-references/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/stephenbklein_wrong-60-of-the-time-chatgpt-gemini-grok-activity-7395306371895902208-syVp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephenbklein_wrong-60-of-the-time-chatgpt-gemini-grok-activity-7395306371895902208-syVp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Search Tools Fail to Cite Sources AccuratelyHigher error rates. Columbia University&#x27;s Tow Center tested eight AI search engines on the...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/stephenbklein_wrong-60-of-the-time-chatgpt-gemini-grok-activity-7395306371895902208-syVp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephenbklein_wrong-60-of-the-time-chatgpt-gemini-grok-activity-7395306371895902208-syVp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Search Tools Fail to Cite Sources AccuratelyHigher error rates. Columbia University&#x27;s Tow Center tested eight AI search engines on the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines cite incorrect sources at an alarming 60...A new study from Columbia Journalism Review&#x27;s Tow Center for Digital Journa...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1jbvgpb/ai_search_engines_cite_incorrect_sources_at_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines cite incorrect sources at an alarming 60...A new study from Columbia Journalism Review&#x27;s Tow Center for Digital Journa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/truths-ai-search-has-citation-problem-john-williams--gamjc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/truths-ai-search-has-citation-problem-john-williams--gamjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truths in “AI Search Has A Citation Problem”This is a substantiated concern: the Tow Center study found, for example, that the DeepSeek A...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/truths-ai-search-has-citation-problem-john-williams--gamjc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/truths-ai-search-has-citation-problem-john-williams--gamjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truths in “AI Search Has A Citation Problem”This is a substantiated concern: the Tow Center study found, for example, that the DeepSeek A...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: computing.co.uk  
-   Link: <a href="https://www.computing.co.uk/news/2025/ai/ai-search-engines-plagued-by-inaccuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.computing.co.uk/news/2025/ai/ai-search-engines-plagued-by-inaccuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines plagued by inaccuracyA recent study by the Tow Center for Digital Journalism has revealed alarming inconsistencies and...</p></details>
+   Link:<a href="https://www.computing.co.uk/news/2025/ai/ai-search-engines-plagued-by-inaccuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.computing.co.uk/news/2025/ai/ai-search-engines-plagued-by-inaccuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines plagued by inaccuracyA recent study by the Tow Center for Digital Journalism has revealed alarming inconsistencies and...</p></details>

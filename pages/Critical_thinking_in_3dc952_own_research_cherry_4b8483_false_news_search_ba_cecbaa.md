@@ -274,17 +274,17 @@ image: /assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_fal
 
 ## Introduction
 
-Searching online to check whether a claim is true sounds like a sensible defence against misinformation. Yet research shows that this strategy can sometimes backfire. In some circumstances, people who search the web to evaluate a false news story become *more* likely to believe it afterwards. The problem is not that verification is useless. The problem is that many searches expose users to repetition, low-quality [corroboration]({{ 'corroboration/' | relative_url }}) and misleading signals of credibility rather than reliable evidence. In an information environment shaped by search engines, social media and AI-generated content, understanding this backfire effect is an important part of doing your [own research]({{ 'own-research/' | relative_url }}) without cherry-picking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
+Searching online to check whether a claim is true sounds like a sensible defence against misinformation. Yet research shows that this strategy can sometimes backfire. In some circumstances, people who search the web to evaluate a false news story become *more* likely to believe it afterwards. The problem is not that verification is useless. The problem is that many searches expose users to repetition, low-quality [corroboration]({{ 'corroboration/' | relative_url }}) and misleading signals of credibility rather than reliable evidence. In an information environment shaped by search engines, social media and AI-generated content, understanding this backfire effect is an important part of doing your [own research]({{ 'own-research/' | relative_url }}) without cherry-picking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-1-dark.svg" | relative_url }}" alt="Search Backfire illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the false-news search experiments found
 
-One of the most important datasets on this question comes from a series of experiments published in *Nature* by researchers studying how people evaluate online misinformation. Across five experiments, participants were shown news stories and asked to judge whether they were true. Some participants searched online before making their judgement. Surprisingly, searching increased belief in false stories rather than reducing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
+One of the most important datasets on this question comes from a series of experiments published in *Nature* by researchers studying how people evaluate online misinformation. Across five experiments, participants were shown news stories and asked to judge whether they were true. Some participants searched online before making their judgement. Surprisingly, searching increased belief in false stories rather than reducing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
 
-The effect was not uniform across all situations. Researchers found that the increase in belief was concentrated among people whose searches led them to lower-quality information. Rather than encountering authoritative [corrections]({{ 'corrections/' | relative_url }}), these users often landed in what the researchers described as “data voids”: information spaces where the available material consists largely of low-quality pages, recycled claims, partisan commentary or weakly sourced [repetition]({{ 'repetition/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</span></span></span>
+The effect was not uniform across all situations. Researchers found that the increase in belief was concentrated among people whose searches led them to lower-quality information. Rather than encountering authoritative [corrections]({{ 'corrections/' | relative_url }}), these users often landed in what the researchers described as “data voids”: information spaces where the available material consists largely of low-quality pages, recycled claims, partisan commentary or weakly sourced [repetition]({{ 'repetition/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</span></span></span>
 
-The finding challenges a common assumption that independent searching automatically improves accuracy. Instead, the quality of the information encountered during the search appears to matter more than the act of searching itself. When the search environment is poor, verification attempts can become another pathway for misinformation exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
+The finding challenges a common assumption that independent searching automatically improves accuracy. Instead, the quality of the information encountered during the search appears to matter more than the act of searching itself. When the search environment is poor, verification attempts can become another pathway for misinformation exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9NElSk9OtWw" title="Deepfake Democracy: AI&#x27;s Role In Shaping Political Realities - Yael Eisenstat &amp; Joshua Tucker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9NElSk9OtWw" target="_blank" rel="noopener noreferrer">Deepfake Democracy: AI&#x27;s Role In Shaping Political Realities - Yael Eisenstat &amp; Joshua Tucker</a></p><p class="youtube-embed-meta">Channel: Network 20/20 &middot; Views: 229 &middot; Uploaded: January 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9NElSk9OtWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9NElSk9OtWw">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ The finding challenges a common assumption that independent searching automatica
 
 A false claim rarely appears online only once. It is often repeated across blogs, social posts, forums, copied articles and commentary videos. When someone searches for the claim, they may encounter many versions of the same allegation presented as separate pieces of [evidence]({{ 'evidence/' | relative_url }}).
 
-This creates a misleading impression of corroboration. Seeing ten pages repeat the same statement can feel like finding ten independent confirmations when, in reality, they may all trace back to a single unsupported source. The searcher experiences abundance, but not necessarily verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</span></span></span>
+This creates a misleading impression of corroboration. Seeing ten pages repeat the same statement can feel like finding ten independent confirmations when, in reality, they may all trace back to a single unsupported source. The searcher experiences abundance, but not necessarily verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</span></span></span>
 
-Psychologists have long documented the “illusory truth effect”: repeated statements feel more believable simply because they become familiar. Familiarity increases processing fluency—the sense that information is easy to recognise and understand—and people often use that feeling as a shortcut when judging truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+Psychologists have long documented the “illusory truth effect”: repeated statements feel more believable simply because they become familiar. Familiarity increases processing fluency—the sense that information is easy to recognise and understand—and people often use that feeling as a shortcut when judging truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
-This matters because searching for a false claim can dramatically increase exposure to repetitions of that claim. Even when users approach the search with scepticism, repeated encounters can make the statement feel increasingly plausible. Studies have found that repetition can raise perceived truthfulness even when information is false, contradicts existing knowledge or comes from questionable sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+This matters because searching for a false claim can dramatically increase exposure to repetitions of that claim. Even when users approach the search with scepticism, repeated encounters can make the statement feel increasingly plausible. Studies have found that repetition can raise perceived truthfulness even when information is false, contradicts existing knowledge or comes from questionable sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 The result is a subtle psychological trap:
 
@@ -318,7 +318,7 @@ Importantly, the confidence comes from exposure rather than from strong evidence
 
 ## Why searching false claims is different from searching true ones
 
-The *Nature* study found that false stories often generate a search environment that differs from the environment surrounding true stories. False claims can accumulate large numbers of low-quality pages that repeat or discuss the allegation without properly evaluating it. As a result, searching for misinformation may expose users to poorer information overall than searching for accurate news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Online searches to evaluate misinformation can...Dec 20, 2023 — Research suggests that when individuals search online...</span></span></span>
+The *Nature* study found that false stories often generate a search environment that differs from the environment surrounding true stories. False claims can accumulate large numbers of low-quality pages that repeat or discuss the allegation without properly evaluating it. As a result, searching for misinformation may expose users to poorer information overall than searching for accurate news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Online searches to evaluate misinformation can...Dec 20, 2023 — Research suggests that when individuals search online...</span></span></span>
 
 This creates an asymmetry. A person attempting to verify a false rumour may encounter:
 
@@ -333,17 +333,17 @@ This creates an asymmetry. A person attempting to verify a false rumour may enco
 
 </div>
 
-The user experiences a crowded information landscape, which can be mistaken for evidence that “there must be something to it”. Yet quantity and quality are different things. The search results may be numerous while still offering little reliable support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-024-00030-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How online misinformation exploits &#x27;information voids&#x27;Jan 9, 2024 — Providers of online search engines and their users need to be e...</span></span></span>
+The user experiences a crowded information landscape, which can be mistaken for evidence that “there must be something to it”. Yet quantity and quality are different things. The search results may be numerous while still offering little reliable support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-024-00030-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How online misinformation exploits &#x27;information voids&#x27;Jan 9, 2024 — Providers of online search engines and their users need to be e...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-2-dark.svg" | relative_url }}" alt="Search Backfire illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How query wording can make the problem worse
 
-Search behaviour is part of the story. Research examining news-verification searches suggests that the way people formulate queries affects the quality of the results they receive. Searches that simply reuse the wording of a misleading headline can pull users deeper into content ecosystems built around the claim itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
+Search behaviour is part of the story. Research examining news-verification searches suggests that the way people formulate queries affects the quality of the results they receive. Searches that simply reuse the wording of a misleading headline can pull users deeper into content ecosystems built around the claim itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
 
 For example, a search framed around a specific allegation may return pages discussing or repeating that allegation. A search framed around independent evidence, [official records]({{ 'official-records/' | relative_url }}) or expert evaluations is more likely to surface stronger sources.
 
-This means that two people trying to check the same story can encounter very different information environments depending on how they search. The wording of the query influences what evidence becomes visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
+This means that two people trying to check the same story can encounter very different information environments depending on how they search. The wording of the query influences what evidence becomes visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-3-dark.svg" | relative_url }}" alt="Search Backfire illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_own_research_cherry_4b8483_false_news_search_ba_cecbaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -368,201 +368,201 @@ When possible, search for the subject rather than the allegation. A query such a
 
 It is also useful to compare sources of different types. If the first page of results consists mainly of commentary, look for primary documents, academic research, official records or established news reporting before forming a conclusion.
 
-The broader principle is simple: verification works best when the search process moves the reader toward better evidence. When a search merely surrounds a person with more copies of the same claim, it can create familiarity and [false confidence]({{ 'false-confidence/' | relative_url }}) instead of understanding. The strongest protection against this backfire effect is not searching more—it is searching better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
+The broader principle is simple: verification works best when the search process moves the reader toward better evidence. When a search merely surrounds a person with more copies of the same claim, it can create familiarity and [false confidence]({{ 'false-confidence/' | relative_url }}) instead of understanding. The strongest protection against this backfire effect is not searching more—it is searching better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jIj_XSBZAFM" title="Ep 82: Josh Tucker on the Complex Truth About Social Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer">Ep 82: Josh Tucker on the Complex Truth About Social Media</a></p><p class="youtube-embed-meta">Channel: Events Artha &middot; Views: 87 &middot; Uploaded: April 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jIj_XSBZAFM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Googling a Claim Makes It Stick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Googling a Claim Makes It Stick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains how weak evidence can create false confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how weak evidence can create false confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates how misconceptions persist despite available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how misconceptions persist despite available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="search-backfire-when-googling-a-claim-makes-it-stick-critical-thinking-in-the-age-of-social-medi-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ The broader principle is simple: verification works best when the search process
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ The broader principle is simple: verification works best when the search process
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ The broader principle is simple: verification works best when the search process
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ The broader principle is simple: verification works best when the search process
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ The broader principle is simple: verification works best when the search process
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,162 +768,162 @@ The broader principle is simple: verification works best when the search process
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Although conventional wisdom suggest...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...by K Aslett · 2023 · Cited by 170 — We present consistent evidence that online se...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...by K Aslett · 2023 · Cited by 170 — We present consistent evidence that online se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-024-00030-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-024-00030-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How online misinformation exploits &#x27;information voids&#x27;Jan 9, 2024 — Providers of online search engines and their users need to be e...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-024-00030-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-024-00030-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How online misinformation exploits &#x27;information voids&#x27;Jan 9, 2024 — Providers of online search engines and their users need to be e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review and meta-analysis of the evidence for an...by S Ye · 2026 — The illusory truth effect, or repetition-induced truth eff...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review and meta-analysis of the evidence for an...by S Ye · 2026 — The illusory truth effect, or repetition-induced truth eff...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Online searches to evaluate misinformation can...Dec 20, 2023 — Research suggests that when individuals search online...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Online searches to evaluate misinformation can...Dec 20, 2023 — Research suggests that when individuals search online...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.05146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2504.05146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.05146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News AccuracyApril 7, 2025...</p></details>
    Published: April 7, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
+   Link:<a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the cogni...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1941 — In this Review, we describe the cogni...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-39555-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-39555-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Even factual news from...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-026-39555-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-39555-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even factual news from...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 625, 548–556 (2024). Article CAS PubMed Google...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 625, 548–556 (2024). Article CAS PubMed Google...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectRepeated information is often perceived as more truthful than new informa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectRepeated information is often perceived as more truthful than new informa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38123685/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38123685/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38123685/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 157 — Our results indicate that those who...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 114 — Results of our study suggest that repeate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 114 — Results of our study suggest that repeate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true because we&#x27;ve heard the...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true because we&#x27;ve heard the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
    Title: illusory truth effect  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or not...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — The illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true or not...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Newsweek/posts/the-act-of-searching-online-to-evaluate-news-increases-belief-in-highly-popular-/736964024970711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsweek/posts/the-act-of-searching-online-to-evaluate-news-increases-belief-in-highly-popular-/736964024970711/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 18 January 2024 Online searches to evaluate misinformation can increase...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Newsweek/posts/the-act-of-searching-online-to-evaluate-news-increases-belief-in-highly-popular-/736964024970711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsweek/posts/the-act-of-searching-online-to-evaluate-news-increases-belief-in-highly-popular-/736964024970711/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature 18 January 2024 Online searches to evaluate misinformation can increase...Read more...</p></details>
    Published: January 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tonny-johnson-15259b22_online-searches-to-evaluate-misinformation-activity-7154651783670235137-lvmY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tonny-johnson-15259b22_online-searches-to-evaluate-misinformation-activity-7154651783670235137-lvmY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature nature.com · 2 · Like Comment. Share. Copy...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tonny-johnson-15259b22_online-searches-to-evaluate-misinformation-activity-7154651783670235137-lvmY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tonny-johnson-15259b22_online-searches-to-evaluate-misinformation-activity-7154651783670235137-lvmY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature nature.com · 2 · Like Comment. Share. Copy...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/repeating-misinformation-doesnt-make-it-true-but-does-make-it-more-likely-to-be-believed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/repeating-misinformation-doesnt-make-it-true-but-does-make-it-more-likely-to-be-believed.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating Misinformation Doesn&#x27;t Make It True, But Does...2 Sept 2020 — The illusory truth effect is the notion that repeated statements...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/repeating-misinformation-doesnt-make-it-true-but-does-make-it-more-likely-to-be-believed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/repeating-misinformation-doesnt-make-it-true-but-does-make-it-more-likely-to-be-believed.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating Misinformation Doesn&#x27;t Make It True, But Does...2 Sept 2020 — The illusory truth effect is the notion that repeated statements...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asking people to “do the research” on fake news stories...8 Jan 2024 — We also find consistent evidence that searching online to evaluat...</p></details>
+   Link:<a href="https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asking people to “do the research” on fake news stories...8 Jan 2024 — We also find consistent evidence that searching online to evaluat...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dmas.lab.mcgill.ca  
-   Link: <a href="https://dmas.lab.mcgill.ca/fung/pub/BSWF24tcss_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dmas.lab.mcgill.ca/fung/pub/BSWF24tcss_preprint.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literature Review on Detecting, Verifying, and Mitigating...Overall, the literature shows that false information can generally be classi...</p></details>
+   Link:<a href="https://dmas.lab.mcgill.ca/fung/pub/BSWF24tcss_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dmas.lab.mcgill.ca/fung/pub/BSWF24tcss_preprint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literature Review on Detecting, Verifying, and Mitigating...Overall, the literature shows that false information can generally be classi...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: didyouknow that misinformation often becomes believable through repetition this  
-   Link: <a href="https://www.facebook.com/illinoissbe/posts/didyouknow-that-misinformation-often-becomes-believable-through-repetition-this-/861629286005422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/illinoissbe/posts/didyouknow-that-misinformation-often-becomes-believable-through-repetition-this-/861629286005422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “illusory” Truth Effect….28 May 2024 — DidYouKnow that Misinformation often becomes believable through repetition? This cognitive bia...</p></details>
+   Link:<a href="https://www.facebook.com/illinoissbe/posts/didyouknow-that-misinformation-often-becomes-believable-through-repetition-this-/861629286005422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/illinoissbe/posts/didyouknow-that-misinformation-often-becomes-believable-through-repetition-this-/861629286005422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “illusory” Truth Effect….28 May 2024 — DidYouKnow that Misinformation often becomes believable through repetition? This cognitive bia...</p></details>
    Published: May 2024  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: eufactcheck.eu  
-   Link: <a href="https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/" target="_blank" rel="noopener noreferrer nofollow">https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: how repeated misinformation sticks31 Jan 2026 — The illusory truth effect: how repeated misinformation sticks...</p></details>
+   Link:<a href="https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/" target="_blank" rel="noopener noreferrer nofollow">https://eufactcheck.eu/blogpost/the-illusory-truth-effect-how-repeated-misinformation-sticks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: how repeated misinformation sticks31 Jan 2026 — The illusory truth effect: how repeated misinformation sticks...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kaslett.github.io  
-   Link: <a href="https://kaslett.github.io/Documents/Do_Your_Own_Research_Aslett_et_al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kaslett.github.io/Documents/Do_Your_Own_Research_Aslett_et_al.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hing online to verify the veracity of false or misleading articles increases belief in them...Read more...</p></details>
+   Link:<a href="https://kaslett.github.io/Documents/Do_Your_Own_Research_Aslett_et_al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kaslett.github.io/Documents/Do_Your_Own_Research_Aslett_et_al.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hing online to verify the veracity of false or misleading articles increases belief in them...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cddrl.fsi.stanford.edu  
    Title: online searches evaluate misinformation can increase its perceived veracity 0  
-   Link: <a href="https://cddrl.fsi.stanford.edu/publication/online-searches-evaluate-misinformation-can-increase-its-perceived-veracity-0" target="_blank" rel="noopener noreferrer nofollow">https://cddrl.fsi.stanford.edu/publication/online-searches-evaluate-misinformation-can-increase-its-perceived-veracity-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase its perceived veracity. Breadcrumb. All CDDRL...Read more...</p></details>
+   Link:<a href="https://cddrl.fsi.stanford.edu/publication/online-searches-evaluate-misinformation-can-increase-its-perceived-veracity-0" target="_blank" rel="noopener noreferrer nofollow">https://cddrl.fsi.stanford.edu/publication/online-searches-evaluate-misinformation-can-increase-its-perceived-veracity-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase its perceived veracity. Breadcrumb. All CDDRL...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: factcheckhub.com  
-   Link: <a href="https://factcheckhub.com/how-search-engines-are-amplifying-misinformation-study/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/how-search-engines-are-amplifying-misinformation-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How search engines are amplifying misinformation - StudyDec 22, 2023 — The study: Online searches to evaluate misinformation can increase...</p></details>
+   Link:<a href="https://factcheckhub.com/how-search-engines-are-amplifying-misinformation-study/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/how-search-engines-are-amplifying-misinformation-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How search engines are amplifying misinformation - StudyDec 22, 2023 — The study: Online searches to evaluate misinformation can increase...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cam.ac.uk  
-   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion can help to “inoculate” people against harmful content on social media.Read more...</p></details>
+   Link:<a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion can help to “inoculate” people against harmful content on social media.Read more...</p></details>

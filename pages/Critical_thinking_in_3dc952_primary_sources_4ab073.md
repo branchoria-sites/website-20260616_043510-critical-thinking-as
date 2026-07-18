@@ -428,7 +428,7 @@ This is especially important when a claim depends on official action or numbers:
 
 A primary source is evidence close to the event, decision or dataset being discussed. For online claims, the most useful primary sources are often [official records]({{ 'official-records/' | relative_url }}) that can be checked independently: a regulator’s enforcement notice, a court order, a government statistical release, a parliamentary report, a public dataset, a company filing, a consultation document, a transcript, a law, or the archived version of a page before it was edited.
 
-This matters because many viral claims are not wholly invented. They are often built from a real fragment that has been stretched. A genuine dataset can be used to imply causation it does not show. A real court filing can be mistaken for a court finding. A regulator’s proposal can be presented as a law already in force. A ministerial number can be shared without the definitions or caveats needed to interpret it. The UK Parliamentary Office of Science and Technology describes misleading information as including opinion presented as fact and misleading use of statistics, not just fabricated content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Misleading information used to frame an issue...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span>
+This matters because many viral claims are not wholly invented. They are often built from a real fragment that has been stretched. A genuine dataset can be used to imply causation it does not show. A real court filing can be mistaken for a court finding. A regulator’s proposal can be presented as a law already in force. A ministerial number can be shared without the definitions or caveats needed to interpret it. The UK Parliamentary Office of Science and Technology describes misleading information as including opinion presented as fact and misleading use of statistics, not just fabricated content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Misleading information used to frame an issue...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span>
 
 Useful primary evidence commonly falls into a few practical categories:
 
@@ -448,9 +448,9 @@ A [source check]({{ 'source-check/' | relative_url }}) is most valuable when the
 
 A good rule is: **the more a claim relies on institutional authority, the closer you should get to the institution’s own record.** If a post says “the court ruled”, look for the judgment, not just the headline. If it says “the government data proves”, look for the dataset notes. If it says “the regulator banned”, check whether the document is a proposal, guidance, warning, settlement, final order or press release.
 
-The AI-generated robocall before the 2024 New Hampshire primary is a useful example. Many posts and headlines described a fake call using President Biden’s voice. The official record added important details: New Hampshire’s Attorney General said investigators had identified the source of the 21 January 2024 robocalls, while the FCC later described AI-generated voice cloning used to spread misinformation before the primary and proposed a $6 million fine. doj.nh.gov+2Federal Communications Commission Docs <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-title">voter suppression ai robocall investigation update</span><span class="citation-popover-snippet">6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span> The primary sources did not merely repeat that “a deepfake happened”; they clarified who investigators linked to the calls, what legal powers were being used, and what stage the enforcement action had reached.
+The AI-generated robocall before the 2024 New Hampshire primary is a useful example. Many posts and headlines described a fake call using President Biden’s voice. The official record added important details: New Hampshire’s Attorney General said investigators had identified the source of the 21 January 2024 robocalls, while the FCC later described AI-generated voice cloning used to spread misinformation before the primary and proposed a $6 million fine. doj.nh.gov+2Federal Communications Commission Docs<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-title">voter suppression ai robocall investigation update</span><span class="citation-popover-snippet">6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span> The primary sources did not merely repeat that “a deepfake happened”; they clarified who investigators linked to the calls, what legal powers were being used, and what stage the enforcement action had reached.
 
-Court filings offer a different lesson. In the well-known Mata v Avianca case, the problem was not a viral rumour but legal material submitted to a court after lawyers used ChatGPT-generated authorities. The court record showed that fake cases were cited, that concerns were raised when the opposing side could not locate them, and that sanctions followed after the lawyers failed to correct the problem promptly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[law.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-title">Mata v</span><span class="citation-popover-snippet">Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — The narrative leading to sanctions against Respondents includes the filing of t...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span> A social post might summarise that as “AI made up cases”, but the order shows the practical standard: citations must be checked against real legal sources, not treated as true because a fluent system produced them.
+Court filings offer a different lesson. In the well-known Mata v Avianca case, the problem was not a viral rumour but legal material submitted to a court after lawyers used ChatGPT-generated authorities. The court record showed that fake cases were cited, that concerns were raised when the opposing side could not locate them, and that sanctions followed after the lawyers failed to correct the problem promptly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[law.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-title">Mata v</span><span class="citation-popover-snippet">Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — The narrative leading to sanctions against Respondents includes the filing of t...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span> A social post might summarise that as “AI made up cases”, but the order shows the practical standard: citations must be checked against real legal sources, not treated as true because a fluent system produced them.
 
 ## How to Read Official Documents Without Getting Lost
 
@@ -469,11 +469,11 @@ Finally, look for definitions and exclusions. Official documents often turn on t
 
 Datasets are powerful because they make claims testable. They are also easy to misuse because numbers look objective even when the interpretation is weak. A chart can be copied without its denominator, confidence interval, collection method, missing-data warning or causal caveat.
 
-The Vaccine Adverse Event Reporting System, or VAERS, is a clear example of why primary data needs context. VAERS is a real US government safety-monitoring system, and its data are public. But the CDC explains that a VAERS report alone does not show that a vaccine caused or contributed to an adverse event; FDA guidance similarly says VAERS reports generally cannot determine causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</span></span></span> The official VAERS data page warns that report counts alone should not be treated as evidence of the frequency, severity or causal existence of vaccine problems, because reports may be incomplete, inaccurate, coincidental or unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">VAER S</span></span></span>
+The Vaccine Adverse Event Reporting System, or VAERS, is a clear example of why primary data needs context. VAERS is a real US government safety-monitoring system, and its data are public. But the CDC explains that a VAERS report alone does not show that a vaccine caused or contributed to an adverse event; FDA guidance similarly says VAERS reports generally cannot determine causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</span></span></span> The official VAERS data page warns that report counts alone should not be treated as evidence of the frequency, severity or causal existence of vaccine problems, because reports may be incomplete, inaccurate, coincidental or unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">VAER S</span></span></span>
 
-This does not make VAERS useless. It makes it a signal-detection system, not a cause-of-death calculator. The difference is crucial. A responsible check asks: What was the dataset designed to measure? Who can submit reports? Are reports verified? Is there a comparison group? Are rates being calculated correctly? Has a safety signal been followed up through stronger systems? Johns Hopkins’ public-health explanation makes the same point: VAERS can suggest patterns that need evaluation, but it cannot by itself determine causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">what vaers is and isnt</span></span></span>
+This does not make VAERS useless. It makes it a signal-detection system, not a cause-of-death calculator. The difference is crucial. A responsible check asks: What was the dataset designed to measure? Who can submit reports? Are reports verified? Is there a comparison group? Are rates being calculated correctly? Has a safety signal been followed up through stronger systems? Johns Hopkins’ public-health explanation makes the same point: VAERS can suggest patterns that need evaluation, but it cannot by itself determine causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">what vaers is and isnt</span></span></span>
 
-Official statistics in public debate raise similar problems. The UK Office for Statistics Regulation’s “intelligent transparency” guidance says numbers used by government should be released in an open, clear and accessible way so they can be scrutinised and used appropriately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> OSR has also stressed “equal access”: public claims using statistics should be based on publicly available data, preferably the latest available official statistics, rather than data available only to ministers or insiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">Office for Statistics Regulation Embedding the habit of intelligent transparency</span><span class="citation-popover-snippet">Office for Statistics Regulation Embedding the habit of intelligent transparency</span></span></span> That principle is directly relevant to social media: a number is much harder to check when the source, table, date or method is missing.
+Official statistics in public debate raise similar problems. The UK Office for Statistics Regulation’s “intelligent transparency” guidance says numbers used by government should be released in an open, clear and accessible way so they can be scrutinised and used appropriately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> OSR has also stressed “equal access”: public claims using statistics should be based on publicly available data, preferably the latest available official statistics, rather than data available only to ministers or insiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-title">Office for Statistics Regulation Embedding the habit of intelligent transparency</span><span class="citation-popover-snippet">Office for Statistics Regulation Embedding the habit of intelligent transparency</span></span></span> That principle is directly relevant to social media: a number is much harder to check when the source, table, date or method is missing.
 
 ## A Practical Source-Check Sequence
 
@@ -489,7 +489,7 @@ A legal claim needs a court document. A public-health claim needs the dataset, t
 
 **3. Search upstream, not sideways.**
 
-A useful digital-literacy approach is SIFT: stop, investigate the source, find better coverage, and trace claims back to the original context. Library guides describing SIFT emphasise tracing quotations, claims and media back to where they first appeared, rather than judging only the site or post in front of you. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
+A useful digital-literacy approach is SIFT: stop, investigate the source, find better coverage, and trace claims back to the original context. Library guides describing SIFT emphasise tracing quotations, claims and media back to where they first appeared, rather than judging only the site or post in front of you.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
 
 **4. Compare the viral wording with the official wording.**
 
@@ -509,11 +509,11 @@ Primary sources are strongest when combined with context from specialists who un
 
 Generative AI makes source-checking more urgent because it can produce fluent summaries, plausible citations and official-sounding explanations at scale. The danger is not only fake images or deepfake audio. It is also the everyday production of text that feels sourced but is not.
 
-Legal hallucination cases show this clearly. In Mata v Avianca, the failure was visible because courts require citations that can be checked. More recent reporting and trackers show that AI-generated or AI-assisted fake legal citations have continued to appear in court contexts, with judges increasingly sanctioning lawyers who fail to verify them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span><span class="citation-popover-snippet">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span></span></span> Research on legal hallucinations has also found that large language models can produce false answers to specific, verifiable legal questions and may fail to correct false assumptions in prompts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01301" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Legal hallucination cases show this clearly. In Mata v Avianca, the failure was visible because courts require citations that can be checked. More recent reporting and trackers show that AI-generated or AI-assisted fake legal citations have continued to appear in court contexts, with judges increasingly sanctioning lawyers who fail to verify them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span><span class="citation-popover-snippet">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span></span></span> Research on legal hallucinations has also found that large language models can produce false answers to specific, verifiable legal questions and may fail to correct false assumptions in prompts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01301" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The same logic applies outside law. An AI-generated answer may cite a report that exists but misstate its findings, combine details from different jurisdictions, invent a quotation, or omit the caveat that changes the meaning. A reader checking a primary source should therefore ask not only “Is there a citation?” but “Does the cited document actually say what the summary claims?”
 
-AI also raises the value of provenance: knowing where a claim, image, audio clip or dataset came from. Official notices, archived webpages, metadata, court dockets and regulator pages can create an evidential trail that a screenshot cannot. The UK government’s 2026 deepfake-detection overview notes growing use of detection and verification technologies across fraud prevention, brand protection, identity verification, content moderation, national security and law enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Deepfake detection technology</span><span class="citation-popover-snippet">Deepfake detection technology</span></span></span> Detection tools can help, but primary records remain essential because authenticity and meaning are not the same question. A real document can still be misread; a real dataset can still be abused.
+AI also raises the value of provenance: knowing where a claim, image, audio clip or dataset came from. Official notices, archived webpages, metadata, court dockets and regulator pages can create an evidential trail that a screenshot cannot. The UK government’s 2026 deepfake-detection overview notes growing use of detection and verification technologies across fraud prevention, brand protection, identity verification, content moderation, national security and law enforcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Deepfake detection technology</span><span class="citation-popover-snippet">Deepfake detection technology</span></span></span> Detection tools can help, but primary records remain essential because authenticity and meaning are not the same question. A real document can still be misread; a real dataset can still be abused.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/28j5ETXFHEE" title="Fake Biden robocall pre-NH primary appears illegal, raises AI concerns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=28j5ETXFHEE" target="_blank" rel="noopener noreferrer">Fake Biden robocall pre-NH primary appears illegal, raises AI concerns</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 16.0K &middot; Uploaded: January 2024 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=28j5ETXFHEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=28j5ETXFHEE">Open on YouTube</a></p></div></div></div>
@@ -524,9 +524,9 @@ Going to the source is not the same as ending the argument. Primary sources can 
 
 Court documents are a good example. A filing may contain allegations from one side. A judgment carries more weight, but even then it may be narrow: it may decide a procedural question rather than the whole factual dispute. A settlement may impose obligations without admitting liability. A criminal charge may show what prosecutors allege, not what a jury has found.
 
-Regulator documents also vary in force. A warning letter, notice of apparent liability, final order, consultation and settlement are not interchangeable. In the New Hampshire robocall case, checking the FCC and state attorney general records helps distinguish investigation updates, legal classifications, proposed penalties and later enforcement actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov+2Federal Communications Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-title">voter suppression ai robocall investigation update</span><span class="citation-popover-snippet">6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
+Regulator documents also vary in force. A warning letter, notice of apparent liability, final order, consultation and settlement are not interchangeable. In the New Hampshire robocall case, checking the FCC and state attorney general records helps distinguish investigation updates, legal classifications, proposed penalties and later enforcement actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doj.nh.gov">[doj.nh.gov+2Federal Communications Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doj.nh.gov</span><span class="citation-popover-title">voter suppression ai robocall investigation update</span><span class="citation-popover-snippet">6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
 
-Datasets need even more care. The UK statistics regulator’s framework of trustworthiness, quality and value is useful because it reminds readers that good evidence is not just a number on a page. It also depends on who produced it, how it was collected, whether it is fit for purpose, and whether it is explained well enough to be used responsibly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> A dataset may be official and still unsuitable for the viral conclusion attached to it.
+Datasets need even more care. The UK statistics regulator’s framework of trustworthiness, quality and value is useful because it reminds readers that good evidence is not just a number on a page. It also depends on who produced it, how it was collected, whether it is fit for purpose, and whether it is explained well enough to be used responsibly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osr.statisticsauthority.gov.uk">[Office for Statistics Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osr.statisticsauthority.gov.uk</span><span class="citation-popover-snippet">Open source on statisticsauthority.gov.uk.</span></span></span> A dataset may be official and still unsuitable for the viral conclusion attached to it.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cG4vpID8JbU" title="MisinfoDay 2022: How to Debunk Deceptive Data with Jevin West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cG4vpID8JbU" target="_blank" rel="noopener noreferrer">MisinfoDay 2022: How to Debunk Deceptive Data with Jevin West</a></p><p class="youtube-embed-meta">Channel: Center for an Informed Public at UW &middot; Views: 666 &middot; Uploaded: March 2022 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cG4vpID8JbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cG4vpID8JbU">Open on YouTube</a></p></div></div></div>
@@ -560,194 +560,194 @@ The best primary-source checks do not always produce a neat “true” or “fal
 That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) online. It reduces the reward for speed and certainty, and it gives readers a way to resist both cynicism and gullibility. Primary sources do not remove the need for judgement; they give judgement something firmer to work with.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should You Go to the Source?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should You Go to the Source?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches verification and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches verification and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Encourages checking underlying sources and methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking underlying sources and methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases that make source-checking necessary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that make source-checking necessary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="primary-sources-when-should-you-go-to-the-source-critical-thinking-in-the-age-of-social-media-an-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -763,7 +763,7 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -783,7 +783,7 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -815,7 +815,7 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -867,7 +867,7 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -912,7 +912,7 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -953,273 +953,273 @@ That refinement is the heart of [critical thinking]({{ 'critical-thinking-in-the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: doj.nh.gov  
    Title: voter suppression ai robocall investigation update  
-   Link: <a href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</p></details>
+   Link:<a href="https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/news-and-media/voter-suppression-ai-robocall-investigation-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — The Attorney General&#x27;s Office Election Law Unit has identified the source of the January 21, 2024, robocalls received by num...</p></details>
    Published: January 21, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: docs.fcc.gov  
-   Link: <a href="https://docs.fcc.gov/public/attachments/DOC-400295A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/DOC-400295A1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications Commission Docsfcc demands entity behind robocalls in new hampshire to...6 Feb 2024 — originated robocall traffic...</p></details>
+   Link:<a href="https://docs.fcc.gov/public/attachments/DOC-400295A1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.fcc.gov/public/attachments/DOC-400295A1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications Commission Docsfcc demands entity behind robocalls in new hampshire to...6 Feb 2024 — originated robocall traffic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fcc.gov  
    Title: proposes 6 million fine deepfake robocalls around nh primary  
-   Link: <a href="https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications CommissionFCC Proposes $6 Million Fine for Deepfake Robocalls...23 May 2024 — The FCC proposed a substantial fine...</p></details>
+   Link:<a href="https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications CommissionFCC Proposes $6 Million Fine for Deepfake Robocalls...23 May 2024 — The FCC proposed a substantial fine...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: law.berkeley.edu  
    Title: Mata v  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — The narrative leading to sanctions against Respondents includes the filing of t...</p></details>
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — The narrative leading to sanctions against Respondents includes the filing of t...</p></details>
    Published: December 1, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: <a href="https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationVaccine Adverse Event Reporting System (VAERS)...4 Oct 2024 — No. VAERS reports generally cannot be use...</p></details>
+   Link:<a href="https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationVaccine Adverse Event Reporting System (VAERS)...4 Oct 2024 — No. VAERS reports generally cannot be use...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vaers.hhs.gov  
    Title: VAER S  
-   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
+   Link:<a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: osr.statisticsauthority.gov.uk  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/guidance/regulatory-guidance-on-intelligent-transparency/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: Office for Statistics Regulation Embedding the habit of intelligent transparency  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/blog/embedding-the-habit-of-intelligent-transparency/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: Judge rules both sides in lawsuit misused AI, disqualifies lawyers  
-   Link: <a href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/</a>  
+   Link:<a href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2401.01301" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01301</a>  
+   Link:<a href="https://arxiv.org/abs/2401.01301" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01301</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: Deepfake detection technology  
-   Link: <a href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology</a>  
+   Link:<a href="https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/deepfake-detection-technology/deepfake-detection-technology</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls</a>  
+   Link:<a href="https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/fcc-finalizes-6-million-fine-over-ai-generated-[biden-robocalls</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: osr.statisticsauthority.gov.uk  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/news/osr-launches-a-refreshed-code-of-practice-for-statistics-embedding-trustworthiness-quality-and-value-tqv/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: code.statisticsauthority.gov.uk  
    Title: Code of Practice for Statistics Edition 3.0  
-   Link: <a href="https://code.statisticsauthority.gov.uk/wp-content/uploads/2025/10/Code-of-Practice-for-Statistics-3.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/wp-content/uploads/2025/10/Code-of-Practice-for-Statistics-3.0.pdf</a>  
+   Link:<a href="https://code.statisticsauthority.gov.uk/wp-content/uploads/2025/10/Code-of-Practice-for-Statistics-3.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/wp-content/uploads/2025/10/Code-of-Practice-for-Statistics-3.0.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uksa.statisticsauthority.gov.uk  
-   Link: <a href="https://uksa.statisticsauthority.gov.uk/committee/dcms/" target="_blank" rel="noopener noreferrer nofollow">https://uksa.statisticsauthority.gov.uk/committee/dcms/</a>  
+   Link:<a href="https://uksa.statisticsauthority.gov.uk/committee/dcms/" target="_blank" rel="noopener noreferrer nofollow">https://uksa.statisticsauthority.gov.uk/committee/dcms/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osr.statisticsauthority.gov.uk  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/publication/intelligent-transparency-2025-review/pages/2/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/publication/intelligent-transparency-2025-review/pages/2/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/publication/intelligent-transparency-2025-review/pages/2/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/publication/intelligent-transparency-2025-review/pages/2/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: osr.statisticsauthority.gov.uk  
    Title: osr highlights the importance of transparency in election claims  
-   Link: <a href="https://osr.statisticsauthority.gov.uk/news/osr-highlights-the-importance-of-transparency-in-election-claims/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/news/osr-highlights-the-importance-of-transparency-in-election-claims/</a>  
+   Link:<a href="https://osr.statisticsauthority.gov.uk/news/osr-highlights-the-importance-of-transparency-in-election-claims/" target="_blank" rel="noopener noreferrer nofollow">https://osr.statisticsauthority.gov.uk/news/osr-highlights-the-importance-of-transparency-in-election-claims/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: code.statisticsauthority.gov.uk  
    Title: statisticsauthority.gov.uk TQ V award  
-   Link: <a href="https://code.statisticsauthority.gov.uk/tag/tqv-award/?post_type=case_study" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/tag/tqv-award/?post_type=case_study</a>  
+   Link:<a href="https://code.statisticsauthority.gov.uk/tag/tqv-award/?post_type=case_study" target="_blank" rel="noopener noreferrer nofollow">https://code.statisticsauthority.gov.uk/tag/tqv-award/?post_type=case_study</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/socialmediadatapolicy" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/socialmediadatapolicy</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/socialmediadatapolicy" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/socialmediadatapolicy</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/qualityinofficialstatistics" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/qualityinofficialstatistics</a>  
+   Link:<a href="https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/qualityinofficialstatistics" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/qualityinofficialstatistics</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: doj.nh.gov  
-   Link: <a href="https://www.doj.nh.gov/news-and-media/steven-kramer-charged-voter-suppression-over-ai-generated-president-biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/news-and-media/steven-kramer-charged-voter-suppression-over-ai-generated-president-biden-robocalls</a>  
+   Link:<a href="https://www.doj.nh.gov/news-and-media/steven-kramer-charged-voter-suppression-over-ai-generated-president-biden-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.doj.nh.gov/news-and-media/steven-kramer-charged-voter-suppression-over-ai-generated-president-biden-robocalls</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wonder.cdc.gov  
-   Link: <a href="https://wonder.cdc.gov/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/vaers.html</a>  
+   Link:<a href="https://wonder.cdc.gov/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/vaers.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wonder.cdc.gov  
-   Link: <a href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/wonder/help/vaers.html</a>  
+   Link:<a href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/wonder/help/vaers.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/independent-review-of-the-uk-statistics-authority-uksa-2023/independent-review-of-the-uk-statistics-authority-by-professor-denise-lievesley-cbe-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/independent-review-of-the-uk-statistics-authority-uksa-2023/independent-review-of-the-uk-statistics-authority-by-professor-denise-lievesley-cbe-html</a>  
+   Link:<a href="https://www.gov.uk/government/publications/independent-review-of-the-uk-statistics-authority-uksa-2023/independent-review-of-the-uk-statistics-authority-by-professor-denise-lievesley-cbe-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/independent-review-of-the-uk-statistics-authority-uksa-2023/independent-review-of-the-uk-statistics-authority-by-professor-denise-lievesley-cbe-html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: GOV.UK  
    Title: statement of compliance with the code of practice for statistics  
-   Link: <a href="https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/statement-of-compliance-with-the-code-of-practice-for-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/statement-of-compliance-with-the-code-of-practice-for-statistics</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/statement-of-compliance-with-the-code-of-practice-for-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/statement-of-compliance-with-the-code-of-practice-for-statistics</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vaers.hhs.gov  
-   Link: <a href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/faq.html</a>  
+   Link:<a href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/faq.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: analysisfunction.civilservice.gov.uk  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/blog/growing-public-trust-in-statistics-through-collaborative-communication-and-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/blog/growing-public-trust-in-statistics-through-collaborative-communication-and-intelligent-transparency/</a>  
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/blog/growing-public-trust-in-statistics-through-collaborative-communication-and-intelligent-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/blog/growing-public-trust-in-statistics-through-collaborative-communication-and-intelligent-transparency/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: national statisticians guidance management information and official statistics  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/</a>  
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: civilservice.gov.uk Labelling official statistics  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/labelling-official-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/labelling-official-statistics/</a>  
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/labelling-official-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/labelling-official-statistics/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gov.im  
-   Link: <a href="https://www.gov.im/media/1373699/2019-12-23-code-of-practice-on-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/media/1373699/2019-12-23-code-of-practice-on-statistics.pdf</a>  
+   Link:<a href="https://www.gov.im/media/1373699/2019-12-23-code-of-practice-on-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/media/1373699/2019-12-23-code-of-practice-on-statistics.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: communications.gov.uk  
    Title: Enhancing trust in the communication of statistics  
-   Link: <a href="https://www.communications.gov.uk/blog/enhancing-trust-in-the-communication-of-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/blog/enhancing-trust-in-the-communication-of-statistics/</a>  
+   Link:<a href="https://www.communications.gov.uk/blog/enhancing-trust-in-the-communication-of-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/blog/enhancing-trust-in-the-communication-of-statistics/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Misleading information used to frame an issue...</p></details>
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Misleading information used to frame an issue...</p></details>
    Published: April 26, 2024  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: publichealth.jhu.edu  
    Title: what vaers is and isnt  
-   Link: <a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
+   Link:<a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: guides.lib.uchicago.edu  
    Title: University of Chicago Library Guides The SIFT Method  
-   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: publications.parliament.uk  
    Title: uk Disinformation and 'fake news': Final Report  
-   Link: <a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/149044/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/149044/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/149044/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/149044/pdf/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/111537/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111537/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/111537/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111537/html/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/110839/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/110839/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/110839/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/110839/html/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ebm.bmj.com  
-   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
+   Link:<a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/The%2520Rise%2520of%2520Fact-Checking%2520Sites%2520in%2520Europe.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/The%2520Rise%2520of%2520Fact-Checking%2520Sites%2520in%2520Europe.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/The%2520Rise%2520of%2520Fact-Checking%2520Sites%2520in%2520Europe.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/research/files/The%2520Rise%2520of%2520Fact-Checking%2520Sites%2520in%2520Europe.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/office-for-statistics-regulation_with-misinformation-on-the-rise-its-crucial-activity-7396846897606569984-oBKH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/office-for-statistics-regulation_with-misinformation-on-the-rise-its-crucial-activity-7396846897606569984-oBKH</a>  
+   Link:<a href="https://www.linkedin.com/posts/office-for-statistics-regulation_with-misinformation-on-the-rise-its-crucial-activity-7396846897606569984-oBKH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/office-for-statistics-regulation_with-misinformation-on-the-rise-its-crucial-activity-7396846897606569984-oBKH</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: incidentdatabase.ai  
-   Link: <a href="https://incidentdatabase.ai/cite/541/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/cite/541/</a>  
+   Link:<a href="https://incidentdatabase.ai/cite/541/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/cite/541/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: websitedc.s3.amazonaws.com  
-   Link: <a href="https://websitedc.s3.amazonaws.com/documents/Hallucinations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://websitedc.s3.amazonaws.com/documents/Hallucinations.pdf</a>  
+   Link:<a href="https://websitedc.s3.amazonaws.com/documents/Hallucinations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://websitedc.s3.amazonaws.com/documents/Hallucinations.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: libguides.clackamas.edu  
-   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
+   Link:<a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Using Wikipedia: Crash Course Navigating Digital Information #5  
-   Link: <a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 What Are Primary and Secondary Sources? | How to Teach Social Studies Skills...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 What Are Primary and Secondary Sources? | How to Teach Social Studies Skills...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/09/10/2024-19028/implications-of-artificial-intelligence-technologies-on-protecting-consumers-from-unwanted-robocalls</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cG4vpID8JbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cG4vpID8JbU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Fact-Checking for Content Creators: Verify Accuracy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cG4vpID8JbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cG4vpID8JbU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Fact-Checking for Content Creators: Verify Accuracy...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Fact-Checking for Content Creators: Verify Accuracy  
-   Link: <a href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_c5abA2UjhY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Using Wikipedia: Crash Course Navigating Digital Information #5...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_c5abA2UjhY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Using Wikipedia: Crash Course Navigating Digital Information #5...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: science.org  
    Title: antivaccine activists use government database side effects scare public  
-   Link: <a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
+   Link:<a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ftc.gov  
    Title: report warns about using artificial intelligence combat online problems  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375081144_Using_the_SIFT_strategy_to_enhance_the_Lateral_Reading_skills_of_undergraduate_students_for_detecting_digital_misinformation</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395056880_Think_Trustworthiness_Quality_and_Value_How_the_Code_of_Practice_for_Statistics_supports_analysts_to_use_data_in_a_way_that_builds_public_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395056880_Think_Trustworthiness_Quality_and_Value_How_the_Code_of_Practice_for_Statistics_supports_analysts_to_use_data_in_a_way_that_builds_public_confidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/395056880_Think_Trustworthiness_Quality_and_Value_How_the_Code_of_Practice_for_Statistics_supports_analysts_to_use_data_in_a_way_that_builds_public_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395056880_Think_Trustworthiness_Quality_and_Value_How_the_Code_of_Practice_for_Statistics_supports_analysts_to_use_data_in_a_way_that_builds_public_confidence</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: damiencharlotin.com  
-   Link: <a href="https://www.damiencharlotin.com/hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.damiencharlotin.com/hallucinations/</a>  
+   Link:<a href="https://www.damiencharlotin.com/hallucinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.damiencharlotin.com/hallucinations/</a>  

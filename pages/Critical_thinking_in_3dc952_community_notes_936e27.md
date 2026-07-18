@@ -426,31 +426,31 @@ For [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
 
 ## What public notes can add
 
-Community Notes change the location of correction. A traditional fact-check usually lives elsewhere: on a newsroom site, a fact-checking organisation’s page, or a reply thread that many viewers will never open. A public note sits attached to the original post, so the correction travels with the claim rather than waiting for readers to search for it. X describes the system as a way for contributors to “collaboratively add context to potentially misleading posts”, with notes shown publicly when enough contributors from different points of view rate them as helpful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.x.com">[Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.x.com</span><span class="citation-popover-title">community notes</span><span class="citation-popover-snippet">Help CenterAbout Community Notes on XApril 7, 2026 — Contributors can leave notes on any post and if enough contributors from different p...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+Community Notes change the location of correction. A traditional fact-check usually lives elsewhere: on a newsroom site, a fact-checking organisation’s page, or a reply thread that many viewers will never open. A public note sits attached to the original post, so the correction travels with the claim rather than waiting for readers to search for it. X describes the system as a way for contributors to “collaboratively add context to potentially misleading posts”, with notes shown publicly when enough contributors from different points of view rate them as helpful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.x.com">[Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.x.com</span><span class="citation-popover-title">community notes</span><span class="citation-popover-snippet">Help CenterAbout Community Notes on XApril 7, 2026 — Contributors can leave notes on any post and if enough contributors from different p...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
-That “different points of view” rule is the distinctive governance choice. Community Notes does not simply publish the note with the most votes. Its [ranking]({{ 'ranking/' | relative_url }}) system is designed to surface notes that receive support from contributors who have disagreed in their previous ratings, a method often called [bridging]({{ 'bridging/' | relative_url }})-based ranking. X’s own guide says notes need agreement between contributors who have “sometimes disagreed in their past ratings”, while its technical documentation says the algorithm is open source and can be audited for bugs, bias and improvement opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesTo identify notes that are helpful to a wide range of people, notes require agreement between contribu...</span></span></span>
+That “different points of view” rule is the distinctive governance choice. Community Notes does not simply publish the note with the most votes. Its [ranking]({{ 'ranking/' | relative_url }}) system is designed to surface notes that receive support from contributors who have disagreed in their previous ratings, a method often called [bridging]({{ 'bridging/' | relative_url }})-based ranking. X’s own guide says notes need agreement between contributors who have “sometimes disagreed in their past ratings”, while its technical documentation says the algorithm is open source and can be audited for bugs, bias and improvement opportunities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesTo identify notes that are helpful to a wide range of people, notes require agreement between contribu...</span></span></span>
 
-The benefit is that the system tries to avoid a simple majority pile-on. In polarised spaces, a majority vote can reward the largest faction, not the most useful correction. Bridging asks a harder question: can people with different rating histories still agree that this particular note helps readers understand the post? Early research on Birdwatch, the predecessor to Community Notes, found that annotations selected through this bridging approach improved user understanding and made people who saw them less likely to reshare the posts than people who did not see the annotations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.15723" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of MisinformationOctober 27, 2022...</span><span class="citation-popover-meta">Published: October 27, 2022</span></span></span>
+The benefit is that the system tries to avoid a simple majority pile-on. In polarised spaces, a majority vote can reward the largest faction, not the most useful correction. Bridging asks a harder question: can people with different rating histories still agree that this particular note helps readers understand the post? Early research on Birdwatch, the predecessor to Community Notes, found that annotations selected through this bridging approach improved user understanding and made people who saw them less likely to reshare the posts than people who did not see the annotations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.15723" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of MisinformationOctober 27, 2022...</span><span class="citation-popover-meta">Published: October 27, 2022</span></span></span>
 
 This matters because many misleading posts are not pure fabrications. They may use a real image with the wrong date, quote a statistic without its denominator, imply causation from a correlation, or present an old video as a new event. A good note can correct that kind of ambiguity without deleting the post. In that sense, Community Notes are less like a verdict stamped on content and more like a public marginal note: “this needs context before you react”.
 
-The infrastructure also has a trust advantage. A 2024 study found that community notes were perceived as more trustworthy than simple misinformation flags across both sides of the political spectrum. The likely reason is not that crowds are always wiser than experts, but that readers may treat a sourced, explanatory note as less patronising than a bare warning label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Across both sides of the politic...</span></span></span>
+The infrastructure also has a trust advantage. A 2024 study found that community notes were perceived as more trustworthy than simple misinformation flags across both sides of the political spectrum. The likely reason is not that crowds are always wiser than experts, but that readers may treat a sourced, explanatory note as less patronising than a bare warning label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Across both sides of the politic...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-1-dark.svg" | relative_url }}" alt="Community Notes illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where corrections arrive late
 
-The strongest case for Community Notes is that visible context can reduce the spread of misleading posts once a note appears. A 2025 study using synthetic control methods on 40,078 posts found that attaching Community Notes significantly reduced engagement with and diffusion of false content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — In this work, we estimate the causal...</span></span></span> A later large-scale study in Nature Communications examined 237,180 fact-checked cascades reposted more than 431 million times and found [evidence]({{ 'evidence/' | relative_url }}) that community-based fact-checking reduced the spread of misleading posts on X. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Here, we perform a large-scale empirical st...</span></span></span>
+The strongest case for Community Notes is that visible context can reduce the spread of misleading posts once a note appears. A 2025 study using synthetic control methods on 40,078 posts found that attaching Community Notes significantly reduced engagement with and diffusion of false content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — In this work, we estimate the causal...</span></span></span> A later large-scale study in Nature Communications examined 237,180 fact-checked cascades reposted more than 431 million times and found [evidence]({{ 'evidence/' | relative_url }}) that community-based fact-checking reduced the spread of misleading posts on X.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Here, we perform a large-scale empirical st...</span></span></span>
 
 The harder question is whether the correction arrives before the damage is done. Social media virality is front-loaded: a post may gather most of its attention in the first minutes or hours, while a community correction needs someone to notice the post, write a note, gather ratings and cross the algorithmic threshold for public display. That delay is not a side issue; it is central to whether the system works as public infrastructure.
 
-Several studies point to the same bottleneck. Research on the rollout of Community Notes found no evidence that the feature’s introduction significantly reduced engagement with misleading tweets overall, and suggested that notes may be too slow to affect the early, most viral stage of diffusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Another study of around 285,000 notes found that adding context below a tweet reduced retweets by almost half and increased the probability that the tweet would be deleted by its creator, but also concluded that the impact depends heavily on timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Several studies point to the same bottleneck. Research on the rollout of Community Notes found no evidence that the feature’s introduction significantly reduced engagement with misleading tweets overall, and suggested that notes may be too slow to affect the early, most viral stage of diffusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Another study of around 285,000 notes found that adding context below a tweet reduced retweets by almost half and increased the probability that the tweet would be deleted by its creator, but also concluded that the impact depends heavily on timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-A 2025 analysis focused directly on timeliness, consensus and contributor composition found that only 11.5% of notes reached agreement on publication, that the top 10% of contributors produced 58% of all notes, and that notes were published an average of 65.7 hours after the original post. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Those figures do not mean Community Notes are useless. They mean the system is better understood as a visible correction layer than as a rapid emergency brake.
+A 2025 analysis focused directly on timeliness, consensus and contributor composition found that only 11.5% of notes reached agreement on publication, that the top 10% of contributors produced 58% of all notes, and that notes were published an average of 65.7 hours after the original post.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Those figures do not mean Community Notes are useless. They mean the system is better understood as a visible correction layer than as a rapid emergency brake.
 
 This distinction is especially important during elections, public health scares, disasters and fast-moving conflicts. In those moments, a claim can shape behaviour long before a public note appears. A note that arrives two days later may still help later readers, journalists, researchers and people encountering screenshots, but it cannot fully undo the initial burst of attention.
 
-The same delay problem becomes sharper with AI-generated misinformation. Generative tools can produce plausible images, [fake notices]({{ 'fake-notices/' | relative_url }}), fabricated quotes and polished explanations at high speed. Community Notes can add context after such material appears, but they are still constrained by human attention, contributor availability and the need for agreement. X has begun experimenting with AI Note Writers that can draft notes, but the company says AI-written notes must still be judged helpful by people from different perspectives before they appear publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/news/696210/x-community-notes-ai-note-writers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge X opens up to Community Notes written by AI bots</span><span class="citation-popover-snippet">The Verge X opens up to Community Notes written by AI bots</span></span></span> That may improve scale, but it does not remove the need for careful human judgement.
+The same delay problem becomes sharper with AI-generated misinformation. Generative tools can produce plausible images, [fake notices]({{ 'fake-notices/' | relative_url }}), fabricated quotes and polished explanations at high speed. Community Notes can add context after such material appears, but they are still constrained by human attention, contributor availability and the need for agreement. X has begun experimenting with AI Note Writers that can draft notes, but the company says AI-written notes must still be judged helpful by people from different perspectives before they appear publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/news/696210/x-community-notes-ai-note-writers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge X opens up to Community Notes written by AI bots</span><span class="citation-popover-snippet">The Verge X opens up to Community Notes written by AI bots</span></span></span> That may improve scale, but it does not remove the need for careful human judgement.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lKtPnNLNVzY" title="Meta scraps fact-checking: What are &#x27;community notes&#x27; and what could this mean? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lKtPnNLNVzY" target="_blank" rel="noopener noreferrer">Meta scraps fact-checking: What are &#x27;community notes&#x27; and what could this mean? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 2.0K &middot; Uploaded: January 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lKtPnNLNVzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lKtPnNLNVzY">Open on YouTube</a></p></div></div></div>
@@ -459,13 +459,13 @@ The same delay problem becomes sharper with AI-generated misinformation. Generat
 
 Community Notes are often discussed as if they are a general correction system for the whole platform. In practice, they are a selective public layer. They cover what contributors notice, what they choose to write about, what other contributors are asked to rate, and what the bridging algorithm decides has enough cross-viewpoint support to show.
 
-That selectivity has consequences. Research comparing Community Notes with “snoping” — users replying with links to professional fact-checking sites such as Snopes — found that the two approaches targeted different posts and rarely overlapped. Community Notes contributors tended to fact-check posts from larger accounts with greater social influence, while snoping was faster. Where the two methods did overlap, they showed a high level of agreement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.09519" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+That selectivity has consequences. Research comparing Community Notes with “snoping” — users replying with links to professional fact-checking sites such as Snopes — found that the two approaches targeted different posts and rarely overlapped. Community Notes contributors tended to fact-check posts from larger accounts with greater social influence, while snoping was faster. Where the two methods did overlap, they showed a high level of agreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.09519" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This is a useful finding for readers because it cuts through a common false choice. Community Notes and professional fact-checking are not interchangeable. Community Notes may be better at attaching context to high-visibility posts inside the platform. Professional fact-checkers may be better at producing deeper investigations, maintaining editorial standards, explaining complex evidence and publishing corrections that can be cited across platforms. The systems can reinforce each other.
 
-A 2025 study asked whether Community Notes can replace professional fact-checkers and found that helpful notes often depend on professional fact-checking sources, especially when posts are tied to broader misinformation narratives. The authors concluded that successful community moderation relies heavily on professional fact-checking rather than making it obsolete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Can Community Notes Replace Professional Fact-Checkers?</span><span class="citation-popover-snippet">arXiv Can Community Notes Replace Professional Fact-Checkers?</span></span></span>
+A 2025 study asked whether Community Notes can replace professional fact-checkers and found that helpful notes often depend on professional fact-checking sources, especially when posts are tied to broader misinformation narratives. The authors concluded that successful community moderation relies heavily on professional fact-checking rather than making it obsolete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Can Community Notes Replace Professional Fact-Checkers?</span><span class="citation-popover-snippet">arXiv Can Community Notes Replace Professional Fact-Checkers?</span></span></span>
 
-Coverage is also shaped by contributor incentives. X’s documentation says contributors gain more influence through helpfulness scores and can unlock writing ability by demonstrating useful rating behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">Open source on x.com.</span></span></span> That can improve quality by rewarding people with a track record. It can also concentrate power among highly active users, meaning the “crowd” may be much smaller and more specialised than ordinary readers imagine.
+Coverage is also shaped by contributor incentives. X’s documentation says contributors gain more influence through helpfulness scores and can unlock writing ability by demonstrating useful rating behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">Open source on x.com.</span></span></span> That can improve quality by rewarding people with a track record. It can also concentrate power among highly active users, meaning the “crowd” may be much smaller and more specialised than ordinary readers imagine.
 
 For critical thinking, the lesson is simple: the absence of a note is not evidence that a post is true. It may mean no one has written a note, not enough people have rated one, contributors disagree, the post is too new, the claim is hard to assess quickly, or the system has not surfaced the note publicly.
 
@@ -473,7 +473,7 @@ For critical thinking, the lesson is simple: the absence of a note is not eviden
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-2-dark.svg" | relative_url }}" alt="Community Notes illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read correction sources
 
-A Community Note is only as useful as the evidence it points to. The best notes do three things at once: they identify the specific problem in the post, add missing context without overclaiming, and cite sources that actually support the correction. Early Birdwatch research found that notes were more helpful to other users when they linked to trustworthy sources and used less combative language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2104.07175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community-Based Fact-Checking on Twitter&#x27;s Birdwatch Platform</span><span class="citation-popover-snippet">arXiv Community-Based Fact-Checking on Twitter&#x27;s Birdwatch Platform</span></span></span>
+A Community Note is only as useful as the evidence it points to. The best notes do three things at once: they identify the specific problem in the post, add missing context without overclaiming, and cite sources that actually support the correction. Early Birdwatch research found that notes were more helpful to other users when they linked to trustworthy sources and used less combative language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2104.07175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community-Based Fact-Checking on Twitter&#x27;s Birdwatch Platform</span><span class="citation-popover-snippet">arXiv Community-Based Fact-Checking on Twitter&#x27;s Birdwatch Platform</span></span></span>
 
 Readers should treat the source link as part of the note, not decoration. A note citing a primary source, official dataset, court document, archived page, full report or reputable fact-check is usually stronger than one citing a partisan commentary page, an unsourced blog, a search result, or another social media post. But source type is not enough. An official source can be outdated. A fact-check can address a similar claim but not the exact one in the post. A screenshot of a document can omit the surrounding paragraph.
 
@@ -497,9 +497,9 @@ The bridging algorithm is the governance heart of the system. It tries to solve 
 
 This is why Community Notes are best judged by multiple measures, not by a single success story or failure. Useful questions include: How many misleading high-reach posts receive visible notes? How fast do notes appear? How often do displayed notes later disappear? How often do notes cite high-quality evidence? Which topics and languages are underserved? How transparent is the platform about data, thresholds and changes?
 
-Recent research suggests these questions are still open. One 2026 paper on consensus stability found that 30.2% of displayed notes later lost helpful status and disappeared, highlighting how post-publication rating dynamics can destabilise consensus-based correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Meanwhile, X publishes Community [Notes data]({{ 'notes-data/' | relative_url }}) for public analysis and hosts the scoring code on GitHub, which gives outside researchers more visibility than many platform moderation systems provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/download-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-title">formerly Twitter)Downloading data</span><span class="citation-popover-snippet">formerly Twitter)Downloading data</span></span></span>
+Recent research suggests these questions are still open. One 2026 paper on consensus stability found that 30.2% of displayed notes later lost helpful status and disappeared, highlighting how post-publication rating dynamics can destabilise consensus-based correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Meanwhile, X publishes Community [Notes data]({{ 'notes-data/' | relative_url }}) for public analysis and hosts the scoring code on GitHub, which gives outside researchers more visibility than many platform moderation systems provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/download-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-title">formerly Twitter)Downloading data</span><span class="citation-popover-snippet">formerly Twitter)Downloading data</span></span></span>
 
-Other platforms are now testing similar systems. Meta has introduced Community Notes on Facebook, Instagram and Threads, and TikTok has tested a comparable feature called Footnotes in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Meta Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">community notes</span><span class="citation-popover-snippet">community notes</span></span></span> That expansion makes the governance question bigger than X: public annotation is becoming a platform design pattern. Whether it improves information quality depends less on the name of the feature than on the rules for who can contribute, how notes are ranked, how quickly they appear, what data is released for scrutiny, and whether professional expertise remains part of the evidence ecosystem.
+Other platforms are now testing similar systems. Meta has introduced Community Notes on Facebook, Instagram and Threads, and TikTok has tested a comparable feature called Footnotes in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Meta Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">community notes</span><span class="citation-popover-snippet">community notes</span></span></span> That expansion makes the governance question bigger than X: public annotation is becoming a platform design pattern. Whether it improves information quality depends less on the name of the feature than on the rules for who can contribute, how notes are ranked, how quickly they appear, what data is released for scrutiny, and whether professional expertise remains part of the evidence ecosystem.
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-3-dark.svg" | relative_url }}" alt="Community Notes illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_community_notes_936e27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -516,178 +516,178 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Crowd Correct the Feed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Crowd Correct the Feed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explores how societies correct errors and build reliable knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how societies correct errors and build reliable knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Addresses how public claims and corrections should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how public claims and corrections should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation of claims circulating online.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation of claims circulating online.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="community-notes-can-the-crowd-correct-the-feed-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -703,7 +703,7 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -723,7 +723,7 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -755,7 +755,7 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -807,7 +807,7 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -852,7 +852,7 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -893,209 +893,209 @@ The most critical-thinking-friendly use of Community Notes is therefore active r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.15723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.15723</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of MisinformationOctober 27, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2210.15723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.15723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of MisinformationOctober 27, 2022...</p></details>
    Published: October 27, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Across both sides of the politic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 95 — Across both sides of the politic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — In this work, we estimate the causal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 35 — In this work, we estimate the causal...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Here, we perform a large-scale empirical st...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Here, we perform a large-scale empirical st...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
+   Link:<a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.02803</a>  
+   Link:<a href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.02803</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
+   Link:<a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.09519" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.09519</a>  
+   Link:<a href="https://arxiv.org/abs/2305.09519" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.09519</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Can Community Notes Replace Professional Fact-Checkers?  
-   Link: <a href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14132</a>  
+   Link:<a href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14132</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: github.com  
    Title: Git Hubwriting-notes.md  
-   Link: <a href="https://github.com/twitter/communitynotes/blob/main/documentation/contributing/writing-notes.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/blob/main/documentation/contributing/writing-notes.md</a>  
+   Link:<a href="https://github.com/twitter/communitynotes/blob/main/documentation/contributing/writing-notes.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/blob/main/documentation/contributing/writing-notes.md</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Community-Based Fact-Checking on Twitter's Birdwatch Platform  
-   Link: <a href="https://arxiv.org/abs/2104.07175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.07175</a>  
+   Link:<a href="https://arxiv.org/abs/2104.07175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.07175</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.14002</a>  
+   Link:<a href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.14002</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: github.com  
-   Link: <a href="https://github.com/twitter/communitynotes" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes</a>  
+   Link:<a href="https://github.com/twitter/communitynotes" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: transparency.meta.com  
    Title: community notes  
-   Link: <a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
+   Link:<a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: github.com  
-   Link: <a href="https://github.com/twitter/communitynotes/issues/392" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/issues/392</a>  
+   Link:<a href="https://github.com/twitter/communitynotes/issues/392" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/issues/392</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: github.com  
    Title: birdwatch paper 2022 10 27  
-   Link: <a href="https://github.com/twitter/communitynotes/blob/main/birdwatch_paper_2022_10_27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/blob/main/birdwatch_paper_2022_10_27.pdf</a>  
+   Link:<a href="https://github.com/twitter/communitynotes/blob/main/birdwatch_paper_2022_10_27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://github.com/twitter/communitynotes/blob/main/birdwatch_paper_2022_10_27.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.24810v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.24810v1</a>  
+   Link:<a href="https://arxiv.org/html/2510.24810v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.24810v1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
+   Link:<a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2307.07960</a>  
+   Link:<a href="https://arxiv.org/pdf/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2307.07960</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
+   Link:<a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2210.15723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2210.15723</a>  
+   Link:<a href="https://arxiv.org/pdf/2210.15723" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2210.15723</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-55868-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-55868-0</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-025-55868-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-55868-0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: help.instagram.com  
-   Link: <a href="https://help.instagram.com/1324409242092689/" target="_blank" rel="noopener noreferrer nofollow">https://help.instagram.com/1324409242092689/</a>  
+   Link:<a href="https://help.instagram.com/1324409242092689/" target="_blank" rel="noopener noreferrer nofollow">https://help.instagram.com/1324409242092689/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/803447668967576/posts/978110124834662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803447668967576/posts/978110124834662/</a>  
+   Link:<a href="https://www.facebook.com/groups/803447668967576/posts/978110124834662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803447668967576/posts/978110124834662/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Mechanics of Community Notes: Bridging Algorithms and Cross-Partisan Consensus  
-   Link: <a href="https://www.youtube.com/watch?v=anleNB7b3SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anleNB7b3SU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=anleNB7b3SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anleNB7b3SU</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: help.x.com  
    Title: community notes  
-   Link: <a href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow">https://help.x.com/en/using-x/community-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterAbout Community Notes on XApril 7, 2026 — Contributors can leave notes on any post and if enough contributors from different p...</p></details>
+   Link:<a href="https://help.x.com/en/using-x/community-notes" target="_blank" rel="noopener noreferrer nofollow">https://help.x.com/en/using-x/community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterAbout Community Notes on XApril 7, 2026 — Contributors can leave notes on any post and if enough contributors from different p...</p></details>
    Published: April 7, 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesTo identify notes that are helpful to a wide range of people, notes require agreement between contribu...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesTo identify notes that are helpful to a wide range of people, notes require agreement between contribu...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theverge.com  
    Title: The Verge X opens up to Community Notes written by AI bots  
-   Link: <a href="https://www.theverge.com/news/696210/x-community-notes-ai-note-writers" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/696210/x-community-notes-ai-note-writers</a>  
+   Link:<a href="https://www.theverge.com/news/696210/x-community-notes-ai-note-writers" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/696210/x-community-notes-ai-note-writers</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores</a>  
+   Link:<a href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: communitynotes.x.com  
    Title: (formerly Twitter)Downloading data  
-   Link: <a href="https://communitynotes.x.com/guide/en/under-the-hood/download-data" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/download-data</a>  
+   Link:<a href="https://communitynotes.x.com/guide/en/under-the-hood/download-data" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/download-data</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/challenges" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/challenges</a>  
+   Link:<a href="https://communitynotes.x.com/guide/en/about/challenges" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/challenges</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9589652/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9589652/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9589652/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9589652/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: tsjournal.org  
-   Link: <a href="https://tsjournal.org/index.php/jots/article/view/139/57" target="_blank" rel="noopener noreferrer nofollow">https://tsjournal.org/index.php/jots/article/view/139/57</a>  
+   Link:<a href="https://tsjournal.org/index.php/jots/article/view/139/57" target="_blank" rel="noopener noreferrer nofollow">https://tsjournal.org/index.php/jots/article/view/139/57</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Meta replaces fact-checking with X-style community notes, AP explains  
-   Link: <a href="https://www.youtube.com/watch?v=GgfJIP3D-84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GgfJIP3D-84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Mark Zuckerberg removing fact checkers because of the return of President Trump? | BBC Newscast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GgfJIP3D-84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GgfJIP3D-84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Mark Zuckerberg removing fact checkers because of the return of President Trump? | BBC Newscast...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: An inside look at X's Community Notes | Keith Coleman & Jay Baxter  
-   Link: <a href="https://www.youtube.com/watch?v=8dgyqYHLcCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dgyqYHLcCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanics of Community Notes: Bridging Algorithms and Cross-Partisan Consensus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8dgyqYHLcCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dgyqYHLcCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanics of Community Notes: Bridging Algorithms and Cross-Partisan Consensus...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: How Taiwan Tackled Misinformation without Censorship | ft. Glen Weyl  
-   Link: <a href="https://www.youtube.com/watch?v=WIELV-14III" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WIELV-14III</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta replaces fact-checking with X-style community notes, AP explains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WIELV-14III" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WIELV-14III</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta replaces fact-checking with X-style community notes, AP explains...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation</a>  
+   Link:<a href="https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396457977_From_Birdwatch_to_Community_Notes_from_Twitter_to_X_four_years_of_community-based_content_moderation</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/17iqqhi/cmv_community_notes_have_had_a_net_positive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/17iqqhi/cmv_community_notes_have_had_a_net_positive/</a>  
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/17iqqhi/cmv_community_notes_have_had_a_net_positive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/17iqqhi/cmv_community_notes_have_had_a_net_positive/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40personal.phamchitrung/community-notes-how-it-actually-works-and-how-it-might-fail-an-in-depth-topic-based-analysis-a4046d6e0e78" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40personal.phamchitrung/community-notes-how-it-actually-works-and-how-it-might-fail-an-in-depth-topic-based-analysis-a4046d6e0e78</a>  
+   Link:<a href="https://medium.com/%40personal.phamchitrung/community-notes-how-it-actually-works-and-how-it-might-fail-an-in-depth-topic-based-analysis-a4046d6e0e78" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40personal.phamchitrung/community-notes-how-it-actually-works-and-how-it-might-fail-an-in-depth-topic-based-analysis-a4046d6e0e78</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: uni-giessen.de  
-   Link: <a href="https://www.uni-giessen.de/en/faculties/f02/faculty/professorships/business/data-science-digitization/featured-research-community-based-fact-checking-on-twitter2019s-birdwatch-platform" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/en/faculties/f02/faculty/professorships/business/data-science-digitization/featured-research-community-based-fact-checking-on-twitter2019s-birdwatch-platform</a>  
+   Link:<a href="https://www.uni-giessen.de/en/faculties/f02/faculty/professorships/business/data-science-digitization/featured-research-community-based-fact-checking-on-twitter2019s-birdwatch-platform" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/en/faculties/f02/faculty/professorships/business/data-science-digitization/featured-research-community-based-fact-checking-on-twitter2019s-birdwatch-platform</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: counterhate.com  
-   Link: <a href="https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf</a>  
+   Link:<a href="https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: politifact.com  
-   Link: <a href="https://www.politifact.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/</a>  
+   Link:<a href="https://www.politifact.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/tiktok-begins-us-testing-footnotes-similar-community-notes-by-x-2025-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/tiktok-begins-us-testing-footnotes-similar-community-notes-by-x-2025-04-16/</a>  
+   Link:<a href="https://www.reuters.com/technology/tiktok-begins-us-testing-footnotes-similar-community-notes-by-x-2025-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/tiktok-begins-us-testing-footnotes-similar-community-notes-by-x-2025-04-16/</a>  

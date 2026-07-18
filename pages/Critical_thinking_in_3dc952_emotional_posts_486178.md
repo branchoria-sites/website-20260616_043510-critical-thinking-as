@@ -422,7 +422,7 @@ Emotional posts bypass scepticism by making a claim feel urgent before the reade
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178-overview.webp" | relative_url }}" alt="Overview image for Emotional Posts" loading="eager" decoding="sync" fetchpriority="high">
-The practical rule is simple: the hotter the post feels, the cooler the checking should be. Research on misinformation and sharing repeatedly finds that online environments can pull attention away from accuracy and towards reaction, identity and engagement. [Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) can improve the quality of what people share, suggesting that many users are not indifferent to truth; they are being nudged into a moment where truth is not the first question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
+The practical rule is simple: the hotter the post feels, the cooler the checking should be. Research on misinformation and sharing repeatedly finds that online environments can pull attention away from accuracy and towards reaction, identity and engagement. [Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) can improve the quality of what people share, suggesting that many users are not indifferent to truth; they are being nudged into a moment where truth is not the first question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hRx9iq7fSCg" title="Fear Sells But Facts Matter: Making Science Go Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hRx9iq7fSCg" target="_blank" rel="noopener noreferrer">Fear Sells But Facts Matter: Making Science Go Viral</a></p><p class="youtube-embed-meta">Channel: PedsDocTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hRx9iq7fSCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hRx9iq7fSCg">Open on YouTube</a></p></div></div></div>
@@ -431,7 +431,7 @@ The practical rule is simple: the hotter the post feels, the cooler the checking
 
 Emotion is useful. Anger can alert people to injustice, fear can help them notice danger, pride can strengthen solidarity, and moral certainty can motivate action. The problem is not emotion itself. The problem is when a post uses emotion as a substitute for evidence: “This is outrageous, therefore it must be true”; “This is frightening, therefore it must be urgent”; “This flatters my side, therefore it must be fair.”
 
-Misinformation researchers increasingly treat emotion as part of the spread mechanism, not just a decorative feature of bad content. A 2024 Science study on moral [outrage]({{ 'outrage/' | relative_url }}) and misinformation found that misinformation sources generated more outrage than trustworthy sources, and that outrage was associated with more sharing. The researchers also found that people were more likely to share high-outrage headlines regardless of whether the material came from trustworthy or misinformation sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship between...</span></span></span>
+Misinformation researchers increasingly treat emotion as part of the spread mechanism, not just a decorative feature of bad content. A 2024 Science study on moral [outrage]({{ 'outrage/' | relative_url }}) and misinformation found that misinformation sources generated more outrage than trustworthy sources, and that outrage was associated with more sharing. The researchers also found that people were more likely to share high-outrage headlines regardless of whether the material came from trustworthy or misinformation sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship between...</span></span></span>
 
 This matters because outrage performs a social job. It says, “I know what side I am on.” Sharing a post can become a signal of loyalty, disgust or courage rather than a statement that the claim has been checked. In that setting, scepticism can feel like betrayal: asking for a source may be treated as defending the accused, minimising harm or lacking moral seriousness. That is exactly why emotional posts deserve extra caution. The stronger the [moral pressure]({{ 'moral-pressure/' | relative_url }}), the more important it is to separate three different questions:
 
@@ -452,9 +452,9 @@ A post can be emotionally justified but factually incomplete. It can identify a 
 
 Outrage is especially powerful online because it combines emotion, identity and visibility. A calm correction may be useful, but an angry post gives readers a clear role: condemn, defend, mock, expose, punish, rally. That makes it easy to engage with, and engagement is the basic currency of most social platforms.
 
-Research on social reinforcement helps explain the pattern. A study of moral outrage on social media found that users can learn to express more outrage when outrage receives [social rewards]({{ 'social-rewards/' | relative_url }}) such as likes and shares. The mechanism is not simply that angry people arrive online; it is that platform feedback can train people over time to produce the kind of moral-emotional content that gets rewarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">However, evidence to support such claims remains scarce...</span></span></span>
+Research on social reinforcement helps explain the pattern. A study of moral outrage on social media found that users can learn to express more outrage when outrage receives [social rewards]({{ 'social-rewards/' | relative_url }}) such as likes and shares. The mechanism is not simply that angry people arrive online; it is that platform feedback can train people over time to produce the kind of moral-emotional content that gets rewarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">However, evidence to support such claims remains scarce...</span></span></span>
 
-Political and identity-based posts show the same pressure. A large PNAS study of Facebook and Twitter posts from news media accounts and US congressional members found that posts about political out-groups were shared or retweeted about twice as often as posts about the in-group. The authors argue that out-group animosity is a strong driver of engagement, partly because it evokes anger, mockery and outrage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 927 — Thus, posts about the out-group may generate...</span></span></span>
+Political and identity-based posts show the same pressure. A large PNAS study of Facebook and Twitter posts from news media accounts and US congressional members found that posts about political out-groups were shared or retweeted about twice as often as posts about the in-group. The authors argue that out-group animosity is a strong driver of engagement, partly because it evokes anger, mockery and outrage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 927 — Thus, posts about the out-group may generate...</span></span></span>
 
 That creates a trap for readers. A post may feel persuasive because many people are reacting to it, but those reactions may be evidence of emotional design rather than factual strength. “Everyone is furious” is not the same as “the claim is well supported.” When a feed shows a post with thousands of angry comments, the reader is not only seeing information; they are seeing a crowd cue that can make scepticism feel socially costly.
 
@@ -465,7 +465,7 @@ That creates a trap for readers. A post may feel persuasive because many people 
 
 Emotional misinformation often does not ask the reader to think; it asks the reader to act now. The urgent instruction may be explicit — “share before they delete this”, “wake people up”, “send this to every parent” — or implied through music, captions, images, emojis and rapid-fire edits. The goal is to compress the time between reaction and distribution.
 
-Fear-based posts often use this pattern. During health emergencies, the World Health Organization uses the term “infodemic” for an overload of information, including false or misleading information, that can create confusion, risk-taking and mistrust in health authorities. In a crisis, an emotionally urgent post may appear helpful because it seems to offer protective action, but urgency can also make weak claims spread before official or expert information catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
+Fear-based posts often use this pattern. During health emergencies, the World Health Organization uses the term “infodemic” for an overload of information, including false or misleading information, that can create confusion, risk-taking and mistrust in health authorities. In a crisis, an emotionally urgent post may appear helpful because it seems to offer protective action, but urgency can also make weak claims spread before official or expert information catches up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
 
 Anger-based posts use a different version of urgency: they frame delay as complicity. The reader is pushed to denounce someone immediately, often on the basis of a short clip, cropped image, unverified quote or context-free screenshot. The risk is not only that the claim may be false. It may also be partly true but misleading: a video may begin after the most relevant event, a quote may omit the next sentence, or a claim may turn one local incident into proof of a national pattern.
 
@@ -481,7 +481,7 @@ Generative AI has not changed the basic psychology of emotional persuasion, but 
 
 AI-generated misinformation can also be tuned to the emotional expectations of a community. A political group can be shown a version of a claim that emphasises betrayal. Parents can be shown a version that emphasises threat to children. Fans can be shown a version that emphasises disrespect. The evidence may be thin in every version, but the emotional hook changes according to what that audience is most likely to feel.
 
-Recent research on AI-generated misinformation on X found that misleading posts flagged through Community Notes could include AI-generated content and that AI-generated misinformation had distinctive spread patterns, including a tendency to be more entertaining in tone and more likely to go viral in the dataset studied. That does not mean every viral AI-assisted post is false, but it reinforces the need to check source, evidence and context rather than production quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/39607912/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Recent research on AI-generated misinformation on X found that misleading posts flagged through Community Notes could include AI-generated content and that AI-generated misinformation had distinctive spread patterns, including a tendency to be more entertaining in tone and more likely to go viral in the dataset studied. That does not mean every viral AI-assisted post is false, but it reinforces the need to check source, evidence and context rather than production quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/39607912/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 AI also complicates the reader’s old shortcuts. “It looks professional” is weaker evidence than it used to be. “The image looks real” is weaker evidence than it used to be. “The explanation sounds confident” is weaker evidence than it used to be. In an AI-shaped feed, emotional intensity plus polish can create a false sense of authority.
 
@@ -528,194 +528,194 @@ If the post still holds up after those questions, it may be worth sharing with a
 The central lesson is not “do not feel”. It is “do not outsource judgement to the strongest feeling in the feed.” Emotional force can point to something worth investigating, but it cannot prove the claim by itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Outrage Is Not Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Outrage Is Not Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to evaluate claims before sharing or believing them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to evaluate claims before sharing or believing them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Addresses how societies distinguish evidence from emotional assertion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how societies distinguish evidence from emotional assertion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers recognize intuitive reactions that can override evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize intuitive reactions that can override evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains persuasive techniques often embedded in viral outrage content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains persuasive techniques often embedded in viral outrage content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="emotional-posts-why-outrage-is-not-evidence-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,161 +921,161 @@ The central lesson is not “do not feel”. It is “do not outsource judgement
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1605 — The results show that subtly sh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 131 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, evidence to support such claims remains scarce...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, evidence to support such claims remains scarce...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 927 — Thus, posts about the out-group may generate...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 927 — Thus, posts about the out-group may generate...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/</a>  
+   Link:<a href="https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship between...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 115 — We investigated the relationship between...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39607912/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39607912/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39607912/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39607912/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8545871/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8545871/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8545871/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8545871/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7597381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7597381/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7597381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7597381/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: libguides.clackamas.edu  
-   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
+   Link:<a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: guides.library.cornell.edu  
-   Link: <a href="https://guides.library.cornell.edu/evaluate_news/pause" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.cornell.edu/evaluate_news/pause</a>  
+   Link:<a href="https://guides.library.cornell.edu/evaluate_news/pause" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.cornell.edu/evaluate_news/pause</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adu5584" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu5584</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.adu5584" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu5584</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: werkzeugkasten-ik.ch  
    Title: The SIFT Method  
-   Link: <a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
+   Link:<a href="https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.werkzeugkasten-ik.ch/en/2025/08/21/the-sift-method/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sciencemediacentre.es  
    Title: outrage facilitates spread misinformation social networks  
-   Link: <a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
+   Link:<a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: static1.squarespace.com  
-   Link: <a href="https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf</a>  
+   Link:<a href="https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/674dd16037f5e2577fb7f30d/1733153126728/science.adl2829%5B79930360%5D.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ovid.com  
    Title: science.adl2829~misinformation exploits outrage to spread online  
-   Link: <a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
+   Link:<a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adl2829~misinformation-exploits-outrage-to-spread-online</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K4i_uDhJMFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4i_uDhJMFI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Believe Misinformation: The Psychology of Fear | Beyond the Books...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K4i_uDhJMFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4i_uDhJMFI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Believe Misinformation: The Psychology of Fear | Beyond the Books...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hsph.harvard.edu  
-   Link: <a href="https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Chan SchoolLessons learned: To fight misinformation, focus on emotions16 Jan 2025 — Outrage resulted in more sharing of both info...</p></details>
+   Link:<a href="https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Chan SchoolLessons learned: To fight misinformation, focus on emotions16 Jan 2025 — Outrage resulted in more sharing of both info...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Why People Believe Misinformation: The Psychology of Fear | Beyond the Books  
-   Link: <a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What goes viral and why? With Jonah Berger, PhD | Speaking of Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What goes viral and why? With Jonah Berger, PhD | Speaking of Psychology...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: What goes viral and why? With Jonah Berger, Ph D | Speaking of Psychology  
-   Link: <a href="https://www.youtube.com/watch?v=cBVLQNYrVzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cBVLQNYrVzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear Sells But Facts Matter: Making Science Go Viral...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cBVLQNYrVzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cBVLQNYrVzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fear Sells But Facts Matter: Making Science Go Viral...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Fear Sells But Facts Matter: Making Science Go Viral  
-   Link: <a href="https://www.youtube.com/watch?v=hRx9iq7fSCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRx9iq7fSCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did we stop caring about disinformation? | Skylar Hughes | TEDxDuke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hRx9iq7fSCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRx9iq7fSCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did we stop caring about disinformation? | Skylar Hughes | TEDxDuke...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403202469_Moral_anger_accelerates_misinformation_sharing_evidence_from_experimental_manipulations_and_hierarchical_drift-diffusion_modelling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403202469_Moral_anger_accelerates_misinformation_sharing_evidence_from_experimental_manipulations_and_hierarchical_drift-diffusion_modelling</a>  
+   Link:<a href="https://www.researchgate.net/publication/403202469_Moral_anger_accelerates_misinformation_sharing_evidence_from_experimental_manipulations_and_hierarchical_drift-diffusion_modelling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403202469_Moral_anger_accelerates_misinformation_sharing_evidence_from_experimental_manipulations_and_hierarchical_drift-diffusion_modelling</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1suswxh/feeling_morally_angry_makes_people_more_likely_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1suswxh/feeling_morally_angry_makes_people_more_likely_to/</a>  
+   Link:<a href="https://www.reddit.com/r/science/comments/1suswxh/feeling_morally_angry_makes_people_more_likely_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1suswxh/feeling_morally_angry_makes_people_more_likely_to/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: centerforhealthsecurity.org  
-   Link: <a href="https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf</a>  
+   Link:<a href="https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf</a>  

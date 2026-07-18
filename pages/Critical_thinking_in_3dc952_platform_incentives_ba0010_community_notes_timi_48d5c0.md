@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_com
 
 ## Introduction
 
-Community Notes are designed to solve a difficult problem: how to add corrective context to misleading posts without relying entirely on centralised moderation. In principle, the system is attractive. Ordinary contributors propose and rate explanatory notes, and once enough people with differing viewpoints agree that a note is helpful, it becomes visible beneath the post. The challenge is that social media rewards speed. A misleading claim can accumulate most of its views, shares and emotional impact within hours, while a corrective note may take much longer to appear. As a result, the key question is often not whether Community Notes work, but whether they arrive before a post has already gone viral. Research increasingly suggests that timing is the central constraint on their effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+Community Notes are designed to solve a difficult problem: how to add corrective context to misleading posts without relying entirely on centralised moderation. In principle, the system is attractive. Ordinary contributors propose and rate explanatory notes, and once enough people with differing viewpoints agree that a note is helpful, it becomes visible beneath the post. The challenge is that social media rewards speed. A misleading claim can accumulate most of its views, shares and emotional impact within hours, while a corrective note may take much longer to appear. As a result, the key question is often not whether Community Notes work, but whether they arrive before a post has already gone viral. Research increasingly suggests that timing is the central constraint on their effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-1-dark.svg" | relative_url }}" alt="Late Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Community Notes are designed to solve a difficult problem: how to add corrective
 
 The race between virality and correction reflects a broader feature of shareability incentives on social platforms. Engagement tends to arrive quickly, especially when content is surprising, emotional or politically charged. Community Notes, by contrast, require a sequence of human actions: someone must write a note, other contributors must evaluate it, and sufficient cross-group agreement must emerge before publication.
 
-This creates an asymmetry. A misleading post can spread immediately, but a correction must pass through a deliberative process. Several studies have found that this delay is often long enough for the most intense phase of diffusion to occur before users see any contextual information. Researchers analysing Community Notes have repeatedly identified timeliness as one of the system's main weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbilu.uni.lu">[Orbilu+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbilu.uni.lu</span><span class="citation-popover-snippet">Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Hence, even if Community Notes reduces...</span></span></span>
+This creates an asymmetry. A misleading post can spread immediately, but a correction must pass through a deliberative process. Several studies have found that this delay is often long enough for the most intense phase of diffusion to occur before users see any contextual information. Researchers analysing Community Notes have repeatedly identified timeliness as one of the system's main weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbilu.uni.lu">[Orbilu+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbilu.uni.lu</span><span class="citation-popover-snippet">Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Hence, even if Community Notes reduces...</span></span></span>
 
 The issue is not unique to Community Notes. Traditional fact-checking also struggles with speed. However, because Community Notes are frequently presented as a scalable, crowdsourced answer to misinformation, their effectiveness depends heavily on whether collective judgement can keep pace with algorithmically accelerated sharing.
 
@@ -296,7 +296,7 @@ The issue is not unique to Community Notes. Traditional fact-checking also strug
 
 A viral post does not accumulate attention evenly over time. Most engagement is concentrated near the beginning of a post's life cycle. Once a claim reaches large audiences, screenshots circulate, reposts spread independently, and discussions branch into new conversations. By the time a correction appears, many users have already encountered the original claim.
 
-Research examining hundreds of thousands of Community-Note-labelled cascades found that notes substantially reduced subsequent sharing after they became visible, but often arrived too late to interrupt the earliest and most explosive stage of diffusion. The authors concluded that delays significantly limited the overall system-wide effect even though the intervention itself was effective once displayed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</span></span></span>
+Research examining hundreds of thousands of Community-Note-labelled cascades found that notes substantially reduced subsequent sharing after they became visible, but often arrived too late to interrupt the earliest and most explosive stage of diffusion. The authors concluded that delays significantly limited the overall system-wide effect even though the intervention itself was effective once displayed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</span></span></span>
 
 A useful way to think about the problem is as two competing curves:
 
@@ -305,7 +305,7 @@ A useful way to think about the problem is as two competing curves:
 
 If the correction curve trails too far behind, a large portion of the audience encounters the claim before encountering the context.
 
-Recent analyses reinforce this concern. One large-scale study reported that Community Notes are often published many hours, and sometimes several days, after the original post, with longer delays reducing the likelihood that consensus is reached quickly enough to matter during peak visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span><span class="citation-popover-snippet">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span></span></span>
+Recent analyses reinforce this concern. One large-scale study reported that Community Notes are often published many hours, and sometimes several days, after the original post, with longer delays reducing the likelihood that consensus is reached quickly enough to matter during peak visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span><span class="citation-popover-snippet">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20boKEwwNM0" title="‘You&#x27;re not going to be able to trust what you see’: top fact-checkers on Meta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20boKEwwNM0" target="_blank" rel="noopener noreferrer">‘You&#x27;re not going to be able to trust what you see’: top fact-checkers on Meta</a></p><p class="youtube-embed-meta">Channel: MS NOW &middot; Views: 46.3K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20boKEwwNM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20boKEwwNM0">Open on YouTube</a></p></div></div></div>
@@ -314,17 +314,17 @@ Recent analyses reinforce this concern. One large-scale study reported that Comm
 
 The [evidence]({{ 'evidence/' | relative_url }}) on Community Notes is notably consistent on one point: visible notes reduce engagement.
 
-A 2025 study found that posts received significantly fewer reposts, likes, replies and views after a Community Note was attached. The same research found that notes reduced the diffusion of misleading information across the platform, indicating that contextual [corrections]({{ 'corrections/' | relative_url }}) can alter sharing behaviour rather than merely adding information for readers to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
+A 2025 study found that posts received significantly fewer reposts, likes, replies and views after a Community Note was attached. The same research found that notes reduced the diffusion of misleading information across the platform, indicating that contextual [corrections]({{ 'corrections/' | relative_url }}) can alter sharing behaviour rather than merely adding information for readers to ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
 
-Other large-scale analyses reached similar conclusions. Research covering more than 431 million reposts found that exposure to Community Notes reduced subsequent spread by more than 60% on average and made authors substantially more likely to delete misleading posts. Yet the researchers also found that notes frequently appeared after the most viral phase had already passed, limiting the aggregate impact on total engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Justus-Liebig-Universität Gießen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</span></span></span>
+Other large-scale analyses reached similar conclusions. Research covering more than 431 million reposts found that exposure to Community Notes reduced subsequent spread by more than 60% on average and made authors substantially more likely to delete misleading posts. Yet the researchers also found that notes frequently appeared after the most viral phase had already passed, limiting the aggregate impact on total engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Justus-Liebig-Universität Gießen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</span></span></span>
 
-A separate University of Washington-led study reported that after a note appeared, reposts fell by roughly 46% and likes by roughly 44%. The findings support the idea that corrective context changes user behaviour. However, the researchers also emphasised that faster labelling would likely increase the intervention's effectiveness because timing remains critical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washington.edu">[washington.edu+2YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washington.edu</span><span class="citation-popover-title">community notes x false information viral</span><span class="citation-popover-snippet">Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</span></span></span>
+A separate University of Washington-led study reported that after a note appeared, reposts fell by roughly 46% and likes by roughly 44%. The findings support the idea that corrective context changes user behaviour. However, the researchers also emphasised that faster labelling would likely increase the intervention's effectiveness because timing remains critical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washington.edu">[washington.edu+2YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washington.edu</span><span class="citation-popover-title">community notes x false information viral</span><span class="citation-popover-snippet">Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</span></span></span>
 
 Taken together, these studies suggest a pattern:
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-2-dark.svg" | relative_url }}" alt="Late Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Community Notes are generally effective after publication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Community Notes</span><span class="citation-popover-snippet">Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as fact-checks...</span></span></span>
+1. Community Notes are generally effective after publication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Community Notes</span><span class="citation-popover-snippet">Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as fact-checks...</span></span></span>
 2. They can reduce sharing, engagement and downstream diffusion.
 3. Their largest limitation is not lack of influence but delayed arrival.
 
@@ -334,11 +334,11 @@ That distinction matters because critics and supporters sometimes talk past one 
 
 The value of a Community Note is not only that it discourages sharing. It also changes how people interpret a post.
 
-Research on crowdsourced fact-checking suggests that contextual explanations help readers recognise misleading content and improve trust in corrective information. Rather than presenting a simple warning label, Community Notes typically provide additional evidence, links or clarifications that help users evaluate a claim for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">381052316 Community notes increase trust in fact checking on social media</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social...10 Feb 2026 — In particular, experimental evidence suggests that...</span></span></span>
+Research on crowdsourced fact-checking suggests that contextual explanations help readers recognise misleading content and improve trust in corrective information. Rather than presenting a simple warning label, Community Notes typically provide additional evidence, links or clarifications that help users evaluate a claim for themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">381052316 Community notes increase trust in fact checking on social media</span><span class="citation-popover-snippet">Community notes increase trust in fact-checking on social...10 Feb 2026 — In particular, experimental evidence suggests that...</span></span></span>
 
 However, delayed context creates a psychological challenge. Once people have formed an impression of a claim, corrections often have to work against an existing narrative. A reader who first encounters a viral post without context may remember the original message more strongly than the later qualification.
 
-This does not mean corrections are useless. Studies indicate that visible notes still influence behaviour and judgement after publication. The problem is that the audience receiving the correction is often smaller than the audience that saw the original post during its peak circulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
+This does not mean corrections are useless. Studies indicate that visible notes still influence behaviour and judgement after publication. The problem is that the audience receiving the correction is often smaller than the audience that saw the original post during its peak circulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
 
 For [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}), the lesson is straightforward: seeing a note attached to a post tells you that the platform's corrective mechanism eventually caught the claim. It does not tell you how many people saw the post before that correction appeared.
 
@@ -347,9 +347,9 @@ For [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
 
 ## The historical trade-off: speed versus consensus
 
-Community Notes were deliberately designed to avoid simple majority voting. The system seeks agreement across people who have previously disagreed, an approach intended to make published notes more broadly trusted. Supporters argue that this requirement reduces partisan capture and increases the credibility of published corrections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+Community Notes were deliberately designed to avoid simple majority voting. The system seeks agreement across people who have previously disagreed, an approach intended to make published notes more broadly trusted. Supporters argue that this requirement reduces partisan capture and increases the credibility of published corrections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
-Yet the same design choice can slow publication. Consensus across diverse contributors takes time, especially on contentious topics. Recent research examining millions of notes found that relatively few proposed notes ultimately achieve the agreement required for publication and that delays remain a persistent operational challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span><span class="citation-popover-snippet">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span></span></span>
+Yet the same design choice can slow publication. Consensus across diverse contributors takes time, especially on contentious topics. Recent research examining millions of notes found that relatively few proposed notes ultimately achieve the agreement required for publication and that delays remain a persistent operational challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span><span class="citation-popover-snippet">arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X</span></span></span>
 
 This creates a recurring policy trade-off:
 
@@ -358,211 +358,211 @@ This creates a recurring policy trade-off:
 
 The tension is difficult to eliminate because the qualities that make a correction trustworthy can also make it slower.
 
-Some recent proposals, including systems that allow users to request notes and experiments involving AI-assisted note generation, are partly motivated by this timing problem. Their stated goal is to help identify questionable content and draft context more quickly while preserving human evaluation before publication. Whether these approaches can significantly narrow the gap between correction speed and viral spread remains an open question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2509.09956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Request a Note: How the Request Function Shapes X&#x27;s Community Notes System</span><span class="citation-popover-snippet">Request a Note: How the Request Function Shapes X&#x27;s Community Notes SystemSeptember 12, 2025...</span><span class="citation-popover-meta">Published: September 12, 2025</span></span></span>
+Some recent proposals, including systems that allow users to request notes and experiments involving AI-assisted note generation, are partly motivated by this timing problem. Their stated goal is to help identify questionable content and draft context more quickly while preserving human evaluation before publication. Whether these approaches can significantly narrow the gap between correction speed and viral spread remains an open question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2509.09956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Request a Note: How the Request Function Shapes X&#x27;s Community Notes System</span><span class="citation-popover-snippet">Request a Note: How the Request Function Shapes X&#x27;s Community Notes SystemSeptember 12, 2025...</span><span class="citation-popover-meta">Published: September 12, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-3-dark.svg" | relative_url }}" alt="Late Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_platform_incentives_ba0010_community_notes_timi_48d5c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the race against virality teaches about critical thinking
 
-Community Notes demonstrate that crowdsourced correction can influence how information spreads. The strongest evidence does not support the claim that corrective context is powerless. Once visible, notes consistently reduce engagement and sharing of misleading content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
+Community Notes demonstrate that crowdsourced correction can influence how information spreads. The strongest evidence does not support the claim that corrective context is powerless. Once visible, notes consistently reduce engagement and sharing of misleading content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We find that once a note is attached, posts receive...Read more...</span></span></span>
 
 At the same time, the research highlights a structural reality of modern social media: correction often moves more slowly than attention. A platform may successfully identify a misleading claim and still arrive after the claim's most influential moment.
 
-For readers navigating social media and AI-generated content, that means critical thinking cannot depend solely on post-publication corrections. Community Notes can provide valuable context, but the timing evidence suggests they are often most effective as brakes on continued spread rather than as barriers that stop virality before it begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</span></span></span>
+For readers navigating social media and AI-generated content, that means critical thinking cannot depend solely on post-publication corrections. Community Notes can provide valuable context, but the timing evidence suggests they are often most effective as brakes on continued spread rather than as barriers that stop virality before it begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UcB1_zT8RYY" title="X relies on its users to counter the spread of disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UcB1_zT8RYY" target="_blank" rel="noopener noreferrer">X relies on its users to counter the spread of disinformation</a></p><p class="youtube-embed-meta">Channel: cpac &middot; Views: 520 &middot; Uploaded: July 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UcB1_zT8RYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UcB1_zT8RYY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can corrections catch a viral post?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can corrections catch a viral post?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains viral dynamics that make timely correction difficult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains viral dynamics that make timely correction difficult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Rulers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14646933-M.jpg" alt="Cover for Invisible Rulers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Rulers">Invisible Rulers</a>
-        </h4>
-        <p class="fr-book-author">By Renée DiResta</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Rulers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14646933-M.jpg" alt="Cover for Invisible Rulers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Rulers">Invisible Rulers</a>
+</h4>
+<p class="fr-book-author">By Renée DiResta</p>
         
-        <p class="fr-book-desc">First published 2024.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Trolls on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Trolls">Among the Trolls</a>
-        </h4>
-        <p class="fr-book-author">By Marianna Spring</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Trolls on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Trolls">Among the Trolls</a>
+</h4>
+<p class="fr-book-author">By Marianna Spring</p>
         
-        <p class="fr-book-desc">First published 2024. Subjects: Sociology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024. Subjects: Sociology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Among+the+Trolls+Marianna+Spring&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Invisible+Rulers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Invisible Rulers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Invisible+Rulers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Invisible Rulers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="late-corrections-can-corrections-catch-a-viral-post-critical-thinking-in-the-age-of-social-media-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For readers navigating social media and AI-generated content, that means critica
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For readers navigating social media and AI-generated content, that means critica
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For readers navigating social media and AI-generated content, that means critica
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For readers navigating social media and AI-generated content, that means critica
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For readers navigating social media and AI-generated content, that means critica
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,166 +768,166 @@ For readers navigating social media and AI-generated content, that means critica
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — Rather, our findings suggest that Community Note...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — Rather, our findings suggest that Community Note...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Timeliness, Consensus, and Composition of the Crowd: Community Notes on X  
-   Link: <a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
+   Link:<a href="https://arxiv.org/abs/2510.12559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.12559</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 3 — Although community notes are broadly effect...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.08781v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</p></details>
+   Link:<a href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.08781v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We find that once a note is attached, posts receive...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12478135/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We find that once a note is attached, posts receive...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 37 — Having found that community notes le...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 37 — Having found that community notes le...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: washington.edu  
    Title: community notes x false information viral  
-   Link: <a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</p></details>
+   Link:<a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes help reduce the virality of false...18 Sept 2025 — A University of Washington-led study of X found that posts with Commu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 381052316 Community notes increase trust in fact checking on social media  
-   Link: <a href="https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social...10 Feb 2026 — In particular, experimental evidence suggests that...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381052316_Community_notes_increase_trust_in_fact-checking_on_social_media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes increase trust in fact-checking on social...10 Feb 2026 — In particular, experimental evidence suggests that...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Request a Note: How the Request Function Shapes X's Community Notes System  
-   Link: <a href="https://arxiv.org/abs/2509.09956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.09956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Request a Note: How the Request Function Shapes X&#x27;s Community Notes SystemSeptember 12, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2509.09956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.09956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Request a Note: How the Request Function Shapes X&#x27;s Community Notes SystemSeptember 12, 2025...</p></details>
    Published: September 12, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.17042</a>  
+   Link:<a href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.17042</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To improve its scalability, X recently introduced “Request Community Note...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To improve its scalability, X recently introduced “Request Community Note...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3772318.3790524" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3772318.3790524</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To improve its scalability, X introduced “Request Community Note” feature...Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3772318.3790524" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3772318.3790524</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To improve its scalability, X introduced “Request Community Note” feature...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: orbilu.uni.lu  
-   Link: <a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Hence, even if Community Notes reduces...</p></details>
+   Link:<a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Hence, even if Community Notes reduces...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uni-giessen.de  
-   Link: <a href="https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, notes often appear too late to prevent...Read more...</p></details>
+   Link:<a href="https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-giessen.de/de/fbz/fb02/fb/professuren/bwl/data-science-digitalisierung/featured-research-trust-community-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, notes often appear too late to prevent...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.yale.edu  
    Title: News Flagging misinformation on social media reduces  
-   Link: <a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News25 Sept 2025 — The researchers estimated that after a note was attached to a post, it resulted, on average, in 46.1% fewer repost...</p></details>
+   Link:<a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News25 Sept 2025 — The researchers estimated that after a note was attached to a post, it resulted, on average, in 46.1% fewer repost...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blogs.lse.ac.uk  
    Title: lse.ac.uk Do Community Notes work?  
-   Link: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes work? - LSE Impact14 Jan 2025 — Tom Stafford assesses the evidence for the effectiveness of community notes as a form of...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes work? - LSE Impact14 Jan 2025 — Tom Stafford assesses the evidence for the effectiveness of community notes as a form of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11044002/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of X (Formerly Twitter) Community Notes...by MR Allen · 2024 · Cited by 32 — In late 2022, X (formerly Twitter) introduced Community Not...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11044002/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of X (Formerly Twitter) Community Notes...by MR Allen · 2024 · Cited by 32 — In late 2022, X (formerly Twitter) introduced Community Not...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 18 — However, our findings also suggest that community no...</p></details>
+   Link:<a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 18 — However, our findings also suggest that community no...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</p></details>
+   Link:<a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: washingtonpost.com  
    Title: The Washington Post X will let AI bots fact-check posts  
-   Link: <a href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It isn&#x27;t as crazy as it sounds.X, the social media platform formerly known as Twitter, is expanding its Community Notes fact-checking pro...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2025/07/03/x-community-notes-ai-fact-checks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It isn&#x27;t as crazy as it sounds.X, the social media platform formerly known as Twitter, is expanding its Community Notes fact-checking pro...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rochester.edu  
    Title: The most effective online [fact-checkers](&#123;&#123; 'fact-checkers/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/" target="_blank" rel="noopener noreferrer nofollow">https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your peersNov 17, 2025 — Research shows that being called out by peers, not algorithms or experts, makes online authors think twice about...</p></details>
+   Link:<a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/" target="_blank" rel="noopener noreferrer nofollow">https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your peersNov 17, 2025 — Research shows that being called out by peers, not algorithms or experts, makes online authors think twice about...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hec.edu  
    Title: What Strategies Against Misinformation?  
-   Link: <a href="https://www.hec.edu/en/faculty-research/news/what-strategies-against-misinformation-lessons-x-community-notes-hec-paris-insight-forbes" target="_blank" rel="noopener noreferrer nofollow">https://www.hec.edu/en/faculty-research/news/what-strategies-against-misinformation-lessons-x-community-notes-hec-paris-insight-forbes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from X...13 Jan 2025 — Findings show Community Notes doubled the likelihood of tweet deletions, yet the median response time of...</p></details>
+   Link:<a href="https://www.hec.edu/en/faculty-research/news/what-strategies-against-misinformation-lessons-x-community-notes-hec-paris-insight-forbes" target="_blank" rel="noopener noreferrer nofollow">https://www.hec.edu/en/faculty-research/news/what-strategies-against-misinformation-lessons-x-community-notes-hec-paris-insight-forbes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from X...13 Jan 2025 — Findings show Community Notes doubled the likelihood of tweet deletions, yet the median response time of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing users to community notes reduces the subsequent...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jayvanbavel_community-based-fact-checking-is-a-promising-activity-7460766341495627776-FIi7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing users to community notes reduces the subsequent...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/phys-org_community-notes-helps-reduce-the-virality-activity-7374533244215640064-z2dd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/phys-org_community-notes-helps-reduce-the-virality-activity-7374533244215640064-z2dd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact was most pronounced for altered...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/phys-org_community-notes-helps-reduce-the-virality-activity-7374533244215640064-z2dd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/phys-org_community-notes-helps-reduce-the-virality-activity-7374533244215640064-z2dd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact was most pronounced for altered...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: techandsocialcohesion.substack.com  
    Title: can community notes match the speed  
-   Link: <a href="https://techandsocialcohesion.substack.com/p/can-community-notes-match-the-speed" target="_blank" rel="noopener noreferrer nofollow">https://techandsocialcohesion.substack.com/p/can-community-notes-match-the-speed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes match the speed of misinformation?(2024): This study reported a 60% reduction in retweets for tweets with visible notes...</p></details>
+   Link:<a href="https://techandsocialcohesion.substack.com/p/can-community-notes-match-the-speed" target="_blank" rel="noopener noreferrer nofollow">https://techandsocialcohesion.substack.com/p/can-community-notes-match-the-speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes match the speed of misinformation?(2024): This study reported a 60% reduction in retweets for tweets with visible notes...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: 'You're not going to be able to trust what you see': top fact-checkers on Meta  
-   Link: <a href="https://www.youtube.com/watch?v=20boKEwwNM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20boKEwwNM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanics of Community Notes: [Bridging](&amp;#123;&amp;#123; &#x27;bridging/&#x27; | relative_url &amp;#125;&amp;#125;) Algorithms and Cross-Partisan Consensus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20boKEwwNM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20boKEwwNM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanics of Community Notes: [Bridging](&amp;#123;&amp;#123; &#x27;bridging/&#x27; | relative_url &amp;#125;&amp;#125;) Algorithms and Cross-Partisan Consensus...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aclanthology.org  
    Title: 2026.findings eacl.71  
-   Link: <a href="https://aclanthology.org/2026.findings-eacl.71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.findings-eacl.71.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes1 on X (formerly Twitter), which allows users to attach notes to explain potentially misleading...Read more...</p></details>
+   Link:<a href="https://aclanthology.org/2026.findings-eacl.71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.findings-eacl.71.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes1 on X (formerly Twitter), which allows users to attach notes to explain potentially misleading...Read more...</p></details>

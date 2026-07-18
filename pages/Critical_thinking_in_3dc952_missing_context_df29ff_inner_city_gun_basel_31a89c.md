@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_c
 
 ## Introduction
 
-The “95% of gun violence happens in the inner city” claim is a useful case study in how statistics can change meaning when the denominator changes. The dispute is not simply about whether violence is concentrated in some urban neighbourhoods. Research consistently shows that serious gun violence is often clustered in a relatively small number of places. The controversy arises when a statistic measured using one geographic unit—such as counties—is presented as if it describes a different social category, such as “inner cities”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
+The “95% of gun violence happens in the inner city” claim is a useful case study in how statistics can change meaning when the denominator changes. The dispute is not simply about whether violence is concentrated in some urban neighbourhoods. Research consistently shows that serious gun violence is often clustered in a relatively small number of places. The controversy arises when a statistic measured using one geographic unit—such as counties—is presented as if it describes a different social category, such as “inner cities”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-1-dark.svg" | relative_url }}" alt="Inner City illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ For readers trying to think critically in the age of social media and AI, the le
 
 ## What the 95% Claim Counted
 
-A prominent version of the claim appeared in political debate and media commentary, asserting that roughly 95% of gun violence occurs in “inner cities”. Fact-checking found that the figure could not be supported by the underlying data. Major urban areas do account for a disproportionate share of gun homicides, but available national statistics do not place the share anywhere near 95%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">is 95 of gun violence occurring in inner cities no</span><span class="citation-popover-snippet">Is 95% of gun violence occurring in &#x27;inner cities&#x27;? No10 May 2023 — Our reporting found that major urban areas do account for a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+A prominent version of the claim appeared in political debate and media commentary, asserting that roughly 95% of gun violence occurs in “inner cities”. Fact-checking found that the figure could not be supported by the underlying data. Major urban areas do account for a disproportionate share of gun homicides, but available national statistics do not place the share anywhere near 95%.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">is 95 of gun violence occurring in inner cities no</span><span class="citation-popover-snippet">Is 95% of gun violence occurring in &#x27;inner cities&#x27;? No10 May 2023 — Our reporting found that major urban areas do account for a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Part of the confusion came from mixing together several different ideas:
 
@@ -304,7 +304,7 @@ Part of the confusion came from mixing together several different ideas:
 
 These are not interchangeable categories. A county may contain affluent suburbs, industrial districts, rural land and a dense urban core. Treating the whole county as “inner city” changes the meaning of the statistic before any calculation even begins.
 
-The underlying reality is more nuanced. Gun violence is highly concentrated geographically. Studies and crime databases repeatedly show that a relatively small number of cities, neighbourhoods and even street segments account for a large share of shootings. For example, analyses of city-level data have found that over half of reported gun homicides occur in a few dozen cities, while within those cities violence is often concentrated in a small number of neighbourhoods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everytown.org/issues/city-gun-violence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everytown.org">[Everytown+2Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everytown.org</span><span class="citation-popover-snippet">City Gun ViolenceAn Everytown Research analysis of FBI crime data from over 600 cities found that over half of the country&#x27;s rep...</span></span></span>
+The underlying reality is more nuanced. Gun violence is highly concentrated geographically. Studies and crime databases repeatedly show that a relatively small number of cities, neighbourhoods and even street segments account for a large share of shootings. For example, analyses of city-level data have found that over half of reported gun homicides occur in a few dozen cities, while within those cities violence is often concentrated in a small number of neighbourhoods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everytown.org/issues/city-gun-violence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everytown.org">[Everytown+2Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everytown.org</span><span class="citation-popover-snippet">City Gun ViolenceAn Everytown Research analysis of FBI crime data from over 600 cities found that over half of the country&#x27;s rep...</span></span></span>
 
 That concentration, however, is not the same thing as saying 95% of gun violence occurs in “the inner city”.
 
@@ -350,7 +350,7 @@ Unlike a county, census tract or police precinct, “inner city” is often used
 
 * The central business district.
 * Older urban neighbourhoods.
-* Areas with concentrated poverty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnestyusa.org">[amnestyusa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnestyusa.org</span><span class="citation-popover-snippet">ren in Central City regularly witness...Read more...</span></span></span>
+* Areas with concentrated poverty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnestyusa.org">[amnestyusa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnestyusa.org</span><span class="citation-popover-snippet">ren in Central City regularly witness...Read more...</span></span></span>
 * Predominantly minority neighbourhoods.
 * Any large city.
 * High-crime areas regardless of location.
@@ -359,7 +359,7 @@ Unlike a county, census tract or police precinct, “inner city” is often used
 
 Because the term is undefined, a percentage attached to it can become difficult to evaluate.
 
-This matters because gun violence is indeed concentrated in specific places, but those places are not identical to every area that someone might call “inner city”. Research on community gun violence emphasises that shootings are concentrated in particular neighbourhoods and social networks rather than spread evenly across urban populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
+This matters because gun violence is indeed concentrated in specific places, but those places are not identical to every area that someone might call “inner city”. Research on community gun violence emphasises that shootings are concentrated in particular neighbourhoods and social networks rather than spread evenly across urban populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
 
 An undefined term allows a statistic to travel farther than the [evidence]({{ 'evidence/' | relative_url }}). Readers hear “inner city” and imagine a precise category, while the underlying calculation may be using something much broader.
 
@@ -370,11 +370,11 @@ An undefined term allows a statistic to travel farther than the [evidence]({{ 'e
 
 The denominator dispute should not be mistaken for evidence that gun violence is evenly distributed. The opposite is true.
 
-A large body of research shows that gun violence is highly concentrated geographically. Certain cities experience far higher homicide burdens than others. Within those cities, a small number of neighbourhoods often account for a disproportionate share of shootings. Some city analyses have found that a small fraction of precincts or neighbourhoods account for a remarkably large share of homicides and shootings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://manhattan.institute/article/the-homicide-spike-is-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manhattan.institute">[Manhattan Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manhattan.institute</span><span class="citation-popover-snippet">The Homicide Spike Is Real... percent of last year&#x27;s homicides, and 39.3 percent of all shootings. The concentration of serious crime isn...</span></span></span>
+A large body of research shows that gun violence is highly concentrated geographically. Certain cities experience far higher homicide burdens than others. Within those cities, a small number of neighbourhoods often account for a disproportionate share of shootings. Some city analyses have found that a small fraction of precincts or neighbourhoods account for a remarkably large share of homicides and shootings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://manhattan.institute/article/the-homicide-spike-is-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manhattan.institute">[Manhattan Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manhattan.institute</span><span class="citation-popover-snippet">The Homicide Spike Is Real... percent of last year&#x27;s homicides, and 39.3 percent of all shootings. The concentration of serious crime isn...</span></span></span>
 
 The [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) lesson is that a true underlying pattern can still be described inaccurately.
 
-“Violence is concentrated in specific urban neighbourhoods” is a different statement from “95% of gun violence occurs in the inner city.” The first reflects a documented geographic concentration. The second depends on definitions and [denominators]({{ 'denominators/' | relative_url }}) that may not match the evidence being cited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
+“Violence is concentrated in specific urban neighbourhoods” is a different statement from “95% of gun violence occurs in the inner city.” The first reflects a documented geographic concentration. The second depends on definitions and [denominators]({{ 'denominators/' | relative_url }}) that may not match the evidence being cited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins Public HealthCommunity Gun Violence &#124; Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CpiPLGUa_5g" title="Violence Reduction Council: Mock Case Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CpiPLGUa_5g" target="_blank" rel="noopener noreferrer">Violence Reduction Council: Mock Case Review</a></p><p class="youtube-embed-meta">Channel: JH Center for Gun Violence Solutions &middot; Views: 186 &middot; Uploaded: December 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CpiPLGUa_5g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CpiPLGUa_5g">Open on YouTube</a></p></div></div></div>
@@ -402,194 +402,194 @@ That gap is where much statistical misinformation lives. The percentage grabs at
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-3-dark.svg" | relative_url }}" alt="Inner City illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_missing_context_df29ff_inner_city_gun_basel_31a89c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Baseline Bent a Gun Violence Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Baseline Bent a Gun Violence Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how percentages change meaning when categories shift.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how percentages change meaning when categories shift.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of dramatic numerical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of dramatic numerical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Illustrates how context changes interpretation of social statistics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how context changes interpretation of social statistics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking meme mug coffee tea office gift white elephant"><img src="{{ '/assets/images/marketplace-covers/73ca3eb9a01294b47b08.jpg' | relative_url }}" alt="Listing image for Critical thinking meme mug coffee tea office gift white elephant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical thinking meme mug coffee tea office gift white elephant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="inner-city-how-one-baseline-bent-a-gun-violence-claim-critical-thinking-in-the-age-of-social-med-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ That gap is where much statistical misinformation lives. The percentage grabs at
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ That gap is where much statistical misinformation lives. The percentage grabs at
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ That gap is where much statistical misinformation lives. The percentage grabs at
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ That gap is where much statistical misinformation lives. The percentage grabs at
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ That gap is where much statistical misinformation lives. The percentage grabs at
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,106 +795,106 @@ That gap is where much statistical misinformation lives. The percentage grabs at
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: everytown.org  
-   Link: <a href="https://www.everytown.org/issues/city-gun-violence/" target="_blank" rel="noopener noreferrer nofollow">https://www.everytown.org/issues/city-gun-violence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City Gun ViolenceAn Everytown Research analysis of FBI crime data from over 600 cities found that over half of the country&#x27;s rep...</p></details>
+   Link:<a href="https://www.everytown.org/issues/city-gun-violence/" target="_blank" rel="noopener noreferrer nofollow">https://www.everytown.org/issues/city-gun-violence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Gun ViolenceAn Everytown Research analysis of FBI crime data from over 600 cities found that over half of the country&#x27;s rep...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: politifact.com  
    Title: is 95 of gun violence occurring in inner cities no  
-   Link: <a href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is 95% of gun violence occurring in &#x27;inner cities&#x27;? No10 May 2023 — Our reporting found that major urban areas do account for a...</p></details>
+   Link:<a href="https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/factchecks/2023/may/10/marc-short/is-95-of-gun-violence-occurring-in-inner-cities-no/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is 95% of gun violence occurring in &#x27;inner cities&#x27;? No10 May 2023 — Our reporting found that major urban areas do account for a...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: manhattan.institute  
-   Link: <a href="https://manhattan.institute/article/the-homicide-spike-is-real" target="_blank" rel="noopener noreferrer nofollow">https://manhattan.institute/article/the-homicide-spike-is-real</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Homicide Spike Is Real... percent of last year&#x27;s homicides, and 39.3 percent of all shootings. The concentration of serious crime isn...</p></details>
+   Link:<a href="https://manhattan.institute/article/the-homicide-spike-is-real" target="_blank" rel="noopener noreferrer nofollow">https://manhattan.institute/article/the-homicide-spike-is-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Homicide Spike Is Real... percent of last year&#x27;s homicides, and 39.3 percent of all shootings. The concentration of serious crime isn...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: manhattan.institute  
    Title: Race, Crime, and Police: A Closer Look  
-   Link: <a href="https://manhattan.institute/article/race-crime-and-police-a-closer-look" target="_blank" rel="noopener noreferrer nofollow">https://manhattan.institute/article/race-crime-and-police-a-closer-look</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>homicide rate is a function of the black crime rate. The national rate of homicides committed by blacks is eight times that of whites and...</p></details>
+   Link:<a href="https://manhattan.institute/article/race-crime-and-police-a-closer-look" target="_blank" rel="noopener noreferrer nofollow">https://manhattan.institute/article/race-crime-and-police-a-closer-look</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>homicide rate is a function of the black crime rate. The national rate of homicides committed by blacks is eight times that of whites and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media4.manhattan-institute.org  
    Title: breaking down the 2020 homicide spike  
-   Link: <a href="https://media4.manhattan-institute.org/sites/default/files/breaking-down-the-2020-homicide-spike.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media4.manhattan-institute.org/sites/default/files/breaking-down-the-2020-homicide-spike.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 deaths are slightly negatively correlated with the number of homicides but not statistically related to the homicide growth...Read more...</p></details>
+   Link:<a href="https://media4.manhattan-institute.org/sites/default/files/breaking-down-the-2020-homicide-spike.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media4.manhattan-institute.org/sites/default/files/breaking-down-the-2020-homicide-spike.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 deaths are slightly negatively correlated with the number of homicides but not statistically related to the homicide growth...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: publichealth.jhu.edu  
-   Link: <a href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Public HealthCommunity Gun Violence | Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</p></details>
+   Link:<a href="https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/center-for-gun-violence-solutions/community-gun-violence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Public HealthCommunity Gun Violence | Center for Gun Violence SolutionsIt typically occurs in public places — streets, park...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: everytownresearch.org  
    Title: city data  
-   Link: <a href="https://everytownresearch.org/report/city-data/" target="_blank" rel="noopener noreferrer nofollow">https://everytownresearch.org/report/city-data/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City Dashboard: Gun Homicide20 Aug 2025 — 62 percent of cities have now returned to pre-pandemic gun homicide rates...</p></details>
+   Link:<a href="https://everytownresearch.org/report/city-data/" target="_blank" rel="noopener noreferrer nofollow">https://everytownresearch.org/report/city-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Dashboard: Gun Homicide20 Aug 2025 — 62 percent of cities have now returned to pre-pandemic gun homicide rates...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: everytownresearch.org  
    Title: gun violence in america  
-   Link: <a href="https://everytownresearch.org/report/gun-violence-in-america/" target="_blank" rel="noopener noreferrer nofollow">https://everytownresearch.org/report/gun-violence-in-america/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 May 2020 — Gun violence in America is at a crisis point. Every day, nearly 130 people are killed with guns and more than 200 are shot...</p></details>
+   Link:<a href="https://everytownresearch.org/report/gun-violence-in-america/" target="_blank" rel="noopener noreferrer nofollow">https://everytownresearch.org/report/gun-violence-in-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 May 2020 — Gun violence in America is at a crisis point. Every day, nearly 130 people are killed with guns and more than 200 are shot...</p></details>
    Published: May 2020  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usccr.gov  
-   Link: <a href="https://www.usccr.gov/files/2024-09/federal-efforts-in-examining-racial-and-ethnic-disparities-among-victims-of-violent-crime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usccr.gov/files/2024-09/federal-efforts-in-examining-racial-and-ethnic-disparities-among-victims-of-violent-crime.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commission on Civil Rightsfederal-efforts-in-examining-racial-and-ethnic-disparities-...18 Sept 2024 — The pandemic saw a surge in gun v...</p></details>
+   Link:<a href="https://www.usccr.gov/files/2024-09/federal-efforts-in-examining-racial-and-ethnic-disparities-among-victims-of-violent-crime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usccr.gov/files/2024-09/federal-efforts-in-examining-racial-and-ethnic-disparities-among-victims-of-violent-crime.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commission on Civil Rightsfederal-efforts-in-examining-racial-and-ethnic-disparities-...18 Sept 2024 — The pandemic saw a surge in gun v...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/research/gun-policy/analysis/gun-free-zones.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/gun-policy/analysis/gun-free-zones.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Gun-Free ZonesGun-free zones are intended to reduce violent crime, suicides, unintentional firearm injuries and deaths, an...</p></details>
+   Link:<a href="https://www.rand.org/research/gun-policy/analysis/gun-free-zones.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/gun-policy/analysis/gun-free-zones.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Gun-Free ZonesGun-free zones are intended to reduce violent crime, suicides, unintentional firearm injuries and deaths, an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: americanprogress.org  
    Title: what city leaders say is helping drive down gun violence in their communities  
-   Link: <a href="https://www.americanprogress.org/article/what-city-leaders-say-is-helping-drive-down-gun-violence-in-their-communities/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/what-city-leaders-say-is-helping-drive-down-gun-violence-in-their-communities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What City Leaders Say Is Helping Drive Down Gun...7 Apr 2026 — Estimates suggest that 2025 marked another historic year of declining gun...</p></details>
+   Link:<a href="https://www.americanprogress.org/article/what-city-leaders-say-is-helping-drive-down-gun-violence-in-their-communities/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/what-city-leaders-say-is-helping-drive-down-gun-violence-in-their-communities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What City Leaders Say Is Helping Drive Down Gun...7 Apr 2026 — Estimates suggest that 2025 marked another historic year of declining gun...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brennancenter.org  
    Title: myths and realities understanding recent trends violent crime  
-   Link: <a href="https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Recent Trends in Violent Crime12 Jul 2022 — For example, one report, published by the Council on Criminal Justice and focus...</p></details>
+   Link:<a href="https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Recent Trends in Violent Crime12 Jul 2022 — For example, one report, published by the Council on Criminal Justice and focus...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: Unequal distribution of Murders across counties  
-   Link: <a href="https://www.reddit.com/r/charts/comments/1o9vkeu/unequal_distribution_of_murders_across_counties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/charts/comments/1o9vkeu/unequal_distribution_of_murders_across_counties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Half of all...County A had 5 murders last year with a population of 1,000 people.... murder rate is 0 because you claim that homicide o...</p></details>
+   Link:<a href="https://www.reddit.com/r/charts/comments/1o9vkeu/unequal_distribution_of_murders_across_counties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/charts/comments/1o9vkeu/unequal_distribution_of_murders_across_counties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Half of all...County A had 5 murders last year with a population of 1,000 people.... murder rate is 0 because you claim that homicide o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/13euprc/politifact_is_95_of_gun_violence_occurring_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/13euprc/politifact_is_95_of_gun_violence_occurring_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f the Union of the 95% figure. I remember when CNN was good...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/13euprc/politifact_is_95_of_gun_violence_occurring_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/13euprc/politifact_is_95_of_gun_violence_occurring_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f the Union of the 95% figure. I remember when CNN was good...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: special report fixing gun violence in america  
-   Link: <a href="https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWant to fix gun violence in America? Go local.9 Jan 2017 — Half of America&#x27;s gun homicides in 2015 were clustered in just 127...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWant to fix gun violence in America? Go local.9 Jan 2017 — Half of America&#x27;s gun homicides in 2015 were clustered in just 127...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/teamtrace/posts/fresh-data-paints-a-grim-picture-on-violence-in-the-city-that-became-the-epicent/3027959900773499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/teamtrace/posts/fresh-data-paints-a-grim-picture-on-violence-in-the-city-that-became-the-epicent/3027959900773499/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ost homicides in 20 years.” The surge in violent crime began in 2019...</p></details>
+   Link:<a href="https://www.facebook.com/teamtrace/posts/fresh-data-paints-a-grim-picture-on-violence-in-the-city-that-became-the-epicent/3027959900773499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/teamtrace/posts/fresh-data-paints-a-grim-picture-on-violence-in-the-city-that-became-the-epicent/3027959900773499/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ost homicides in 20 years.” The surge in violent crime began in 2019...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ojp.gov  
    Title: Homicide in Eight U.S  
-   Link: <a href="https://www.ojp.gov/sites/g/files/xyckuh241/files/media/document/homicide_trends.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/sites/g/files/xyckuh241/files/media/document/homicide_trends.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities: Trends, Context, and Policy...by ICEOFJP AM — among homicide victims in comparison with their... *The chart depicts the ratio o...</p></details>
+   Link:<a href="https://www.ojp.gov/sites/g/files/xyckuh241/files/media/document/homicide_trends.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/sites/g/files/xyckuh241/files/media/document/homicide_trends.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cities: Trends, Context, and Policy...by ICEOFJP AM — among homicide victims in comparison with their... *The chart depicts the ratio o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amnestyusa.org  
-   Link: <a href="https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ren in Central City regularly witness...Read more...</p></details>
+   Link:<a href="https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnestyusa.org/wp-content/uploads/2018/09/Gun-Report-Full_16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ren in Central City regularly witness...Read more...</p></details>

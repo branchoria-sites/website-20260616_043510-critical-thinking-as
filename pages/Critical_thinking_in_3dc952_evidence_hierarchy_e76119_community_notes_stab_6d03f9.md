@@ -282,7 +282,7 @@ For critical thinkers navigating social media and AI-generated content, Communit
 
 ## What Community Notes can add
 
-Community Notes were designed to allow contributors to add context to potentially misleading posts and have that context evaluated by other contributors rather than by a central moderation team. The system attempts to surface notes that receive support from people with differing viewpoints rather than relying on simple majority voting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+Community Notes were designed to allow contributors to add context to potentially misleading posts and have that context evaluated by other contributors rather than by a central moderation team. The system attempts to surface notes that receive support from people with differing viewpoints rather than relying on simple majority voting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
 In practice, a useful Community Note can add several kinds of evidence:
 
@@ -292,9 +292,9 @@ In practice, a useful Community Note can add several kinds of evidence:
 * Clarification when old images, videos or statistics are being presented as current events.
 * Explanations of why a claim is disputed.
 
-Research suggests that contextual notes are often trusted more than simple warning labels because they explain why a claim may be misleading rather than merely flagging it. Experimental studies have found that users generally perceive explanatory notes as more trustworthy than generic misinformation warnings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCommunity notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 90 — Across both sides of th...</span></span></span>
+Research suggests that contextual notes are often trusted more than simple warning labels because they explain why a claim may be misleading rather than merely flagging it. Experimental studies have found that users generally perceive explanatory notes as more trustworthy than generic misinformation warnings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCommunity notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 90 — Across both sides of th...</span></span></span>
 
-There is also evidence that Community Notes can reduce the spread of misleading content. Large-scale studies examining hundreds of thousands of fact-checked posts on X found that visible notes can reduce engagement and limit further diffusion of misleading claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>
+There is also evidence that Community Notes can reduce the spread of misleading content. Large-scale studies examining hundreds of thousands of fact-checked posts on X found that visible notes can reduce engagement and limit further diffusion of misleading claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>
 
 For readers, the most useful function of a Community Note is often not the note itself but the evidence trail it provides. A note that links to a court filing, government report, scientific paper or primary source can help move a claim up the evidence hierarchy by directing attention towards stronger evidence.
 
@@ -305,9 +305,9 @@ For readers, the most useful function of a Community Note is often not the note 
 
 One of the most important features of Community Notes is also one of its least understood: note status is not necessarily permanent.
 
-Notes typically move through statuses such as "Needs More Ratings", "Helpful", and "Not Helpful" as contributors continue evaluating them. The [ranking]({{ 'ranking/' | relative_url }}) system continuously reassesses whether a note still meets the platform's criteria for public display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2ORBilu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</span></span></span>
+Notes typically move through statuses such as "Needs More Ratings", "Helpful", and "Not Helpful" as contributors continue evaluating them. The [ranking]({{ 'ranking/' | relative_url }}) system continuously reassesses whether a note still meets the platform's criteria for public display.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2ORBilu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</span></span></span>
 
-This means a note that appears authoritative today may disappear later if subsequent ratings alter the consensus. Recent research examining hundreds of thousands of notes found that approximately 30% of displayed notes later lost their helpful status and were removed from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</span></span></span>
+This means a note that appears authoritative today may disappear later if subsequent ratings alter the consensus. Recent research examining hundreds of thousands of notes found that approximately 30% of displayed notes later lost their helpful status and were removed from public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</span></span></span>
 
 That finding has two implications.
 
@@ -323,9 +323,9 @@ This instability does not necessarily mean the system is failing. In some cases,
 
 A common misunderstanding is that every misleading viral post will quickly receive a Community Note. In reality, Community Notes face coverage and timing constraints.
 
-The system depends on contributors noticing a claim, writing a note, supplying sources and gathering enough ratings to reach public visibility. During fast-moving events, misinformation can accumulate large audiences before a note becomes visible. Researchers and analysts have repeatedly identified delays as a significant limitation of crowdsourced correction systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</span></span></span>
+The system depends on contributors noticing a claim, writing a note, supplying sources and gathering enough ratings to reach public visibility. During fast-moving events, misinformation can accumulate large audiences before a note becomes visible. Researchers and analysts have repeatedly identified delays as a significant limitation of crowdsourced correction systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</span></span></span>
 
-Coverage is also uneven. Some topics attract many contributors and rapid evaluation, while others receive little attention. Research suggests that notes are more likely to emerge around certain high-interest subjects, particularly political topics, while other areas may receive less scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Effects of Request Alerts on the Diversity and Visibility of Community NotesApril 18, 2026...</span><span class="citation-popover-meta">Published: April 18, 2026</span></span></span>
+Coverage is also uneven. Some topics attract many contributors and rapid evaluation, while others receive little attention. Research suggests that notes are more likely to emerge around certain high-interest subjects, particularly political topics, while other areas may receive less scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Effects of Request Alerts on the Diversity and Visibility of Community NotesApril 18, 2026...</span><span class="citation-popover-meta">Published: April 18, 2026</span></span></span>
 
 The absence of a Community Note therefore does not mean a claim is true. It may simply mean that nobody has yet produced a note that achieved sufficient consensus for display.
 
@@ -338,15 +338,15 @@ For evidence evaluation, this distinction is crucial. Presence of a note can be 
 
 Community Notes are often presented as a solution to ideological bias because they seek agreement across different groups. Yet researchers continue to debate how well the system performs under polarised conditions.
 
-The platform's design deliberately attempts to reward notes that receive support from contributors with differing viewpoints and to give greater influence to contributors with strong records of helpful participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Contributor helpfulness scoresHelpfulness scores are a way to give more influence to people with a track record of ma...</span></span></span>
+The platform's design deliberately attempts to reward notes that receive support from contributors with differing viewpoints and to give greater influence to contributors with strong records of helpful participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter)+2X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Contributor helpfulness scoresHelpfulness scores are a way to give more influence to people with a track record of ma...</span></span></span>
 
 However, several studies have identified vulnerabilities.
 
-Research on consensus stability found that once notes become visible, subsequent ratings can become more polarised, contributing to some notes later losing their status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</span></span></span>
+Research on consensus stability found that once notes become visible, subsequent ratings can become more polarised, contributing to some notes later losing their status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</span></span></span>
 
-Simulation-based research has suggested that crowdsourced fact-checking systems can be sensitive to rater bias, in-group preferences and coordinated behaviour. Under some conditions, relatively small groups of strategically acting contributors may be able to influence outcomes disproportionately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.02615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community Notes are Vulnerable to Rater Bias and Manipulation</span><span class="citation-popover-snippet">Community Notes are Vulnerable to Rater Bias and ManipulationNovember 4, 2025...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+Simulation-based research has suggested that crowdsourced fact-checking systems can be sensitive to rater bias, in-group preferences and coordinated behaviour. Under some conditions, relatively small groups of strategically acting contributors may be able to influence outcomes disproportionately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2511.02615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community Notes are Vulnerable to Rater Bias and Manipulation</span><span class="citation-popover-snippet">Community Notes are Vulnerable to Rater Bias and ManipulationNovember 4, 2025...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
-Other work has suggested that contributors may preferentially engage with claims that are easier to evaluate, leaving more plausible or complex misinformation less likely to receive successful notes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.11120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X&#x27;s Community Notes ProgramMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Other work has suggested that contributors may preferentially engage with claims that are easier to evaluate, leaving more plausible or complex misinformation less likely to receive successful notes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.11120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X&#x27;s Community Notes ProgramMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 These concerns do not prove widespread manipulation. They do show that Community Notes are social systems, not neutral measuring instruments. Like polls, crowdsourced ratings or collaborative encyclopaedias, they reflect the strengths and weaknesses of collective judgement.
 
@@ -378,194 +378,194 @@ In the age of social media and AI-generated content, Community Notes can be a us
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can crowdsourced context be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can crowdsourced context be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages checking sources rather than trusting signals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking sources rather than trusting signals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Examines how societies establish reliable knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how societies establish reliable knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Supports ongoing re-evaluation of claims and corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports ongoing re-evaluation of claims and corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="community-notes-cd6cad-can-crowdsourced-context-be-trusted-critical-thinking-in-the-age-of-socia-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ In the age of social media and AI-generated content, Community Notes can be a us
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ In the age of social media and AI-generated content, Community Notes can be a us
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ In the age of social media and AI-generated content, Community Notes can be a us
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ In the age of social media and AI-generated content, Community Notes can be a us
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ In the age of social media and AI-generated content, Community Notes can be a us
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,183 +771,183 @@ In the age of social media and AI-generated content, Community Notes can be a us
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCommunity notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 90 — Across both sides of th...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCommunity notes increase trust in fact-checking on social mediaby CP Drolsbach · 2024 · Cited by 90 — Across both sides of th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3774904.3792987</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3774904.3792987" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3774904.3792987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryConsensus Stability of Community Notes on X12 Apr 2026 — We find that 30.2% of displayed notes later lose their helpfu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Consensus Stability of Community Notes on X  
-   Link: <a href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.14002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using interrupted time series models, we further show that...Read more...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.14002" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.14002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using interrupted time series models, we further show that...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.17042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Request Alerts on the Diversity and Visibility of Community NotesApril 18, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.17042" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.17042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Request Alerts on the Diversity and Visibility of Community NotesApril 18, 2026...</p></details>
    Published: April 18, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Community Notes are Vulnerable to Rater Bias and Manipulation  
-   Link: <a href="https://arxiv.org/abs/2511.02615" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.02615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes are Vulnerable to Rater Bias and ManipulationNovember 4, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2511.02615" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.02615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes are Vulnerable to Rater Bias and ManipulationNovember 4, 2025...</p></details>
    Published: November 4, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.11120" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X&#x27;s Community Notes ProgramMarch 11, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.11120" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X&#x27;s Community Notes ProgramMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Request Function Shapes X&#x27;s Community Notes...Sep 12, 2025 — Each community note can receive one of the three statuses: Currentl...</p></details>
+   Link:<a href="https://arxiv.org/html/2509.09956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Request Function Shapes X&#x27;s Community Notes...Sep 12, 2025 — Each community note can receive one of the three statuses: Currentl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14132</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Community Notes Replace Professional [Fact-Checkers](&amp;#123;&amp;#123; &#x27;fact-checkers/&#x27; | relative_url &amp;#125;&amp;#125;)? by N Borenstein · 2025 · Cited by 24 — Our analysis reveals that community notes c...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.14132" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14132</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Community Notes Replace Professional [Fact-Checkers](&amp;#123;&amp;#123; &#x27;fact-checkers/&#x27; | relative_url &amp;#125;&amp;#125;)? by N Borenstein · 2025 · Cited by 24 — Our analysis reveals that community notes c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.09956v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Request Function Shapes X&#x27;s Community Notes...Mar 2, 2026 — Our findings highlight both the limitations and promise of requests...</p></details>
+   Link:<a href="https://arxiv.org/html/2509.09956v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09956v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Request Function Shapes X&#x27;s Community Notes...Mar 2, 2026 — Our findings highlight both the limitations and promise of requests...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.13322v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.13322v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Moderate Engagement With and...18 Feb 2025 — We find that attaching fact-checking notes significantly reduces the engage...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Birdwatch to Community Notes, from Twitter to XOct 13, 2025 — The Note that receives the Helpful status based on the ratings from a...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.09585v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09585v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Birdwatch to Community Notes, from Twitter to XOct 13, 2025 — The Note that receives the Helpful status based on the ratings from a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mechanics of Community Notes: [Bridging](&#123;&#123; 'bridging/' | relative_url &#125;&#125;) Algorithms and Cross-Partisan Consensus  
-   Link: <a href="https://www.youtube.com/watch?v=anleNB7b3SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anleNB7b3SU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=anleNB7b3SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anleNB7b3SU</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Note ranking algorithmNotes with the status Needs More Ratings remain sorted by recency (newest first), and notes wit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community NotesCommunity Notes (formerly known as Birdwatch) is a feature on X where contributors can add context such as [fact-checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: orbilu.uni.lu  
-   Link: <a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Each note status item records the chang...</p></details>
+   Link:<a href="https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbilu.uni.lu/bitstream/10993/59462/1/3686967.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Roll-Out of Community Notes Reduce Engagement...by Y CHUAI · 2024 · Cited by 102 — Each note status item records the chang...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</p></details>
+   Link:<a href="https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/digital-dispatch/the-trust-consensus-paradox-why-decentralized-fact-checking-faces-challenges-on-polarizing-topics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueThe trust-consensus paradox: why decentralized fact-...18 Dec 2025 — Research shows that displaying Comm...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work-2025-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work-2025-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how they work &amp;mdash; and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</p></details>
+   Link:<a href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how they work &amp;mdash; and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Contributor helpfulness scoresHelpfulness scores are a way to give more influence to people with a track record of ma...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/under-the-hood/contributor-scores</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Contributor helpfulness scoresHelpfulness scores are a way to give more influence to people with a track record of ma...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: communitynotes.x.com  
    Title: writing and rating impact  
-   Link: <a href="https://communitynotes.x.com/guide/en/contributing/writing-and-rating-impact" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/contributing/writing-and-rating-impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Writing ImpactHelp identify notes as Not Helpful. When you help a note reach a status of Not Helpful, you&#x27;re also improving Community...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/contributing/writing-and-rating-impact" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/contributing/writing-and-rating-impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Writing ImpactHelp identify notes as Not Helpful. When you help a note reach a status of Not Helpful, you&#x27;re also improving Community...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: transparency.meta.com  
    Title: community notes  
-   Link: <a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes: A New Way to Add Context to PostsMar 5, 2026 — Contributors have access to a Feed of notes that still need ratings prior to being...</p></details>
+   Link:<a href="https://transparency.meta.com/features/community-notes/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/community-notes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes: A New Way to Add Context to PostsMar 5, 2026 — Contributors have access to a Feed of notes that still need ratings prior to being...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vitalik.eth.limo  
-   Link: <a href="https://vitalik.eth.limo/general/2023/08/16/communitynotes.html" target="_blank" rel="noopener noreferrer nofollow">https://vitalik.eth.limo/general/2023/08/16/communitynotes.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do I think about Community Notes?Aug 16, 2023 — These reviews can be thought of as being votes along a 3-point scale of HELPFUL, SOMEWHA...</p></details>
+   Link:<a href="https://vitalik.eth.limo/general/2023/08/16/communitynotes.html" target="_blank" rel="noopener noreferrer nofollow">https://vitalik.eth.limo/general/2023/08/16/communitynotes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do I think about Community Notes?Aug 16, 2023 — These reviews can be thought of as being votes along a 3-point scale of HELPFUL, SOMEWHA...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gap-map.org  
-   Link: <a href="https://www.gap-map.org/capabilities/crowd-sourced-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.gap-map.org/capabilities/crowd-sourced-fact-checking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowd-Sourced Fact-CheckingA crowdsourced fact-checking system that attaches contextual annotations to tweets–to build robust community-d...</p></details>
+   Link:<a href="https://www.gap-map.org/capabilities/crowd-sourced-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://www.gap-map.org/capabilities/crowd-sourced-fact-checking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crowd-Sourced Fact-CheckingA crowdsourced fact-checking system that attaches contextual annotations to tweets–to build robust community-d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: counterhate.com  
-   Link: <a href="https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW X&#x27;S COMMUNITY NOTES SYSTEM FALLS SHORT...A proposed note starts with a “Needs more ratings” status and contributors can begin to rat...</p></details>
+   Link:<a href="https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://counterhate.com/wp-content/uploads/2024/10/CCDH.CommunityNotes.FINAL-30.10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOW X&#x27;S COMMUNITY NOTES SYSTEM FALLS SHORT...A proposed note starts with a “Needs more ratings” status and contributors can begin to rat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.yale.edu  
    Title: flagging misinformation social media reduces engagement study finds  
-   Link: <a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsSep 25, 2025 — Crowd-sourced fact-checking of potentially misleading information is an effective tool to combat online misinforma...</p></details>
+   Link:<a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsSep 25, 2025 — Crowd-sourced fact-checking of potentially misleading information is an effective tool to combat online misinforma...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 389176167 Can Community Notes Replace Professional Fact Checkers  
-   Link: <a href="https://www.researchgate.net/publication/389176167_Can_Community_Notes_Replace_Professional_Fact-Checkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389176167_Can_Community_Notes_Replace_Professional_Fact-Checkers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Community Notes Replace Professional Fact-Checkers?19 Feb 2025 — Fact-checking is especially crucial for notes on posts linked to bro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389176167_Can_Community_Notes_Replace_Professional_Fact-Checkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389176167_Can_Community_Notes_Replace_Professional_Fact-Checkers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Community Notes Replace Professional Fact-Checkers?19 Feb 2025 — Fact-checking is especially crucial for notes on posts linked to bro...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aclanthology.org  
-   Link: <a href="https://aclanthology.org/2026.findings-eacl.71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.findings-eacl.71.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyA Dataset for Exploring the Helpfulness of Fact-Checking...by R Xing · 2026 · Cited by 2 — If two such tags are not found...</p></details>
+   Link:<a href="https://aclanthology.org/2026.findings-eacl.71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.findings-eacl.71.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyA Dataset for Exploring the Helpfulness of Fact-Checking...by R Xing · 2026 · Cited by 2 — If two such tags are not found...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Zuckerberg fired the fact-checkers  
-   Link: <a href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: faculty.washington.edu  
-   Link: <a href="https://faculty.washington.edu/msaveski/assets/publications/2024_supernotes/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/msaveski/assets/publications/2024_supernotes/paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>washington.eduSupernotes: Driving Consensus in Crowd-Sourced Fact-...by S De · 2025 · Cited by 38 — X&#x27;s Community Notes, a crowd-sourced...</p></details>
+   Link:<a href="https://faculty.washington.edu/msaveski/assets/publications/2024_supernotes/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/msaveski/assets/publications/2024_supernotes/paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>washington.eduSupernotes: Driving Consensus in Crowd-Sourced Fact-...by S De · 2025 · Cited by 38 — X&#x27;s Community Notes, a crowd-sourced...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
    Title: 399953243 Consensus Stability of Community Notes on X  
-   Link: <a href="https://www.researchgate.net/publication/399953243_Consensus_Stability_of_Community_Notes_on_X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399953243_Consensus_Stability_of_Community_Notes_on_X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Consensus Stability of Community Notes on X23 Jan 2026 — We find that 30.2% of displayed notes later lose their helpful status and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399953243_Consensus_Stability_of_Community_Notes_on_X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399953243_Consensus_Stability_of_Community_Notes_on_X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Consensus Stability of Community Notes on X23 Jan 2026 — We find that 30.2% of displayed notes later lose their helpful status and...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: abc.net.au  
    Title: elon musk community notes on meta facebook explained  
-   Link: <a href="https://www.abc.net.au/news/2025-01-08/elon-musk-community-notes-on-meta-facebook-explained/104794984" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-01-08/elon-musk-community-notes-on-meta-facebook-explained/104794984</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk created Community Notes and Meta is following...7 Jan 2025 — Community Notes, formerly BirdWatch before it was rebranded, is a...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2025-01-08/elon-musk-community-notes-on-meta-facebook-explained/104794984" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-01-08/elon-musk-community-notes-on-meta-facebook-explained/104794984</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk created Community Notes and Meta is following...7 Jan 2025 — Community Notes, formerly BirdWatch before it was rebranded, is a...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ddia.org  
    Title: a deep dive into xs community notes report  
-   Link: <a href="https://ddia.org/en/a-deep-dive-into-xs-community-notes-report" target="_blank" rel="noopener noreferrer nofollow">https://ddia.org/en/a-deep-dive-into-xs-community-notes-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into X&#x27;s Community NotesJul 9, 2025 — While consensus on the usefulness of a Community Note is pending, the note is classifie...</p></details>
+   Link:<a href="https://ddia.org/en/a-deep-dive-into-xs-community-notes-report" target="_blank" rel="noopener noreferrer nofollow">https://ddia.org/en/a-deep-dive-into-xs-community-notes-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into X&#x27;s Community NotesJul 9, 2025 — While consensus on the usefulness of a Community Note is pending, the note is classifie...</p></details>

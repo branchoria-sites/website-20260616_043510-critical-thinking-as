@@ -284,15 +284,15 @@ Deepfakes are usually discussed as a way to make people believe false things. An
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-1-dark.svg" | relative_url }}" alt="Deepfake doubt illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Researchers and legal scholars call this phenomenon the “liar’s dividend”. The idea is simple: the existence of convincing fake media gives dishonest people a ready-made excuse to deny genuine recordings, photographs or screenshots. The result is not greater scrutiny alone. It can also produce cynicism, confusion and reduced accountability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
+Researchers and legal scholars call this phenomenon the “liar’s dividend”. The idea is simple: the existence of convincing fake media gives dishonest people a ready-made excuse to deny genuine recordings, photographs or screenshots. The result is not greater scrutiny alone. It can also produce cynicism, confusion and reduced accountability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
 
 ## Why deepfake concern changes how people judge evidence
 
 The spread of [synthetic media]({{ 'synthetic-media/' | relative_url }}) changes the psychology of trust. Before [deepfakes]({{ 'deepfakes/' | relative_url }}) became widely known, a video or audio recording was often treated as strong evidence unless there was a specific reason to doubt it. Today, many people know that realistic fabrications are possible, which encourages a more cautious attitude.
 
-That caution has benefits. People may become less likely to share obviously manipulated clips and more willing to ask where a piece of media came from. However, awareness can also overshoot. Instead of asking whether [evidence]({{ 'evidence/' | relative_url }}) is authentic, some people begin with the assumption that authenticity is unknowable. This moves from scepticism into a broader distrust of evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</span></span></span>
+That caution has benefits. People may become less likely to share obviously manipulated clips and more willing to ask where a piece of media came from. However, awareness can also overshoot. Instead of asking whether [evidence]({{ 'evidence/' | relative_url }}) is authentic, some people begin with the assumption that authenticity is unknowable. This moves from scepticism into a broader distrust of evidence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</span></span></span>
 
-Recent research suggests that the social effect of deepfakes may extend beyond successful deception. A large 2026 study on audio deepfakes found a growing “skepticism shift”: people were not dramatically worse at identifying fake audio, but they had become significantly more likely to distrust genuine recordings. In other words, authentic speech increasingly risked being mistaken for synthetic speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.26136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake PerceptionMay 21, 2026...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
+Recent research suggests that the social effect of deepfakes may extend beyond successful deception. A large 2026 study on audio deepfakes found a growing “skepticism shift”: people were not dramatically worse at identifying fake audio, but they had become significantly more likely to distrust genuine recordings. In other words, authentic speech increasingly risked being mistaken for synthetic speech.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.26136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake PerceptionMay 21, 2026...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>
 
 This matters because evidence often works cumulatively. Journalists, investigators, courts and citizens rarely rely on a single image or clip. If people become predisposed to doubt every piece of media evidence, even authentic material may lose persuasive power.
 
@@ -304,9 +304,9 @@ Reasonable doubt arises from identifiable problems. A recording may have [missin
 
 Strategic doubt works differently. Instead of presenting evidence that a recording is fake, someone merely points to the existence of deepfakes as a possibility. The claim becomes: “You cannot prove this is real, therefore you should not believe it.”
 
-This is the core mechanism of the liar’s dividend. Legal scholars Robert Chesney and Danielle Citron warned that deepfakes could make it easier for people to evade responsibility for genuine actions by claiming that authentic evidence was fabricated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
+This is the core mechanism of the liar’s dividend. Legal scholars Robert Chesney and Danielle Citron warned that deepfakes could make it easier for people to evade responsibility for genuine actions by claiming that authentic evidence was fabricated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
 
-Subsequent research has found support for this concern. Studies examining political communication suggest that false claims that a scandalous story, recording or video is fake can help public figures maintain support by introducing uncertainty and encouraging loyal audiences to reject damaging evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">Looks real, feels fake: conflict detection in deepfake videos.Read more</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Liar&#x27;s Dividend: Can Politicians Claim Misinformation...by KJ SCHIFF · 2025 · Cited by 78 — T...</span></span></span>
+Subsequent research has found support for this concern. Studies examining political communication suggest that false claims that a scandalous story, recording or video is fake can help public figures maintain support by introducing uncertainty and encouraging loyal audiences to reject damaging evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">Looks real, feels fake: conflict detection in deepfake videos.Read more</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Liar&#x27;s Dividend: Can Politicians Claim Misinformation...by KJ SCHIFF · 2025 · Cited by 78 — T...</span></span></span>
 
 The crucial point is that reasonable doubt asks, “What evidence suggests manipulation?” Strategic doubt asks, “Can I create enough uncertainty that people stop caring whether it is true?”
 
@@ -319,9 +319,9 @@ The consequences extend beyond individual arguments online. The liar’s dividen
 
 Journalists rely on photographs and recordings to document events. Human-rights organisations often depend on smartphone footage from witnesses. Courts increasingly receive digital evidence. Public officials may be held accountable through recordings of statements or actions.
 
-If authentic media can be dismissed simply by alleging manipulation, the burden on those institutions grows substantially. Researchers and practitioners working on misinformation have warned that authoritarian governments and powerful actors can exploit accusations of “deepfake” or “manipulation” to undermine genuine evidence of misconduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Authoritarian Regimes Could Exploit Cries of &#x27;Deepfake</span><span class="citation-popover-snippet">This incident highlights the growing challenge of distinguishing real footage from manipulated content, especially with the rise of sophi...</span></span></span>
+If authentic media can be dismissed simply by alleging manipulation, the burden on those institutions grows substantially. Researchers and practitioners working on misinformation have warned that authoritarian governments and powerful actors can exploit accusations of “deepfake” or “manipulation” to undermine genuine evidence of misconduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Authoritarian Regimes Could Exploit Cries of &#x27;Deepfake</span><span class="citation-popover-snippet">This incident highlights the growing challenge of distinguishing real footage from manipulated content, especially with the rise of sophi...</span></span></span>
 
-The problem is especially acute because ordinary people are generally poor at distinguishing real and synthetic media by [visual inspection]({{ 'inspection-limits/' | relative_url }}) alone. Multiple studies have found that confidence often exceeds actual detection ability. People may feel certain they can spot a fake even when their performance is only slightly better than chance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</span></span></span>
+The problem is especially acute because ordinary people are generally poor at distinguishing real and synthetic media by [visual inspection]({{ 'inspection-limits/' | relative_url }}) alone. Multiple studies have found that confidence often exceeds actual detection ability. People may feel certain they can spot a fake even when their performance is only slightly better than chance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</span></span></span>
 
 This combination is dangerous: widespread awareness of deepfakes, limited detection ability and high confidence in personal judgement can make unsupported accusations of fakery seem persuasive.
 
@@ -366,7 +366,7 @@ When assessing a potentially important image:
 * Check whether reputable organisations have independently verified it.
 * Compare it with other photographs from the same event.
 * Examine whether location, weather, timing and visible details match known facts.
-* Treat isolated images as weaker evidence than images supported by additional documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fida.de">[FIDA Software &amp; Beratung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fida.de</span><span class="citation-popover-title">Software &amp; Beratung Deep fakes, fake news, what is still real?</span><span class="citation-popover-snippet">How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+* Treat isolated images as weaker evidence than images supported by additional documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fida.de">[FIDA Software &amp; Beratung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fida.de</span><span class="citation-popover-title">Software &amp; Beratung Deep fakes, fake news, what is still real?</span><span class="citation-popover-snippet">How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dMhdq6R4qIQ" title="Purdue Expert: Deepfakes in Politics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dMhdq6R4qIQ" target="_blank" rel="noopener noreferrer">Purdue Expert: Deepfakes in Politics</a></p><p class="youtube-embed-meta">Channel: Purdue University News &middot; Views: 175 &middot; Uploaded: May 2024 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dMhdq6R4qIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dMhdq6R4qIQ">Open on YouTube</a></p></div></div></div>
@@ -382,7 +382,7 @@ For recordings:
 * Look for corroborating footage from other angles or witnesses.
 * Consider whether credible forensic analysis has been performed.
 * Be cautious about claims that a recording is fake unless supporting evidence is presented.
-* Distinguish between demonstrated manipulation and mere speculation. Brennan Center for Justice+2San Francisco Chronicle <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[brennancenter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">deepfakes elections and shrinking liars dividend</span><span class="citation-popover-snippet">liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</span></span></span>
+* Distinguish between demonstrated manipulation and mere speculation. Brennan Center for Justice+2San Francisco Chronicle<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[brennancenter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">deepfakes elections and shrinking liars dividend</span><span class="citation-popover-snippet">liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</span></span></span>
 
 </div>
 
@@ -398,205 +398,205 @@ Useful questions include:
 * Is the original post, message or document available?
 * Can the content be verified through archives or direct links?
 * Does the screenshot contain signs of editing or cropping?
-* Do other sources independently confirm the same information? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fida.de">[FIDA Software &amp; Beratung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fida.de</span><span class="citation-popover-title">Software &amp; Beratung Deep fakes, fake news, what is still real?</span><span class="citation-popover-snippet">How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+* Do other sources independently confirm the same information?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fida.de">[FIDA Software &amp; Beratung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fida.de</span><span class="citation-popover-title">Software &amp; Beratung Deep fakes, fake news, what is still real?</span><span class="citation-popover-snippet">How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-3-dark.svg" | relative_url }}" alt="Deepfake doubt illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_deepfake_doubt_evide_3a92c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building trust without becoming gullible
 
-As synthetic media improves, the challenge is not simply detecting fake content. It is preserving justified trust in authentic content. Experts increasingly emphasise content provenance systems, authentication standards and forensic methods that can help establish where media originated and whether it has been altered. These approaches aim to make false accusations of fakery less credible while still allowing genuine manipulation to be exposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">deepfakes elections and shrinking liars dividend</span><span class="citation-popover-snippet">liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</span></span></span>
+As synthetic media improves, the challenge is not simply detecting fake content. It is preserving justified trust in authentic content. Experts increasingly emphasise content provenance systems, authentication standards and forensic methods that can help establish where media originated and whether it has been altered. These approaches aim to make false accusations of fakery less credible while still allowing genuine manipulation to be exposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">deepfakes elections and shrinking liars dividend</span><span class="citation-popover-snippet">liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</span></span></span>
 
-The deeper lesson for critical thinking is that uncertainty should trigger investigation, not resignation. Deepfakes make verification more important, but they do not eliminate the possibility of knowing what happened. The danger arises when awareness of manipulation becomes an excuse to stop evaluating evidence altogether. In that environment, synthetic media does not merely create falsehoods; it creates opportunities to deny truths that would otherwise be difficult to escape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review+2ncsc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
+The deeper lesson for critical thinking is that uncertainty should trigger investigation, not resignation. Deepfakes make verification more important, but they do not eliminate the possibility of knowing what happened. The danger arises when awareness of manipulation becomes an excuse to stop evaluating evidence altogether. In that environment, synthetic media does not merely create falsehoods; it creates opportunities to deny truths that would otherwise be difficult to escape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: californialawreview.org">[California Law Review+2ncsc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">californialawreview.org</span><span class="citation-popover-snippet">California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When fake images make real ones suspect. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When fake images make real ones suspect. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating contested evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating contested evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Helps readers separate reasonable doubt from denial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers separate reasonable doubt from denial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Addresses how truth survives in an environment of doubt.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how truth survives in an environment of doubt.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital literacy for dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11876051-M.jpg" alt="Cover for Digital literacy for dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital literacy for dummies">Digital literacy for dummies</a>
-        </h4>
-        <p class="fr-book-author">By Faithe Wempen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital literacy for dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11876051-M.jpg" alt="Cover for Digital literacy for dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital literacy for dummies">Digital literacy for dummies</a>
+</h4>
+<p class="fr-book-author">By Faithe Wempen</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Information literacy, Computer literacy, Internet literacy, Microsoft Windows (Computer file), Computers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Information literacy, Computer literacy, Internet literacy, Microsoft Windows (Computer file), Computers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking mug" data-ebay-reference="deepfake-doubt-when-fake-images-make-real-ones-suspect-critical-thinking-in-the-age-of-social-me-critical-thinking-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,144 +802,144 @@ The deeper lesson for critical thinking is that uncertainty should trigger inves
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8602050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fooled twice: People cannot detect deepfakes but think they canby NC Köbis · 2021 · Cited by 194 — We show that (1) people cannot reli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.26136" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.26136</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake PerceptionMay 21, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.26136" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.26136</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake PerceptionMay 21, 2026...</p></details>
    Published: May 21, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
    Title: Looks real, feels fake: conflict detection in deepfake videos.Read more  
-   Link: <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Liar&#x27;s Dividend: Can Politicians Claim Misinformation...by KJ SCHIFF · 2025 · Cited by 78 — T...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Liar&#x27;s Dividend: Can Politicians Claim Misinformation...by KJ SCHIFF · 2025 · Cited by 78 — T...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ideas.repec.org  
-   Link: <a href="https://ideas.repec.org/p/osf/socarx/x43ph.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/osf/socarx/x43ph.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcThe Liar&#x27;s Dividend: The Impact of Deepfakes and Fake...by KJ Schiff · 2023 · Cited by 13 — Strategic and false claims that s...</p></details>
+   Link:<a href="https://ideas.repec.org/p/osf/socarx/x43ph.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/osf/socarx/x43ph.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcThe Liar&#x27;s Dividend: The Impact of Deepfakes and Fake...by KJ Schiff · 2023 · Cited by 13 — Strategic and false claims that s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Authoritarian Regimes Could Exploit Cries of 'Deepfake'  
-   Link: <a href="https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This incident highlights the growing challenge of distinguishing real footage from manipulated content, especially with the rise of sophi...</p></details>
+   Link:<a href="https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/opinion-authoritarian-regimes-could-exploit-cries-of-deepfake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This incident highlights the growing challenge of distinguishing real footage from manipulated content, especially with the rise of sophi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Testing Human Ability To Detect Deepfake Images of Human Faces  
-   Link: <a href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.05056</a>  
+   Link:<a href="https://arxiv.org/abs/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.05056</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fida.de  
    Title: Software & Beratung Deep fakes, fake news, what is still real?  
-   Link: <a href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow">https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</p></details>
+   Link:<a href="https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures" target="_blank" rel="noopener noreferrer nofollow">https://www.fida.de/en/blog/deep-fakes-fake-news-what-is-still-real-how-can-i-recognize-fake-pictures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How can I...July 21, 2025 — 21 Jul 2025 — A critical look at light, perspective, details, text and context can help you to expose many f...</p></details>
    Published: July 21, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2019/07/12/deepfake-authentication-privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/07/12/deepfake-authentication-privacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The current challenge is that detection methods lag behind the increasingly sophisticated deepfakes, raising concerns about the erosion o...</p></details>
+   Link:<a href="https://www.axios.com/2019/07/12/deepfake-authentication-privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/07/12/deepfake-authentication-privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The current challenge is that detection methods lag behind the increasingly sophisticated deepfakes, raising concerns about the erosion o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ncsc.org  
    Title: ai generated evidence threat public trust courts  
-   Link: <a href="https://www.ncsc.org/resources-courts/ai-generated-evidence-threat-public-trust-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.org/resources-courts/ai-generated-evidence-threat-public-trust-courts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense attorneys have begun invoking &quot;the...Read more...</p></details>
+   Link:<a href="https://www.ncsc.org/resources-courts/ai-generated-evidence-threat-public-trust-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.org/resources-courts/ai-generated-evidence-threat-public-trust-courts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense attorneys have begun invoking &quot;the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2212.05056</a>  
+   Link:<a href="https://arxiv.org/pdf/2212.05056" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2212.05056</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: californialawreview.org  
-   Link: <a href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow">https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</p></details>
+   Link:<a href="https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security" target="_blank" rel="noopener noreferrer nofollow">https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>California Law ReviewDeep Fakes: A Looming Challenge for Privacy, Democracy...And, in what we call the “liar&#x27;s dividend,” deep fakes mak...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sfchronicle.com  
-   Link: <a href="https://www.sfchronicle.com/bayarea/article/hany-farid-ai-deepfakes-22291920.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/hany-farid-ai-deepfakes-22291920.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farid has built a reputation by helping news organizations, governments, and corporations verify content authenticity. With deepfake cont...</p></details>
+   Link:<a href="https://www.sfchronicle.com/bayarea/article/hany-farid-ai-deepfakes-22291920.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/hany-farid-ai-deepfakes-22291920.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farid has built a reputation by helping news organizations, governments, and corporations verify content authenticity. With deepfake cont...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brennancenter.org  
    Title: deepfakes elections and shrinking liars dividend  
-   Link: <a href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</p></details>
+   Link:<a href="https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>liar&#x27;s dividend. Means of Discovery. Deepfake detectors alone are insufficient to deter a false claim of artificiality, but enhanced cont...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047760/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12047760/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the evidence via a...by D Ching · 2025 · Cited by 18 — In this paper, we present a scoping review mapping the current state of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047760/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12047760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the evidence via a...by D Ching · 2025 · Cited by 18 — In this paper, we present a scoping review mapping the current state of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9453721/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9453721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Democracy (Theory): How Synthetic Audio...by M Pawelec · 2022 · Cited by 182 — “&#x27;Liar&#x27;s dividend&#x27;: The more we learn about deepfakes...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9453721/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9453721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Democracy (Theory): How Synthetic Audio...by M Pawelec · 2022 · Cited by 182 — “&#x27;Liar&#x27;s dividend&#x27;: The more we learn about deepfakes...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404380138_Deepfakes_and_Legal_Accountability_A_Threat_to_Evidence_and_Reputation_Mr_Mukul_Mukul" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404380138_Deepfakes_and_Legal_Accountability_A_Threat_to_Evidence_and_Reputation_Mr_Mukul_Mukul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and Legal Accountability: A Threat to Evidence...2 May 2026 — The rise of deepfake technology-hyper-realistic but artificially...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404380138_Deepfakes_and_Legal_Accountability_A_Threat_to_Evidence_and_Reputation_Mr_Mukul_Mukul" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404380138_Deepfakes_and_Legal_Accountability_A_Threat_to_Evidence_and_Reputation_Mr_Mukul_Mukul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and Legal Accountability: A Threat to Evidence...2 May 2026 — The rise of deepfake technology-hyper-realistic but artificially...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: 𝗧𝗵𝗲 𝗹𝗶𝗮𝗿𝘀 𝗱𝗶𝘃𝗶𝗱𝗲𝗻𝗱 𝗮𝗻𝗱 𝗯𝗮𝘁𝘁𝗹𝗲 𝗳𝗼𝗿 𝘁𝗿𝘂𝘁𝗵 𝗮𝗵𝗲𝗮𝗱 𝗼𝗳 2027 discover the liars dividen  
-   Link: <a href="https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%BC%F0%9D%97%B3-2027-discover-the-liars-dividen/1361241602706686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%BC%F0%9D%97%B3-2027-discover-the-liars-dividen/1361241602706686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝗧𝗵𝗲 𝗹𝗶𝗮𝗿&#x27;𝘀 𝗱𝗶𝘃𝗶𝗱𝗲𝗻𝗱 𝗮𝗻𝗱 𝗯𝗮𝘁𝘁𝗹𝗲 𝗳𝗼𝗿 𝘁𝗿𝘂𝘁𝗵...The liar&#x27;s dividend and battle for truth ahead of 2027 Discover the liar&#x27;s dividend, where de...</p></details>
+   Link:<a href="https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%BC%F0%9D%97%B3-2027-discover-the-liars-dividen/1361241602706686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%BC%F0%9D%97%B3-2027-discover-the-liars-dividen/1361241602706686/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝗧𝗵𝗲 𝗹𝗶𝗮𝗿&#x27;𝘀 𝗱𝗶𝘃𝗶𝗱𝗲𝗻𝗱 𝗮𝗻𝗱 𝗯𝗮𝘁𝘁𝗹𝗲 𝗳𝗼𝗿 𝘁𝗿𝘂𝘁𝗵...The liar&#x27;s dividend and battle for truth ahead of 2027 Discover the liar&#x27;s dividend, where de...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brookings.edu  
    Title: watch out for false claims of deepfakes and actual deepfakes this election year  
-   Link: <a href="https://www.brookings.edu/articles/watch-out-for-false-claims-of-deepfakes-and-actual-deepfakes-this-election-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/watch-out-for-false-claims-of-deepfakes-and-actual-deepfakes-this-election-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch out for false claims of deepfakes, and actual...30 May 2024 — We find evidence across several studies that politicians and other p...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/watch-out-for-false-claims-of-deepfakes-and-actual-deepfakes-this-election-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/watch-out-for-false-claims-of-deepfakes-and-actual-deepfakes-this-election-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch out for false claims of deepfakes, and actual...30 May 2024 — We find evidence across several studies that politicians and other p...</p></details>
    Published: May 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ft.com  
    Title: Financial Times Transcript: The trouble with deepfakes  
-   Link: <a href="https://www.ft.com/content/7f22ce59-1c6c-4d84-bca8-dc539992e286" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/7f22ce59-1c6c-4d84-bca8-dc539992e286</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By examining a case from a Baltimore high school, where an athletics director created a deepfake audio clip to discredit the principal, M...</p></details>
+   Link:<a href="https://www.ft.com/content/7f22ce59-1c6c-4d84-bca8-dc539992e286" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/7f22ce59-1c6c-4d84-bca8-dc539992e286</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By examining a case from a Baltimore high school, where an athletics director created a deepfake audio clip to discredit the principal, M...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: truescreen.io  
-   Link: <a href="https://truescreen.io/articles/liars-dividend-digital-trust-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/liars-dividend-digital-trust-crisis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Liar&#x27;s Dividend Explained: How It Erodes Digital Trust26 Mar 2026 — The liar&#x27;s dividend: when authentic content gets dismissed as fake...</p></details>
+   Link:<a href="https://truescreen.io/articles/liars-dividend-digital-trust-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/liars-dividend-digital-trust-crisis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Liar&#x27;s Dividend Explained: How It Erodes Digital Trust26 Mar 2026 — The liar&#x27;s dividend: when authentic content gets dismissed as fake...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cset.georgetown.edu  
    Title: deepfakes elections and shrinking the liars dividend  
-   Link: <a href="https://cset.georgetown.edu/article/deepfakes-elections-and-shrinking-the-liars-dividend/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/deepfakes-elections-and-shrinking-the-liars-dividend/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>georgetown.eduDeepfakes, Elections, and Shrinking the Liar&#x27;s Dividend23 Jan 2024 — Josh A. Goldstein and Andrew Lohn delve into the conce...</p></details>
+   Link:<a href="https://cset.georgetown.edu/article/deepfakes-elections-and-shrinking-the-liars-dividend/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/deepfakes-elections-and-shrinking-the-liars-dividend/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>georgetown.eduDeepfakes, Elections, and Shrinking the Liar&#x27;s Dividend23 Jan 2024 — Josh A. Goldstein and Andrew Lohn delve into the conce...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lbj.utexas.edu  
    Title: how deepfakes will make us question everything 2020  
-   Link: <a href="https://lbj.utexas.edu/how-deepfakes-will-make-us-question-everything-2020" target="_blank" rel="noopener noreferrer nofollow">https://lbj.utexas.edu/how-deepfakes-will-make-us-question-everything-2020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deepfakes will make us question everything in 202018 Feb 2020 — The article also mentioned the paper by Chesney and Professor Danielle Ci...</p></details>
+   Link:<a href="https://lbj.utexas.edu/how-deepfakes-will-make-us-question-everything-2020" target="_blank" rel="noopener noreferrer nofollow">https://lbj.utexas.edu/how-deepfakes-will-make-us-question-everything-2020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deepfakes will make us question everything in 202018 Feb 2020 — The article also mentioned the paper by Chesney and Professor Danielle Ci...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: biometricupdate.com  
-   Link: <a href="https://www.biometricupdate.com/202508/the-liars-dividend-deepfakes-synthetic-media-and-the-cybersecurity-disinformation-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.biometricupdate.com/202508/the-liars-dividend-deepfakes-synthetic-media-and-the-cybersecurity-disinformation-crisis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Liar&#x27;s Dividend: Deepfakes, synthetic media, and...Aug 6, 2025 — The Liar&#x27;s Dividend: Deepfakes, synthetic media, and the...</p></details>
+   Link:<a href="https://www.biometricupdate.com/202508/the-liars-dividend-deepfakes-synthetic-media-and-the-cybersecurity-disinformation-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.biometricupdate.com/202508/the-liars-dividend-deepfakes-synthetic-media-and-the-cybersecurity-disinformation-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Liar&#x27;s Dividend: Deepfakes, synthetic media, and...Aug 6, 2025 — The Liar&#x27;s Dividend: Deepfakes, synthetic media, and the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jennifer-ewbank.com  
    Title: Shadow: The Liar's Dividend and How AI Makes Truth  
-   Link: <a href="https://jennifer-ewbank.com/shadow-and-signal/f/shadow-the-liars-dividend-and-how-ai-makes-truth-unfindable" target="_blank" rel="noopener noreferrer nofollow">https://jennifer-ewbank.com/shadow-and-signal/f/shadow-the-liars-dividend-and-how-ai-makes-truth-unfindable</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2026 — Analysis by former CIA Deputy Director Jennifer Ewbank. Gray zone activity, algorithmic manipulation, disinformation, AI t...</p></details>
+   Link:<a href="https://jennifer-ewbank.com/shadow-and-signal/f/shadow-the-liars-dividend-and-how-ai-makes-truth-unfindable" target="_blank" rel="noopener noreferrer nofollow">https://jennifer-ewbank.com/shadow-and-signal/f/shadow-the-liars-dividend-and-how-ai-makes-truth-unfindable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2026 — Analysis by former CIA Deputy Director Jennifer Ewbank. Gray zone activity, algorithmic manipulation, disinformation, AI t...</p></details>
    Published: May 24, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360527290_The_Liar%27s_Dividend_Can_Politicians_Use_Deepfakes_and_Fake_News_to_Evade_Accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360527290_The_Liar%27s_Dividend_Can_Politicians_Use_Deepfakes_and_Fake_News_to_Evade_Accountability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Liar&#x27;s Dividend: Can Politicians Use Deepfakes...deepfakes, leading to what Chesney and Citron (2019) term the “liar&#x27;s dividen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360527290_The_Liar%27s_Dividend_Can_Politicians_Use_Deepfakes_and_Fake_News_to_Evade_Accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360527290_The_Liar%27s_Dividend_Can_Politicians_Use_Deepfakes_and_Fake_News_to_Evade_Accountability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Liar&#x27;s Dividend: Can Politicians Use Deepfakes...deepfakes, leading to what Chesney and Citron (2019) term the “liar&#x27;s dividen...</p></details>

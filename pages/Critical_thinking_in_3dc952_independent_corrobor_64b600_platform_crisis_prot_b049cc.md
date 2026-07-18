@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_pl
 
 ## Introduction
 
-Can platforms slow rumours in a crisis? Increasingly, regulators and platform operators are trying to do exactly that when viral content appears to create immediate risks to public safety. Crisis protocols are special procedures activated during fast-moving emergencies, such as terrorist attacks, riots, violent unrest, or major public-safety incidents, when normal moderation systems may be too slow to prevent harm. Rather than replacing ordinary content rules, these protocols typically accelerate reporting, increase moderation capacity, establish direct channels with authorities, and prioritise the review of potentially illegal material. Their growth reflects a broader shift in governance: viral falsehoods and illegal content are increasingly treated as collective public-safety risks rather than merely individual mistakes in judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+Can platforms slow rumours in a crisis? Increasingly, regulators and platform operators are trying to do exactly that when viral content appears to create immediate risks to public safety. Crisis protocols are special procedures activated during fast-moving emergencies, such as terrorist attacks, riots, violent unrest, or major public-safety incidents, when normal moderation systems may be too slow to prevent harm. Rather than replacing ordinary content rules, these protocols typically accelerate reporting, increase moderation capacity, establish direct channels with authorities, and prioritise the review of potentially illegal material. Their growth reflects a broader shift in governance: viral falsehoods and illegal content are increasingly treated as collective public-safety risks rather than merely individual mistakes in judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-1-dark.svg" | relative_url }}" alt="Crisis Rules illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,9 +284,9 @@ For readers interested in independent [corroboration]({{ 'corroboration/' | rela
 
 Most content moderation systems are designed for everyday conditions. They process reports, apply automated detection tools, and review disputed material through standard workflows. During a crisis, however, the volume and speed of posts can overwhelm those systems.
 
-A recurring problem is that illegal or harmful content can spread faster than human reviewers can assess it. False accusations, fabricated identities, manipulated images, extremist propaganda, or content encouraging violence may reach millions of users before a platform completes its normal review process. The damage often occurs during those first hours, when facts remain uncertain and emotions are running high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+A recurring problem is that illegal or harmful content can spread faster than human reviewers can assess it. False accusations, fabricated identities, manipulated images, extremist propaganda, or content encouraging violence may reach millions of users before a platform completes its normal review process. The damage often occurs during those first hours, when facts remain uncertain and emotions are running high.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
-The concern is not limited to misinformation in the abstract. Modern regulatory frameworks increasingly focus on situations where online content contributes to real-world harms such as public disorder, hate crimes, terrorist recruitment, harassment, or threats to life. The UK's Online Safety Act framework, for example, links platform obligations to specific categories of illegal content and now expects services to prepare for sudden surges in such material during crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+The concern is not limited to misinformation in the abstract. Modern regulatory frameworks increasingly focus on situations where online content contributes to real-world harms such as public disorder, hate crimes, terrorist recruitment, harassment, or threats to life. The UK's Online Safety Act framework, for example, links platform obligations to specific categories of illegal content and now expects services to prepare for sudden surges in such material during crises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
 This explains why crisis protocols usually emphasise speed rather than entirely new rules. The content may already violate existing laws or platform policies; the difference is that the emergency response is activated because delay itself becomes part of the risk.
 
@@ -297,9 +297,9 @@ This explains why crisis protocols usually emphasise speed rather than entirely 
 
 A defining feature of many crisis protocols is the creation of dedicated escalation pathways between platforms, regulators, and public authorities.
 
-Recent guidance from Ofcom in the United Kingdom expects platforms to prepare crisis-response plans, deploy temporary response teams, increase moderation resources, and maintain communication channels through which law-enforcement agencies can rapidly alert platforms to emerging threats. The goal is not to give authorities direct control over moderation decisions, but to ensure that platforms receive timely information when illegal content begins spreading at unusual speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+Recent guidance from Ofcom in the United Kingdom expects platforms to prepare crisis-response plans, deploy temporary response teams, increase moderation resources, and maintain communication channels through which law-enforcement agencies can rapidly alert platforms to emerging threats. The goal is not to give authorities direct control over moderation decisions, but to ensure that platforms receive timely information when illegal content begins spreading at unusual speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
-A similar logic appears in international initiatives developed after terrorist attacks. The Christchurch Call, created following the 2019 Christchurch mosque attacks, established crisis-response arrangements intended to help governments, technology companies, and civil-society organisations coordinate when terrorist or violent extremist content begins spreading rapidly online. Updated protocols focus on faster information sharing and coordinated responses during attacks and their immediate aftermath. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.christchurchcall.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christchurchcall.org">[The Christchurch Call+2The Christchurch Call]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christchurchcall.org</span><span class="citation-popover-snippet">The Christchurch CallThe Christchurch CallChristchurch Call community strengthens crisis response process. The Christchurch Call has stre...</span></span></span>
+A similar logic appears in international initiatives developed after terrorist attacks. The Christchurch Call, created following the 2019 Christchurch mosque attacks, established crisis-response arrangements intended to help governments, technology companies, and civil-society organisations coordinate when terrorist or violent extremist content begins spreading rapidly online. Updated protocols focus on faster information sharing and coordinated responses during attacks and their immediate aftermath.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.christchurchcall.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christchurchcall.org">[The Christchurch Call+2The Christchurch Call]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christchurchcall.org</span><span class="citation-popover-snippet">The Christchurch CallThe Christchurch CallChristchurch Call community strengthens crisis response process. The Christchurch Call has stre...</span></span></span>
 
 In practice, escalation systems often include:
 
@@ -311,7 +311,7 @@ In practice, escalation systems often include:
 * Temporary increases in moderation staffing.
 * Direct communication with law-enforcement agencies.
 * Coordination across multiple platforms when the same content is spreading simultaneously.
-* Post-crisis reviews to assess what worked and what failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+* Post-crisis reviews to assess what worked and what failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
 </div>
 
@@ -323,9 +323,9 @@ These mechanisms are intended to prevent situations where dangerous material rem
 
 A common misconception is that crisis protocols are primarily designed to suppress disagreement or controversial opinions. Most formal frameworks are narrower.
 
-The strongest interventions are generally directed at content that is already illegal or closely connected to recognised public-safety threats. Examples include terrorist attack footage, violent extremist propaganda, incitement to violence, criminal harassment, hate offences, and other unlawful material defined by national law. The UK's recent crisis-response requirements are explicitly linked to illegal-content duties rather than a broad mandate to remove all inaccurate information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+The strongest interventions are generally directed at content that is already illegal or closely connected to recognised public-safety threats. Examples include terrorist attack footage, violent extremist propaganda, incitement to violence, criminal harassment, hate offences, and other unlawful material defined by national law. The UK's recent crisis-response requirements are explicitly linked to illegal-content duties rather than a broad mandate to remove all inaccurate information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
-In the European Union, the Digital Services Act (DSA) introduced crisis-related mechanisms and protocols that focus on systemic risks during emergencies. These measures are intended to help large platforms respond when extraordinary events create heightened dangers, while remaining subject to legal safeguards and oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_2348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission+2dsa-observatory.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-snippet">European CommissionQuestions and answers on the Digital Services Act*The DSA fosters a co-regulatory framework for online harms, includin...</span></span></span>
+In the European Union, the Digital Services Act (DSA) introduced crisis-related mechanisms and protocols that focus on systemic risks during emergencies. These measures are intended to help large platforms respond when extraordinary events create heightened dangers, while remaining subject to legal safeguards and oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ec.europa.eu/commission/presscorner/detail/en/qanda" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission+2dsa-observatory.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-snippet">European CommissionQuestions and answers on the Digital Services Act*The DSA fosters a co-regulatory framework for online harms, includin...</span></span></span>
 
 The distinction matters for [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}). A claim may be false without being illegal. Crisis protocols are usually strongest where false claims are intertwined with unlawful activity or imminent threats to public safety.
 
@@ -336,11 +336,11 @@ The distinction matters for [critical thinking]({{ 'critical-thinking-in-the-age
 
 Crisis protocols solve one problem while creating another: acting quickly increases the risk of mistakes.
 
-Researchers, civil-liberties organisations, and legal scholars have warned that emergency systems can encourage over-removal of lawful speech if platforms become excessively cautious during crises. Because information is often incomplete, moderators may struggle to distinguish between dangerous rumours, legitimate reporting, eyewitness accounts, satire, and good-faith discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ARTICLE 19]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online Crisis?</span><span class="citation-popover-snippet">What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</span></span></span>
+Researchers, civil-liberties organisations, and legal scholars have warned that emergency systems can encourage over-removal of lawful speech if platforms become excessively cautious during crises. Because information is often incomplete, moderators may struggle to distinguish between dangerous rumours, legitimate reporting, eyewitness accounts, satire, and good-faith discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ARTICLE 19]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online Crisis?</span><span class="citation-popover-snippet">What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</span></span></span>
 
-The debate is particularly intense in relation to disinformation. Governments frequently argue that coordinated falsehoods can endanger public safety during wars, pandemics, terrorist incidents, or civil unrest. Critics respond that crisis powers must remain tightly limited and transparent to avoid becoming tools for suppressing legitimate debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ARTICLE 19]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online Crisis?</span><span class="citation-popover-snippet">What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</span></span></span>
+The debate is particularly intense in relation to disinformation. Governments frequently argue that coordinated falsehoods can endanger public safety during wars, pandemics, terrorist incidents, or civil unrest. Critics respond that crisis powers must remain tightly limited and transparent to avoid becoming tools for suppressing legitimate debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ARTICLE 19]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online Crisis?</span><span class="citation-popover-snippet">What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</span></span></span>
 
-As a result, many contemporary frameworks attempt to balance rapid intervention with procedural safeguards, including transparency requirements, review mechanisms, and obligations to respect fundamental rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy+2Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span>
+As a result, many contemporary frameworks attempt to balance rapid intervention with procedural safeguards, including transparency requirements, review mechanisms, and obligations to respect fundamental rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy+2Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-3-dark.svg" | relative_url }}" alt="Crisis Rules illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_independent_corrobor_64b600_platform_crisis_prot_b049cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ For that reason, the principles of independent corroboration remain essential:
 * Check whether multiple independent sources are reporting the same facts.
 * Distinguish official statements from screenshots and reposts.
 * Be cautious about identities, motives, casualty figures, and accusations during the first hours of an incident.
-* Recognise that content can be removed for legal or safety reasons without automatically proving that every related claim is false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
+* Recognise that content can be removed for legal or safety reasons without automatically proving that every related claim is false.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</span></span></span>
 
 </div>
 
@@ -370,194 +370,194 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can platforms slow rumours in a crisis?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can platforms slow rumours in a crisis?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates the value of reliable evidence over anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of reliable evidence over anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Promotes independent evaluation rather than reliance on platform moderation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes independent evaluation rather than reliance on platform moderation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attack from Within on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14587964-M.jpg" alt="Cover for Attack from Within" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attack from Within">Attack from Within</a>
-        </h4>
-        <p class="fr-book-author">By Barbara McQuade</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attack from Within on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14587964-M.jpg" alt="Cover for Attack from Within" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attack from Within">Attack from Within</a>
+</h4>
+<p class="fr-book-author">By Barbara McQuade</p>
         
-        <p class="fr-book-desc">First published 2024. Subjects: Social sciences, nyt:combined-print-and-e-book-nonfiction=2024-03-17, New York Times bestseller.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024. Subjects: Social sciences, nyt:combined-print-and-e-book-nonfiction=2024-03-17, New York Times bestseller.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attack+from+Within+Barbara+McQuade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unspun Finding Facts in a World of Disinformation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unspun Finding Facts in a World of Disinformation">Unspun Finding Facts in a World of Disinformation</a>
-        </h4>
-        <p class="fr-book-author">By Brooks Jackson, Kathleen Hall Jamieson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unspun Finding Facts in a World of Disinformation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unspun Finding Facts in a World of Disinformation">Unspun Finding Facts in a World of Disinformation</a>
+</h4>
+<p class="fr-book-author">By Brooks Jackson, Kathleen Hall Jamieson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Deception, Deceptive advertising, Communication in politics, Truthfulness and falsehood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Deception, Deceptive advertising, Communication in politics, Truthfulness and falsehood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attack+from+Within&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attack from Within</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attack+from+Within&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attack from Within</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="crisis-rules-can-platforms-slow-rumours-in-a-crisis-critical-thinking-in-the-age-of-social-media-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,158 +763,158 @@ Crisis protocols are designed to reduce the speed and reach of harmful illegal c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/tech-firms-uk-must-have-plan-illegal-content-spikes-during-crises-like-southport-2026-06-09/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These regulations require online platforms to develop crisis-response protocols aimed at managing surges in illegal content that could en...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dsa-observatory.eu  
    Title: the dsas crisis approach crisis response mechanism and crisis protocols  
-   Link: <a href="https://dsa-observatory.eu/2023/02/21/the-dsas-crisis-approach-crisis-response-mechanism-and-crisis-protocols/" target="_blank" rel="noopener noreferrer nofollow">https://dsa-observatory.eu/2023/02/21/the-dsas-crisis-approach-crisis-response-mechanism-and-crisis-protocols/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DSA&#x27;s crisis approach: crisis response mechanism and...21 Feb 2023 — The DSA also introduces significant rules on the measures that...</p></details>
+   Link:<a href="https://dsa-observatory.eu/2023/02/21/the-dsas-crisis-approach-crisis-response-mechanism-and-crisis-protocols/" target="_blank" rel="noopener noreferrer nofollow">https://dsa-observatory.eu/2023/02/21/the-dsas-crisis-approach-crisis-response-mechanism-and-crisis-protocols/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DSA&#x27;s crisis approach: crisis response mechanism and...21 Feb 2023 — The DSA also introduces significant rules on the measures that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: article19.org  
    Title: Civil Liberties Union for Europe (Liberties) Defend Democracy Read more  
-   Link: <a href="https://www.article19.org/resources/eu-digital-services-act-crisis-response-must-respect-human-rights/" target="_blank" rel="noopener noreferrer nofollow">https://www.article19.org/resources/eu-digital-services-act-crisis-response-must-respect-human-rights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARTICLE 19EU: Digital Services Act crisis response mechanism must...13 Apr 2022 — Based on experience of civil society organisations ope...</p></details>
+   Link:<a href="https://www.article19.org/resources/eu-digital-services-act-crisis-response-must-respect-human-rights/" target="_blank" rel="noopener noreferrer nofollow">https://www.article19.org/resources/eu-digital-services-act-crisis-response-must-respect-human-rights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARTICLE 19EU: Digital Services Act crisis response mechanism must...13 Apr 2022 — Based on experience of civil society organisations ope...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This move follows concerns about the fast proliferation of misinformation during critical incidents, notably the 2024 summer riots and th...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This move follows concerns about the fast proliferation of misinformation during critical incidents, notably the 2024 summer riots and th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17577632.2025.2459441" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17577632.2025.2459441</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEffective enforcement of the Online Safety Act and Digital...by S Law · 2024 · Cited by 19 — The Online Safety Ac...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17577632.2025.2459441" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17577632.2025.2459441</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEffective enforcement of the Online Safety Act and Digital...by S Law · 2024 · Cited by 19 — The Online Safety Ac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: christchurchcall.org  
-   Link: <a href="https://www.christchurchcall.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christchurch CallThe Christchurch CallChristchurch Call community strengthens crisis response process. The Christchurch Call has stre...</p></details>
+   Link:<a href="https://www.christchurchcall.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christchurch CallThe Christchurch CallChristchurch Call community strengthens crisis response process. The Christchurch Call has stre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: christchurchcall.org  
-   Link: <a href="https://www.christchurchcall.org/responding-to-crises/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/responding-to-crises/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christchurch CallResponding to CrisesWhen incidents happen, the Call Community works quickly to coordinate and prevent the spread of...</p></details>
+   Link:<a href="https://www.christchurchcall.org/responding-to-crises/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/responding-to-crises/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christchurch CallResponding to CrisesWhen incidents happen, the Call Community works quickly to coordinate and prevent the spread of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: christchurchcall.org  
    Title: what does our updated crisis response protocol actually do  
-   Link: <a href="https://www.christchurchcall.org/what-does-our-updated-crisis-response-protocol-actually-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/what-does-our-updated-crisis-response-protocol-actually-do/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>response when content from a terrorist or violent extremist attack is threatening to spread quickly on the internet. Developing and...Re...</p></details>
+   Link:<a href="https://www.christchurchcall.org/what-does-our-updated-crisis-response-protocol-actually-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/what-does-our-updated-crisis-response-protocol-actually-do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>response when content from a terrorist or violent extremist attack is threatening to spread quickly on the internet. Developing and...Re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ec.europa.eu  
-   Link: <a href="https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_2348" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_2348</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionQuestions and answers on the Digital Services Act*The DSA fosters a co-regulatory framework for online harms, includin...</p></details>
+   Link:<a href="https://ec.europa.eu/commission/presscorner/detail/en/qanda" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/qanda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionQuestions and answers on the Digital Services Act*The DSA fosters a co-regulatory framework for online harms, includin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: dsa impact platforms  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe impact of the Digital Services Act on digital platforms19 May 2026 — The DSA significantly improves the mechanisms fo...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe impact of the Digital Services Act on digital platforms19 May 2026 — The DSA significantly improves the mechanisms fo...</p></details>
    Published: May 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online Crisis?  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17577632.2024.2362481</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What crisis? The risk of fighting disinformation with...by JF Ferreau · 2024 · Cited by 3 — Since the coronavirus pandemic and the war i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2362483" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2362483</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Digital Services Act&#x27;s red line: what the Commission...by M Husovec · 2024 · Cited by 37 — The Digital Servic...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2362483" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2362483</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Digital Services Act&#x27;s red line: what the Commission...by M Husovec · 2024 · Cited by 37 — The Digital Servic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: christchurchcall.org  
    Title: significant progress made on eliminating terrorist content online  
-   Link: <a href="https://www.christchurchcall.org/significant-progress-made-on-eliminating-terrorist-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/significant-progress-made-on-eliminating-terrorist-content-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Significant progress made on eliminating terrorist content...24 Sept 2019 — The launch of a new crisis response protocol, to be used by...</p></details>
+   Link:<a href="https://www.christchurchcall.org/significant-progress-made-on-eliminating-terrorist-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchcall.org/significant-progress-made-on-eliminating-terrorist-content-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Significant progress made on eliminating terrorist content...24 Sept 2019 — The launch of a new crisis response protocol, to be used by...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eu-digital-services-act.com  
-   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act (DSA) | Updates, Compliance, TrainingIntroduces measures to counter illegal content online and obligations for platf...</p></details>
+   Link:<a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act (DSA) | Updates, Compliance, TrainingIntroduces measures to counter illegal content online and obligations for platf...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: code practice disinformation  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Code of Practice on Disinformation7 days ago — The Commission is tackling the spread of online disinformation and misinformation to...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Code of Practice on Disinformation7 days ago — The Commission is tackling the spread of online disinformation and misinformation to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ec.europa.eu  
-   Link: <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_19_6009" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/ip_19_6009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>response to contain the viral spread of terrorist and violent extremist content online.... Factsheet – EU Crisis Protocol to remove viol...</p></details>
+   Link:<a href="https://ec.europa.eu/commission/presscorner/detail/en/ip" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/ip</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>response to contain the viral spread of terrorist and violent extremist content online.... Factsheet – EU Crisis Protocol to remove viol...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: elysee.fr  
-   Link: <a href="https://www.elysee.fr/en/emmanuel-macron/2019/05/15/the-christchurch-call-to-action-to-eliminate-terrorist-and-violent-extremist-content-online" target="_blank" rel="noopener noreferrer nofollow">https://www.elysee.fr/en/emmanuel-macron/2019/05/15/the-christchurch-call-to-action-to-eliminate-terrorist-and-violent-extremist-content-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Christchurch Call To Action” to eliminate terrorist and...15 May 2019 — Support frameworks, such as industry standards, to ensure t...</p></details>
+   Link:<a href="https://www.elysee.fr/en/emmanuel-macron/2019/05/15/the-christchurch-call-to-action-to-eliminate-terrorist-and-violent-extremist-content-online" target="_blank" rel="noopener noreferrer nofollow">https://www.elysee.fr/en/emmanuel-macron/2019/05/15/the-christchurch-call-to-action-to-eliminate-terrorist-and-violent-extremist-content-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “Christchurch Call To Action” to eliminate terrorist and...15 May 2019 — Support frameworks, such as industry standards, to ensure t...</p></details>
    Published: May 2019  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: techagainstterrorism.org  
-   Link: <a href="https://techagainstterrorism.org/news/christchurch-call-leaders-summit-2023-tech-against-terrorism-calls-for-effective-responses-to-terrorist-crises" target="_blank" rel="noopener noreferrer nofollow">https://techagainstterrorism.org/news/christchurch-call-leaders-summit-2023-tech-against-terrorism-calls-for-effective-responses-to-terrorist-crises</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terrorist and violent extremist content online... Calls for Effective Responses to Terrorist Crises. Tech Against Terrorism Nov 13, 2023...</p></details>
+   Link:<a href="https://techagainstterrorism.org/news/christchurch-call-leaders-summit-2023-tech-against-terrorism-calls-for-effective-responses-to-terrorist-crises" target="_blank" rel="noopener noreferrer nofollow">https://techagainstterrorism.org/news/christchurch-call-leaders-summit-2023-tech-against-terrorism-calls-for-effective-responses-to-terrorist-crises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terrorist and violent extremist content online... Calls for Effective Responses to Terrorist Crises. Tech Against Terrorism Nov 13, 2023...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-announces-more-than-36-million-for-projects-to-help-counter-violent-extremism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-announces-more-than-36-million-for-projects-to-help-counter-violent-extremism.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christchurch Call community to eliminate Terrorist and Violent Extremist Content (TVEC) online... intervention of violent extremism. The...</p></details>
+   Link:<a href="https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-announces-more-than-36-million-for-projects-to-help-counter-violent-extremism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-announces-more-than-36-million-for-projects-to-help-counter-violent-extremism.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christchurch Call community to eliminate Terrorist and Violent Extremist Content (TVEC) online... intervention of violent extremism. The...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: akingump.com  
-   Link: <a href="https://www.akingump.com/en/insights/alerts/digital-services-act-protecting-the-digital-space-against-the-spread-of-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.akingump.com/en/insights/alerts/digital-services-act-protecting-the-digital-space-against-the-spread-of-illegal-content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act: Protecting the Digital Space Against...20 Jul 2022 — After having submitted a warning, online platforms must suspe...</p></details>
+   Link:<a href="https://www.akingump.com/en/insights/alerts/digital-services-act-protecting-the-digital-space-against-the-spread-of-illegal-content" target="_blank" rel="noopener noreferrer nofollow">https://www.akingump.com/en/insights/alerts/digital-services-act-protecting-the-digital-space-against-the-spread-of-illegal-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act: Protecting the Digital Space Against...20 Jul 2022 — After having submitted a warning, online platforms must suspe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dia.govt.nz  
-   Link: <a href="https://www.dia.govt.nz/Countering-Violent-Extremism-Crisis-Response-Process" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.govt.nz/Countering-Violent-Extremism-Crisis-Response-Process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How NZ responds to violent... Government&#x27;s response to the 2019 Christchurch terrorist attack videos and...Read more...</p></details>
+   Link:<a href="https://www.dia.govt.nz/Countering-Violent-Extremism-Crisis-Response-Process" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.govt.nz/Countering-Violent-Extremism-Crisis-Response-Process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How NZ responds to violent... Government&#x27;s response to the 2019 Christchurch terrorist attack videos and...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: research.vu.nl  
    Title: reimagining digital governance the eus digital service act and th  
-   Link: <a href="https://research.vu.nl/en/publications/reimagining-digital-governance-the-eus-digital-service-act-and-th/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/reimagining-digital-governance-the-eus-digital-service-act-and-th/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU&#x27;s Digital Service Act and the Fight Against...by M Leiser · 2023 · Cited by 11 — This multi-pronged approach seeks to preserve the in...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/reimagining-digital-governance-the-eus-digital-service-act-and-th/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/reimagining-digital-governance-the-eus-digital-service-act-and-th/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU&#x27;s Digital Service Act and the Fight Against...by M Leiser · 2023 · Cited by 11 — This multi-pronged approach seeks to preserve the in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: research-portal.uu.nl  
    Title: the dsas crisis response mechanism and the indispensability of so  
-   Link: <a href="https://research-portal.uu.nl/en/publications/the-dsas-crisis-response-mechanism-and-the-indispensability-of-so/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/the-dsas-crisis-response-mechanism-and-the-indispensability-of-so/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media regulation, leaving information on those platforms largely unregulated. While social media is a catalyst for disinformation and pro...</p></details>
+   Link:<a href="https://research-portal.uu.nl/en/publications/the-dsas-crisis-response-mechanism-and-the-indispensability-of-so/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/the-dsas-crisis-response-mechanism-and-the-indispensability-of-so/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media regulation, leaving information on those platforms largely unregulated. While social media is a catalyst for disinformation and pro...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: beehive.govt.nz  
-   Link: <a href="https://www.beehive.govt.nz/sites/default/files/2022-09/Christchurch%20Call%20Joint%20Statement%202022%20ENG.DOCX" target="_blank" rel="noopener noreferrer nofollow">https://www.beehive.govt.nz/sites/default/files/2022-09/Christchurch%20Call%20Joint%20Statement%202022%20ENG.DOCX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Incident Response and the Proliferation of Terrorist and Violent Extremist Content.Read more...</p></details>
+   Link:<a href="https://www.beehive.govt.nz/sites/default/files/2022-09/Christchurch%20Call%20Joint%20Statement%202022%20ENG.DOCX" target="_blank" rel="noopener noreferrer nofollow">https://www.beehive.govt.nz/sites/default/files/2022-09/Christchurch%20Call%20Joint%20Statement%202022%20ENG.DOCX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. Incident Response and the Proliferation of Terrorist and Violent Extremist Content.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Lawfare  
    Title: the hidden risks of platform control over historical memory  
-   Link: <a href="https://www.lawfaremedia.org/article/the-hidden-risks-of-platform-control-over-historical-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/the-hidden-risks-of-platform-control-over-historical-memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Risks of Platform Control Over Historical Memory26 Nov 2025 — Emergency powers in the EU&#x27;s Digital Services Act risk destroying im...</p></details>
+   Link:<a href="https://www.lawfaremedia.org/article/the-hidden-risks-of-platform-control-over-historical-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/the-hidden-risks-of-platform-control-over-historical-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Risks of Platform Control Over Historical Memory26 Nov 2025 — Emergency powers in the EU&#x27;s Digital Services Act risk destroying im...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rsf.org  
    Title: Digital Services Act includes many RSF's proposals but  
-   Link: <a href="https://rsf.org/en/digital-services-act-includes-many-rsfs-proposals-ignores-major-issues-press-freedom" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/digital-services-act-includes-many-rsfs-proposals-ignores-major-issues-press-freedom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2022 — Digital Services Act includes many RSF&#x27;s proposals but ignores major issues for press freedom. AFP. Organisation: RSF_en.Re...</p></details>
+   Link:<a href="https://rsf.org/en/digital-services-act-includes-many-rsfs-proposals-ignores-major-issues-press-freedom" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/digital-services-act-includes-many-rsfs-proposals-ignores-major-issues-press-freedom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2022 — Digital Services Act includes many RSF&#x27;s proposals but ignores major issues for press freedom. AFP. Organisation: RSF_en.Re...</p></details>
    Published: May 9, 2022  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: elysee.fr  
    Title: joint statement christchurch call leaders summit 2023  
-   Link: <a href="https://www.elysee.fr/en/emmanuel-macron/2023/11/11/joint-statement-christchurch-call-leaders-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.elysee.fr/en/emmanuel-macron/2023/11/11/joint-statement-christchurch-call-leaders-summit-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Statement: Christchurch Call Leaders&#x27; Summit 2023.11 Nov 2023 — Leaders reaffirmed their commitment to a strong, resilient, and eff...</p></details>
+   Link:<a href="https://www.elysee.fr/en/emmanuel-macron/2023/11/11/joint-statement-christchurch-call-leaders-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.elysee.fr/en/emmanuel-macron/2023/11/11/joint-statement-christchurch-call-leaders-summit-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Statement: Christchurch Call Leaders&#x27; Summit 2023.11 Nov 2023 — Leaders reaffirmed their commitment to a strong, resilient, and eff...</p></details>

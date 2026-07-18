@@ -278,7 +278,7 @@ A citation can be genuine, relevant, and clickable yet still fail its most impor
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_wrong_claim_support_ab1b8f-Illustration-1-dark.svg" | relative_url }}" alt="Wrong support illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_wrong_claim_support_ab1b8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_source_tracing_9a2027_wrong_claim_support_ab1b8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers, this creates a subtle risk. A broken link is easy to spot. A [real source]({{ 'real-source/' | relative_url }}) that discusses the same topic feels trustworthy, even when it does not support the exact statement being made. Research on AI source attribution shows that modern systems can achieve high rates of link validity and topical relevance while performing much worse when evaluators check whether the cited source truly supports the factual claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+For readers, this creates a subtle risk. A broken link is easy to spot. A [real source]({{ 'real-source/' | relative_url }}) that discusses the same topic feels trustworthy, even when it does not support the exact statement being made. Research on AI source attribution shows that modern systems can achieve high rates of link validity and topical relevance while performing much worse when evaluators check whether the cited source truly supports the factual claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
 In the context of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) and AI, source tracing therefore requires more than asking whether a citation exists. The key question is whether the source proves the specific claim.
 
@@ -294,7 +294,7 @@ Imagine an AI answer states:
 
 The citation leads to a real paper about social media and mental health. The topic matches. However, the paper may never report a 40% increase, may discuss correlation rather than causation, or may focus on a different population entirely. The source is relevant, but it does not support the precise claim.
 
-This distinction appears repeatedly in evaluations of AI-generated citations. Researchers studying source attribution in large-language-model research agents found a significant gap between citation relevance and factual support. Models frequently linked to material that was topically connected while failing factual verification against the cited content itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+This distinction appears repeatedly in evaluations of AI-generated citations. Researchers studying source attribution in large-language-model research agents found a significant gap between citation relevance and factual support. Models frequently linked to material that was topically connected while failing factual verification against the cited content itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
 The result is a form of evidential drift. The reader sees a real source discussing the right area and assumes that the source confirms every nearby statement.
 
@@ -329,7 +329,7 @@ Consider an AI-generated paragraph containing several factual assertions:
 
 A single broad citation may accompany the entire paragraph. Yet the source may only support one of those four points.
 
-Researchers at MIT's Computer Science and Artificial Intelligence Laboratory highlighted this problem when discussing AI citation systems. They noted that users often receive source links but must manually determine which specific evidence supports which specific statement. Their work on citation tracing was motivated partly by the difficulty of identifying the exact source passage behind a generated claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csail.mit.edu">[MIT CSAIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csail.mit.edu</span><span class="citation-popover-title">citation tool offers new approach trustworthy ai generated content</span><span class="citation-popover-snippet">MIT CSAILCitation tool offers a new approach to trustworthy AI-...9 Dec 2024 — Existing AI assistants often provide source links, but us...</span></span></span>
+Researchers at MIT's Computer Science and Artificial Intelligence Laboratory highlighted this problem when discussing AI citation systems. They noted that users often receive source links but must manually determine which specific evidence supports which specific statement. Their work on citation tracing was motivated partly by the difficulty of identifying the exact source passage behind a generated claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csail.mit.edu">[MIT CSAIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csail.mit.edu</span><span class="citation-popover-title">citation tool offers new approach trustworthy ai generated content</span><span class="citation-popover-snippet">MIT CSAILCitation tool offers a new approach to trustworthy AI-...9 Dec 2024 — Existing AI assistants often provide source links, but us...</span></span></span>
 
 For source tracing, the correct unit of analysis is not the article, report, or webpage. It is the individual claim.
 
@@ -383,7 +383,7 @@ These shifts are especially difficult to notice because the citation itself look
 
 The danger of topic-matched but claim-mismatched citations comes partly from human psychology.
 
-Studies examining trust in AI-generated answers found that citations increase user trust even when the citations are random or incorrect. Trust tends to fall when users actually inspect the sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2501.01303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Citations and Trust in LLM Generated Responses</span><span class="citation-popover-snippet">Citations and Trust in LLM Generated ResponsesJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
+Studies examining trust in AI-generated answers found that citations increase user trust even when the citations are random or incorrect. Trust tends to fall when users actually inspect the sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2501.01303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Citations and Trust in LLM Generated Responses</span><span class="citation-popover-snippet">Citations and Trust in LLM Generated ResponsesJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
 
 This matters because a relevant-looking citation creates a powerful impression of verification. Most readers do not conduct detailed claim-by-claim comparisons between the answer and the source.
 
@@ -408,9 +408,9 @@ The crucial final step—checking whether the exact statement appears or follows
 
 The issue is visible not only in research settings but also in public-facing AI systems and AI-generated reports.
 
-The Tow Center for Digital Journalism found that several AI search systems frequently cited the wrong article or misattributed information, creating situations where readers were directed to real content that did not properly support the generated answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The generative search tools we tested had a common tendency to cit...</span></span></span>
+The Tow Center for Digital Journalism found that several AI search systems frequently cited the wrong article or misattributed information, creating situations where readers were directed to real content that did not properly support the generated answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The generative search tools we tested had a common tendency to cit...</span></span></span>
 
-Recent investigations into AI-generated reports have revealed related problems. Analyses of high-profile documents have identified citations that were real but distorted through incorrect attribution, altered titles, or misleading descriptions of source content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar A major KPMG report on AI was found to be chock-full of...AI hallucinations Yesterday — A recent investigation by GPTZero has</span><span class="citation-popover-snippet">The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</span></span></span>
+Recent investigations into AI-generated reports have revealed related problems. Analyses of high-profile documents have identified citations that were real but distorted through incorrect attribution, altered titles, or misleading descriptions of source content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar A major KPMG report on AI was found to be chock-full of...AI hallucinations Yesterday — A recent investigation by GPTZero has</span><span class="citation-popover-snippet">The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</span></span></span>
 
 These examples illustrate a broader lesson: citation failures are not limited to fabricated references. A real source can still be evidence used incorrectly.
 
@@ -446,183 +446,183 @@ These checks take only a few moments but often reveal whether a citation is func
 
 When evaluating AI-assisted answers, a working citation is only the beginning of verification. The central question is not whether the source discusses the topic. It is whether the source supports the specific claim being made.
 
-Research on AI attribution increasingly points to the same weakness: systems can appear reliable because their citations are accessible and relevant while still failing factual verification at the claim level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+Research on AI attribution increasingly points to the same weakness: systems can appear reliable because their citations are accessible and relevant while still failing factual verification at the claim level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
 For critical thinkers, the habit that matters is claim-by-claim matching. A source that talks about the right subject is not automatically evidence for the statement beside it. The difference between those two things is where many AI citation errors hide.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a real source does not prove the claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a real source does not prove the claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on matching claims to evidence rather than accepting superficial support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on matching claims to evidence rather than accepting superficial support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how real data can be stretched into misleading claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real data can be stretched into misleading claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Examines cases where evidence is cited but conclusions exceed what the data supports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cases where evidence is cited but conclusions exceed what the data supports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that make unsupported inferences seem convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that make unsupported inferences seem convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="wrong-support-when-a-real-source-does-not-prove-the-claim-critical-thinking-in-the-age-of-social-critical-thinking-stick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,91 +828,91 @@ For critical thinkers, the habit that matters is claim-by-claim matching. A sour
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.06635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.06635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06635v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parsing and Evaluating Source Attribution in LLM Deep...7 May 2026 — Unlike methods that verify claims in isolation, our framework close...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06635v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parsing and Evaluating Source Attribution in LLM Deep...7 May 2026 — Unlike methods that verify claims in isolation, our framework close...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: csail.mit.edu  
    Title: citation tool offers new approach trustworthy ai generated content  
-   Link: <a href="https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content" target="_blank" rel="noopener noreferrer nofollow">https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT CSAILCitation tool offers a new approach to trustworthy AI-...9 Dec 2024 — Existing AI assistants often provide source links, but us...</p></details>
+   Link:<a href="https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content" target="_blank" rel="noopener noreferrer nofollow">https://www.csail.mit.edu/news/citation-tool-offers-new-approach-trustworthy-ai-generated-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT CSAILCitation tool offers a new approach to trustworthy AI-...9 Dec 2024 — Existing AI assistants often provide source links, but us...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Citations and Trust in LLM Generated Responses  
-   Link: <a href="https://arxiv.org/abs/2501.01303" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.01303</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Citations and Trust in LLM Generated ResponsesJanuary 2, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2501.01303" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.01303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Citations and Trust in LLM Generated ResponsesJanuary 2, 2025...</p></details>
    Published: January 2, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</p></details>
+   Link:<a href="https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-[ai-hallucinations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report contained 45 citations, with only five found to be accurate; the rest were either fabricated, distorted, or misleading. GPTZer...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cjr.org  
    Title: we compared eight ai search engines theyre all bad at citing news  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The generative search tools we tested had a common tendency to cit...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — The generative search tools we tested had a common tendency to cit...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404626821_Cited_but_Not_Verified_Parsing_and_Evaluating_Source_Attribution_in_LLM_Deep_Research_Agents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404626821_Cited_but_Not_Verified_Parsing_and_Evaluating_Source_Attribution_in_LLM_Deep_Research_Agents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Cited but Not Verified: Parsing and Evaluating...by H Onweller · 2026 — We introduce the first source attribution evaluation frame...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404626821_Cited_but_Not_Verified_Parsing_and_Evaluating_Source_Attribution_in_LLM_Deep_Research_Agents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404626821_Cited_but_Not_Verified_Parsing_and_Evaluating_Source_Attribution_in_LLM_Deep_Research_Agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Cited but Not Verified: Parsing and Evaluating...by H Onweller · 2026 — We introduce the first source attribution evaluation frame...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/intuitively-and-exhaustively-explained/ai-generated-in-text-citations-intuitively-and-exhaustively-explained-fb85566c233a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/intuitively-and-exhaustively-explained/ai-generated-in-text-citations-intuitively-and-exhaustively-explained-fb85566c233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Generated In-Text Citations — Intuitively and...The FraudX Platform allows users to view indicators of Fraud and also observe key pie...</p></details>
+   Link:<a href="https://medium.com/intuitively-and-exhaustively-explained/ai-generated-in-text-citations-intuitively-and-exhaustively-explained-fb85566c233a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/intuitively-and-exhaustively-explained/ai-generated-in-text-citations-intuitively-and-exhaustively-explained-fb85566c233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Generated In-Text Citations — Intuitively and...The FraudX Platform allows users to view indicators of Fraud and also observe key pie...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/haileyonweller_cited-but-not-verified-parsing-and-evaluating-activity-7458497480423403520-NQj0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/haileyonweller_cited-but-not-verified-parsing-and-evaluating-activity-7458497480423403520-NQj0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parsing Source Attribution in LLM Research AgentsExcited to share our new paper, “Cited but Not Verified: Parsing and Evaluating Source A...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/haileyonweller_cited-but-not-verified-parsing-and-evaluating-activity-7458497480423403520-NQj0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/haileyonweller_cited-but-not-verified-parsing-and-evaluating-activity-7458497480423403520-NQj0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parsing Source Attribution in LLM Research AgentsExcited to share our new paper, “Cited but Not Verified: Parsing and Evaluating Source A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yext.com  
-   Link: <a href="https://www.yext.com/research/ai-citation-behavior-across-models" target="_blank" rel="noopener noreferrer nofollow">https://www.yext.com/research/ai-citation-behavior-across-models</a>  
+   Link:<a href="https://www.yext.com/research/ai-citation-behavior-across-models" target="_blank" rel="noopener noreferrer nofollow">https://www.yext.com/research/ai-citation-behavior-across-models</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40yaseenmd/why-your-ai-cites-real-sources-that-never-said-that-ff6292aade76" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40yaseenmd/why-your-ai-cites-real-sources-that-never-said-that-ff6292aade76</a>  
+   Link:<a href="https://medium.com/%40yaseenmd/why-your-ai-cites-real-sources-that-never-said-that-ff6292aade76" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40yaseenmd/why-your-ai-cites-real-sources-that-never-said-that-ff6292aade76</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: themoonlight.io  
-   Link: <a href="https://www.themoonlight.io/review/cited-but-not-verified-parsing-and-evaluating-source-attribution-in-llm-deep-research-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/review/cited-but-not-verified-parsing-and-evaluating-source-attribution-in-llm-deep-research-agents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary worldwide for the paper titled Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM...</p></details>
+   Link:<a href="https://www.themoonlight.io/review/cited-but-not-verified-parsing-and-evaluating-source-attribution-in-llm-deep-research-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/review/cited-but-not-verified-parsing-and-evaluating-source-attribution-in-llm-deep-research-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary worldwide for the paper titled Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: averi.ai  
    Title: the geo playbook 2026 getting cited by llms (not just ranked by google)  
-   Link: <a href="https://www.averi.ai/blog/the-geo-playbook-2026-getting-cited-by-llms-%28not-just-ranked-by-google%29" target="_blank" rel="noopener noreferrer nofollow">https://www.averi.ai/blog/the-geo-playbook-2026-getting-cited-by-llms-%28not-just-ranked-by-google%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GEO Playbook 2026: Getting Cited by LLMs (Not Just...11 Sept 2025 — Research shows that including citations, quotations from relevan...</p></details>
+   Link:<a href="https://www.averi.ai/blog/the-geo-playbook-2026-getting-cited-by-llms-%28not-just-ranked-by-google%29" target="_blank" rel="noopener noreferrer nofollow">https://www.averi.ai/blog/the-geo-playbook-2026-getting-cited-by-llms-%28not-just-ranked-by-google%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GEO Playbook 2026: Getting Cited by LLMs (Not Just...11 Sept 2025 — Research shows that including citations, quotations from relevan...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
+   Link:<a href="https://www.facebook.com/groups/671022767060782/posts/1856355311860849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/671022767060782/posts/1856355311860849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI search engines fail to provide correct news citations&gt; According to a [new study conducted by the Tow Center for Digital Journalism](h...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: is2digital.com  
    Title: When AI doesn't cite sources, that's a red flag requiring  
-   Link: <a href="https://www.is2digital.com/insights/practical-guide-fact-checking-ai-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.is2digital.com/insights/practical-guide-fact-checking-ai-responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Fact-Checking AI Responses14 Oct 2025 — When AI cites sources, verify they&#x27;re authoritative and appropriate for your...</p></details>
+   Link:<a href="https://www.is2digital.com/insights/practical-guide-fact-checking-ai-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.is2digital.com/insights/practical-guide-fact-checking-ai-responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Fact-Checking AI Responses14 Oct 2025 — When AI cites sources, verify they&#x27;re authoritative and appropriate for your...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 387670773 Citations and Trust in LLM Generated Responses  
-   Link: <a href="https://www.researchgate.net/publication/387670773_Citations_and_Trust_in_LLM_Generated_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387670773_Citations_and_Trust_in_LLM_Generated_Responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Citations and Trust in LLM Generated Responses2 Jan 2025 — We found a significant increase in trust when citations were present, a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387670773_Citations_and_Trust_in_LLM_Generated_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387670773_Citations_and_Trust_in_LLM_Generated_Responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Citations and Trust in LLM Generated Responses2 Jan 2025 — We found a significant increase in trust when citations were present, a...</p></details>

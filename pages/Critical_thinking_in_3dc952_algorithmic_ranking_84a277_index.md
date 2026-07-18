@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952/
 description: Focused pages that expand on Ranking.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_algorithmic_ranking_84a277
 parent_title: Ranking
@@ -16,7 +16,7 @@ parent_permalink: /ranking/
 
 # Explore Topics in Ranking
 
-The following pages expand on the main **[Ranking]({{ '/ranking/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ranking]({{ '/ranking/' | relative_url }})** page and cover its key branches in.
 
 - [Claim Route]({{ '/claim-route/' | relative_url }})
 - [Feed Controls]({{ '/feed-controls/' | relative_url }})

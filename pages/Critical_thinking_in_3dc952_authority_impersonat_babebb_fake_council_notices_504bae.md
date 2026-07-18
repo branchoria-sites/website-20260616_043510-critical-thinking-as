@@ -284,7 +284,7 @@ A council-style planning notice can look decisive. It may include a reference nu
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-1-dark.svg" | relative_url }}" alt="Fake Notices illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because local rumours become far more persuasive when they appear to be backed by official paperwork. In the age of social media and AI-assisted image creation, it is increasingly easy to produce a document that resembles a genuine planning notice. Fortunately, planning systems are unusually transparent. Real planning applications leave a public trail that can usually be checked in minutes through council planning registers and official planning portals. The existence—or absence—of that record is often the strongest piece of [evidence]({{ 'evidence/' | relative_url }}) available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-title">Planning Portal Is anyone else involved?</span><span class="citation-popover-snippet">The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</span></span></span>
+This matters because local rumours become far more persuasive when they appear to be backed by official paperwork. In the age of social media and AI-assisted image creation, it is increasingly easy to produce a document that resembles a genuine planning notice. Fortunately, planning systems are unusually transparent. Real planning applications leave a public trail that can usually be checked in minutes through council planning registers and official planning portals. The existence—or absence—of that record is often the strongest piece of [evidence]({{ 'evidence/' | relative_url }}) available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-title">Planning Portal Is anyone else involved?</span><span class="citation-popover-snippet">The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</span></span></span>
 
 ## Why Planning Notices Are Easy to Imitate
 
@@ -294,7 +294,7 @@ First, most people have seen them before. Yellow site notices, planning referenc
 
 Second, planning applications often concern developments that provoke strong reactions. Housing schemes, changes of land use, transport projects and accommodation proposals can all become controversial. A forged notice can therefore exploit existing concerns while appearing to provide documentary proof.
 
-Third, many readers do not know how planning publicity works. Genuine applications are normally publicised through a combination of online publication, consultation processes and, where required, site notices. Once an application has been validated and registered, local planning authorities are required to publish specified information about it on their websites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-title">Planning Portal Is anyone else involved?</span><span class="citation-popover-snippet">The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</span></span></span>
+Third, many readers do not know how planning publicity works. Genuine applications are normally publicised through a combination of online publication, consultation processes and, where required, site notices. Once an application has been validated and registered, local planning authorities are required to publish specified information about it on their websites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-title">Planning Portal Is anyone else involved?</span><span class="citation-popover-snippet">The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</span></span></span>
 
 Because the real system already relies on publicly visible notices, a fabricated notice can appear plausible even when no application has ever been submitted.
 
@@ -318,9 +318,9 @@ A practical verification process is:
 
 </div>
 
-Most local authorities provide searchable public registers that allow residents to view applications, associated documents and planning histories. Public registers commonly include application details, appeals and previous planning decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salford.gov.uk">[Salford City Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salford.gov.uk</span><span class="citation-popover-snippet">Salford City CouncilView or comment on a planning applicationThe Public Register allows you to: View and comment on planning applications...</span></span></span>
+Most local authorities provide searchable public registers that allow residents to view applications, associated documents and planning histories. Public registers commonly include application details, appeals and previous planning decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salford.gov.uk">[Salford City Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salford.gov.uk</span><span class="citation-popover-snippet">Salford City CouncilView or comment on a planning applicationThe Public Register allows you to: View and comment on planning applications...</span></span></span>
 
-In England, councils publish planning applications through their own planning systems, while the national Planning Portal provides guidance and routes into the application process. Genuine applications are expected to pass through these official channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal+2Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-snippet">Planning PortalPlanning PortalApply online for planning permission or make a building control application through Planning Portal. Find p...</span></span></span>
+In England, councils publish planning applications through their own planning systems, while the national Planning Portal provides guidance and routes into the application process. Genuine applications are expected to pass through these official channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.planningportal.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planningportal.co.uk">[Planning Portal+2Planning Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planningportal.co.uk</span><span class="citation-popover-snippet">Planning PortalPlanning PortalApply online for planning permission or make a building control application through Planning Portal. Find p...</span></span></span>
 
 A useful [critical-thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) habit is to treat a planning notice as a claim about a database. If the database contains the application, the notice gains credibility. If the database does not contain it, the burden of proof shifts dramatically.
 
@@ -354,13 +354,13 @@ These checks rely on independently verifiable records rather than impressions.
 
 A useful example emerged in Stockport when images circulated online claiming that a planning application had been lodged for a temporary structure accommodating up to 800 asylum seekers.
 
-The document looked like a planning notice and was widely shared on social media. However, verification quickly revealed a critical problem: there was no corresponding planning application in the council's records. Stockport Council stated that the notices circulating online were not legitimate and were factually incorrect. The council further stated that no planning application for temporary asylum accommodation had been submitted or approved and that genuine applications are published through the council's website. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+The document looked like a planning notice and was widely shared on social media. However, verification quickly revealed a critical problem: there was no corresponding planning application in the council's records. Stockport Council stated that the notices circulating online were not legitimate and were factually incorrect. The council further stated that no planning application for temporary asylum accommodation had been submitted or approved and that genuine applications are published through the council's website.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
 
 The significance of the case is not merely that the claim was false. It demonstrates how authority impersonation works in practice.
 
 The forged notice attempted to bypass the normal process of evidence checking. Rather than asking residents to trust an anonymous rumour, it offered what appeared to be official documentation. The visual format encouraged readers to assume that verification had already occurred.
 
-Yet a simple public-records check overturned the entire claim. The absence of a corresponding application was more important than any debate about fonts, logos or wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+Yet a simple public-records check overturned the entire claim. The absence of a corresponding application was more important than any debate about fonts, logos or wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-snippet">Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-3-dark.svg" | relative_url }}" alt="Fake Notices illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_fake_council_notices_504bae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -370,185 +370,185 @@ For critical thinking, fake planning notices provide a useful reminder that docu
 
 A screenshot, PDF or photographed notice may appear authoritative, but planning systems are designed around public records. In many cases, the fastest route to the truth is not analysing the image itself but checking the underlying register.
 
-That approach scales well to an environment where AI tools can generate increasingly convincing documents. As visual authenticity becomes easier to fake, independent records become more valuable. A planning notice may be persuasive, but the public planning register remains the stronger source of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opendigitalplanning.org/digital-planning-register" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendigitalplanning.org">[opendigitalplanning.org+2planning.data.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendigitalplanning.org</span><span class="citation-popover-snippet">Digital Planning RegisterThe Digital Planning Register is an online planning register designed to show planning applications in a simpler...</span></span></span>
+That approach scales well to an environment where AI tools can generate increasingly convincing documents. As visual authenticity becomes easier to fake, independent records become more valuable. A planning notice may be persuasive, but the public planning register remains the stronger source of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opendigitalplanning.org/digital-planning-register" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendigitalplanning.org">[opendigitalplanning.org+2planning.data.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendigitalplanning.org</span><span class="citation-popover-snippet">Digital Planning RegisterThe Digital Planning Register is an online planning register designed to show planning applications in a simpler...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DmYhmisHZh8" title="Video guide: Using Highland Council&#x27;s Public Access planning system" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DmYhmisHZh8" target="_blank" rel="noopener noreferrer">Video guide: Using Highland Council&#x27;s Public Access planning system</a></p><p class="youtube-embed-meta">Channel: The Highland Council &middot; Views: 116 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DmYhmisHZh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DmYhmisHZh8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Council Notice Is Not Real. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Council Notice Is Not Real. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Useful for evaluating documents that appear authoritative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating documents that appear authoritative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Supports evidence-first reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-first reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of apparently official information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of apparently official information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="fake-notices-when-a-council-notice-is-not-real-critical-thinking-in-the-age-of-social-media-and-critical-thinking-sticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ That approach scales well to an environment where AI tools can generate increasi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ That approach scales well to an environment where AI tools can generate increasi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ That approach scales well to an environment where AI tools can generate increasi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ That approach scales well to an environment where AI tools can generate increasi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ That approach scales well to an environment where AI tools can generate increasi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,188 +754,188 @@ That approach scales well to an environment where AI tools can generate increasi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/search-register-planning-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/search-register-planning-decisions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the register of planning decisionsSearch the register of planning decisions. Plans for all new developments that need planning permission...</p></details>
+   Link:<a href="https://www.gov.uk/search-register-planning-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/search-register-planning-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the register of planning decisionsSearch the register of planning decisions. Plans for all new developments that need planning permission...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/consultation-and-pre-decision-matters" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/consultation-and-pre-decision-matters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and pre-decision mattersLocal planning authorities are required to undertake a formal period of public consultation, prior to deciding a...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/consultation-and-pre-decision-matters" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/consultation-and-pre-decision-matters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and pre-decision mattersLocal planning authorities are required to undertake a formal period of public consultation, prior to deciding a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: salford.gov.uk  
-   Link: <a href="https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/" target="_blank" rel="noopener noreferrer nofollow">https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Salford City CouncilView or comment on a planning applicationThe Public Register allows you to: View and comment on planning applications...</p></details>
+   Link:<a href="https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/" target="_blank" rel="noopener noreferrer nofollow">https://www.salford.gov.uk/planning-building-and-regeneration/planning-applications/view-or-comment-on-a-planning-application/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Salford City CouncilView or comment on a planning applicationThe Public Register allows you to: View and comment on planning applications...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: manchester.gov.uk  
-   Link: <a href="https://www.manchester.gov.uk/planning-and-regeneration/planning/planning-permission/see-or-comment-on-planning-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.manchester.gov.uk/planning-and-regeneration/planning/planning-permission/see-or-comment-on-planning-applications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See or comment on planning applicationsSee what&#x27;s planned in your area. Follow the progress of an application, have your say on plans, an...</p></details>
+   Link:<a href="https://www.manchester.gov.uk/planning-and-regeneration/planning/planning-permission/see-or-comment-on-planning-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.manchester.gov.uk/planning-and-regeneration/planning/planning-permission/see-or-comment-on-planning-applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See or comment on planning applicationsSee what&#x27;s planned in your area. Follow the progress of an application, have your say on plans, an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: opendigitalplanning.org  
-   Link: <a href="https://opendigitalplanning.org/digital-planning-register" target="_blank" rel="noopener noreferrer nofollow">https://opendigitalplanning.org/digital-planning-register</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Planning RegisterThe Digital Planning Register is an online planning register designed to show planning applications in a simpler...</p></details>
+   Link:<a href="https://opendigitalplanning.org/digital-planning-register" target="_blank" rel="noopener noreferrer nofollow">https://opendigitalplanning.org/digital-planning-register</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Planning RegisterThe Digital Planning Register is an online planning register designed to show planning applications in a simpler...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: planning.data.gov.uk  
-   Link: <a href="https://www.planning.data.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.planning.data.gov.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing and housing decis...</p></details>
+   Link:<a href="https://www.planning.data.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.planning.data.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing and housing decis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/making-an-application" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/making-an-application</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an applicationApplicants are encouraged to apply electronically through the local planning authority&#x27;s website. The standard application...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/making-an-application" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/making-an-application</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an applicationApplicants are encouraged to apply electronically through the local planning authority&#x27;s website. The standard application...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/determining-a-planning-application" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/determining-a-planning-application</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a planning applicationMajor planning applications should be decided in no more than 26 weeks and non-major applications within 16 weeks...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/determining-a-planning-application" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/determining-a-planning-application</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a planning applicationMajor planning applications should be decided in no more than 26 weeks and non-major applications within 16 weeks...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/permission-in-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/permission-in-principle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in principleThis guidance provides information about permission in principle - a new planning consent route...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/permission-in-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/permission-in-principle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in principleThis guidance provides information about permission in principle - a new planning consent route...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/planning-applications-s62a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/planning-applications-s62a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applications (s62A)Where a Local Planning Authority is designated, eligible applications can, if the applicant chooses, be made directly...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/planning-applications-s62a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/planning-applications-s62a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applications (s62A)Where a Local Planning Authority is designated, eligible applications can, if the applicant chooses, be made directly...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/[government/statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/[government/statistics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>applications in England: April to June 202518 Sept 2025 — Information on planning applications is collected as part of the routine admini...</p></details>
+   Link:<a href="https://www.gov.uk/[government/statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/[government/statistics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>applications in England: April to June 202518 Sept 2025 — Information on planning applications is collected as part of the routine admini...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newham.gov.uk  
    Title: Planning, development and conservation  
-   Link: <a href="https://www.newham.gov.uk/planning-development-conservation" target="_blank" rel="noopener noreferrer nofollow">https://www.newham.gov.uk/planning-development-conservation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>View and comment on planning applications, search for planning decisions, appeals and...Read more...</p></details>
+   Link:<a href="https://www.newham.gov.uk/planning-development-conservation" target="_blank" rel="noopener noreferrer nofollow">https://www.newham.gov.uk/planning-development-conservation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View and comment on planning applications, search for planning decisions, appeals and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: london.gov.uk  
-   Link: <a href="https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applications and decisionsFind planning applications referred to the Mayor on our PlanApps platform. You can search and find dec...</p></details>
+   Link:<a href="https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applications and decisionsFind planning applications referred to the Mayor on our PlanApps platform. You can search and find dec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: planningregister.planningsystemni.gov.uk  
-   Link: <a href="https://planningregister.planningsystemni.gov.uk/simple-search" target="_blank" rel="noopener noreferrer nofollow">https://planningregister.planningsystemni.gov.uk/simple-search</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning PortalYou can create, search, track and comment on planning applications and more.Read more...</p></details>
+   Link:<a href="https://planningregister.planningsystemni.gov.uk/simple-search" target="_blank" rel="noopener noreferrer nofollow">https://planningregister.planningsystemni.gov.uk/simple-search</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning PortalYou can create, search, track and comment on planning applications and more.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79b870e5274a684690ba0b/148166.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79b870e5274a684690ba0b/148166.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukGood-practice guidance on access to and charging for...2 Sept 2004 — We have explained the legal background bel...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79b870e5274a684690ba0b/148166.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79b870e5274a684690ba0b/148166.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukGood-practice guidance on access to and charging for...2 Sept 2004 — We have explained the legal background bel...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: southlakeland.gov.uk  
-   Link: <a href="https://www.southlakeland.gov.uk/planning-and-building/planning/planning-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.southlakeland.gov.uk/planning-and-building/planning/planning-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applicationsSearch for and comment on existing planning applications, find out if you need planning permission, and make an appl...</p></details>
+   Link:<a href="https://www.southlakeland.gov.uk/planning-and-building/planning/planning-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.southlakeland.gov.uk/planning-and-building/planning/planning-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applicationsSearch for and comment on existing planning applications, find out if you need planning permission, and make an appl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: local.gov.uk  
    Title: 20210622 Planning and GDPR PAS guide  
-   Link: <a href="https://www.local.gov.uk/sites/default/files/documents/20210622%20-%20Planning%20and%20GDPR%20PAS%20guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/sites/default/files/documents/20210622%20-%20Planning%20and%20GDPR%20PAS%20guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning and GDPR22 Jun 2021 — This document is an evolution of the Planner&#x27;s Guide to GDPR, published by the. Planning Advisory Service...</p></details>
+   Link:<a href="https://www.local.gov.uk/sites/default/files/documents/20210622%20-%20Planning%20and%20GDPR%20PAS%20guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/sites/default/files/documents/20210622%20-%20Planning%20and%20GDPR%20PAS%20guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning and GDPR22 Jun 2021 — This document is an evolution of the Planner&#x27;s Guide to GDPR, published by the. Planning Advisory Service...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: stockport.gov.uk  
    Title: national scams  
-   Link: <a href="https://www.stockport.gov.uk/stockport-against-scams/national-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.stockport.gov.uk/stockport-against-scams/national-scams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stockport Against Scams22 Apr 2026 — This page aims to keep you updated on scams that have been reported nationally. For a list of scams...</p></details>
+   Link:<a href="https://www.stockport.gov.uk/stockport-against-scams/national-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.stockport.gov.uk/stockport-against-scams/national-scams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stockport Against Scams22 Apr 2026 — This page aims to keep you updated on scams that have been reported nationally. For a list of scams...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stockport.gov.uk  
    Title: local scams  
-   Link: <a href="https://www.stockport.gov.uk/stockport-against-scams/local-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.stockport.gov.uk/stockport-against-scams/local-scams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stockport Against Scams23 Jan 2026 — Local scams. This page aims to keep you updated on scams that have been reported across the borough...</p></details>
+   Link:<a href="https://www.stockport.gov.uk/stockport-against-scams/local-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.stockport.gov.uk/stockport-against-scams/local-scams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stockport Against Scams23 Jan 2026 — Local scams. This page aims to keep you updated on scams that have been reported across the borough...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: planningportal.co.uk  
    Title: Planning Portal Is anyone else involved?  
-   Link: <a href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</p></details>
+   Link:<a href="https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/is-anyone-else-involved</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The decision-making processAll LPAs are required to publish specified information about all planning applications on their websites, for...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: planningportal.co.uk  
-   Link: <a href="https://www.planningportal.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning PortalPlanning PortalApply online for planning permission or make a building control application through Planning Portal. Find p...</p></details>
+   Link:<a href="https://www.planningportal.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning PortalPlanning PortalApply online for planning permission or make a building control application through Planning Portal. Find p...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: planningportal.co.uk  
-   Link: <a href="https://www.planningportal.co.uk/applications" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ApplicationsAll planning applications are required to be submitted on a standard form and can be submitted online through the Planning Po...</p></details>
+   Link:<a href="https://www.planningportal.co.uk/applications" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ApplicationsAll planning applications are required to be submitted on a standard form and can be submitted online through the Planning Po...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: planningportal.co.uk  
-   Link: <a href="https://www.planningportal.co.uk/planning/planning-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applicationsMost planning applications are submitted online. You can apply to every local authority in England through the Plann...</p></details>
+   Link:<a href="https://www.planningportal.co.uk/planning/planning-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning applicationsMost planning applications are submitted online. You can apply to every local authority in England through the Plann...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</p></details>
+   Link:<a href="https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/immigration/asylum-seekers-housing-stockport-fake-application/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactFake planning notice falsely claims application lodged for...December 23, 2025 — 23 Dec 2025 — A spokesperson for Stockport Cou...</p></details>
    Published: December 23, 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: planningportal.co.uk  
-   Link: <a href="https://www.planningportal.co.uk/planning/planning-applications/application-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications/application-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Application guideThe following guide breaks down the types of application by who may need to use them, and scenarios you may find yoursel...</p></details>
+   Link:<a href="https://www.planningportal.co.uk/planning/planning-applications/application-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.planningportal.co.uk/planning/planning-applications/application-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Application guideThe following guide breaks down the types of application by who may need to use them, and scenarios you may find yoursel...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: planningresource.co.uk  
-   Link: <a href="https://www.planningresource.co.uk/article/1818730/council-cites-planning-breach-legal-action-against-home-office-plan-house-asylum-seekers-ex-raf-base" target="_blank" rel="noopener noreferrer nofollow">https://www.planningresource.co.uk/article/1818730/council-cites-planning-breach-legal-action-against-home-office-plan-house-asylum-seekers-ex-raf-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncil cites planning breach in legal action against Home...4 Apr 2023 — A council has launched legal action against the Home Office&#x27;s...</p></details>
+   Link:<a href="https://www.planningresource.co.uk/article/1818730/council-cites-planning-breach-legal-action-against-home-office-plan-house-asylum-seekers-ex-raf-base" target="_blank" rel="noopener noreferrer nofollow">https://www.planningresource.co.uk/article/1818730/council-cites-planning-breach-legal-action-against-home-office-plan-house-asylum-seekers-ex-raf-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncil cites planning breach in legal action against Home...4 Apr 2023 — A council has launched legal action against the Home Office&#x27;s...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FullFact.org/posts/an-image-of-a-planning-notice-detailing-a-new-application-to-house-up-to-800-asy/1290031943169888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/posts/an-image-of-a-planning-notice-detailing-a-new-application-to-house-up-to-800-asy/1290031943169888/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>asylum seekers in Greater Manchester has been circulating online.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/FullFact.org/posts/an-image-of-a-planning-notice-detailing-a-new-application-to-house-up-to-800-asy/1290031943169888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/posts/an-image-of-a-planning-notice-detailing-a-new-application-to-house-up-to-800-asy/1290031943169888/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asylum seekers in Greater Manchester has been circulating online.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1656177337901747/posts/3021704574682343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1656177337901747/posts/3021704574682343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>grants into hotels in Stockport without consulting the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1656177337901747/posts/3021704574682343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1656177337901747/posts/3021704574682343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>grants into hotels in Stockport without consulting the...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/178753568830557/posts/25534511969494701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/178753568830557/posts/25534511969494701/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with an image attached of what appears to be a council notice...</p></details>
+   Link:<a href="https://www.facebook.com/groups/178753568830557/posts/25534511969494701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/178753568830557/posts/25534511969494701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with an image attached of what appears to be a council notice...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: learning.nspcc.org.uk  
    Title: recently published case reviews  
-   Link: <a href="https://learning.nspcc.org.uk/case-reviews/recently-published-case-reviews" target="_blank" rel="noopener noreferrer nofollow">https://learning.nspcc.org.uk/case-reviews/recently-published-case-reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>published case reviews2 Jun 2026 — Case reviews published in 2026. A list of the full overview reports and executive summaries added to t...</p></details>
+   Link:<a href="https://learning.nspcc.org.uk/case-reviews/recently-published-case-reviews" target="_blank" rel="noopener noreferrer nofollow">https://learning.nspcc.org.uk/case-reviews/recently-published-case-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>published case reviews2 Jun 2026 — Case reviews published in 2026. A list of the full overview reports and executive summaries added to t...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: stockport.nub.news  
-   Link: <a href="https://stockport.nub.news/news/local-news/fact-checked-application-for-800-asylum-seekers-to-be-housed-is-not-true-282976" target="_blank" rel="noopener noreferrer nofollow">https://stockport.nub.news/news/local-news/fact-checked-application-for-800-asylum-seekers-to-be-housed-is-not-true-282976</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checked: Application for 800 asylum seekers to be...18 Dec 2025 — Claims that 800 asylum seekers could be housed in a Stockport par...</p></details>
+   Link:<a href="https://stockport.nub.news/news/local-news/fact-checked-application-for-800-asylum-seekers-to-be-housed-is-not-true-282976" target="_blank" rel="noopener noreferrer nofollow">https://stockport.nub.news/news/local-news/fact-checked-application-for-800-asylum-seekers-to-be-housed-is-not-true-282976</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checked: Application for 800 asylum seekers to be...18 Dec 2025 — Claims that 800 asylum seekers could be housed in a Stockport par...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: x.com  
-   Link: <a href="https://x.com/FullFact/status/2003752590673055983" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FullFact/status/2003752590673055983</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An image of a planning notice detailing a new application...But the planning notice is fake, and Stockport Council has confirmed no such...</p></details>
+   Link:<a href="https://x.com/FullFact/status/2003752590673055983" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FullFact/status/2003752590673055983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An image of a planning notice detailing a new application...But the planning notice is fake, and Stockport Council has confirmed no such...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Cities warn citizens about scammers claiming to be from city planning department  
-   Link: <a href="https://www.youtube.com/watch?v=pkpjeUeuz5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pkpjeUeuz5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video guide: Using Highland Council&#x27;s Public Access planning system...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pkpjeUeuz5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pkpjeUeuz5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video guide: Using Highland Council&#x27;s Public Access planning system...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Video guide: Using Highland Council's Public Access planning system  
-   Link: <a href="https://www.youtube.com/watch?v=DmYhmisHZh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DmYhmisHZh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning Enforcement Week: Getting it right - the enforcement notice...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DmYhmisHZh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DmYhmisHZh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning Enforcement Week: Getting it right - the enforcement notice...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MyStockportNews/photos/the-notices-circulating-locally-and-online-are-not-legitimate-and-are-factually-/1409510671175281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyStockportNews/photos/the-notices-circulating-locally-and-online-are-not-legitimate-and-are-factually-/1409510671175281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctually incorrect.&quot;...</p></details>
+   Link:<a href="https://www.facebook.com/MyStockportNews/photos/the-notices-circulating-locally-and-online-are-not-legitimate-and-are-factually-/1409510671175281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyStockportNews/photos/the-notices-circulating-locally-and-online-are-not-legitimate-and-are-factually-/1409510671175281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctually incorrect.&quot;...</p></details>

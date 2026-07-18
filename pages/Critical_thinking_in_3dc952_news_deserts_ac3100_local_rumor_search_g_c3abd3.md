@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumo
 
 ## Introduction
 
-Searching the web is often presented as a simple way to verify a rumour: type the claim into a search engine and see whether it is true. For local rumours, however, that approach frequently fails. Claims about a school closure, a council decision, a crime incident, a local business, or a town-council candidate may leave only a thin digital record. In areas where local journalism has weakened, search engines often have little reliable material to work with, and the results can end up reflecting the rumour itself rather than independently verified information. Research on [news deserts]({{ 'news-deserts/' | relative_url }}) and local misinformation suggests that communities with weaker local news coverage are more reliant on social media groups, search engines, and informal networks for local information, creating conditions where rumours can be difficult to check and easy to amplify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citap.unc.edu">[CITAP+2Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citap.unc.edu</span><span class="citation-popover-snippet">news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</span></span></span>
+Searching the web is often presented as a simple way to verify a rumour: type the claim into a search engine and see whether it is true. For local rumours, however, that approach frequently fails. Claims about a school closure, a council decision, a crime incident, a local business, or a town-council candidate may leave only a thin digital record. In areas where local journalism has weakened, search engines often have little reliable material to work with, and the results can end up reflecting the rumour itself rather than independently verified information. Research on [news deserts]({{ 'news-deserts/' | relative_url }}) and local misinformation suggests that communities with weaker local news coverage are more reliant on social media groups, search engines, and informal networks for local information, creating conditions where rumours can be difficult to check and easy to amplify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citap.unc.edu">[CITAP+2Local News Initiative]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citap.unc.edu</span><span class="citation-popover-snippet">news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-1-dark.svg" | relative_url }}" alt="Search Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Understanding these search gaps is an important part of [critical thinking]({{ '
 
 Many local claims generate little public documentation. National political controversies, major disasters, or celebrity stories usually produce reporting from multiple organisations. A rumour about a neighbourhood planning application or a dispute at a local school may not.
 
-In communities with shrinking local news coverage, routine reporting on councils, public meetings, local services, and community events has become less common. Researchers studying news deserts have repeatedly found that the loss of local reporting reduces the amount of independently verified local information available to residents. The Expanding News Desert+2Rebuild Local News <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usnewsdeserts.com">[usnewsdeserts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usnewsdeserts.com</span><span class="citation-popover-snippet">The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</span></span></span>
+In communities with shrinking local news coverage, routine reporting on councils, public meetings, local services, and community events has become less common. Researchers studying news deserts have repeatedly found that the loss of local reporting reduces the amount of independently verified local information available to residents. The Expanding News Desert+2Rebuild Local News<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usnewsdeserts.com">[usnewsdeserts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usnewsdeserts.com</span><span class="citation-popover-snippet">The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</span></span></span>
 
 This creates several search problems:
 
@@ -312,7 +312,7 @@ Imagine a claim posted in a neighbourhood Facebook group. Other users share scre
 
 This creates an illusion of confirmation. What appears to be multiple independent sources may actually be a single rumour echoed repeatedly.
 
-Researchers who study misinformation note that online rumours spread through networks of reposting, quotation, and aggregation. Search engines are designed to discover relevant content, not automatically determine whether apparently separate mentions are genuinely independent pieces of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2501.05292v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detection of Rumors and Their Sources in Social Networks9 Jan 2025 — A rumor-detection problem involves identifying and mitigating f...</span></span></span>
+Researchers who study misinformation note that online rumours spread through networks of reposting, quotation, and aggregation. Search engines are designed to discover relevant content, not automatically determine whether apparently separate mentions are genuinely independent pieces of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2501.05292v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detection of Rumors and Their Sources in Social Networks9 Jan 2025 — A rumor-detection problem involves identifying and mitigating f...</span></span></span>
 
 For local claims, duplication can be especially misleading because:
 
@@ -335,9 +335,9 @@ A page of search results containing twenty references to a claim can still repre
 
 Search engines work best when reliable material exists for comparison. They work less well when the available information ecosystem is dominated by the rumour itself.
 
-In a healthy local information environment, a false claim about a council decision might be countered by local news reports, official statements, public records, and community reporting. In a news desert, those competing sources may be absent. The rumour becomes one of the few available signals that search systems can index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citap.unc.edu">[CITAP+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citap.unc.edu</span><span class="citation-popover-snippet">news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</span></span></span>
+In a healthy local information environment, a false claim about a council decision might be countered by local news reports, official statements, public records, and community reporting. In a news desert, those competing sources may be absent. The rumour becomes one of the few available signals that search systems can index.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citap.unc.edu">[CITAP+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citap.unc.edu</span><span class="citation-popover-snippet">news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</span></span></span>
 
-Recent research and reporting have highlighted how communities with limited local journalism can become more vulnerable to misinformation circulating through local social media groups. In such environments, online discussions may reach large audiences while lacking the verification standards associated with professional reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+Recent research and reporting have highlighted how communities with limited local journalism can become more vulnerable to misinformation circulating through local social media groups. In such environments, online discussions may reach large audiences while lacking the verification standards associated with professional reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2SMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 The practical consequence is subtle but important. Search results may not directly endorse a rumour, yet they may still become saturated with references to it because little verified information exists to displace it.
 
@@ -365,7 +365,7 @@ A search failure can happen because:
 
 Local information is particularly vulnerable to these problems because it is less likely to generate extensive coverage, backlinks, archives, and public discussion than national stories.
 
-This is one reason researchers studying information access in news deserts emphasise that communities can possess large amounts of information while still lacking accessible, verifiable local knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">These results contribute</span><span class="citation-popover-snippet">An evaluation of online information acquisition in US news desertsNovember 13, 2024 — We find some evidence that those in news deserts...</span><span class="citation-popover-meta">Published: November 13, 2024</span></span></span>
+This is one reason researchers studying information access in news deserts emphasise that communities can possess large amounts of information while still lacking accessible, verifiable local knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">These results contribute</span><span class="citation-popover-snippet">An evaluation of online information acquisition in US news desertsNovember 13, 2024 — We find some evidence that those in news deserts...</span><span class="citation-popover-meta">Published: November 13, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-2-dark.svg" | relative_url }}" alt="Search Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -406,7 +406,7 @@ A hundred reposts do not equal a hundred sources.
 
 ### Check Whether Local Journalism Exists
 
-Even small local outlets can provide important context. Where professional local reporting survives, journalists often have access to officials, documents, and institutional knowledge that social media discussions lack. Research consistently points to local journalism as an important defence against unchecked local misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2CITAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
+Even small local outlets can provide important context. Where professional local reporting survives, journalists often have access to officials, documents, and institutional knowledge that social media discussions lack. Research consistently points to local journalism as an important defence against unchecked local misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2CITAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-3-dark.svg" | relative_url }}" alt="Search Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_news_deserts_ac3100_local_rumor_search_g_c3abd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -421,194 +421,194 @@ The weakness of search results for local rumours is not usually a technical fail
 For local claims, the absence of reliable search results should therefore be treated as a signal to investigate more carefully, not as a shortcut to certainty. In news deserts especially, the hardest rumours to verify are often the ones that matter most to the people directly affected by them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Searching Does Not Settle It. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Searching Does Not Settle It. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how weak evidence and repetition can distort judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how weak evidence and repetition can distort judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the cognitive background behind overconfidence in search results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the cognitive background behind overconfidence in search results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fact checker&#x27;s bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/243835-M.jpg" alt="Cover for The fact checker&#x27;s bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fact checker&#x27;s bible">The fact checker&#x27;s bible</a>
-        </h4>
-        <p class="fr-book-author">By Sarah Harrison Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fact checker&#x27;s bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/243835-M.jpg" alt="Cover for The fact checker&#x27;s bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fact checker&#x27;s bible">The fact checker&#x27;s bible</a>
+</h4>
+<p class="fr-book-author">By Sarah Harrison Smith</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Editing, Nonfiction, Reference, Information retrieval, Research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Editing, Nonfiction, Reference, Information retrieval, Research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fact+checker%27s+bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fact checker&#x27;s bible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fact+checker%27s+bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fact checker&#x27;s bible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Care of Prints and Drawings (American Association for State &amp; Local History"><img src="{{ '/assets/images/marketplace-covers/d71f8f31b3b1ab348eb5.jpg' | relative_url }}" alt="Listing image for The Care of Prints and Drawings (American Association for State &amp; Local History" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">The Care of Prints and Drawings (American Association for State &amp; Local History</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare"><img src="{{ '/assets/images/marketplace-covers/cf74e36f95222f909d0d.jpg' | relative_url }}" alt="Listing image for Jones &amp; Higgins Peckham Framed Print Local History Art London Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Jones &amp; Higgins Peckham Framed Print Local History Art London Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback"><img src="{{ '/assets/images/marketplace-covers/d785b3daeffaa68a02ff.jpg' | relative_url }}" alt="Listing image for Wye Local History- Autumn 2007, Volume VII No.1 - Paperback" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">Wye Local History- Autumn 2007, Volume VII No.1 - Paperback</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search <span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Albans A History Mark Freeman Hardback Local History Book Illustrated"><img src="{{ '/assets/images/marketplace-covers/5ca754da5f92464727ce.jpg' | relative_url }}" alt="Listing image for St Albans A History Mark Freeman Hardback Local History Book Illustrated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">St Albans A History Mark Freeman Hardback Local History Book Illustrated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for local history print">Search<span data-ebay-domain-label>eBay.co.uk</span>: local history print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=local+history+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="local history print" data-ebay-reference="search-gaps-when-searching-does-not-settle-it-critical-thinking-in-the-age-of-social-media-and-a-local-history-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ For local claims, the absence of reliable search results should therefore be tre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ For local claims, the absence of reliable search results should therefore be tre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ For local claims, the absence of reliable search results should therefore be tre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ For local claims, the absence of reliable search results should therefore be tre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -773,7 +773,7 @@ For local claims, the absence of reliable search results should therefore be tre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -814,139 +814,139 @@ For local claims, the absence of reliable search results should therefore be tre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: citap.unc.edu  
-   Link: <a href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://citap.unc.edu/news/local-news-platforms-mis-disinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</p></details>
+   Link:<a href="https://citap.unc.edu/news/local-news-platforms-mis-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://citap.unc.edu/news/local-news-platforms-mis-disinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news from social media, leaving them vulnerable to mis- and disinformation and exacerbating...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-5172/5/3/78" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/5/3/78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sourcing Local Information in News Desertsby L Torre · 2024 · Cited by 17 — News deserts are communities without a local news outlet, or...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-5172/5/3/78" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/5/3/78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sourcing Local Information in News Desertsby L Torre · 2024 · Cited by 17 — News deserts are communities without a local news outlet, or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2501.05292v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.05292v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Rumors and Their Sources in Social Networks9 Jan 2025 — A rumor-detection problem involves identifying and mitigating f...</p></details>
+   Link:<a href="https://arxiv.org/html/2501.05292v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.05292v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Rumors and Their Sources in Social Networks9 Jan 2025 — A rumor-detection problem involves identifying and mitigating f...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: The impact of misinformation, fake news and rumors and the causes of their  
-   Link: <a href="https://www.researchgate.net/publication/354007625_Misinformation_Fake_News_and_Rumor_Detection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354007625_Misinformation_Fake_News_and_Rumor_Detection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Fake News and Rumor DetectionThis chapter aims to define different categories of false and unverified informa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354007625_Misinformation_Fake_News_and_Rumor_Detection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354007625_Misinformation_Fake_News_and_Rumor_Detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Fake News and Rumor DetectionThis chapter aims to define different categories of false and unverified informa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: smf.co.uk  
-   Link: <a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;news deserts&#x27;) had nearly 3 times as much fake news as a share of all...Read more...</p></details>
+   Link:<a href="https://www.smf.co.uk/publications/social-media-local-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.smf.co.uk/publications/social-media-local-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;news deserts&#x27;) had nearly 3 times as much fake news as a share of all...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: These results contribute  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An evaluation of online information acquisition in US news desertsNovember 13, 2024 — We find some evidence that those in news deserts...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11560965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An evaluation of online information acquisition in US news desertsNovember 13, 2024 — We find some evidence that those in news deserts...</p></details>
    Published: November 13, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asistdl.onlinelibrary.wiley.com  
-   Link: <a href="https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1293" target="_blank" rel="noopener noreferrer nofollow">https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1293</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryNews Deserts as Information Problems: A Case Study of Local...16 Oct 2025 — This paper explores the phenomenon of ne...</p></details>
+   Link:<a href="https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1293" target="_blank" rel="noopener noreferrer nofollow">https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryNews Deserts as Information Problems: A Case Study of Local...16 Oct 2025 — This paper explores the phenomenon of ne...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7080/12/11/222" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7080/12/11/222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News Detection Revisited: An Extensive Review of...by S Harris · 2024 · Cited by 49 — This review evaluates the available datasets...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7080/12/11/222" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7080/12/11/222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News Detection Revisited: An Extensive Review of...by S Harris · 2024 · Cited by 49 — This review evaluates the available datasets...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 383512583 Sourcing Local Information in News Deserts  
-   Link: <a href="https://www.researchgate.net/publication/383512583_Sourcing_Local_Information_in_News_Deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383512583_Sourcing_Local_Information_in_News_Deserts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sourcing Local Information in News Deserts19 Aug 2024 — (1) Background: News deserts are communities without a local news outlet, o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383512583_Sourcing_Local_Information_in_News_Deserts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383512583_Sourcing_Local_Information_in_News_Deserts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sourcing Local Information in News Deserts19 Aug 2024 — (1) Background: News deserts are communities without a local news outlet, o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: localnewsinitiative.northwestern.edu  
    Title: news deserts social media local news medill survey  
-   Link: <a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no local news, those in news deserts turn to social media feeds...February 10, 2026 — The survey found that nearly 60% of respondents in...</p></details>
+   Link:<a href="https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/" target="_blank" rel="noopener noreferrer nofollow">https://localnewsinitiative.northwestern.edu/posts/2026/02/10/news-deserts-social-media-local-news-medill-survey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no local news, those in news deserts turn to social media feeds...February 10, 2026 — The survey found that nearly 60% of respondents in...</p></details>
    Published: February 10, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usnewsdeserts.com  
-   Link: <a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</p></details>
+   Link:<a href="https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.usnewsdeserts.com/reports/expanding-news-desert/loss-of-local-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Expanding News DesertThe Loss of Local News: What It Means for CommunitiesThis report explores the loss and diminishment of local new...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rebuildlocalnews.org  
-   Link: <a href="https://www.rebuildlocalnews.org/new-report-reveals-alarming-and-widespread-shortage-of-local-journalists-across-the-u-s/" target="_blank" rel="noopener noreferrer nofollow">https://www.rebuildlocalnews.org/new-report-reveals-alarming-and-widespread-shortage-of-local-journalists-across-the-u-s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Report Reveals Alarming and Widespread Shortage of Local...July 10, 2025 — The report assesses county-level reporting capacity and f...</p></details>
+   Link:<a href="https://www.rebuildlocalnews.org/new-report-reveals-alarming-and-widespread-shortage-of-local-journalists-across-the-u-s/" target="_blank" rel="noopener noreferrer nofollow">https://www.rebuildlocalnews.org/new-report-reveals-alarming-and-widespread-shortage-of-local-journalists-across-the-u-s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Report Reveals Alarming and Widespread Shortage of Local...July 10, 2025 — The report assesses county-level reporting capacity and f...</p></details>
    Published: July 10, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics such as immigration and Islamophobia are the most frequent subjects of false claims. The spread intensifies around elections, with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 147 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theajp.org  
-   Link: <a href="https://www.theajp.org/news-insights/the-state-of-local-news-and-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theajp.org/news-insights/the-state-of-local-news-and-why-it-matters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Journalism ProjectThe state of local news and why it mattersResearch shows that the loss of local news is having an insidious ef...</p></details>
+   Link:<a href="https://www.theajp.org/news-insights/the-state-of-local-news-and-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theajp.org/news-insights/the-state-of-local-news-and-why-it-matters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Journalism ProjectThe state of local news and why it mattersResearch shows that the loss of local news is having an insidious ef...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3rtfHJ9FBvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3rtfHJ9FBvY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 —... report. We regret the error. Stream your PBS favorites with the PBS app: [https://to.pbs.org/2Jb8twG](https://to.pbs.org/2Jb8twG) Find mor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3rtfHJ9FBvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3rtfHJ9FBvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 —... report. We regret the error. Stream your PBS favorites with the PBS app: [https://to.pbs.org/2Jb8twG](https://to.pbs.org/2Jb8twG) Find mor...</p></details>
    Published: August 30, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DJYIzQFx_7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJYIzQFx_7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a &quot;News Desert&quot; and how it directly impacts communities in North Carolina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DJYIzQFx_7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJYIzQFx_7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a &quot;News Desert&quot; and how it directly impacts communities in North Carolina...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reporterslab.org  
    Title: Fact-Checking News Archives  
-   Link: <a href="https://reporterslab.org/category/fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://reporterslab.org/category/fact-checking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke Reporters&#x27; LabThe Duke Reporters&#x27; Lab counts 443 active fact-checking projects around the world in 2025, down about 2 percent so far...</p></details>
+   Link:<a href="https://reporterslab.org/category/fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://reporterslab.org/category/fact-checking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duke Reporters&#x27; LabThe Duke Reporters&#x27; Lab counts 443 active fact-checking projects around the world in 2025, down about 2 percent so far...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: closeup.org  
    Title: Typically, when a newspaper  
-   Link: <a href="https://www.closeup.org/the-decline-of-local-newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://www.closeup.org/the-decline-of-local-newspapers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons for the Decline of Local Newspapers - Close Up FoundationDecember 10, 2024 — This lack of local news outlets creates “information...</p></details>
+   Link:<a href="https://www.closeup.org/the-decline-of-local-newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://www.closeup.org/the-decline-of-local-newspapers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons for the Decline of Local Newspapers - Close Up FoundationDecember 10, 2024 — This lack of local news outlets creates “information...</p></details>
    Published: December 10, 2024  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: emerald.com  
    Title: Can I Have Some News?  
-   Link: <a href="https://www.emerald.com/books/edited-volume/16983/chapter/93974855/Can-I-Have-Some-News-Local-Journalism-Gaps-and-the" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/16983/chapter/93974855/Can-I-Have-Some-News-Local-Journalism-Gaps-and-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local Journalism Gaps and the Role...The content that circulated among citizens was mostly not original, did not offer a local approach...</p></details>
+   Link:<a href="https://www.emerald.com/books/edited-volume/16983/chapter/93974855/Can-I-Have-Some-News-Local-Journalism-Gaps-and-the" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/16983/chapter/93974855/Can-I-Have-Some-News-Local-Journalism-Gaps-and-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local Journalism Gaps and the Role...The content that circulated among citizens was mostly not original, did not offer a local approach...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14648849241272255" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14648849241272255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLocal news as political institution and the repercussions of &#x27;...by S Barclay · 2025 · Cited by 8 — Local news as political...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14648849241272255" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14648849241272255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLocal news as political institution and the repercussions of &#x27;...by S Barclay · 2025 · Cited by 8 — Local news as political...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Diggit Wiki: the concept of 'Data voids' explained  
-   Link: <a href="https://www.youtube.com/watch?v=GFtRvgCxg7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFtRvgCxg7w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Truth: Youtube &amp; Data Voids (pt 1 &amp; 2) | Knight Media Forum 2019...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GFtRvgCxg7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFtRvgCxg7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Truth: Youtube &amp; Data Voids (pt 1 &amp; 2) | Knight Media Forum 2019...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: op.europa.eu  
    Title: download handler  
-   Link: <a href="https://op.europa.eu/o/opportal-service/download-handler?format=pdf&amp;identifier=6ef4df8b-4cea-11e8-be1d-01aa75ed71a1&amp;language=en&amp;part=&amp;productionSystem=cellar" target="_blank" rel="noopener noreferrer nofollow">https://op.europa.eu/o/opportal-service/download-handler?format=pdf&amp;identifier=6ef4df8b-4cea-11e8-be1d-01aa75ed71a1&amp;language=en&amp;part=&amp;productionSystem=cellar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>multi-dimensional approach to disinformation7 Mar 2018 — The threats represented by various forms of disinformation are thus embedded in...</p></details>
+   Link:<a href="https://op.europa.eu/o/opportal-service/download-handler?format=pdf&amp;identifier=6ef4df8b-4cea-11e8-be1d-01aa75ed71a1&amp;language=en&amp;part=&amp;productionSystem=cellar" target="_blank" rel="noopener noreferrer nofollow">https://op.europa.eu/o/opportal-service/download-handler?format=pdf&amp;identifier=6ef4df8b-4cea-11e8-be1d-01aa75ed71a1&amp;language=en&amp;part=&amp;productionSystem=cellar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>multi-dimensional approach to disinformation7 Mar 2018 — The threats represented by various forms of disinformation are thus embedded in...</p></details>

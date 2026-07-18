@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_f
 
 ## Introduction
 
-A viral post says, “The court ruled that X happened.” The attached proof is often a screenshot of a lawsuit, a legal motion, or a complaint filed by one side. That is a crucial distinction. A court filing proves that someone made an allegation or legal argument. It does not prove that a judge accepted it, that [evidence]({{ 'evidence/' | relative_url }}) supported it, or that the case ended in that party’s favour. Courts routinely receive claims that are later dismissed, narrowed, settled, contradicted by evidence, or rejected outright. The most reliable way to evaluate a viral legal claim is to identify whether the source is a filing, an order, or a final judgment. A complaint tells you what a party wants the court to believe; a judgment tells you what the court actually found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
+A viral post says, “The court ruled that X happened.” The attached proof is often a screenshot of a lawsuit, a legal motion, or a complaint filed by one side. That is a crucial distinction. A court filing proves that someone made an allegation or legal argument. It does not prove that a judge accepted it, that [evidence]({{ 'evidence/' | relative_url }}) supported it, or that the case ended in that party’s favour. Courts routinely receive claims that are later dismissed, narrowed, settled, contradicted by evidence, or rejected outright. The most reliable way to evaluate a viral legal claim is to identify whether the source is a filing, an order, or a final judgment. A complaint tells you what a party wants the court to believe; a judgment tells you what the court actually found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-1-dark.svg" | relative_url }}" alt="Court Records illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,15 +290,15 @@ Within the broader practice of checking [primary sources]({{ 'primary-sources/' 
 
 Understanding four common document types prevents many legal misinformation errors.
 
-**Filing or complaint.** A lawsuit typically begins when a plaintiff files a complaint setting out allegations and requested remedies. The filing starts the case; it does not establish that the allegations are true. Courts accept complaints for procedural review without deciding the underlying facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
+**Filing or complaint.** A lawsuit typically begins when a plaintiff files a complaint setting out allegations and requested remedies. The filing starts the case; it does not establish that the allegations are true. Courts accept complaints for procedural review without deciding the underlying facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
 
 **Allegation.** An allegation is a claim made by a party. It may later be supported, weakened, disproved, or never fully tested. Viral posts often quote allegations as though they were findings.
 
 **Order.** An order is a decision by a court on a particular issue. An order might dismiss claims, compel evidence production, grant an injunction, or resolve procedural disputes. Some orders are temporary and do not determine the final outcome.
 
-**Judgment.** A judgment reflects the court’s conclusions after applying legal standards to the evidence and arguments before it. This is the document that answers the question, “What did the court actually decide?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://supremecourt.uk/cases/judgments/uksc-2022-0147" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supremecourt.uk">[Supreme Court UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supremecourt.uk</span><span class="citation-popover-title">Supreme Court UKGeorge v Cannell and another</span><span class="citation-popover-snippet">October 9, 2024 — The judge was persuaded that, in the light of his findings that the statements complained of did not cause any financia...</span><span class="citation-popover-meta">Published: October 9, 2024</span></span></span>
+**Judgment.** A judgment reflects the court’s conclusions after applying legal standards to the evidence and arguments before it. This is the document that answers the question, “What did the court actually decide?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://supremecourt.uk/cases/judgments/uksc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supremecourt.uk">[Supreme Court UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supremecourt.uk</span><span class="citation-popover-title">Supreme Court UKGeorge v Cannell and another</span><span class="citation-popover-snippet">October 9, 2024 — The judge was persuaded that, in the light of his findings that the statements complained of did not cause any financia...</span><span class="citation-popover-meta">Published: October 9, 2024</span></span></span>
 
-The difference matters because a filing may contain dramatic accusations that attract headlines, while a later judgment may reject some or all of them. In many jurisdictions, courts emphasise that pleadings are merely the parties’ stated positions at the beginning of litigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanbar.org">[American Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanbar.org</span><span class="citation-popover-snippet">American Bar AssociationHow Courts Work28 Nov 2021 — A lawsuit begins when the person bringing the suit files a complaint. This first ste...</span></span></span>
+The difference matters because a filing may contain dramatic accusations that attract headlines, while a later judgment may reject some or all of them. In many jurisdictions, courts emphasise that pleadings are merely the parties’ stated positions at the beginning of litigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanbar.org">[American Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanbar.org</span><span class="citation-popover-snippet">American Bar AssociationHow Courts Work28 Nov 2021 — A lawsuit begins when the person bringing the suit files a complaint. This first ste...</span></span></span>
 
 ## Why Viral Legal Claims Often Mislead
 
@@ -319,7 +319,7 @@ A common pattern looks like this:
 
 The result is that many people remember the allegation but never see the outcome.
 
-This problem appears across political controversies, celebrity disputes, corporate litigation and public-interest lawsuits. In high-profile cases, millions may encounter claims derived from a filing long before a judge evaluates the evidence. Reuters' reporting on ongoing litigation involving public figures illustrates how active lawsuits often contain competing allegations while courts have not yet issued final findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The case, heard at London’s High Court, involves allegations of unlawful activities by Associated Newspapers, including hacking voicemail...</span></span></span>
+This problem appears across political controversies, celebrity disputes, corporate litigation and public-interest lawsuits. In high-profile cases, millions may encounter claims derived from a filing long before a judge evaluates the evidence. Reuters' reporting on ongoing litigation involving public figures illustrates how active lawsuits often contain competing allegations while courts have not yet issued final findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The case, heard at London’s High Court, involves allegations of unlawful activities by Associated Newspapers, including hacking voicemail...</span></span></span>
 
 ## How to Trace a Viral Legal Claim to the Docket
 
@@ -339,7 +339,7 @@ Ask what document is being cited.
 * Motion?
 * Witness statement?
 * Court order?
-* Judgment? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=k0jgC3WvtQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Understanding the Motion to Dismiss and How it Can Impact Your Case</span><span class="citation-popover-snippet">Three-Minute Legal Talks: What is Summary Judgment?...</span></span></span>
+* Judgment?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=k0jgC3WvtQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Understanding the Motion to Dismiss and How it Can Impact Your Case</span><span class="citation-popover-snippet">Three-Minute Legal Talks: What is Summary Judgment?...</span></span></span>
 * Appeal decision?
 
 </div>
@@ -402,17 +402,17 @@ A lawsuit can remain unresolved for years. The existence of a case does not esta
 
 ### Read the Most Recent Order
 
-The latest significant order often provides a clearer picture than the original filing. Judges may dismiss claims, narrow issues, criticise arguments, or explain why evidence is insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-snippet">Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
+The latest significant order often provides a clearer picture than the original filing. Judges may dismiss claims, narrow issues, criticise arguments, or explain why evidence is insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-snippet">Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
 
 ## Concrete Examples of the Difference
 
 Real court records regularly show why filings and findings must be separated.
 
-In one recent media-defamation dispute, a plaintiff filed claims seeking substantial damages. News coverage could accurately report that the lawsuit alleged wrongdoing. However, later court proceedings focused on whether the legal standard for the claim had been met. The existence of the filing did not establish the truth of the allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedailybeast.com">[The Daily Beast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedailybeast.com</span><span class="citation-popover-snippet">The article reported that a provocative letter “bearing Trump’s name” appeared in a 2003 birthday book compiled for Epstein. Trump denied...</span></span></span>
+In one recent media-defamation dispute, a plaintiff filed claims seeking substantial damages. News coverage could accurately report that the lawsuit alleged wrongdoing. However, later court proceedings focused on whether the legal standard for the claim had been met. The existence of the filing did not establish the truth of the allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedailybeast.com">[The Daily Beast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedailybeast.com</span><span class="citation-popover-snippet">The article reported that a provocative letter “bearing Trump’s name” appeared in a 2003 birthday book compiled for Epstein. Trump denied...</span></span></span>
 
-Similarly, courts sometimes dismiss defamation claims after concluding that challenged statements were protected opinion, substantially accurate, or otherwise not actionable. The dismissal becomes the court's finding; the original complaint remains only an allegation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-snippet">Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
+Similarly, courts sometimes dismiss defamation claims after concluding that challenged statements were protected opinion, substantially accurate, or otherwise not actionable. The dismissal becomes the court's finding; the original complaint remains only an allegation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-snippet">Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
 
-Another instructive example comes from privacy and media litigation. Courts may carefully distinguish between allegations made by a defendant and factual conclusions accepted by the judge. Judicial findings emerge only after legal analysis, not merely because a party asserted them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Sussex v Associated News judgment 021221</span><span class="citation-popover-snippet">Courts and Tribunals JudiciaryHRH The Duchess of Sussex -v- Associated Newspapers...2 Dec 2021 — The judge concluded that the defendant&#x27;...</span></span></span>
+Another instructive example comes from privacy and media litigation. Courts may carefully distinguish between allegations made by a defendant and factual conclusions accepted by the judge. Judicial findings emerge only after legal analysis, not merely because a party asserted them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Sussex v Associated News judgment 021221</span><span class="citation-popover-snippet">Courts and Tribunals JudiciaryHRH The Duchess of Sussex -v- Associated Newspapers...2 Dec 2021 — The judge concluded that the defendant&#x27;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-3-dark.svg" | relative_url }}" alt="Court Records illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_primary_sources_4ab073_court_filings_findin_edbbbd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -422,11 +422,11 @@ Another instructive example comes from privacy and media litigation. Courts may 
 
 The most frequent error is treating the existence of a lawsuit as evidence that the underlying accusation is true.
 
-Anyone can file many types of legal claims if procedural requirements are met. The filing itself is not a judicial endorsement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
+Anyone can file many types of legal claims if procedural requirements are met. The filing itself is not a judicial endorsement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscourts.gov">[United States Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscourts.gov</span><span class="citation-popover-snippet">United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</span></span></span>
 
 ### Confusing Allegations With Evidence
 
-A complaint may reference evidence, but allegations and evidence are not the same thing. Courts ultimately evaluate whether evidence satisfies the applicable burden of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bencrump.com/burden-of-proof-in-a-civil-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bencrump.com">[Ben Crump]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bencrump.com</span><span class="citation-popover-title">Ben Crump Burden of Proof in a Civil Case: Legal Standards Explained</span><span class="citation-popover-snippet">Ben CrumpBurden of Proof in a Civil Case: Legal Standards ExplainedAugust 28, 2024 — Ben Crump teaches the burden of proof in civil cases...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
+A complaint may reference evidence, but allegations and evidence are not the same thing. Courts ultimately evaluate whether evidence satisfies the applicable burden of proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bencrump.com/burden-of-proof-in-a-civil-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bencrump.com">[Ben Crump]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bencrump.com</span><span class="citation-popover-title">Ben Crump Burden of Proof in a Civil Case: Legal Standards Explained</span><span class="citation-popover-snippet">Ben CrumpBurden of Proof in a Civil Case: Legal Standards ExplainedAugust 28, 2024 — Ben Crump teaches the burden of proof in civil cases...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
 ### Treating Denied Motions as Findings of Innocence or Guilt
 
@@ -439,7 +439,7 @@ Courts often rule on narrow procedural questions. A denied motion may simply mea
 
 Judges sometimes sanction lawyers or parties for procedural violations, discovery failures, or specific litigation conduct. A sanction may reveal misconduct during litigation without resolving every factual issue in the underlying dispute.
 
-Conversely, the absence of sanctions does not mean a court endorsed a party's claims. Courts have specifically noted in some disputes that critics pointed to numerous filings without identifying any judicial finding that those filings were frivolous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislature.maine.gov">[legislature.maine.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislature.maine.gov</span><span class="citation-popover-snippet">judicial misconduct complaint against justice daniel billingsDecember 21, 2025 — No Findings by Any Court That Defendant&#x27;s Filings Were F...</span><span class="citation-popover-meta">Published: December 21, 2025</span></span></span>
+Conversely, the absence of sanctions does not mean a court endorsed a party's claims. Courts have specifically noted in some disputes that critics pointed to numerous filings without identifying any judicial finding that those filings were frivolous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislature.maine.gov">[legislature.maine.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislature.maine.gov</span><span class="citation-popover-snippet">judicial misconduct complaint against justice daniel billingsDecember 21, 2025 — No Findings by Any Court That Defendant&#x27;s Filings Were F...</span><span class="citation-popover-meta">Published: December 21, 2025</span></span></span>
 
 ### Ignoring Later Decisions
 
@@ -458,194 +458,194 @@ The safest approach is to ask a simple question whenever a legal claim appears o
 That distinction is often the difference between an accusation and an established judicial conclusion. In an information environment saturated with screenshots, headlines and AI-generated summaries, checking the docket and identifying the actual court ruling remains one of the most effective forms of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}).
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did The Court Really Rule That?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did The Court Really Rule That?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive errors in interpreting legal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive errors in interpreting legal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages distinguishing allegations from findings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages distinguishing allegations from findings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
-        </h4>
-        <p class="fr-book-author">By T. H. Bingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
+</h4>
+<p class="fr-book-author">By T. H. Bingham</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Human rights, Law, Rule of law, Social aspects, Political aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Human rights, Law, Rule of law, Social aspects, Political aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Detective</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Detective</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="court-records-did-the-court-really-rule-that-critical-thinking-in-the-age-of-social-media-and-a-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ That distinction is often the difference between an accusation and an establishe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ That distinction is often the difference between an accusation and an establishe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ That distinction is often the difference between an accusation and an establishe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ That distinction is often the difference between an accusation and an establishe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ That distinction is often the difference between an accusation and an establishe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,126 +851,126 @@ That distinction is often the difference between an accusation and an establishe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: supremecourt.uk  
    Title: Supreme Court UKGeorge v Cannell and another  
-   Link: <a href="https://supremecourt.uk/cases/judgments/uksc-2022-0147" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/cases/judgments/uksc-2022-0147</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2024 — The judge was persuaded that, in the light of his findings that the statements complained of did not cause any financia...</p></details>
+   Link:<a href="https://supremecourt.uk/cases/judgments/uksc" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/cases/judgments/uksc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2024 — The judge was persuaded that, in the light of his findings that the statements complained of did not cause any financia...</p></details>
    Published: October 9, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: judiciary.uk  
    Title: Sussex v Associated News judgment 021221  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Courts and Tribunals JudiciaryHRH The Duchess of Sussex -v- Associated Newspapers...2 Dec 2021 — The judge concluded that the defendant&#x27;...</p></details>
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2022/07/Sussex-v-Associated-News-judgment-021221.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Courts and Tribunals JudiciaryHRH The Duchess of Sussex -v- Associated Newspapers...2 Dec 2021 — The judge concluded that the defendant&#x27;...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The case, heard at London’s High Court, involves allegations of unlawful activities by Associated Newspapers, including hacking voicemail...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/ruling-prince-harry-case-against-daily-mail-will-take-some-time-uk-judge-says-2026-03-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case, heard at London’s High Court, involves allegations of unlawful activities by Associated Newspapers, including hacking voicemail...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legislature.maine.gov  
-   Link: <a href="https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>judicial misconduct complaint against justice daniel billingsDecember 21, 2025 — No Findings by Any Court That Defendant&#x27;s Filings Were F...</p></details>
+   Link:<a href="https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.maine.gov/testimony/resources/JUD20260107Rinaldi134107563952290303.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>judicial misconduct complaint against justice daniel billingsDecember 21, 2025 — No Findings by Any Court That Defendant&#x27;s Filings Were F...</p></details>
    Published: December 21, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uscourts.gov  
-   Link: <a href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</p></details>
+   Link:<a href="https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/about-federal-courts/types-cases/civil-cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States CourtsCivil CasesThe Process To begin a civil lawsuit in federal court, the plaintiff files a complaint with the court and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: americanbar.org  
-   Link: <a href="https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Bar AssociationHow Courts Work28 Nov 2021 — A lawsuit begins when the person bringing the suit files a complaint. This first ste...</p></details>
+   Link:<a href="https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/pleadings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Bar AssociationHow Courts Work28 Nov 2021 — A lawsuit begins when the person bringing the suit files a complaint. This first ste...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedailybeast.com  
-   Link: <a href="https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The article reported that a provocative letter “bearing Trump’s name” appeared in a 2003 birthday book compiled for Epstein. Trump denied...</p></details>
+   Link:<a href="https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/donald-trump-hit-with-blistering-filing-in-wall-street-journal-epstein-birthday-card-lawsuit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The article reported that a provocative letter “bearing Trump’s name” appeared in a 2003 birthday book compiled for Epstein. Trump denied...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: timesunion.com  
-   Link: <a href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</p></details>
+   Link:<a href="https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/news/article/jasper-mills-defamation-lawsuit-times-union-22302968.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lyons. Mills sued over the newspaper&#x27;s June 2024 coverage of court hearings and an editorial opposing his candidacy for Family Court judg...</p></details>
    Published: June 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bencrump.com  
    Title: Ben Crump Burden of Proof in a Civil Case: Legal Standards Explained  
-   Link: <a href="https://bencrump.com/burden-of-proof-in-a-civil-case/" target="_blank" rel="noopener noreferrer nofollow">https://bencrump.com/burden-of-proof-in-a-civil-case/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ben CrumpBurden of Proof in a Civil Case: Legal Standards ExplainedAugust 28, 2024 — Ben Crump teaches the burden of proof in civil cases...</p></details>
+   Link:<a href="https://bencrump.com/burden-of-proof-in-a-civil-case/" target="_blank" rel="noopener noreferrer nofollow">https://bencrump.com/burden-of-proof-in-a-civil-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ben CrumpBurden of Proof in a Civil Case: Legal Standards ExplainedAugust 28, 2024 — Ben Crump teaches the burden of proof in civil cases...</p></details>
    Published: August 28, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uscourts.gov  
-   Link: <a href="https://www.uscourts.gov/sites/default/files/digest_of_authorities_judicial_conduct_and_disability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/sites/default/files/digest_of_authorities_judicial_conduct_and_disability.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Under the Judicial Conduct and Disability Act (the Act), traditional...</p></details>
+   Link:<a href="https://www.uscourts.gov/sites/default/files/digest_of_authorities_judicial_conduct_and_disability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/sites/default/files/digest_of_authorities_judicial_conduct_and_disability.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under the Judicial Conduct and Disability Act (the Act), traditional...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: supremecourt.gov  
-   Link: <a href="https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23-411 Murthy v. Missouri (06/26/2024)26 Jun 2024 — The court then modified the District Court&#x27;s injunction to state that the defendants...</p></details>
+   Link:<a href="https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23-411 Murthy v. Missouri (06/26/2024)26 Jun 2024 — The court then modified the District Court&#x27;s injunction to state that the defendants...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hudoc.echr.coe.int  
-   Link: <a href="https://hudoc.echr.coe.int/eng?i=001-174419" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-174419</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEWSPAPERS (IRELAND) LIMITED v...The applicant company alleged a violation of its right to freedom of expression due to a disproportiona...</p></details>
+   Link:<a href="https://hudoc.echr.coe.int/eng?i=001-174419" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-174419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEWSPAPERS (IRELAND) LIMITED v...The applicant company alleged a violation of its right to freedom of expression due to a disproportiona...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: law.stackexchange.com  
    Title: I believe a suit asks the court for a monetary judgment whereas a "petition"  
-   Link: <a href="https://law.stackexchange.com/questions/88078/whats-the-difference-a-petition-motion-suit-complaint" target="_blank" rel="noopener noreferrer nofollow">https://law.stackexchange.com/questions/88078/whats-the-difference-a-petition-motion-suit-complaint</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comWhat&#x27;s the difference a petition, motion, suit &amp; complaint?11 Jan 2023 — I&#x27;ve seen all of these terms being thrown aroun...</p></details>
+   Link:<a href="https://law.stackexchange.com/questions/88078/whats-the-difference-a-petition-motion-suit-complaint" target="_blank" rel="noopener noreferrer nofollow">https://law.stackexchange.com/questions/88078/whats-the-difference-a-petition-motion-suit-complaint</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comWhat&#x27;s the difference a petition, motion, suit &amp; complaint?11 Jan 2023 — I&#x27;ve seen all of these terms being thrown aroun...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Trump has ramped up lawsuits against the media  
-   Link: <a href="https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s where they stand.Since first taking office in 2017, Donald Trump has maintained a combative relationship with the media, labeling...</p></details>
+   Link:<a href="https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s where they stand.Since first taking office in 2017, Donald Trump has maintained a combative relationship with the media, labeling...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stoel.com  
    Title: how does a lawsuit work basic steps in the civil  
-   Link: <a href="https://www.stoel.com/insights/publications/how-does-a-lawsuit-work-basic-steps-in-the-civil" target="_blank" rel="noopener noreferrer nofollow">https://www.stoel.com/insights/publications/how-does-a-lawsuit-work-basic-steps-in-the-civil</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does a Lawsuit Work? Basic Steps in the Civil...24 Jan 2012 — Civil lawsuits generally proceed through distinct steps: pleadings, di...</p></details>
+   Link:<a href="https://www.stoel.com/insights/publications/how-does-a-lawsuit-work-basic-steps-in-the-civil" target="_blank" rel="noopener noreferrer nofollow">https://www.stoel.com/insights/publications/how-does-a-lawsuit-work-basic-steps-in-the-civil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does a Lawsuit Work? Basic Steps in the Civil...24 Jan 2012 — Civil lawsuits generally proceed through distinct steps: pleadings, di...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: transparencyproject.org.uk  
    Title: The parents note have a stated case laid down!  
-   Link: <a href="https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/" target="_blank" rel="noopener noreferrer nofollow">https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a judge prefers his own biases to the law, all is lost30 Nov 2023 — It appears to be a systemic outdated behaviour by this judge, an...</p></details>
+   Link:<a href="https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/" target="_blank" rel="noopener noreferrer nofollow">https://transparencyproject.org.uk/when-a-judge-prefers-his-own-biases-to-the-law-all-is-lost/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a judge prefers his own biases to the law, all is lost30 Nov 2023 — It appears to be a systemic outdated behaviour by this judge, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: inforrm.org  
    Title: law and media round up 25 may 2026  
-   Link: <a href="https://inforrm.org/2026/05/25/law-and-media-round-up-25-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://inforrm.org/2026/05/25/law-and-media-round-up-25-may-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law and Media Round Up – 25 May 202625 May 2026 — The court found De Giovanni had improperly pursued both County Court and High Court cla...</p></details>
+   Link:<a href="https://inforrm.org/2026/05/25/law-and-media-round-up-25-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://inforrm.org/2026/05/25/law-and-media-round-up-25-may-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law and Media Round Up – 25 May 202625 May 2026 — The court found De Giovanni had improperly pursued both County Court and High Court cla...</p></details>
    Published: may 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: torhoermanlaw.com  
    Title: civil lawsuit process explained  
-   Link: <a href="https://www.torhoermanlaw.com/legal-guides/civil-lawsuit-process-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.torhoermanlaw.com/legal-guides/civil-lawsuit-process-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Civil Lawsuit Process Explained [June 2026 Guide]In this guide, we&#x27;ll discuss the civil lawsuit process, steps in civil cases, differ...</p></details>
+   Link:<a href="https://www.torhoermanlaw.com/legal-guides/civil-lawsuit-process-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.torhoermanlaw.com/legal-guides/civil-lawsuit-process-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Civil Lawsuit Process Explained [June 2026 Guide]In this guide, we&#x27;ll discuss the civil lawsuit process, steps in civil cases, differ...</p></details>
    Published: June 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: shrr.com  
    Title: civil lawsuits 8 step process  
-   Link: <a href="https://shrr.com/news_events/civil-lawsuits-8-step-process/" target="_blank" rel="noopener noreferrer nofollow">https://shrr.com/news_events/civil-lawsuits-8-step-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Lawsuits: The 8-Step Process From Start to Finish13 Mar 2023 — Civil lawsuits follow a straightforward, 8-step process from beginni...</p></details>
+   Link:<a href="https://shrr.com/news_events/civil-lawsuits-8-step-process/" target="_blank" rel="noopener noreferrer nofollow">https://shrr.com/news_events/civil-lawsuits-8-step-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Lawsuits: The 8-Step Process From Start to Finish13 Mar 2023 — Civil lawsuits follow a straightforward, 8-step process from beginni...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: moj.go.jp  
-   Link: <a href="https://www.moj.go.jp/EN/shoumu/shoumukouhou/shoumu01_00022.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moj.go.jp/EN/shoumu/shoumukouhou/shoumu01_00022.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If the complaint is accepted, the court designates the date of oral arguments.Read more...</p></details>
+   Link:<a href="https://www.moj.go.jp/EN/shoumu/shoumukouhou/shoumu01_00022.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moj.go.jp/EN/shoumu/shoumukouhou/shoumu01_00022.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If the complaint is accepted, the court designates the date of oral arguments.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Understanding the Motion to Dismiss and How it Can Impact Your Case  
-   Link: <a href="https://www.youtube.com/watch?v=k0jgC3WvtQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k0jgC3WvtQA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Minute Legal Talks: What is Summary Judgment?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k0jgC3WvtQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k0jgC3WvtQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Minute Legal Talks: What is Summary Judgment?...</p></details>

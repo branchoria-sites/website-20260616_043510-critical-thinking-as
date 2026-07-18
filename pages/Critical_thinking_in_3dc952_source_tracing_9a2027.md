@@ -426,11 +426,11 @@ The goal is not to reject AI answers automatically. It is to treat them as start
 
 ## Why Fluency Is Not a Source
 
-Generative AI is built to produce plausible language, not to guarantee that every sentence is anchored in a recoverable document. This is why hallucination is so dangerous in an information environment already shaped by speed, social sharing and screenshot culture: the answer may look like a polished explainer even when it contains invented details. A 2023 study in *Scientific Reports* tested GPT-3.5 and GPT-4 on 636 cited works across 84 generated documents and found fabricated bibliographic citations among the outputs, showing that even formal-looking references can be unreliable objects rather than proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 529 — This study investigates one particul...</span></span></span>
+Generative AI is built to produce plausible language, not to guarantee that every sentence is anchored in a recoverable document. This is why hallucination is so dangerous in an information environment already shaped by speed, social sharing and screenshot culture: the answer may look like a polished explainer even when it contains invented details. A 2023 study in *Scientific Reports* tested GPT-3.5 and GPT-4 on 636 cited works across 84 generated documents and found fabricated bibliographic citations among the outputs, showing that even formal-looking references can be unreliable objects rather than proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 529 — This study investigates one particul...</span></span></span>
 
-The problem is not limited to casual use. Legal systems have become a clear warning case because legal citations are unusually easy to test: a case either exists or it does not. In *Mata v. Avianca*, lawyers were sanctioned after submitting filings containing non-existent judicial opinions, fake quotations and fake citations generated through ChatGPT. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-title">UC Berkeley Law Mata v</span><span class="citation-popover-snippet">Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — fake quotes and fake citations created by artificial intelligence (AI) tool, re...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span> The same pattern has continued. In June 2026, Reuters reported that a US federal judge disqualified attorneys on both sides of a lawsuit after unverified AI-generated legal research produced fabricated case citations; the judge stressed that lawyers remain responsible for verifying submissions even when AI tools are used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span><span class="citation-popover-snippet">District Judge in Mississippi, Sharion Aycock, has disqualified all attorneys involved in a contract dispute case after discovering both...</span></span></span>
+The problem is not limited to casual use. Legal systems have become a clear warning case because legal citations are unusually easy to test: a case either exists or it does not. In *Mata v. Avianca*, lawyers were sanctioned after submitting filings containing non-existent judicial opinions, fake quotations and fake citations generated through ChatGPT.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-title">UC Berkeley Law Mata v</span><span class="citation-popover-snippet">Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — fake quotes and fake citations created by artificial intelligence (AI) tool, re...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span> The same pattern has continued. In June 2026, Reuters reported that a US federal judge disqualified attorneys on both sides of a lawsuit after unverified AI-generated legal research produced fabricated case citations; the judge stressed that lawyers remain responsible for verifying submissions even when AI tools are used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Judge rules both sides in lawsuit misused AI, disqualifies lawyers</span><span class="citation-popover-snippet">District Judge in Mississippi, Sharion Aycock, has disqualified all attorneys involved in a contract dispute case after discovering both...</span></span></span>
 
-The deeper lesson is that citations have a persuasive effect independent of their quality. Research on citations in large language model responses found that cited answers can increase user trust, even when the citations are random, while trust falls when users actually check the citations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2501.01303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv:2501.01303v1 [cs.CL] 2 Jan 2025January 3, 2025 — by Y Ding · 2025 · Cited by 53 — We did not find a signifi- cant difference b...</span><span class="citation-popover-meta">Published: January 3, 2025</span></span></span> That makes source tracing a defensive habit: it interrupts the reflex to read a citation as a credibility badge and turns it back into a checkable claim.
+The deeper lesson is that citations have a persuasive effect independent of their quality. Research on citations in large language model responses found that cited answers can increase user trust, even when the citations are random, while trust falls when users actually check the citations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2501.01303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv:2501.01303v1 [cs.CL] 2 Jan 2025January 3, 2025 — by Y Ding · 2025 · Cited by 53 — We did not find a signifi- cant difference b...</span><span class="citation-popover-meta">Published: January 3, 2025</span></span></span> That makes source tracing a defensive habit: it interrupts the reflex to read a citation as a credibility badge and turns it back into a checkable claim.
 
 A useful reader question is therefore not “Did the AI cite something?” but “What job is this citation doing?” A citation may be decorative, loosely related, copied from a search result, attached to the wrong sentence, or used to support a stronger claim than the source actually makes. In source tracing, a citation is not the end of verification. It is the beginning.
 
@@ -438,9 +438,9 @@ A useful reader question is therefore not “Did the AI cite something?” but �
 
 A traceable AI answer has a visible path from claim to source. That path should be short enough for a reader, editor, student, policy officer or professional user to follow without reconstructing the entire research process from scratch. In practice, traceability has three layers.
 
-First, the source must exist and be accessible. This sounds basic, but it is a live failure mode. A 2026 paper on citation URLs in commercial LLMs and deep research agents reported that 3–13% of citation URLs were likely hallucinated and 5–18% were non-resolving overall, while tool-assisted URL checking could reduce non-resolving citation URLs substantially in some settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.03173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research AgentsApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span> Link survival is not the same as truth, but a dead, invented or unreachable link blocks every later check.
+First, the source must exist and be accessible. This sounds basic, but it is a live failure mode. A 2026 paper on citation URLs in commercial LLMs and deep research agents reported that 3–13% of citation URLs were likely hallucinated and 5–18% were non-resolving overall, while tool-assisted URL checking could reduce non-resolving citation URLs substantially in some settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.03173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research AgentsApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span> Link survival is not the same as truth, but a dead, invented or unreachable link blocks every later check.
 
-Second, the source must be relevant to the claim. A working link can still be wrong if it points to a page that discusses the general topic but does not support the specific sentence. This is especially common when AI systems cite broad articles for precise claims such as dates, statistics, legal rules, medical guidance or product specifications. A 2026 evaluation of source attribution in LLM “deep research” reports found that even strong models could maintain high link validity and reasonable topical relevance while achieving much lower factual accuracy against the cited source, showing that surface-level citation quality is not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+Second, the source must be relevant to the claim. A working link can still be wrong if it points to a page that discusses the general topic but does not support the specific sentence. This is especially common when AI systems cite broad articles for precise claims such as dates, statistics, legal rules, medical guidance or product specifications. A 2026 evaluation of source attribution in LLM “deep research” reports found that even strong models could maintain high link validity and reasonable topical relevance while achieving much lower factual accuracy against the cited source, showing that surface-level citation quality is not enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
 Third, the source must be interpreted in context. A citation can be real and relevant but still misused if the answer omits limitations, treats opinion as fact, confuses a preprint with a settled finding, ignores jurisdiction, or turns a narrow study into a general rule. This is where source tracing connects directly to critical thinking: the reader is not only checking whether a source exists, but whether the AI’s use of that source is fair.
 
@@ -454,7 +454,7 @@ For AI-assisted answers, the difference between primary and secondary sources ma
 
 Independent checks are the second safeguard. If an answer makes a factual claim that affects a decision, look for confirmation from more than one credible source type. For example, a health or legal answer should not rely only on a chatbot’s cited summary; it should be checked against the relevant regulator, court, professional body or official guidance. A current-affairs answer should be checked against dated reporting from reputable outlets, ideally including the original document, speech, dataset or court record when available.
 
-This matters because AI-mediated search can introduce sourcing errors even when it appears to browse. The Tow Center for Digital Journalism tested eight generative search tools against news queries and concluded that AI search had a citation problem, with systems often offering answers that sounded authoritative while misidentifying or mishandling news sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — AI chatbots&#x27; outputs often cite external sources to legitimate the...</span></span></span> Reuters later reported on BBC and European Broadcasting Union research in which nearly half of AI assistant responses to news-related questions contained significant errors, including serious sourcing problems and outdated or inaccurate information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">AI assistants make widespread errors about the news, new research shows</span><span class="citation-popover-snippet">With AI assistants increasingly replacing traditional search engines, the EBU warns this trend could erode public trust and democratic en...</span></span></span>
+This matters because AI-mediated search can introduce sourcing errors even when it appears to browse. The Tow Center for Digital Journalism tested eight generative search tools against news queries and concluded that AI search had a citation problem, with systems often offering answers that sounded authoritative while misidentifying or mishandling news sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">we compared eight ai search engines theyre all bad at citing news</span><span class="citation-popover-snippet">Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — AI chatbots&#x27; outputs often cite external sources to legitimate the...</span></span></span> Reuters later reported on BBC and European Broadcasting Union research in which nearly half of AI assistant responses to news-related questions contained significant errors, including serious sourcing problems and outdated or inaccurate information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">AI assistants make widespread errors about the news, new research shows</span><span class="citation-popover-snippet">With AI assistants increasingly replacing traditional search engines, the EBU warns this trend could erode public trust and democratic en...</span></span></span>
 
 The practical rule is simple: the higher the stakes, the closer the reader should move to primary evidence. AI can help locate sources, compare accounts and summarise dense material, but it should not be allowed to become the only witness.
 
@@ -462,11 +462,11 @@ The practical rule is simple: the higher the stakes, the closer the reader shoul
 
 A common assumption is that an AI answer with many citations must be better than one with a few. That is not always true. More citations can create a false sense of thoroughness, especially when the reader does not have time to inspect them.
 
-The risk is not just fabricated sources. It is [citation overload]({{ 'link-overload/' | relative_url }}): a long answer packed with links that makes verification harder rather than easier. The 2026 “Cited but Not Verified” study found that increasing research depth could degrade factual accuracy while surface-level citation metrics stayed stable, suggesting that more retrieval does not automatically produce more reliable citation-backed synthesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> For readers, this is an important shift in mindset. The question is not “How many sources are there?” but “Are the right sources attached to the right claims?”
+The risk is not just fabricated sources. It is [citation overload]({{ 'link-overload/' | relative_url }}): a long answer packed with links that makes verification harder rather than easier. The 2026 “Cited but Not Verified” study found that increasing research depth could degrade factual accuracy while surface-level citation metrics stayed stable, suggesting that more retrieval does not automatically produce more reliable citation-backed synthesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> For readers, this is an important shift in mindset. The question is not “How many sources are there?” but “Are the right sources attached to the right claims?”
 
 A good AI-assisted answer should therefore prefer precision over citation theatre. It should cite the original document for the central factual claim, use secondary sources to explain context, and avoid attaching a link to a sentence unless that link genuinely supports the sentence. In professional settings, a shorter answer with three well-chosen, claim-matched sources is often more traceable than a long answer with twenty loosely related links.
 
-This is also where implementation matters. Organisations that use AI for research, drafting or customer-facing advice need citation standards, not just access to tools. NIST’s Generative AI Profile places provenance and information integrity within risk management, including measures such as documenting training data sources to trace the origin and provenance of AI-generated content and monitoring whether provenance protocols remain effective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Artificial Intelligence Risk Management Framework</span><span class="citation-popover-snippet">Publications Artificial Intelligence Risk Management Framework</span></span></span> That kind of governance turns source tracing from an individual habit into a repeatable workflow.
+This is also where implementation matters. Organisations that use AI for research, drafting or customer-facing advice need citation standards, not just access to tools. NIST’s Generative AI Profile places provenance and information integrity within risk management, including measures such as documenting training data sources to trace the origin and provenance of AI-generated content and monitoring whether provenance protocols remain effective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Artificial Intelligence Risk Management Framework</span><span class="citation-popover-snippet">Publications Artificial Intelligence Risk Management Framework</span></span></span> That kind of governance turns source tracing from an individual habit into a repeatable workflow.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rs31FtQ_WZw" title="ChatGPT Will Destroy Your Papers If You Let It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rs31FtQ_WZw" target="_blank" rel="noopener noreferrer">ChatGPT Will Destroy Your Papers If You Let It</a></p><p class="youtube-embed-meta">Channel: Andy Stapleton &middot; Views: 7.7K &middot; Uploaded: October 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rs31FtQ_WZw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rs31FtQ_WZw">Open on YouTube</a></p></div></div></div>
@@ -498,7 +498,7 @@ For important claims, compare at least one primary source with one independent s
 A traceable answer should say when evidence is preliminary, disputed, jurisdiction-specific, based on a small sample, or dependent on assumptions.
 8. **Is AI use disclosed where it matters?**
 
-In academic, professional and organisational settings, readers may need to know when AI helped draft, summarise, translate or analyse material. The European Commission’s AI literacy guidance under the AI Act stresses that providers and deployers must ensure a sufficient level of AI literacy for staff and others dealing with AI systems, taking context and user knowledge into account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy AI Literacy</span><span class="citation-popover-snippet">Digital Strategy AI Literacy</span></span></span>
+In academic, professional and organisational settings, readers may need to know when AI helped draft, summarise, translate or analyse material. The European Commission’s AI literacy guidance under the AI Act stresses that providers and deployers must ensure a sufficient level of AI literacy for staff and others dealing with AI systems, taking context and user knowledge into account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy AI Literacy</span><span class="citation-popover-snippet">Digital Strategy AI Literacy</span></span></span>
 
 The checklist is not a demand to fact-check every sentence of every AI answer. It is a triage tool. The more a claim affects money, health, reputation, legal duties, public debate or someone’s rights, the more thoroughly it should be traced.
 
@@ -510,7 +510,7 @@ A useful way to approach AI-assisted answers is to read them in layers. The firs
 
 This editorial approach helps avoid two common mistakes. The first is blind trust, where a fluent answer is accepted because it feels complete. The second is blanket dismissal, where every AI answer is treated as useless because some AI answers are wrong. Source tracing sits between those extremes. It allows readers to use AI’s speed without surrendering their judgement.
 
-Libraries and universities have started translating this into public guidance. Boston University Libraries, for example, recommends applying the SIFT method to AI-generated content: stop, investigate the source, find better coverage, and trace claims back to original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.bu.edu/gen-ai/verifying-citing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.bu.edu">[library.bu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.bu.edu</span><span class="citation-popover-title">verifying citing</span><span class="citation-popover-snippet">verifying citing</span></span></span> That method fits AI particularly well because it separates the convenience of a generated answer from the credibility of the evidence behind it.
+Libraries and universities have started translating this into public guidance. Boston University Libraries, for example, recommends applying the SIFT method to AI-generated content: stop, investigate the source, find better coverage, and trace claims back to original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.bu.edu/gen-ai/verifying-citing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.bu.edu">[library.bu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.bu.edu</span><span class="citation-popover-title">verifying citing</span><span class="citation-popover-snippet">verifying citing</span></span></span> That method fits AI particularly well because it separates the convenience of a generated answer from the credibility of the evidence behind it.
 
 The same habit applies beyond academia. Before sharing an AI-generated explanation on social media, ask whether the answer includes a traceable source for its strongest claim. Before using AI in a workplace document, check whether cited figures or policies come from current official sources. Before relying on an AI summary of a report, open the report and inspect the section being summarised. The key move is small but powerful: do not let the answer be the final object. Follow it back.
 
@@ -520,14 +520,14 @@ The same habit applies beyond academia. Before sharing an AI-generated explanati
 
 Responsibility does not rest only on individual readers. Tool design can either support or obstruct source tracing. A better AI interface should make it easier to see where claims came from, which passages were used, how recent the sources are, and when the system is uncertain.
 
-Retrieval-augmented generation, often shortened to RAG, is one common approach. Instead of answering only from model training, the system retrieves documents at the time of the query and generates an answer from that material. In principle, this can improve traceability because the answer can link back to retrieved sources. In practice, research on RAG still finds hard attribution problems: systems may retrieve irrelevant material, cite sources that influenced only part of the answer, or fail to show which specific passage supports which claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.05244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Retrieval-augmented generation, often shortened to RAG, is one common approach. Instead of answering only from model training, the system retrieves documents at the time of the query and generates an answer from that material. In principle, this can improve traceability because the answer can link back to retrieved sources. In practice, research on RAG still finds hard attribution problems: systems may retrieve irrelevant material, cite sources that influenced only part of the answer, or fail to show which specific passage supports which claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.05244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For implementation, the useful question is not “Does this AI tool have citations?” but “Does this tool support claim-level verification?” Stronger systems should provide:
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* source links that work; <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* source links that work;<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * passage-level evidence, not only homepage links;
 * dates for retrieved material;
 * clear separation between sourced facts and model inference;
@@ -537,7 +537,7 @@ For implementation, the useful question is not “Does this AI tool have citatio
 
 </div>
 
-This is especially important in organisations. A school, newsroom, court, public body or company should not rely on informal user vigilance alone. It needs a policy for when AI may be used, what kinds of sources are acceptable, who checks them, how checks are recorded, and which high-stakes outputs require human review. UNESCO’s guidance on generative AI in education and research frames human-centred governance, capacity-building and responsible use as central tasks, rather than treating AI literacy as a purely technical skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">guidance generative ai education and research</span></span></span>
+This is especially important in organisations. A school, newsroom, court, public body or company should not rely on informal user vigilance alone. It needs a policy for when AI may be used, what kinds of sources are acceptable, who checks them, how checks are recorded, and which high-stakes outputs require human review. UNESCO’s guidance on generative AI in education and research frames human-centred governance, capacity-building and responsible use as central tasks, rather than treating AI literacy as a purely technical skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">guidance generative ai education and research</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24fkAF-W4dI" title="Stop Using AI to Write Research Papers (A Professor’s Warning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24fkAF-W4dI" target="_blank" rel="noopener noreferrer">Stop Using AI to Write Research Papers (A Professor’s Warning)</a></p><p class="youtube-embed-meta">Channel: Professor Lace Padilla &middot; Views: 10.0K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24fkAF-W4dI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24fkAF-W4dI">Open on YouTube</a></p></div></div></div>
@@ -553,194 +553,194 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the AI Answer Be Traced?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the AI Answer Be Traced?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches evaluating evidence chains and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluating evidence chains and unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Comprehensive toolkit for critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Comprehensive toolkit for critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Supports evidence-based reasoning and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based reasoning and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="source-tracing-can-the-ai-answer-be-traced-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,109 +946,109 @@ This changes the way AI fits into critical thinking. Instead of asking AI to be 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41032-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 529 — This study investigates one particul...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-41032-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41032-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrication and errors in the bibliographic citations...by WH Walters · 2023 · Cited by 529 — This study investigates one particul...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: law.berkeley.edu  
    Title: UC Berkeley Law Mata v  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — fake quotes and fake citations created by artificial intelligence (AI) tool, re...</p></details>
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/archive/2025/12/Mata-v-Avianca-Inc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avianca, Inc., 678 F.Supp.3d 443 (2023)December 1, 2025 — fake quotes and fake citations created by artificial intelligence (AI) tool, re...</p></details>
    Published: December 1, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Judge rules both sides in lawsuit misused AI, disqualifies lawyers  
-   Link: <a href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>District Judge in Mississippi, Sharion Aycock, has disqualified all attorneys involved in a contract dispute case after discovering both...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/judge-rules-both-sides-lawsuit-misused-ai-disqualifies-lawyers-2026-06-09/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>District Judge in Mississippi, Sharion Aycock, has disqualified all attorneys involved in a contract dispute case after discovering both...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2501.01303" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2501.01303</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2501.01303v1 [cs.CL] 2 Jan 2025January 3, 2025 — by Y Ding · 2025 · Cited by 53 — We did not find a signifi- cant difference b...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2501.01303" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2501.01303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2501.01303v1 [cs.CL] 2 Jan 2025January 3, 2025 — by Y Ding · 2025 · Cited by 53 — We did not find a signifi- cant difference b...</p></details>
    Published: January 3, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.03173" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.03173</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Correcting Reference [Hallucinations](&amp;#123;&amp;#123; &#x27;hallucinations/&#x27; | relative_url &amp;#125;&amp;#125;) in Commercial LLMs and Deep Research AgentsApril 3, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.03173" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.03173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Correcting Reference [Hallucinations](&amp;#123;&amp;#123; &#x27;hallucinations/&#x27; | relative_url &amp;#125;&amp;#125;) in Commercial LLMs and Deep Research AgentsApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.06635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.06635" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.06635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research AgentsMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: AI assistants make widespread errors about the news, new research shows  
-   Link: <a href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With AI assistants increasingly replacing traditional search engines, the EBU warns this trend could erode public trust and democratic en...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/ai-assistants-make-widespread-errors-about-news-new-research-shows-2025-10-21/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With AI assistants increasingly replacing traditional search engines, the EBU warns this trend could erode public trust and democratic en...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06635v1</a>  
+   Link:<a href="https://arxiv.org/html/2605.06635v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06635v1</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nvlpubs.nist.gov  
    Title: Publications Artificial Intelligence Risk Management Framework  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf</a>  
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: library.bu.edu  
    Title: verifying citing  
-   Link: <a href="https://library.bu.edu/gen-ai/verifying-citing" target="_blank" rel="noopener noreferrer nofollow">https://library.bu.edu/gen-ai/verifying-citing</a>  
+   Link:<a href="https://library.bu.edu/gen-ai/verifying-citing" target="_blank" rel="noopener noreferrer nofollow">https://library.bu.edu/gen-ai/verifying-citing</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.05244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05244</a>  
+   Link:<a href="https://arxiv.org/abs/2605.05244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05244</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unesco.org  
    Title: guidance generative ai education and research  
-   Link: <a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
+   Link:<a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cjr.org  
    Title: we compared eight ai search engines theyre all bad at citing news  
-   Link: <a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — AI chatbots&#x27; outputs often cite external sources to legitimate the...</p></details>
+   Link:<a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewAI Search Has a Citation Problem6 Mar 2025 — AI chatbots&#x27; outputs often cite external sources to legitimate the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: Digital Strategy AI Literacy  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Stop Using AI to Write Research Papers (A Professor's Warning)  
-   Link: <a href="https://www.youtube.com/watch?v=24fkAF-W4dI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=24fkAF-W4dI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucinations: How to Catch Fake Citations | AI-Powered Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=24fkAF-W4dI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=24fkAF-W4dI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Hallucinations: How to Catch Fake Citations | AI-Powered Research...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Chat GPT Will Destroy Your Papers If You Let It  
-   Link: <a href="https://www.youtube.com/watch?v=Rs31FtQ_WZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rs31FtQ_WZw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using AI to Write Research Papers (A Professor&#x27;s Warning)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rs31FtQ_WZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rs31FtQ_WZw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using AI to Write Research Papers (A Professor&#x27;s Warning)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to verify AI-generated legal content with citations  
-   Link: <a href="https://www.youtube.com/watch?v=B4fVaUYk6hE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B4fVaUYk6hE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT Will Destroy Your Papers If You Let It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B4fVaUYk6hE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B4fVaUYk6hE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT Will Destroy Your Papers If You Let It...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: What is AI Hallucination in Research?  
-   Link: <a href="https://www.youtube.com/watch?v=1uQ9OwmMuH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1uQ9OwmMuH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to verify AI-generated legal content with citations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1uQ9OwmMuH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1uQ9OwmMuH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to verify AI-generated legal content with citations...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: AI Hallucinations: How to Catch Fake Citations | AI-Powered Research  
-   Link: <a href="https://www.youtube.com/watch?v=ZvmlxZrXcmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZvmlxZrXcmU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZvmlxZrXcmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZvmlxZrXcmU</a>  

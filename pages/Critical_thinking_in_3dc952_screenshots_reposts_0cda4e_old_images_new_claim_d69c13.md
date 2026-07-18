@@ -274,17 +274,17 @@ image: /assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old
 
 ## Introduction
 
-A photograph can be completely genuine and still be used to mislead. One of the most common forms of visual misinformation is the recycling of old images and presenting them as [evidence]({{ 'evidence/' | relative_url }}) of a new event. During natural disasters, protests, conflicts, elections and public emergencies, striking photographs often reappear with fresh captions claiming they show something that happened “today” or “just now”. The image itself may be authentic; the deception lies in separating it from its original time, place or cause. Researchers describe this as “out-of-context” or “false-context” content: real visual material paired with misleading claims that change its meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
+A photograph can be completely genuine and still be used to mislead. One of the most common forms of visual misinformation is the recycling of old images and presenting them as [evidence]({{ 'evidence/' | relative_url }}) of a new event. During natural disasters, protests, conflicts, elections and public emergencies, striking photographs often reappear with fresh captions claiming they show something that happened “today” or “just now”. The image itself may be authentic; the deception lies in separating it from its original time, place or cause. Researchers describe this as “out-of-context” or “false-context” content: real visual material paired with misleading claims that change its meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old_images_new_claim_d69c13-Illustration-1-dark.svg" | relative_url }}" alt="Old Images illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old_images_new_claim_d69c13-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old_images_new_claim_d69c13-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because people often trust photographs more than text. A dramatic image appears to provide direct evidence, especially when it is shared as a screenshot or repost detached from its original source. In many viral misinformation cases, no image editing is required at all. The persuasive power comes from recaptioning an existing photograph and presenting it as breaking news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+This matters because people often trust photographs more than text. A dramatic image appears to provide direct evidence, especially when it is shared as a screenshot or repost detached from its original source. In many viral misinformation cases, no image editing is required at all. The persuasive power comes from recaptioning an existing photograph and presenting it as breaking news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 ## Why Real Visuals Can Become False Evidence
 
 A fabricated image must overcome suspicion about whether it is genuine. An authentic image starts with a major advantage: it already looks real because it is real.
 
-Psychological and media research has found that photographs strongly influence how people interpret events. When an old image is attached to a current claim, viewers often treat the image as confirmation that the claim is true, even if the photograph was originally taken years earlier in a different location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+Psychological and media research has found that photographs strongly influence how people interpret events. When an old image is attached to a current claim, viewers often treat the image as confirmation that the claim is true, even if the photograph was originally taken years earlier in a different location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 This tactic appears repeatedly during fast-moving news events because it is cheap, fast and difficult to detect at a glance. [Fact-checkers]({{ 'fact-checkers/' | relative_url }}) regularly document examples in which:
 
@@ -295,7 +295,7 @@ This tactic appears repeatedly during fast-moving news events because it is chea
 * Images from one country are presented as evidence from another.
 * Photographs from previous protests are recaptioned as current unrest.
 * Historical images are attached to contemporary political claims.
-* Unrelated photographs are presented as victims, perpetrators or witnesses in breaking incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+* Unrelated photographs are presented as victims, perpetrators or witnesses in breaking incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 </div>
 
@@ -311,7 +311,7 @@ Every photograph originally exists within a chain of information: who took it, w
 
 A common pattern is simple recaptioning. A photograph from a previous event is reposted with a new explanation.
 
-For example, Reuters and other fact-checking organisations frequently identify videos and photographs from earlier disturbances, demonstrations or incidents that later resurface as supposed evidence of a new crisis. In such cases the visual content may be genuine, but the date attached to it is wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+For example, Reuters and other fact-checking organisations frequently identify videos and photographs from earlier disturbances, demonstrations or incidents that later resurface as supposed evidence of a new crisis. In such cases the visual content may be genuine, but the date attached to it is wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 The misleading caption often exploits a current emotional moment. During a flood, people are primed to believe dramatic flood images. During civil unrest, they are primed to believe dramatic protest images. The recycled photograph appears to fit the developing story and therefore receives less scrutiny.
 
@@ -322,7 +322,7 @@ The misleading caption often exploits a current emotional moment. During a flood
 
 A second pattern keeps the image's date but changes its location.
 
-An image from one city, region or country may be presented as evidence from another. This is especially common during conflicts and disasters because audiences often lack detailed knowledge of local landmarks. A photograph of destruction from one event can be reframed as destruction from an entirely different event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+An image from one city, region or country may be presented as evidence from another. This is especially common during conflicts and disasters because audiences often lack detailed knowledge of local landmarks. A photograph of destruction from one event can be reframed as destruction from an entirely different event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 Once the original location is detached from the image, viewers may interpret it as proof of claims that the photograph never documented.
 
@@ -330,7 +330,7 @@ Once the original location is detached from the image, viewers may interpret it 
 
 Sometimes the time and place remain broadly accurate while the explanation changes.
 
-A photograph of a fire, crowd or damaged building may be real, but the post falsely attributes the scene to a different cause. A picture from an accident becomes evidence of sabotage. A routine gathering becomes evidence of political mobilisation. The visual record remains authentic while the narrative around it changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
+A photograph of a fire, crowd or damaged building may be real, but the post falsely attributes the scene to a different cause. A picture from an accident becomes evidence of sabotage. A routine gathering becomes evidence of political mobilisation. The visual record remains authentic while the narrative around it changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6lSF7YsvpJk" title="How disinformation works | Episode 5: Presenting things out of context" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6lSF7YsvpJk" target="_blank" rel="noopener noreferrer">How disinformation works | Episode 5: Presenting things out of context</a></p><p class="youtube-embed-meta">Channel: European Parliament &middot; Views: 225.5K &middot; Uploaded: February 2025 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6lSF7YsvpJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6lSF7YsvpJk">Open on YouTube</a></p></div></div></div>
@@ -339,14 +339,14 @@ A photograph of a fire, crowd or damaged building may be real, but the post fals
 
 Old-image recycling thrives during uncertainty.
 
-When major events first unfold, verified information is scarce and public demand for updates is high. People search for visual proof before journalists, authorities and witnesses have fully documented what happened. That information gap creates an opportunity for recycled material to spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</span></span></span>
+When major events first unfold, verified information is scarce and public demand for updates is high. People search for visual proof before journalists, authorities and witnesses have fully documented what happened. That information gap creates an opportunity for recycled material to spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</span></span></span>
 
 Several factors make these moments particularly risky:
 
 * **Speed beats verification.** Viral posts can travel globally before fact-checkers identify the original image.
 * **Emotional content spreads faster.** Dramatic visuals attract attention and sharing.
 * **People expect incomplete information.** During breaking news, uncertainty feels normal, reducing suspicion.
-* **Visuals create urgency.** Users often react to images before examining captions carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+* **Visuals create urgency.** Users often react to images before examining captions carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 The same photograph may therefore cycle through multiple news events over many years, accumulating new stories each time it is reposted.
 
@@ -360,7 +360,7 @@ The most effective defence against recycled images is to ask not only whether th
 
 Reverse image search allows users to upload an image or search using the image itself rather than keywords. Search engines and verification teams use this method to identify earlier appearances of the same photograph.
 
-If the supposedly breaking-news image appears in articles or posts from months or years earlier, that is a strong indication that the current caption may be misleading. Reverse searches often reveal the original publication date, photographer and location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+If the supposedly breaking-news image appears in articles or posts from months or years earlier, that is a strong indication that the current caption may be misleading. Reverse searches often reveal the original publication date, photographer and location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 ### Look for the Earliest Known Appearance
 
@@ -386,7 +386,7 @@ A genuine breaking-news image should generally have a traceable path back to the
 
 Many recycled images have already been investigated.
 
-Professional fact-checkers maintain searchable archives documenting recurring false-context claims. During major news events, organisations such as Reuters, AP, AFP and others frequently publish analyses showing that supposedly new images actually originated elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+Professional fact-checkers maintain searchable archives documenting recurring false-context claims. During major news events, organisations such as Reuters, AP, AFP and others frequently publish analyses showing that supposedly new images actually originated elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
 Searching for distinctive details from a photograph—landmarks, uniforms, signs, vehicles or visible text—can often uncover prior reporting.
 
@@ -407,7 +407,7 @@ Useful checks include:
 
 </div>
 
-Open-source investigators and verification teams routinely combine these clues with mapping tools and archive searches to establish where and when an image was actually taken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+Open-source investigators and verification teams routinely combine these clues with mapping tools and archive searches to establish where and when an image was actually taken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge How the experts figure out what&#x27;s real in the age of deepfakes</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KAgsck4bVyE" title="Fake News: Fact &amp; Fiction - Episode 7: Can you trust online images?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KAgsck4bVyE" target="_blank" rel="noopener noreferrer">Fake News: Fact &amp; Fiction - Episode 7: Can you trust online images?</a></p><p class="youtube-embed-meta">Channel: BBC Learning English &middot; Views: 47.4K &middot; Uploaded: October 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KAgsck4bVyE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KAgsck4bVyE">Open on YouTube</a></p></div></div></div>
@@ -416,181 +416,181 @@ Open-source investigators and verification teams routinely combine these clues w
 
 When encountering a dramatic photograph presented as proof of a current event, the most important question is often not “Is this image fake?” but “When and where was this image originally taken?”
 
-That shift in thinking reflects a central lesson of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI. Visual misinformation is not limited to fabricated images. Real photographs can become misleading evidence when they are detached from their original context and given a new story. The image may be authentic; the claim attached to it may not be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
+That shift in thinking reflects a central lesson of [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) in the age of social media and AI. Visual misinformation is not limited to fabricated images. Real photographs can become misleading evidence when they are detached from their original context and given a new story. The image may be authentic; the claim attached to it may not be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Real Images Get New Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Real Images Get New Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to question persuasive evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to question persuasive evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides methods for verifying claims tied to images.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for verifying claims tied to images.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation of events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation of events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking sticker" data-ebay-reference="old-images-when-real-images-get-new-stories-critical-thinking-in-the-age-of-social-media-and-a-critical-thinking-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,106 +796,106 @@ That shift in thinking reflects a central lesson of [critical thinking]({{ 'crit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.08783v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</p></details>
+   Link:<a href="https://arxiv.org/html/2403.08783v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.08783v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image-Text Out-Of-Context Detection Using Synthetic...29 Jan 2024 — One common form of multimodal misinformation is Out-of-context...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
    Title: out of context photos are a powerful low tech form of misinformation  
-   Link: <a href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.09130" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checkingM...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.13500v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.13500v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for each step with the visual and textual context of previous steps, ensuring...</p></details>
+   Link:<a href="https://arxiv.org/html/2503.13500v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.13500v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for each step with the visual and textual context of previous steps, ensuring...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: factcheck.afp.com  
-   Link: <a href="https://factcheck.afp.com/" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact CheckAFP Fact Check is a department within Agence France-Presse (AFP), a multi-lingual, multicultural news agency whose mission is t...</p></details>
+   Link:<a href="https://factcheck.afp.com/" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact CheckAFP Fact Check is a department within Agence France-Presse (AFP), a multi-lingual, multicultural news agency whose mission is t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/1cd447e8963456af2be9a24d660ed1d6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1cd447e8963456af2be9a24d660ed1d6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several false claims were debunked: photos falsely identified both the officer involved and the victim; the officer was misnamed Steve Gr...</p></details>
+   Link:<a href="https://apnews.com/article/1cd447e8963456af2be9a24d660ed1d6" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1cd447e8963456af2be9a24d660ed1d6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several false claims were debunked: photos falsely identified both the officer involved and the victim; the officer was misnamed Steve Gr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theverge.com  
    Title: The Verge How the experts figure out what's real in the age of [deepfakes](&#123;&#123; 'deepfakes/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
+   Link:<a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and news report 2025: How people think about...7 Oct 2025 — The report is based on a survey conducted by YouGov on behalf of the Reut...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and news report 2025: How people think about...7 Oct 2025 — The report is based on a survey conducted by YouGov on behalf of the Reut...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369976751_Disinformation_and_Misinformation_During_Kenya%27s_2022_Election_Implications_for_Voter_Confidence_in_the_Electoral_Process" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369976751_Disinformation_and_Misinformation_During_Kenya%27s_2022_Election_Implications_for_Voter_Confidence_in_the_Electoral_Process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and Misinformation During Kenya&#x27;s 2022...13 Apr 2023 — This policy brief explores the effects of disinformation and misin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369976751_Disinformation_and_Misinformation_During_Kenya%27s_2022_Election_Implications_for_Voter_Confidence_in_the_Electoral_Process" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369976751_Disinformation_and_Misinformation_During_Kenya%27s_2022_Election_Implications_for_Voter_Confidence_in_the_Electoral_Process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and Misinformation During Kenya&#x27;s 2022...13 Apr 2023 — This policy brief explores the effects of disinformation and misin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: openreview.net  
-   Link: <a href="https://openreview.net/pdf/ab9fa0996fbc0463c30f0a927de5af8b040fd154.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf/ab9fa0996fbc0463c30f0a927de5af8b040fd154.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LONG-HORIZON VISUAL INSTRUCTION GENERATIONOur intuition for addressing these issues is to first generate a draft image for each step with...</p></details>
+   Link:<a href="https://openreview.net/pdf/ab9fa0996fbc0463c30f0a927de5af8b040fd154.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf/ab9fa0996fbc0463c30f0a927de5af8b040fd154.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LONG-HORIZON VISUAL INSTRUCTION GENERATIONOur intuition for addressing these issues is to first generate a draft image for each step with...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376991347_Detecting_Out-of-Context_Image-Caption_Pair_in_News_A_Counter-Intuitive_Method" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376991347_Detecting_Out-of-Context_Image-Caption_Pair_in_News_A_Counter-Intuitive_Method</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Out-of-Context Image-Caption Pair in News15 Apr 2026 — CoVLM [19] is a semi-supervised framework for detecting fake news, where...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376991347_Detecting_Out-of-Context_Image-Caption_Pair_in_News_A_Counter-Intuitive_Method" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376991347_Detecting_Out-of-Context_Image-Caption_Pair_in_News_A_Counter-Intuitive_Method</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Out-of-Context Image-Caption Pair in News15 Apr 2026 — CoVLM [19] is a semi-supervised framework for detecting fake news, where...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Images can also be 100% accurate but used in the wrong context.Read more  
-   Link: <a href="https://www.instagram.com/p/DWdVjFYgbCr/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWdVjFYgbCr/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads in seconds, causing fear, confusion...There are often deliberate attempts to use old news as those that are current...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWdVjFYgbCr/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWdVjFYgbCr/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads in seconds, causing fear, confusion...There are often deliberate attempts to use old news as those that are current...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unescophnompenh/videos/we-often-see-images-being-shared-and-reused-out-of-context-with-captions-that-do/807522592274259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unescophnompenh/videos/we-often-see-images-being-shared-and-reused-out-of-context-with-captions-that-do/807522592274259/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self from being misled by this tactic, you need to know how to...</p></details>
+   Link:<a href="https://www.facebook.com/unescophnompenh/videos/we-often-see-images-being-shared-and-reused-out-of-context-with-captions-that-do/807522592274259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unescophnompenh/videos/we-often-see-images-being-shared-and-reused-out-of-context-with-captions-that-do/807522592274259/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self from being misled by this tactic, you need to know how to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: marinaamaral.substack.com  
    Title: ai is creating fake historical photos  
-   Link: <a href="https://marinaamaral.substack.com/p/ai-is-creating-fake-historical-photos" target="_blank" rel="noopener noreferrer nofollow">https://marinaamaral.substack.com/p/ai-is-creating-fake-historical-photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is creating fake historical photos, and that&#x27;s a problemthese AI models can churn out &quot;vintage&quot; photos that are virtually indistinguishab...</p></details>
+   Link:<a href="https://marinaamaral.substack.com/p/ai-is-creating-fake-historical-photos" target="_blank" rel="noopener noreferrer nofollow">https://marinaamaral.substack.com/p/ai-is-creating-fake-historical-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is creating fake historical photos, and that&#x27;s a problemthese AI models can churn out &quot;vintage&quot; photos that are virtually indistinguishab...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: 28 fake images that fooled the world  
-   Link: <a href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It never happened – but the picture says it did&#x27;: 28 fake...12 Apr 2025 — From the pope in a puffer to the Princess of Wales and family...</p></details>
+   Link:<a href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It never happened – but the picture says it did&#x27;: 28 fake...12 Apr 2025 — From the pope in a puffer to the Princess of Wales and family...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iptc.org  
    Title: IPTC PhotoMetadataWhitePaper2007 11  
-   Link: <a href="https://www.iptc.org/std/photometadata/0.0/documentation/IPTC-PhotoMetadataWhitePaper2007_11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/std/photometadata/0.0/documentation/IPTC-PhotoMetadataWhitePaper2007_11.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Metadata White Paper 2007Detailed information is required to make a 50-year-old press photo findable in the correct historical cont...</p></details>
+   Link:<a href="https://www.iptc.org/std/photometadata/0.0/documentation/IPTC-PhotoMetadataWhitePaper2007_11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/std/photometadata/0.0/documentation/IPTC-PhotoMetadataWhitePaper2007_11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Metadata White Paper 2007Detailed information is required to make a 50-year-old press photo findable in the correct historical cont...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tribune.com.pk  
    Title: when war learns to photoshop  
-   Link: <a href="https://tribune.com.pk/article/98124/when-war-learns-to-photoshop" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/article/98124/when-war-learns-to-photoshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Mar 2026 — The viral images were therefore classified as misinformation or manipulated visuals rather than evidence of a verified batt...</p></details>
+   Link:<a href="https://tribune.com.pk/article/98124/when-war-learns-to-photoshop" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/article/98124/when-war-learns-to-photoshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Mar 2026 — The viral images were therefore classified as misinformation or manipulated visuals rather than evidence of a verified batt...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>💡 A photo without context, an old video presented as new...Use reverse image search: is an image authentic or is it a stock photo or be...</p></details>
+   Link:<a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>💡 A photo without context, an old video presented as new...Use reverse image search: is an image authentic or is it a stock photo or be...</p></details>

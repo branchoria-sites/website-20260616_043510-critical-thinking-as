@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-own/
 description: Focused pages that expand on Own Research.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_own_research_cherry_4b8483
 parent_title: Own Research
@@ -16,7 +16,7 @@ parent_permalink: /own-research/
 
 # Explore Topics in Own Research
 
-The following pages expand on the main **[Own Research]({{ '/own-research/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Own Research]({{ '/own-research/' | relative_url }})** page and cover its key branches in.
 
 - [AI Citations]({{ '/ai-citations/' | relative_url }})
 - [Data Voids]({{ '/data-voids-6b437f/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /critical-thinking-in-3dc952-influencer/
 description: Focused pages that expand on Influencers.
-date: '2026-06-15'
+date: '2026'
 layout: default
 parent_basename: Critical_thinking_in_3dc952_influencer_trust_28f1fe
 parent_title: Influencers
@@ -16,7 +16,7 @@ parent_permalink: /influencers/
 
 # Explore Topics in Influencers
 
-The following pages expand on the main **[Influencers]({{ '/influencers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Influencers]({{ '/influencers/' | relative_url }})** page and cover its key branches in.
 
 - [AI Impersonation]({{ '/ai-impersonation/' | relative_url }})
 - [Social Proof]({{ '/social-proof/' | relative_url }})

@@ -280,19 +280,19 @@ image: /assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277_sim
 
 ## Introduction
 
-A personalised feed does not only learn from you. It often learns from people who behave like you. Recommendation systems on major platforms use patterns from groups of users with similar viewing, clicking, liking or sharing habits to predict what you may want next. As a result, a feed can reflect the behaviour of a particular cluster of users rather than the full range of what the wider public is discussing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+A personalised feed does not only learn from you. It often learns from people who behave like you. Recommendation systems on major platforms use patterns from groups of users with similar viewing, clicking, liking or sharing habits to predict what you may want next. As a result, a feed can reflect the behaviour of a particular cluster of users rather than the full range of what the wider public is discussing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277_similar_user_feeds_039a6f-Illustration-1-dark.svg" | relative_url }}" alt="Similar Users illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277_similar_user_feeds_039a6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_algorithmic_ranking_84a277_similar_user_feeds_039a6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) because repeated exposure creates a sense of normality. If a recommendation system keeps showing claims, opinions, jokes, products or concerns that are popular within a lookalike group, those topics can start to feel common, mainstream or widely accepted even when they are concentrated within a relatively narrow audience. Understanding this mechanism helps explain why different people can open the same app and come away with very different impressions of what “everyone is talking about”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+This matters for [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_url }}) because repeated exposure creates a sense of normality. If a recommendation system keeps showing claims, opinions, jokes, products or concerns that are popular within a lookalike group, those topics can start to feel common, mainstream or widely accepted even when they are concentrated within a relatively narrow audience. Understanding this mechanism helps explain why different people can open the same app and come away with very different impressions of what “everyone is talking about”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 
 ## How Lookalike Behaviour Enters Recommendations
 
 Recommendation systems often rely on a technique known as collaborative filtering. Instead of analysing only the content itself, the system studies patterns of behaviour across many users. If people who watched, liked or shared one item also tended to engage with another, the platform learns that those items are connected.
 
-TikTok openly states that recommendations can be influenced by users with similar interests. Investigations into TikTok's recommendation patterns have found that content is organised into behavioural clusters, where videos viewed by similar audiences end up connected even when they are not obviously related by keywords or hashtags. The result is a recommendation map built partly from what people like you tend to consume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+TikTok openly states that recommendations can be influenced by users with similar interests. Investigations into TikTok's recommendation patterns have found that content is organised into behavioural clusters, where videos viewed by similar audiences end up connected even when they are not obviously related by keywords or hashtags. The result is a recommendation map built partly from what people like you tend to consume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 
-A similar principle appears across recommendation systems more broadly. YouTube has explained that recommendations are designed to match viewers with content they are likely to watch and enjoy, while analyses of the platform describe recommendation models that consider what similar viewers watch alongside a user's own history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">on youtubes recommendation system</span><span class="citation-popover-snippet">On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</span></span></span>
+A similar principle appears across recommendation systems more broadly. YouTube has explained that recommendations are designed to match viewers with content they are likely to watch and enjoy, while analyses of the platform describe recommendation models that consider what similar viewers watch alongside a user's own history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">on youtubes recommendation system</span><span class="citation-popover-snippet">On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</span></span></span>
 
 The key point is that your feed is not merely a reflection of your preferences. It is also influenced by the behaviour of a statistical neighbourhood: other users whose actions resemble yours.
 
@@ -307,7 +307,7 @@ Imagine a user who watches several videos about a niche health trend. The platfo
 
 The impression created is not necessarily false. The trend may genuinely be popular among that cluster. The problem is scale. A user can easily mistake popularity within a recommendation cluster for popularity across society as a whole.
 
-Researchers and commentators often describe related phenomena using terms such as filter bubbles or echo chambers, although scholars continue to debate how strong these effects are in practice. [Evidence]({{ 'evidence/' | relative_url }}) suggests that recommendation systems can narrow exposure in some contexts, but the size and consequences of those effects vary across platforms and situations. Some studies find meaningful clustering and reinforcement, while others find weaker impacts than public discussions sometimes assume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.01221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Researchers and commentators often describe related phenomena using terms such as filter bubbles or echo chambers, although scholars continue to debate how strong these effects are in practice. [Evidence]({{ 'evidence/' | relative_url }}) suggests that recommendation systems can narrow exposure in some contexts, but the size and consequences of those effects vary across platforms and situations. Some studies find meaningful clustering and reinforcement, while others find weaker impacts than public discussions sometimes assume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.01221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For critical thinkers, the important lesson is not that every personalised feed traps users in isolation. It is that a feed should not automatically be treated as a representative sample of public opinion.
 
@@ -318,7 +318,7 @@ For critical thinkers, the important lesson is not that every personalised feed 
 
 Large recommendation systems often divide users into countless overlapping interest communities.
 
-A large-scale analysis of TikTok viewing patterns found distinct clusters around topics such as relationships, mental health, literature, gaming, engineering, fandoms and humour. Users who spend time in one cluster tend to encounter more material connected to that cluster, while vast areas of the platform remain largely invisible to them. The investigation also found notable differences in the types of content shown to different groups of users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+A large-scale analysis of TikTok viewing patterns found distinct clusters around topics such as relationships, mental health, literature, gaming, engineering, fandoms and humour. Users who spend time in one cluster tend to encounter more material connected to that cluster, while vast areas of the platform remain largely invisible to them. The investigation also found notable differences in the types of content shown to different groups of users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 
 This creates a common misunderstanding. Two users may both spend hours on the same platform and honestly believe they are seeing what the platform is "mostly about". Yet each is observing a different slice shaped by the behaviour of similar users.
 
@@ -330,9 +330,9 @@ When people compare experiences, they are sometimes surprised that others rarely
 
 The mechanism is not inherently harmful.
 
-Recommendations based on similar users help people discover niche interests, specialist communities, educational content and creators they would probably never find through simple chronological feeds. Many users value these systems precisely because they surface material that feels personally relevant. Platforms rely on this ability to reduce information overload and help users find content they enjoy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">on youtubes recommendation system</span><span class="citation-popover-snippet">On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</span></span></span>
+Recommendations based on similar users help people discover niche interests, specialist communities, educational content and creators they would probably never find through simple chronological feeds. Many users value these systems precisely because they surface material that feels personally relevant. Platforms rely on this ability to reduce information overload and help users find content they enjoy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">on youtubes recommendation system</span><span class="citation-popover-snippet">On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</span></span></span>
 
-There is also evidence that recommendation systems do not always increase fragmentation. Some research suggests that recommendations can create shared patterns of consumption across different users or broaden individual exposure in certain contexts. The relationship between personalisation and social division is therefore more complicated than a simple story of isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.10527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Deconstructing the Filter Bubble: User Decision-Making and Recommender SystemsApril 23, 2019...</span><span class="citation-popover-meta">Published: April 23, 2019</span></span></span>
+There is also evidence that recommendation systems do not always increase fragmentation. Some research suggests that recommendations can create shared patterns of consumption across different users or broaden individual exposure in certain contexts. The relationship between personalisation and social division is therefore more complicated than a simple story of isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.10527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Deconstructing the Filter Bubble: User Decision-Making and Recommender SystemsApril 23, 2019...</span><span class="citation-popover-meta">Published: April 23, 2019</span></span></span>
 
 The critical-thinking challenge is not to reject recommendations altogether. It is to recognise their limits when judging how widespread an idea, belief or trend really is.
 
@@ -348,7 +348,7 @@ Several practical checks can help:
 * **Compare across platforms.** A topic that appears everywhere on one platform but nowhere else may be benefiting from platform-specific recommendation patterns.
 * **Check audience diversity.** Are different communities discussing the issue, or only a narrow set of creators and followers?
 * **Ask who is absent.** Which perspectives, demographics or regions are not represented in the content you are seeing?
-* **Use recommendation controls deliberately.** Following new topics, searching for unfamiliar viewpoints and providing feedback signals can sometimes broaden what appears in future recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post+2blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+* **Use recommendation controls deliberately.** Following new topics, searching for unfamiliar viewpoints and providing feedback signals can sometimes broaden what appears in future recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post+2blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Are you in Tik Tok&#x27;s cat niche?</span><span class="citation-popover-snippet">What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 
 These checks do not prove whether a claim is true. They answer a different question: whether the claim has escaped the boundaries of the cluster that helped deliver it to you.
 
@@ -362,194 +362,194 @@ Recommendation systems increasingly act as social mirrors built from groups of s
 The habit that matters is simple: when something feels normal because it appears repeatedly in your feed, pause and ask whether you are seeing society at large or the preferences of a lookalike crowd. That distinction is often invisible inside the feed itself, yet it can change how confidently you interpret what seems popular, accepted or true.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When People Like You Shape Your Feed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When People Like You Shape Your Feed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Shows how feeds can create divergent realities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how feeds can create divergent realities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
-        </h4>
-        <p class="fr-book-author">By Eli Pariser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
+</h4>
+<p class="fr-book-author">By Eli Pariser</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="similar-users-when-people-like-you-shape-your-feed-critical-thinking-in-the-age-of-social-media-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The habit that matters is simple: when something feels normal because it appears
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The habit that matters is simple: when something feels normal because it appears
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The habit that matters is simple: when something feels normal because it appears
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The habit that matters is simple: when something feels normal because it appears
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The habit that matters is simple: when something feels normal because it appears
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,122 +755,122 @@ The habit that matters is simple: when something feels normal because it appears
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blog.youtube  
    Title: on youtubes recommendation system  
-   Link: <a href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</p></details>
+   Link:<a href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On YouTube&#x27;s recommendation system15 Sept 2021 — Our recommendation system is built on the simple principle of helping people find the vi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.01221" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.01221</a>  
+   Link:<a href="https://arxiv.org/abs/2307.01221" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.01221</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Understanding Filter Bubbles and Polarization in Social Networks  
-   Link: <a href="https://arxiv.org/abs/1906.08772" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.08772</a>  
+   Link:<a href="https://arxiv.org/abs/1906.08772" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.08772</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1904.10527" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.10527</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deconstructing the Filter Bubble: User Decision-Making and Recommender SystemsApril 23, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1904.10527" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.10527</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deconstructing the Filter Bubble: User Decision-Making and Recommender SystemsApril 23, 2019...</p></details>
    Published: April 23, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uCspNBRLvw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uCspNBRLvw4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If YouTube is not recommending your videos, try these...These features that I&#x27;m going to show you how you can use on your videos will he...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uCspNBRLvw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uCspNBRLvw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If YouTube is not recommending your videos, try these...These features that I&#x27;m going to show you how you can use on your videos will he...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P0SMq2DypU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P0SMq2DypU0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Obliteration (Official Video)From the album The Algorithm and The Algorithm: Ultra Edition. Animation by Atanas Shopski. [https://shopskia...&quot;](https://shopskia...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P0SMq2DypU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P0SMq2DypU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Obliteration (Official Video)From the album The Algorithm and The Algorithm: Ultra Edition. Animation by Atanas Shopski. [https://shopskia...&quot;](https://shopskia...&quot;)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Down the You Tube Rabbit Hole  
-   Link: <a href="https://www.youtube.com/watch?v=bl1zM7c0ZqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bl1zM7c0ZqQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Recommendation Algorithms Actually Work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bl1zM7c0ZqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bl1zM7c0ZqQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Recommendation Algorithms Actually Work...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How Recommendation Algorithms Actually Work  
-   Link: <a href="https://www.youtube.com/watch?v=iWwQGYkZTAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iWwQGYkZTAw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Filtering Explained | Recommender Systems Tutorial for Beginners...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iWwQGYkZTAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iWwQGYkZTAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Filtering Explained | Recommender Systems Tutorial for Beginners...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Collaborative Filtering Explained | Recommender Systems Tutorial for Beginners  
-   Link: <a href="https://www.youtube.com/watch?v=rizwooaTNEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rizwooaTNEA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation Systems - A Deep Dive into Collaborative Filtering...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rizwooaTNEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rizwooaTNEA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation Systems - A Deep Dive into Collaborative Filtering...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Recommendation Systems  
-   Link: <a href="https://www.youtube.com/watch?v=EdDj06vxjnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EdDj06vxjnw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=EdDj06vxjnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EdDj06vxjnw</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Are you in Tik Tok's cat niche?  
-   Link: <a href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-video-map-interests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What 121,000 videos reveal.December 10, 2025 — The Washington Post&#x27;s investigation into TikTok’s recommendation algorithm provides an in...</p></details>
    Published: December 10, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Filter/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Filter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;238776 likes · 1184 talking about this. New Album THE ALGORITHM: Ultra Edition is out now! [https://linktr.ee/officialfilter...&quot;](https://linktr.ee/officialfilter...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/Filter/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Filter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;238776 likes · 1184 talking about this. New Album THE ALGORITHM: Ultra Edition is out now! [https://linktr.ee/officialfilter...&quot;](https://linktr.ee/officialfilter...&quot;)...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/officialfilter/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/officialfilter/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILTER (@officialfilter) • Instagram photos and videosThe Official Instagram of FILTER The Algorithm: Ultra Edition AND Short Bus 30th An...</p></details>
+   Link:<a href="https://www.instagram.com/officialfilter/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/officialfilter/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILTER (@officialfilter) • Instagram photos and videosThe Official Instagram of FILTER The Algorithm: Ultra Edition AND Short Bus 30th An...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/filter" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/filter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILTER Definition &amp; Meaning4 days ago — The meaning of FILTER is a porous article or mass (as of paper or sand) through which a gas or li...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/filter" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/filter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILTER Definition &amp; Meaning4 days ago — The meaning of FILTER is a porous article or mass (as of paper or sand) through which a gas or li...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40zentrinozen/how-youtubes-recommendation-algorithm-actually-works-the-complete-breakdown-for-creators-6b395be74db2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40zentrinozen/how-youtubes-recommendation-algorithm-actually-works-the-complete-breakdown-for-creators-6b395be74db2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How YouTube&#x27;s Recommendation Algorithm Actually WorksYouTube&#x27;s AI analyzes your watch history, what you&#x27;ve liked, what similar viewers wa...</p></details>
+   Link:<a href="https://medium.com/%40zentrinozen/how-youtubes-recommendation-algorithm-actually-works-the-complete-breakdown-for-creators-6b395be74db2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40zentrinozen/how-youtubes-recommendation-algorithm-actually-works-the-complete-breakdown-for-creators-6b395be74db2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How YouTube&#x27;s Recommendation Algorithm Actually WorksYouTube&#x27;s AI analyzes your watch history, what you&#x27;ve liked, what similar viewers wa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: officialfilter.com  
-   Link: <a href="https://officialfilter.com/" target="_blank" rel="noopener noreferrer nofollow">https://officialfilter.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official FilterThe project fuses industrial trap metal with raw hostility, delivering an unapologetically aggressive modern sound that re...</p></details>
+   Link:<a href="https://officialfilter.com/" target="_blank" rel="noopener noreferrer nofollow">https://officialfilter.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official FilterThe project fuses industrial trap metal with raw hostility, delivering an unapologetically aggressive modern sound that re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NewTubers/comments/ghwioq/does_my_personal_viewing_history_affect_how_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NewTubers/comments/ghwioq/does_my_personal_viewing_history_affect_how_my/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Should I keep a separate account for my watching? I mostly watch league of legends vods on...</p></details>
+   Link:<a href="https://www.reddit.com/r/NewTubers/comments/ghwioq/does_my_personal_viewing_history_affect_how_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NewTubers/comments/ghwioq/does_my_personal_viewing_history_affect_how_my/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Should I keep a separate account for my watching? I mostly watch league of legends vods on...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/youtube/answer/16559651?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/16559651?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpGood to know about recommendations for YouTube&#x27;s...What matters is how viewers respond to each video when it&#x27;s recommended to...</p></details>
+   Link:<a href="https://support.google.com/youtube/answer/16559651?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/16559651?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpGood to know about recommendations for YouTube&#x27;s...What matters is how viewers respond to each video when it&#x27;s recommended to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: filterking.com  
-   Link: <a href="https://filterking.com/?srsltid=AfmBOoqIki0RHeTjVxon_os7klGY9Pcfpc955PsJLFITHOK8eFvDajPV" target="_blank" rel="noopener noreferrer nofollow">https://filterking.com/?srsltid=AfmBOoqIki0RHeTjVxon_os7klGY9Pcfpc955PsJLFITHOK8eFvDajPV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ee shipping, bulk orders, subscribe &amp; save...</p></details>
+   Link:<a href="https://filterking.com/?srsltid=AfmBOoqIki0RHeTjVxon_os7klGY9Pcfpc955PsJLFITHOK8eFvDajPV" target="_blank" rel="noopener noreferrer nofollow">https://filterking.com/?srsltid=AfmBOoqIki0RHeTjVxon_os7klGY9Pcfpc955PsJLFITHOK8eFvDajPV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ee shipping, bulk orders, subscribe &amp; save...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: filtersfast.com  
    Title: Find the right filter for your home today!  
-   Link: <a href="https://www.filtersfast.com/?srsltid=AfmBOopXUauHS988V173DqZRhXa5TaoofY2AY7wIyMrXua8Imk_Qxwk7" target="_blank" rel="noopener noreferrer nofollow">https://www.filtersfast.com/?srsltid=AfmBOopXUauHS988V173DqZRhXa5TaoofY2AY7wIyMrXua8Imk_Qxwk7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Water &amp; Air Filters, Home Filtration &amp; Replacement Parts...Shop Filters Fast for a wide selection of water &amp; air filters, home filtratio...</p></details>
+   Link:<a href="https://www.filtersfast.com/?srsltid=AfmBOopXUauHS988V173DqZRhXa5TaoofY2AY7wIyMrXua8Imk_Qxwk7" target="_blank" rel="noopener noreferrer nofollow">https://www.filtersfast.com/?srsltid=AfmBOopXUauHS988V173DqZRhXa5TaoofY2AY7wIyMrXua8Imk_Qxwk7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Water &amp; Air Filters, Home Filtration &amp; Replacement Parts...Shop Filters Fast for a wide selection of water &amp; air filters, home filtratio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=35445992" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=35445992</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with direct knowledge of YouTube Algorithm-why...4 Apr 2023 — Whenever a 3blue1brown video pops up in my feed again, it&#x27;s like seeing an...</p></details>
+   Link:<a href="https://news.ycombinator.com/item?id=35445992" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=35445992</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with direct knowledge of YouTube Algorithm-why...4 Apr 2023 — Whenever a 3blue1brown video pops up in my feed again, it&#x27;s like seeing an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Filter (band)  
-   Link: <a href="https://en.wikipedia.org/wiki/Filter_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Filter_%28band%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filter (band)Filter is an American rock band formed in 1993 in Cleveland, Ohio, by singer Richard Patrick, along with guitarist and pr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Filter_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Filter_%28band%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filter (band)Filter is an American rock band formed in 1993 in Cleveland, Ohio, by singer Richard Patrick, along with guitarist and pr...</p></details>

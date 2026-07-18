@@ -274,7 +274,7 @@ image: /assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_poli
 
 ## Introduction
 
-Generative AI has changed a subtle but important rule of online credibility: professional-looking content is no longer strong [evidence]({{ 'evidence/' | relative_url }}) that the underlying claim is trustworthy. A dramatic local warning, a heartfelt testimony, a public notice, a voice message, or a photo-based explainer can now be produced at low cost with polished language, realistic visuals, and confident presentation. The result is that emotional misinformation often arrives wrapped in the same visual and stylistic cues that people traditionally associate with expertise and legitimacy. Research on generative AI and disinformation repeatedly highlights that synthetic text, images, audio, and video are becoming easier to produce, harder to distinguish from authentic material, and increasingly capable of attracting attention and engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
+Generative AI has changed a subtle but important rule of online credibility: professional-looking content is no longer strong [evidence]({{ 'evidence/' | relative_url }}) that the underlying claim is trustworthy. A dramatic local warning, a heartfelt testimony, a public notice, a voice message, or a photo-based explainer can now be produced at low cost with polished language, realistic visuals, and confident presentation. The result is that emotional misinformation often arrives wrapped in the same visual and stylistic cues that people traditionally associate with expertise and legitimacy. Research on generative AI and disinformation repeatedly highlights that synthetic text, images, audio, and video are becoming easier to produce, harder to distinguish from authentic material, and increasingly capable of attracting attention and engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-1-dark.svg" | relative_url }}" alt="AI polish illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within the broader problem of [emotional posts]({{ 'emotional-posts/' | relative
 
 For many years, people relied on rough heuristics when judging information online. A post with good spelling, clean design, coherent writing, realistic imagery, and apparent expertise often seemed more credible than a poorly produced alternative.
 
-Generative AI weakens those shortcuts because it can manufacture the appearance of competence at scale. A person no longer needs graphic design skills, video editing expertise, professional photography, or advanced writing ability to produce content that looks as if it came from a newsroom, charity, public authority, or subject specialist. Researchers studying generative AI and disinformation repeatedly identify this reduction in production costs as one of the technology's most significant effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
+Generative AI weakens those shortcuts because it can manufacture the appearance of competence at scale. A person no longer needs graphic design skills, video editing expertise, professional photography, or advanced writing ability to produce content that looks as if it came from a newsroom, charity, public authority, or subject specialist. Researchers studying generative AI and disinformation repeatedly identify this reduction in production costs as one of the technology's most significant effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
 
 The emotional dimension matters because people often interpret polished presentation as a signal that somebody has done serious work behind the scenes. If a frightening warning is accompanied by realistic photographs, a clean infographic, and a calm explanatory voiceover, viewers may unconsciously transfer trust from the presentation to the claim itself.
 
@@ -298,7 +298,7 @@ AI-generated emotional misinformation often gains authority through several over
 * **Confident language**: large language models routinely generate fluent, structured prose that sounds informed even when factual support is weak.
 * **Local tailoring**: the same claim can be rewritten for different towns, professions, political groups, or cultural communities.
 * **Pseudo-expertise**: AI can imitate the style of official reports, medical explainers, educational materials, or news coverage.
-* **Volume and variation**: many versions of the same narrative can be produced quickly, making the claim appear widespread or independently confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
+* **Volume and variation**: many versions of the same narrative can be produced quickly, making the claim appear widespread or independently confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</span></span></span>
 
 None of these features necessarily indicate deception. Legitimate organisations use the same tools. The problem is that presentation quality and factual quality have become more separable than they once were.
 
@@ -313,7 +313,7 @@ A polished emotional story may still rest on a miscaptioned image, an invented w
 
 Photographs have long carried evidential weight because people tend to treat them as records of reality. Advances in image generation have complicated that assumption.
 
-Research on photorealistic AI-generated images shows that modern systems can create highly realistic visuals with professional aesthetics and relatively few obvious signs of artificial production. Many of these images imitate the visual conventions associated with authentic journalism, documentary photography, or eyewitness reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.17484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Crafting Synthetic Realities: Examining Visual Realism and Misinformation Potential of Photorealistic AI-Generated ImagesSeptember 2...</span></span></span>
+Research on photorealistic AI-generated images shows that modern systems can create highly realistic visuals with professional aesthetics and relatively few obvious signs of artificial production. Many of these images imitate the visual conventions associated with authentic journalism, documentary photography, or eyewitness reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.17484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Crafting Synthetic Realities: Examining Visual Realism and Misinformation Potential of Photorealistic AI-Generated ImagesSeptember 2...</span></span></span>
 
 When such images accompany emotionally charged claims, they can function as apparent proof even when they document no real event. The persuasive force comes from the combination of emotion and visual plausibility.
 
@@ -327,7 +327,7 @@ The authority comes less from the text itself than from the familiar design lang
 
 Audio carries its own credibility signals. People often trust voices because they seem personal and difficult to fake.
 
-Modern voice-cloning systems can reproduce accents, tone, and speaking style with increasing accuracy, creating recordings that sound as though they come from known individuals. Researchers note that audio [deepfakes]({{ 'deepfakes/' | relative_url }}) are becoming increasingly sophisticated, raising concerns for authentication, trust, and public communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10791-026-10077-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">It examines...Read more...</span></span></span>
+Modern voice-cloning systems can reproduce accents, tone, and speaking style with increasing accuracy, creating recordings that sound as though they come from known individuals. Researchers note that audio [deepfakes]({{ 'deepfakes/' | relative_url }}) are becoming increasingly sophisticated, raising concerns for authentication, trust, and public communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10791-026-10077-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">It examines...Read more...</span></span></span>
 
 The emotional effect can be powerful. A worried voice, a reassuring expert, or an apparently authentic local resident can create a sense of immediacy that text alone may not achieve.
 
@@ -343,7 +343,7 @@ Because the structure resembles genuine teaching, readers may mistake clarity fo
 
 One of the most important changes introduced by generative AI is the ability to adapt the same underlying story for different audiences.
 
-A single narrative can be rewritten to appeal to parents, pensioners, healthcare workers, environmental campaigners, religious groups, local residents, or political activists. Researchers and analysts have highlighted concerns that AI may make misinformation easier to customise for specific audiences and communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/generative-ai-custom-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Unlike the human-driven attempts of the past, such as the 2016 Russian interference in the US presidential election, AI tools can profile...</span></span></span>
+A single narrative can be rewritten to appeal to parents, pensioners, healthcare workers, environmental campaigners, religious groups, local residents, or political activists. Researchers and analysts have highlighted concerns that AI may make misinformation easier to customise for specific audiences and communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/generative-ai-custom-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Unlike the human-driven attempts of the past, such as the 2016 Russian interference in the US presidential election, AI tools can profile...</span></span></span>
 
 The emotional core remains the same, but the framing changes:
 
@@ -370,9 +370,9 @@ A common misconception is that the main danger comes from perfectly undetectable
 
 They only need to look convincing long enough to trigger sharing, [outrage]({{ 'outrage/' | relative_url }}), alarm, or sympathy.
 
-Some studies suggest AI-generated misinformation can achieve disproportionate virality online, even when it is not necessarily more believable than conventional misinformation. The combination of novelty, accessibility, and professional presentation may help explain part of that advantage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+Some studies suggest AI-generated misinformation can achieve disproportionate virality online, even when it is not necessarily more believable than conventional misinformation. The combination of novelty, accessibility, and professional presentation may help explain part of that advantage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Characterizing AI-Generated Misinformation on Social Media</span><span class="citation-popover-snippet">Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
-At the same time, researchers continue to find that people struggle to distinguish synthetic content from authentic material. As generative systems improve, visual and textual authenticity become increasingly unreliable indicators of truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">Generative) AI and Disinformation—</span><span class="citation-popover-snippet">IntroductionNovember 11, 2025 — For instance, visual disinformation such as deepfakes have become far more sophisticated (Shoaib, Wang, A...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span>
+At the same time, researchers continue to find that people struggle to distinguish synthetic content from authentic material. As generative systems improve, visual and textual authenticity become increasingly unreliable indicators of truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">Generative) AI and Disinformation—</span><span class="citation-popover-snippet">IntroductionNovember 11, 2025 — For instance, visual disinformation such as deepfakes have become far more sophisticated (Shoaib, Wang, A...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span>
 
 The practical consequence is that verification often becomes more important precisely when the content looks most convincing.
 
@@ -401,200 +401,200 @@ Authentic authority can often be checked through official websites, statements, 
 
 If the answer is only "look at this image" or "listen to this audio", the evidential basis may be weaker than it appears.
 
-The central lesson is simple: AI has made emotional persuasion easier to package. It has not made evidence less necessary. In the age of [synthetic media]({{ 'synthetic-media/' | relative_url }}), professional presentation remains useful, but it is no longer a dependable shortcut to truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org+2cepr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</span></span></span>
+The central lesson is simple: AI has made emotional persuasion easier to package. It has not made evidence less necessary. In the age of [synthetic media]({{ 'synthetic-media/' | relative_url }}), professional presentation remains useful, but it is no longer a dependable shortcut to truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org+2cepr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-3-dark.svg" | relative_url }}" alt="AI polish illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_emotional_posts_486178_ai_polish_fakes_718fee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why polished AI fakes feel more credible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why polished AI fakes feel more credible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches source evaluation beyond appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches source evaluation beyond appearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Highlights verification mechanisms over presentation quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights verification mechanisms over presentation quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Shows how cognitive shortcuts affect belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how cognitive shortcuts affect belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="ai-polish-why-polished-ai-fakes-feel-more-credible-critical-thinking-in-the-age-of-social-media-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ The central lesson is simple: AI has made emotional persuasion easier to package
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ The central lesson is simple: AI has made emotional persuasion easier to package
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ The central lesson is simple: AI has made emotional persuasion easier to package
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ The central lesson is simple: AI has made emotional persuasion easier to package
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ The central lesson is simple: AI has made emotional persuasion easier to package
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,135 +800,135 @@ The central lesson is simple: AI has made emotional persuasion easier to package
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2304-6775/13/3/33</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</p></details>
+   Link:<a href="https://www.mdpi.com/2304-6775/13/3/33" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2304-6775/13/3/33</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Impact of Generative AI on Disinformationby A López-Borrull · 2025 · Cited by 38 — This article presents a scoping review...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: edmo.eu  
    Title: Generative AI and Disinformation: Recent Advances  
-   Link: <a href="https://edmo.eu/wp-content/uploads/2023/12/Generative-AI-and-Disinformation_-White-Paper-v8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/wp-content/uploads/2023/12/Generative-AI-and-Disinformation_-White-Paper-v8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Bontcheva · Cited by 56 — This can lead to the generation of fake content (deepfakes)... Moreover, as new generative AI tools c...</p></details>
+   Link:<a href="https://edmo.eu/wp-content/uploads/2023/12/Generative-AI-and-Disinformation_-White-Paper-v8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/wp-content/uploads/2023/12/Generative-AI-and-Disinformation_-White-Paper-v8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Bontcheva · Cited by 56 — This can lead to the generation of fake content (deepfakes)... Moreover, as new generative AI tools c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/5192993.pdf?abstractid=5192993&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/5192993.pdf?abstractid=5192993&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, Gen AI can hallucinate and misinformation can be present in the content gen-.Read more...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/5192993.pdf?abstractid=5192993&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/5192993.pdf?abstractid=5192993&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, Gen AI can hallucinate and misinformation can be present in the content gen-.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/generative-ai-custom-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/generative-ai-custom-disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike the human-driven attempts of the past, such as the 2016 Russian interference in the US presidential election, AI tools can profile...</p></details>
+   Link:<a href="https://www.wired.com/story/generative-ai-custom-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/generative-ai-custom-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike the human-driven attempts of the past, such as the 2016 Russian interference in the US presidential election, AI tools can profile...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.17484" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.17484</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crafting Synthetic Realities: Examining Visual Realism and Misinformation Potential of Photorealistic AI-Generated ImagesSeptember 2...</p></details>
+   Link:<a href="https://arxiv.org/abs/2409.17484" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.17484</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crafting Synthetic Realities: Examining Visual Realism and Misinformation Potential of Photorealistic AI-Generated ImagesSeptember 2...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10791-026-10077-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10791-026-10077-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It examines...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10791-026-10077-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10791-026-10077-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It examines...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Characterizing AI-Generated Misinformation on Social Media  
-   Link: <a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.10266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social MediaMay 15, 2025...</p></details>
    Published: May 15, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
+   Link:<a href="https://arxiv.org/abs/2604.15372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.15372</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ijoc.org  
    Title: (Generative) AI and Disinformation—  
-   Link: <a href="https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionNovember 11, 2025 — For instance, visual disinformation such as deepfakes have become far more sophisticated (Shoaib, Wang, A...</p></details>
+   Link:<a href="https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/download/26088/5137/104469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionNovember 11, 2025 — For instance, visual disinformation such as deepfakes have become far more sophisticated (Shoaib, Wang, A...</p></details>
    Published: November 11, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2405.04097v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.04097v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Human Perception of Audiovisual DeepfakesThis paper aims to evaluate the human ability to discern deepfake videos through a...</p></details>
+   Link:<a href="https://arxiv.org/html/2405.04097v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.04097v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Human Perception of Audiovisual DeepfakesThis paper aims to evaluate the human ability to discern deepfake videos through a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cepr.org  
    Title: [ai misinformation](&#123;&#123; 'ai-virality/' | relative_url &#125;&#125;) and value trusted news  
-   Link: <a href="https://cepr.org/voxeu/columns/ai-misinformation-and-value-trusted-news" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/ai-misinformation-and-value-trusted-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI misinformation and the value of trusted news16 Sept 2025 — Artificial intelligence tools can now produce highly realistic text, images...</p></details>
+   Link:<a href="https://cepr.org/voxeu/columns/ai-misinformation-and-value-trusted-news" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/ai-misinformation-and-value-trusted-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI misinformation and the value of trusted news16 Sept 2025 — Artificial intelligence tools can now produce highly realistic text, images...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — These patterns suggest that the AI-generated nature of content sh...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.10266v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10266v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing AI-Generated Misinformation on Social Media15 May 2025 — These patterns suggest that the AI-generated nature of content sh...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: Blessing or curse?  
-   Link: <a href="https://arxiv.org/html/2404.03021v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.03021v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A survey on the Impact of Generative AI...This survey provides a comprehensive examination of the research and practical use of Generati...</p></details>
+   Link:<a href="https://arxiv.org/html/2404.03021v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.03021v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A survey on the Impact of Generative AI...This survey provides a comprehensive examination of the research and practical use of Generati...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Generative AI and misinformation: a scoping review...1 Oct 2025 — Analyzing 24 empirical studies, our review suggests that LLMs ca...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396009805_Generative_AI_and_misinformation_a_scoping_review_of_the_role_of_generative_AI_in_the_generation_detection_mitigation_and_impact_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Generative AI and misinformation: a scoping review...1 Oct 2025 — Analyzing 24 empirical studies, our review suggests that LLMs ca...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This poses serious risks, from political misinformation and financial scams to non-consensual image-based abuse and corporate fraud, whic...</p></details>
+   Link:<a href="https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/i-think-i-can-spot-an-ai-fake-but-the-latest-expert-research-suggests-im-wrong-heres-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This poses serious risks, from political misinformation and financial scams to non-consensual image-based abuse and corporate fraud, whic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: accessnow.org  
-   Link: <a href="https://www.accessnow.org/artificial-intelligence-and-disinformation-our-contribution-at-unescos-mobile-learning-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/artificial-intelligence-and-disinformation-our-contribution-at-unescos-mobile-learning-week/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and disinformation: our contribution at UNESCO&#x27;s...6 Mar 2019 — The discussion focused on two main aspects of the relationship betwee...</p></details>
+   Link:<a href="https://www.accessnow.org/artificial-intelligence-and-disinformation-our-contribution-at-unescos-mobile-learning-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/artificial-intelligence-and-disinformation-our-contribution-at-unescos-mobile-learning-week/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and disinformation: our contribution at UNESCO&#x27;s...6 Mar 2019 — The discussion focused on two main aspects of the relationship betwee...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/how-ai-generated-disinformation-might-impact-years-elections-and-how-journalists-should-report" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/how-ai-generated-disinformation-might-impact-years-elections-and-how-journalists-should-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated disinformation might impact this year&#x27;s...15 Mar 2024 — In a year in which around 2 billion people are eligible to vote in...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/how-ai-generated-disinformation-might-impact-years-elections-and-how-journalists-should-report" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/how-ai-generated-disinformation-might-impact-years-elections-and-how-journalists-should-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated disinformation might impact this year&#x27;s...15 Mar 2024 — In a year in which around 2 billion people are eligible to vote in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/initial-policy-considerations-for-generative-artificial-intelligence_1a9ab450/fae2d1e6-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/initial-policy-considerations-for-generative-artificial-intelligence_1a9ab450/fae2d1e6-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial policy considerations for generative artificial...by P Lorenz · 2023 · Cited by 135 — Overall, research finds that detection alg...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/initial-policy-considerations-for-generative-artificial-intelligence_1a9ab450/fae2d1e6-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/initial-policy-considerations-for-generative-artificial-intelligence_1a9ab450/fae2d1e6-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial policy considerations for generative artificial...by P Lorenz · 2023 · Cited by 135 — Overall, research finds that detection alg...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397195733_The_Rise_of_AI-Generated_Realities_Navigating_Truth_in_a_Synthetic_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397195733_The_Rise_of_AI-Generated_Realities_Navigating_Truth_in_a_Synthetic_World</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of AI-Generated Realities: Navigating Truth in a...3 Nov 2025 — From the proliferation of fake news and deepfakes to manipulate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397195733_The_Rise_of_AI-Generated_Realities_Navigating_Truth_in_a_Synthetic_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397195733_The_Rise_of_AI-Generated_Realities_Navigating_Truth_in_a_Synthetic_World</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of AI-Generated Realities: Navigating Truth in a...3 Nov 2025 — From the proliferation of fake news and deepfakes to manipulate...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-can-make-mistakes-urgent-need-media-literacy-digital-aleem-nu8tf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-can-make-mistakes-urgent-need-media-literacy-digital-aleem-nu8tf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helps citizens make informed decisions. Prevents the spread of fake news. Strengthens...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-can-make-mistakes-urgent-need-media-literacy-digital-aleem-nu8tf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-can-make-mistakes-urgent-need-media-literacy-digital-aleem-nu8tf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helps citizens make informed decisions. Prevents the spread of fake news. Strengthens...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/406388499_AI-Generated_Fake_News_Affects_People%27s_Trust_in_the_Technology_and_the_Medium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/406388499_AI-Generated_Fake_News_Affects_People%27s_Trust_in_the_Technology_and_the_Medium</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 2026; Communications in Humanities Research 99(1):193-203.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/406388499_AI-Generated_Fake_News_Affects_People%27s_Trust_in_the_Technology_and_the_Medium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/406388499_AI-Generated_Fake_News_Affects_People%27s_Trust_in_the_Technology_and_the_Medium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 2026; Communications in Humanities Research 99(1):193-203.Read more...</p></details>
    Published: June 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Misinformation reloaded?  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fears about the impact of...by FM Simon · 2023 · Cited by 198 — Still, generative AI might be able to improve on the content of already...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fears about the impact of...by FM Simon · 2023 · Cited by 198 — Still, generative AI might be able to improve on the content of already...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: stimson.org  
    Title: ai in the age of fake imagined content  
-   Link: <a href="https://www.stimson.org/2026/ai-in-the-age-of-fake-imagined-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.stimson.org/2026/ai-in-the-age-of-fake-imagined-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in the Age of Fake (Imagined) Content23 Feb 2026 — AI is fundamentally changing how misinformation and disinformation are developed an...</p></details>
+   Link:<a href="https://www.stimson.org/2026/ai-in-the-age-of-fake-imagined-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.stimson.org/2026/ai-in-the-age-of-fake-imagined-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in the Age of Fake (Imagined) Content23 Feb 2026 — AI is fundamentally changing how misinformation and disinformation are developed an...</p></details>

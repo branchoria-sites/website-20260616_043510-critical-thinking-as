@@ -280,7 +280,7 @@ image: /assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earlies
 
 ## Introduction
 
-When a deepfake clip goes viral, the most revealing evidence is often not inside the video itself but in its upload history. A convincing synthetic video can survive frame-by-frame scrutiny, while a simple search for its earliest known appearance may expose [missing context]({{ 'missing-context/' | relative_url }}), editing, parody origins, or anonymous distribution. For anyone evaluating a viral claim, finding the first reachable version is one of the most practical credibility checks available because it shifts attention from appearance to provenance: who published it, when, and under what circumstances. Researchers, journalists and verification specialists increasingly rely on source tracing, reverse searches and publication timelines because [visual inspection]({{ 'inspection-limits/' | relative_url }}) alone is often unreliable against modern AI-generated media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</span></span></span>
+When a deepfake clip goes viral, the most revealing evidence is often not inside the video itself but in its upload history. A convincing synthetic video can survive frame-by-frame scrutiny, while a simple search for its earliest known appearance may expose [missing context]({{ 'missing-context/' | relative_url }}), editing, parody origins, or anonymous distribution. For anyone evaluating a viral claim, finding the first reachable version is one of the most practical credibility checks available because it shifts attention from appearance to provenance: who published it, when, and under what circumstances. Researchers, journalists and verification specialists increasingly rely on source tracing, reverse searches and publication timelines because [visual inspection]({{ 'inspection-limits/' | relative_url }}) alone is often unreliable against modern AI-generated media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-1-dark.svg" | relative_url }}" alt="First Upload illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ In the broader task of deepfake audio and video credibility checks, the first-up
 
 The goal is rarely to prove that a video is the absolute first upload on the internet. Instead, the practical objective is to locate the earliest accessible version and reconstruct how the clip spread.
 
-A useful approach starts with distinctive details rather than generic keywords. Search for exact phrases spoken in the clip, unique visual elements, usernames, logos, clothing, landmarks, or captions that appear in reposts. Reverse image and reverse video searches can help identify older appearances of the same footage and reveal whether the circulating version is cropped, shortened or repackaged. Verification specialists routinely use these methods to uncover earlier uploads and reconstruct publication timelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reversevideosearches.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reversevideosearches.com">[Reverse Video Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reversevideosearches.com</span><span class="citation-popover-snippet">Use reverse video search to trace the source, verify authenticity, and discover full videos online...</span></span></span>
+A useful approach starts with distinctive details rather than generic keywords. Search for exact phrases spoken in the clip, unique visual elements, usernames, logos, clothing, landmarks, or captions that appear in reposts. Reverse image and reverse video searches can help identify older appearances of the same footage and reveal whether the circulating version is cropped, shortened or repackaged. Verification specialists routinely use these methods to uncover earlier uploads and reconstruct publication timelines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reversevideosearches.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reversevideosearches.com">[Reverse Video Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reversevideosearches.com</span><span class="citation-popover-snippet">Use reverse video search to trace the source, verify authenticity, and discover full videos online...</span></span></span>
 
 Several clues strengthen confidence that an upload is close to the source:
 
@@ -305,7 +305,7 @@ Several clues strengthen confidence that an upload is close to the source:
 
 </div>
 
-By contrast, a clip that appears only as screen recordings of screen recordings, repeatedly re-uploaded without attribution, becomes much harder to evaluate. Every repost can strip away metadata, context and explanations that might otherwise clarify what viewers are seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fundacionyod.org">[Fundación YOD+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fundacionyod.org</span><span class="citation-popover-title">Fundación YODDeep Fake: advice</span><span class="citation-popover-snippet">Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
+By contrast, a clip that appears only as screen recordings of screen recordings, repeatedly re-uploaded without attribution, becomes much harder to evaluate. Every repost can strip away metadata, context and explanations that might otherwise clarify what viewers are seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fundacionyod.org">[Fundación YOD+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fundacionyod.org</span><span class="citation-popover-title">Fundación YODDeep Fake: advice</span><span class="citation-popover-snippet">Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zvDxZZ8IqTc" title="Tracing Origins: Navigating Content Authenticity in the Deepfake Era" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zvDxZZ8IqTc" target="_blank" rel="noopener noreferrer">Tracing Origins: Navigating Content Authenticity in the Deepfake Era</a></p><p class="youtube-embed-meta">Channel: Black Hat &middot; Views: 944 &middot; Uploaded: March 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zvDxZZ8IqTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zvDxZZ8IqTc">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ By contrast, a clip that appears only as screen recordings of screen recordings,
 
 A highly realistic deepfake can still have a suspicious origin trail. Conversely, a genuine video may initially look strange because of compression, poor lighting or unusual camera angles.
 
-This is why provenance investigations often begin with chronology. If a clip supposedly shows a breaking event but the earliest discoverable upload appears on an anonymous account with no connection to the event, confidence should decrease. If the earliest version comes from a known participant, local witness, official source or established reporter and can be independently corroborated, confidence generally increases. The timeline does not prove authenticity, but it provides [evidence]({{ 'evidence/' | relative_url }}) about credibility that visual inspection alone cannot supply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">tipsheet investigating ai audio deepfakes</span><span class="citation-popover-snippet">tracing a deepfake source can be quite accurate. Develop expert industry sources. Reporters can enlist the help of expert sources at...R...</span></span></span>
+This is why provenance investigations often begin with chronology. If a clip supposedly shows a breaking event but the earliest discoverable upload appears on an anonymous account with no connection to the event, confidence should decrease. If the earliest version comes from a known participant, local witness, official source or established reporter and can be independently corroborated, confidence generally increases. The timeline does not prove authenticity, but it provides [evidence]({{ 'evidence/' | relative_url }}) about credibility that visual inspection alone cannot supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">tipsheet investigating ai audio deepfakes</span><span class="citation-popover-snippet">tracing a deepfake source can be quite accurate. Develop expert industry sources. Reporters can enlist the help of expert sources at...R...</span></span></span>
 
 ## Why Anonymous Repost Chains Weaken Confidence
 
@@ -322,9 +322,9 @@ Many viral deepfake claims spread through chains of reposts rather than through 
 
 This matters because every link in the chain introduces opportunities for distortion. Captions change. Audio is removed or replaced. Segments are trimmed. New claims are attached to [old footage]({{ 'old-footage/' | relative_url }}). Viewers often encounter the most viral version rather than the most informative one.
 
-An anonymous repost chain does not automatically mean a clip is fake. Whistleblowers, activists and ordinary witnesses sometimes publish legitimate material anonymously. The issue is that anonymity removes information that helps establish reliability. When the uploader cannot be identified, viewers lose the ability to assess access, motives, expertise and proximity to the event. The result is greater uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fundacionyod.org">[Fundación YOD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fundacionyod.org</span><span class="citation-popover-title">Fundación YODDeep Fake: advice</span><span class="citation-popover-snippet">Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
+An anonymous repost chain does not automatically mean a clip is fake. Whistleblowers, activists and ordinary witnesses sometimes publish legitimate material anonymously. The issue is that anonymity removes information that helps establish reliability. When the uploader cannot be identified, viewers lose the ability to assess access, motives, expertise and proximity to the event. The result is greater uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fundacionyod.org">[Fundación YOD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fundacionyod.org</span><span class="citation-popover-title">Fundación YODDeep Fake: advice</span><span class="citation-popover-snippet">Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
 
-A common pattern in misinformation investigations is that a dramatic clip circulates widely before anyone identifies where it came from. Once investigators locate an earlier version, key details often emerge: the recording was satire, an experiment, a gaming video, a synthetic demonstration, or a genuine event presented with a misleading caption. The [source trail]({{ 'source-trail/' | relative_url }}) frequently resolves questions that visual analysis alone cannot answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+A common pattern in misinformation investigations is that a dramatic clip circulates widely before anyone identifies where it came from. Once investigators locate an earlier version, key details often emerge: the recording was satire, an experiment, a gaming video, a synthetic demonstration, or a genuine event presented with a misleading caption. The [source trail]({{ 'source-trail/' | relative_url }}) frequently resolves questions that visual analysis alone cannot answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-2-dark.svg" | relative_url }}" alt="First Upload illustration 2" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,7 +332,7 @@ A common pattern in misinformation investigations is that a dramatic clip circul
 
 One of the most effective forms of misinformation does not require creating a deepfake from scratch. An existing video can be transformed into a new claim through editing, cropping or relabelling.
 
-A clip recorded years ago may be reposted as if it depicts a current crisis. A longer recording may be cut down to remove explanations that change its meaning. Researchers and fact-checkers regularly encounter cases where old footage resurfaces with new captions and gains traction because viewers never see the original publication date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook💡 A photo without context, an old video presented as new...Disinformation tends to feature recycled scandals from the past in a...</span></span></span>
+A clip recorded years ago may be reposted as if it depicts a current crisis. A longer recording may be cut down to remove explanations that change its meaning. Researchers and fact-checkers regularly encounter cases where old footage resurfaces with new captions and gains traction because viewers never see the original publication date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook💡 A photo without context, an old video presented as new...Disinformation tends to feature recycled scandals from the past in a...</span></span></span>
 
 This creates an important verification question: is the viral clip actually new?
 
@@ -349,7 +349,7 @@ Finding an older upload can reveal that:
 
 </div>
 
-Verification organisations frequently emphasise that removed context can be as misleading as synthetic generation. A genuine recording edited into a false narrative can produce many of the same effects as a deepfake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propastop.org">[Propastop+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propastop.org</span><span class="citation-popover-title">Seeing is Believing?</span><span class="citation-popover-snippet">Wrong! How to Verify the Authenticity...9 Dec 2025 — Footage is edited in a way that removes the original context. Twenty seconds of vid...</span></span></span>
+Verification organisations frequently emphasise that removed context can be as misleading as synthetic generation. A genuine recording edited into a false narrative can produce many of the same effects as a deepfake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propastop.org">[Propastop+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propastop.org</span><span class="citation-popover-title">Seeing is Believing?</span><span class="citation-popover-snippet">Wrong! How to Verify the Authenticity...9 Dec 2025 — Footage is edited in a way that removes the original context. Twenty seconds of vid...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3GuaJAXR_Vk" title="Reverse Video Search: Find the Original Source of Any Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3GuaJAXR_Vk" target="_blank" rel="noopener noreferrer">Reverse Video Search: Find the Original Source of Any Video</a></p><p class="youtube-embed-meta">Channel: Winxel &middot; Views: 164 &middot; Uploaded: June 2026 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3GuaJAXR_Vk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3GuaJAXR_Vk">Open on YouTube</a></p></div></div></div>
@@ -358,7 +358,7 @@ Verification organisations frequently emphasise that removed context can be as m
 
 An important limitation is that the earliest accessible upload is not always the moment a video was created. Content may have circulated privately before becoming public. Platforms may delete original posts. Accounts may be suspended.
 
-Because of this, investigators often speak about the earliest reachable version rather than the absolute origin. The practical value lies in moving closer to the source and reducing uncertainty, not in claiming perfect historical reconstruction. Provenance research increasingly focuses on tracing creation pathways, publication histories and distribution networks because these often reveal more about authenticity than appearance-based detection methods alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</span></span></span>
+Because of this, investigators often speak about the earliest reachable version rather than the absolute origin. The practical value lies in moving closer to the source and reducing uncertainty, not in claiming perfect historical reconstruction. Provenance research increasingly focuses on tracing creation pathways, publication histories and distribution networks because these often reveal more about authenticity than appearance-based detection methods alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qW96515QG6Y" title="OSINT At Home #1 - Starting an investigation with image reverse search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qW96515QG6Y" target="_blank" rel="noopener noreferrer">OSINT At Home #1 - Starting an investigation with image reverse search</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 205.7K &middot; Uploaded: February 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qW96515QG6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qW96515QG6Y">Open on YouTube</a></p></div></div></div>
@@ -381,200 +381,200 @@ When confronted with a viral deepfake claim, a simple sequence can dramatically 
 
 </div>
 
-The key insight is straightforward: a deepfake investigation does not begin with asking whether a face looks real. It begins by asking where the clip came from. In an environment where AI-generated media, edited footage and recycled videos compete for attention, the source trail often provides the strongest clue about what viewers are actually seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge+2Fundación YOD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
+The key insight is straightforward: a deepfake investigation does not begin with asking whether a face looks real. It begins by asking where the clip came from. In an environment where AI-generated media, edited footage and recycled videos compete for attention, the source trail often provides the strongest clue about what viewers are actually seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge+2Fundación YOD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</span></span></span>
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-3-dark.svg" | relative_url }}" alt="First Upload illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_deepfake_checks_dc53bd_earliest_version_che_a04307-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did That Deepfake Clip Start?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did That Deepfake Clip Start?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
-        </h4>
-        <p class="fr-book-author">By Nina Schick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deepfakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhDdDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deepfakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deepfakes">Deepfakes</a>
+</h4>
+<p class="fr-book-author">By Nina Schick</p>
         
-        <p class="fr-book-desc">Explains synthetic media, misinformation, and provenance challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains synthetic media, misinformation, and provenance challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deepfakes+by+Nina+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Builds habits for evaluating evidence and dubious claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds habits for evaluating evidence and dubious claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Encourages corroboration and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages corroboration and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deepfakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deepfakes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="{{ '/assets/images/marketplace-covers/807cbda2b36dc7841ab8.jpg' | relative_url }}" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/17b03ef55eab77228520.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="{{ '/assets/images/marketplace-covers/cfca6c4c237a4133c99f.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="first-upload-where-did-that-deepfake-clip-start-critical-thinking-in-the-age-of-social-media-and-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The key insight is straightforward: a deepfake investigation does not begin with
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The key insight is straightforward: a deepfake investigation does not begin with
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The key insight is straightforward: a deepfake investigation does not begin with
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The key insight is straightforward: a deepfake investigation does not begin with
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The key insight is straightforward: a deepfake investigation does not begin with
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,130 +780,130 @@ The key insight is straightforward: a deepfake investigation does not begin with
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Media Forensics: Status and Future Challengesby I Amerini · 2025 · Cited by 112 — Deepfake Attribution and Recognition aims t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fundacionyod.org  
    Title: Fundación YODDeep Fake: advice  
-   Link: <a href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow">https://www.fundacionyod.org/en/news/deepfake-advice/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</p></details>
+   Link:<a href="https://www.fundacionyod.org/en/news/deepfake-advice/" target="_blank" rel="noopener noreferrer nofollow">https://www.fundacionyod.org/en/news/deepfake-advice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundación YODDeepFake: adviceMarch 20, 2024 — It is always important to look for the original source of the recording, locating the perso...</p></details>
    Published: March 20, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gijn.org  
    Title: tipsheet investigating ai audio [deepfakes](&#123;&#123; 'deepfakes/' | relative_url &#125;&#125;)  
-   Link: <a href="https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tracing a deepfake source can be quite accurate. Develop expert industry sources. Reporters can enlist the help of expert sources at...R...</p></details>
+   Link:<a href="https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tracing a deepfake source can be quite accurate. Develop expert industry sources. Reporters can enlist the help of expert sources at...R...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook💡 A photo without context, an old video presented as new...Disinformation tends to feature recycled scandals from the past in a...</p></details>
+   Link:<a href="https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freepressunltd/posts/-a-photo-without-context-an-old-video-presented-as-new-or-a-claim-designed-to-pr/1480089297484125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook💡 A photo without context, an old video presented as new...Disinformation tends to feature recycled scandals from the past in a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40dolly110911/chrono-ai-925b0080ba48" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dolly110911/chrono-ai-925b0080ba48</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian of Time in the Age of… | by Eliza...In a 2019 CBC analysis, old news articles were found frequently recirculating as new. B...</p></details>
+   Link:<a href="https://medium.com/%40dolly110911/chrono-ai-925b0080ba48" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dolly110911/chrono-ai-925b0080ba48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian of Time in the Age of… | by Eliza...In a 2019 CBC analysis, old news articles were found frequently recirculating as new. B...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61583342344459/posts/an-old-video-featuring-former-home-secretary-gk-pillai-is-once-again-circulating/122135451507111411/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583342344459/posts/an-old-video-featuring-former-home-secretary-gk-pillai-is-once-again-circulating/122135451507111411/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>culating widely on social media, with many users claiming that his...</p></details>
+   Link:<a href="https://www.facebook.com/61583342344459/posts/an-old-video-featuring-former-home-secretary-gk-pillai-is-once-again-circulating/122135451507111411/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583342344459/posts/an-old-video-featuring-former-home-secretary-gk-pillai-is-once-again-circulating/122135451507111411/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>culating widely on social media, with many users claiming that his...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: propastop.org  
    Title: Seeing is Believing?  
-   Link: <a href="https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/" target="_blank" rel="noopener noreferrer nofollow">https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong! How to Verify the Authenticity...9 Dec 2025 — Footage is edited in a way that removes the original context. Twenty seconds of vid...</p></details>
+   Link:<a href="https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/" target="_blank" rel="noopener noreferrer nofollow">https://www.propastop.org/en/2025/12/09/seeing-is-believing-wrong-how-to-verify-the-authenticity-of-images-and-videos-in-3-minutes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong! How to Verify the Authenticity...9 Dec 2025 — Footage is edited in a way that removes the original context. Twenty seconds of vid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blog.witness.org  
    Title: deepfakes and solutions  
-   Link: <a href="https://blog.witness.org/2018/07/deepfakes-and-solutions/" target="_blank" rel="noopener noreferrer nofollow">https://blog.witness.org/2018/07/deepfakes-and-solutions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and [Synthetic Media](&amp;#123;&amp;#123; &#x27;synthetic-media/&#x27; | relative_url &amp;#125;&amp;#125;): Survey of Solutions against...30 Jul 2018 — In this blog, we survey the range of solution areas that have been sugg...</p></details>
+   Link:<a href="https://blog.witness.org/2018/07/deepfakes-and-solutions/" target="_blank" rel="noopener noreferrer nofollow">https://blog.witness.org/2018/07/deepfakes-and-solutions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and [Synthetic Media](&amp;#123;&amp;#123; &#x27;synthetic-media/&#x27; | relative_url &amp;#125;&amp;#125;): Survey of Solutions against...30 Jul 2018 — In this blog, we survey the range of solution areas that have been sugg...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Reverse Video Search: Find the Original Source of Any Video  
-   Link: <a href="https://www.youtube.com/watch?v=3GuaJAXR_Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3GuaJAXR_Vk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you spot the deepfakes? Veriffians take on the deepfake challenge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3GuaJAXR_Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3GuaJAXR_Vk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you spot the deepfakes? Veriffians take on the deepfake challenge...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
+   Link:<a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reversevideosearches.com  
-   Link: <a href="https://reversevideosearches.com/" target="_blank" rel="noopener noreferrer nofollow">https://reversevideosearches.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use reverse video search to trace the source, verify authenticity, and discover full videos online...</p></details>
+   Link:<a href="https://reversevideosearches.com/" target="_blank" rel="noopener noreferrer nofollow">https://reversevideosearches.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use reverse video search to trace the source, verify authenticity, and discover full videos online...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deepfake</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Deepfake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deepfake</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reversevideosearch.org  
    Title: how to detect deepfakes with reverse video search  
-   Link: <a href="https://reversevideosearch.org/blog/how-to-detect-deepfakes-with-reverse-video-search" target="_blank" rel="noopener noreferrer nofollow">https://reversevideosearch.org/blog/how-to-detect-deepfakes-with-reverse-video-search</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — Learn how [source tracing](&amp;#123;&amp;#123; &#x27;source-tracing/&#x27; | relative_url &amp;#125;&amp;#125;) and repost analysis can expose suspicious AI clips even when the footage looks convincing at first...</p></details>
+   Link:<a href="https://reversevideosearch.org/blog/how-to-detect-deepfakes-with-reverse-video-search" target="_blank" rel="noopener noreferrer nofollow">https://reversevideosearch.org/blog/how-to-detect-deepfakes-with-reverse-video-search</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — Learn how [source tracing](&amp;#123;&amp;#123; &#x27;source-tracing/&#x27; | relative_url &amp;#125;&amp;#125;) and repost analysis can expose suspicious AI clips even when the footage looks convincing at first...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Deepfake Detection &amp; Provenance: The Arms Race...Check multiple sources, look for provenance metadata, use reverse image search, a...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-deepfake-detection-provenance-arms-race-between-berkovac-phd-tfilf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Deepfake Detection &amp; Provenance: The Arms Race...Check multiple sources, look for provenance metadata, use reverse image search, a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: europol.europa.eu  
    Title: Europol Facing reality? Law enforcement and the challenge  
-   Link: <a href="https://www.europol.europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_Law_Enforcement_And_The_Challenge_Of_Deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europol.europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_Law_Enforcement_And_The_Challenge_Of_Deepfakes.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reality? Law enforcement and the challenge... - EuropolToday, threat actors are using disinformation campaigns and deepfake content to m...</p></details>
+   Link:<a href="https://www.europol.europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_Law_Enforcement_And_The_Challenge_Of_Deepfakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europol.europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_Law_Enforcement_And_The_Challenge_Of_Deepfakes.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reality? Law enforcement and the challenge... - EuropolToday, threat actors are using disinformation campaigns and deepfake content to m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/AJR_English/status/2059301432029745315" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AJR_English/status/2059301432029745315</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tainty, but rigorous workflow and skepticism are what keep breaking...Read more...</p></details>
+   Link:<a href="https://x.com/AJR_English/status/2059301432029745315" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AJR_English/status/2059301432029745315</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tainty, but rigorous workflow and skepticism are what keep breaking...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZceJXalxCj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZceJXalxCj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o provoke a strong emotional reaction can all be signs of...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZceJXalxCj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZceJXalxCj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o provoke a strong emotional reaction can all be signs of...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: royalsocietypublishing.org  
    Title: Deepfake detection with and without content  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/10/11/231214/91931/Deepfake-detection-with-and-without-content" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/10/11/231214/91931/Deepfake-detection-with-and-without-content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>warnings27 Nov 2023 — Our research contributes to the literature on content warnings for misinformation and manual deepfake detection by...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/10/11/231214/91931/Deepfake-detection-with-and-without-content" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/10/11/231214/91931/Deepfake-detection-with-and-without-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>warnings27 Nov 2023 — Our research contributes to the literature on content warnings for misinformation and manual deepfake detection by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW6W3KPChTo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6W3KPChTo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd harder to spot. From fake images to misleading videos...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW6W3KPChTo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6W3KPChTo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd harder to spot. From fake images to misleading videos...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: canada.ca  
    Title: The Evolution of Disinformation  
-   Link: <a href="https://www.canada.ca/en/security-intelligence-service/corporate/publications/the-evolution-of-disinformation-a-deepfake-future/the-evolution-of-disinformation-a-deepfake-future.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/security-intelligence-service/corporate/publications/the-evolution-of-disinformation-a-deepfake-future/the-evolution-of-disinformation-a-deepfake-future.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Disinformation - A Deepfake FutureEven in a best-case scenario, deepfakes may make the already time-consuming job...</p></details>
+   Link:<a href="https://www.canada.ca/en/security-intelligence-service/corporate/publications/the-evolution-of-disinformation-a-deepfake-future/the-evolution-of-disinformation-a-deepfake-future.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/security-intelligence-service/corporate/publications/the-evolution-of-disinformation-a-deepfake-future/the-evolution-of-disinformation-a-deepfake-future.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Disinformation - A Deepfake FutureEven in a best-case scenario, deepfakes may make the already time-consuming job...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — As deepfakes blur reality, education must go beyond detection, teaching students to navi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zvDxZZ8IqTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvDxZZ8IqTc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>needs a way to identify the original sources of content and the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zvDxZZ8IqTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvDxZZ8IqTc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>needs a way to identify the original sources of content and the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: essay.utwente.nl  
    Title: nl The deepfake problem  
-   Link: <a href="https://essay.utwente.nl/fileshare/file/93179/Riphagen_MA_EEMCS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/93179/Riphagen_MA_EEMCS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deepfake problem - UT Student ThesesIn this research I assess the risk for forensic organizations, identify the bottlenecks in the image...</p></details>
+   Link:<a href="https://essay.utwente.nl/fileshare/file/93179/Riphagen_MA_EEMCS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/93179/Riphagen_MA_EEMCS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deepfake problem - UT Student ThesesIn this research I assess the risk for forensic organizations, identify the bottlenecks in the image...</p></details>

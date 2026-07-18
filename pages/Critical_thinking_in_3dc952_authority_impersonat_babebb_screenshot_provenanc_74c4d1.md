@@ -278,7 +278,7 @@ Screenshots are powerful because they look like [evidence]({{ 'evidence/' | rela
 
 
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_screenshot_provenanc_74c4d1-Illustration-1-dark.svg" | relative_url }}" alt="Screenshots illustration 1" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_screenshot_provenanc_74c4d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_authority_impersonat_babebb_screenshot_provenanc_74c4d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is provenance: the chain showing where a claim came from, who published it, and whether it can still be checked. Screenshots often remove that chain. A reader sees the claim, but not the path that would allow verification. As a result, rumours can acquire the appearance of official confirmation, particularly when the screenshot resembles familiar institutional communication. Researchers studying misinformation have found that screenshots frequently function as a form of visual evidence that helps legitimise claims, even when the underlying information is misleading or lacks context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</span></span></span>
+The problem is provenance: the chain showing where a claim came from, who published it, and whether it can still be checked. Screenshots often remove that chain. A reader sees the claim, but not the path that would allow verification. As a result, rumours can acquire the appearance of official confirmation, particularly when the screenshot resembles familiar institutional communication. Researchers studying misinformation have found that screenshots frequently function as a form of visual evidence that helps legitimise claims, even when the underlying information is misleading or lacks context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</span></span></span>
 
 ## How Screenshots Hide Source Paths
 
@@ -286,7 +286,7 @@ A normal web page contains clues about origin. There is a URL, an organisation n
 
 A screenshot of a supposed council email, for example, may show only a logo, a subject line and a few paragraphs of text. The recipient list, sender details, timestamps, web address and surrounding context may be cropped away. The reader is left with a claim detached from the evidence needed to assess it.
 
-This creates what verification specialists often describe as a source problem. The crucial question becomes not “What does this screenshot say?” but “Where did this screenshot come from?” Full Fact's media-literacy guidance encourages readers to begin with exactly that question: where is the information from, and what information is missing? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
+This creates what verification specialists often describe as a source problem. The crucial question becomes not “What does this screenshot say?” but “Where did this screenshot come from?” Full Fact's media-literacy guidance encourages readers to begin with exactly that question: where is the information from, and what information is missing?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
 
 In local groups, this matters because many claims concern processes that residents cannot personally inspect. A screenshot may claim that a council has approved a controversial development, that a school has adopted a new policy, or that police have issued a warning. The image appears documentary, but without access to the original source, readers cannot easily determine whether the screenshot is genuine, edited, selectively cropped or entirely fabricated.
 
@@ -296,7 +296,7 @@ A paradox of online communication is that screenshots often appear more trustwor
 
 Links lead to websites that can be examined, searched and compared with other sources. Screenshots freeze information into a static image. Because they resemble records rather than conversations, they can acquire an aura of permanence and authority.
 
-Researchers analysing misinformation videos found that screenshots are frequently presented as visual proof supporting a narrative. Rather than encouraging viewers to visit an original source, the screenshot itself becomes the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</span></span></span>
+Researchers analysing misinformation videos found that screenshots are frequently presented as visual proof supporting a narrative. Rather than encouraging viewers to visit an original source, the screenshot itself becomes the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</span></span></span>
 
 This effect is particularly strong when screenshots imitate institutional formats:
 
@@ -324,7 +324,7 @@ Each step in the chain strips away additional context:
 3. [Corrections]({{ 'corrections/' | relative_url }}) may not travel with the image.
 4. New audiences encounter the screenshot without knowing its history.
 
-Researchers studying fake social-media screenshots note that users commonly share screenshots without verifying whether the original post ever existed. The widespread use of screenshots therefore creates opportunities for misattribution and fabricated content to spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+Researchers studying fake social-media screenshots note that users commonly share screenshots without verifying whether the original post ever existed. The widespread use of screenshots therefore creates opportunities for misattribution and fabricated content to spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 This is one reason corrections often struggle to catch up. A council might publish an official clarification on its website, but the clarification travels as a web page while the rumour continues travelling as a highly shareable image.
 
@@ -344,7 +344,7 @@ Consider three possibilities:
 
 All three may look almost identical.
 
-First Draft's work on information disorder highlights how genuine material can be reframed and redistributed in misleading ways. The content itself may be real, but its presentation creates a false impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">At First...</span></span></span>
+First Draft's work on information disorder highlights how genuine material can be reframed and redistributed in misleading ways. The content itself may be real, but its presentation creates a false impression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">At First...</span></span></span>
 
 For example, an authentic council email discussing a proposal might be circulated as proof that a decision has already been made. The screenshot is real, yet the interpretation is false. The visual appearance of documentary evidence can therefore conceal both fabrication and contextual distortion.
 
@@ -355,7 +355,7 @@ For example, an authentic council email discussing a proposal might be circulate
 
 Screenshots of social-media posts deserve particular caution because they are easy to create and manipulate.
 
-Verification specialists have documented multiple methods for producing convincing fake screenshots, including image editing, fake-post generators and browser-based manipulation of real pages before capture. False screenshots attributed to journalists, public officials and news organisations have repeatedly circulated during major news events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">simple tips for verifying if a tweet screenshot is real or fake</span><span class="citation-popover-snippet">Fake tweet screenshots...Read more...</span></span></span>
+Verification specialists have documented multiple methods for producing convincing fake screenshots, including image editing, fake-post generators and browser-based manipulation of real pages before capture. False screenshots attributed to journalists, public officials and news organisations have repeatedly circulated during major news events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">simple tips for verifying if a tweet screenshot is real or fake</span><span class="citation-popover-snippet">Fake tweet screenshots...Read more...</span></span></span>
 
 In local contexts, a fabricated screenshot can falsely suggest that:
 
@@ -385,7 +385,7 @@ Search for the quoted text, headline, statement or announcement. If the screensh
 
 ### Is there an official publication point?
 
-Councils, schools, police forces and local authorities generally publish announcements through websites, verified social-media accounts or formal document repositories. A screenshot without a corresponding original source deserves caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
+Councils, schools, police forces and local authorities generally publish announcements through websites, verified social-media accounts or formal document repositories. A screenshot without a corresponding original source deserves caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vW7AhzazVH4" title="Developing Critical Thinking Skills to Determine If a Source Is Credible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vW7AhzazVH4" target="_blank" rel="noopener noreferrer">Developing Critical Thinking Skills to Determine If a Source Is Credible</a></p><p class="youtube-embed-meta">Channel: Putting PEOPLE First &middot; Views: 217 &middot; Uploaded: April 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vW7AhzazVH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vW7AhzazVH4">Open on YouTube</a></p></div></div></div>
@@ -400,7 +400,7 @@ A major local decision rarely appears only as a screenshot circulating in commun
 
 ### Has the image itself been verified?
 
-[Fact-checkers]({{ 'fact-checkers/' | relative_url }}), journalists and researchers increasingly use reverse-image searches, archive searches, [source tracing]({{ 'source-tracing/' | relative_url }}) and contextual verification to determine whether screenshots correspond to real content. Recent research has even explored automated methods for verifying the attribution of social-media screenshots through archived records and independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+[Fact-checkers]({{ 'fact-checkers/' | relative_url }}), journalists and researchers increasingly use reverse-image searches, archive searches, [source tracing]({{ 'source-tracing/' | relative_url }}) and contextual verification to determine whether screenshots correspond to real content. Recent research has even explored automated methods for verifying the attribution of social-media screenshots through archived records and independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 ## The Critical-Thinking Lesson
 
@@ -408,197 +408,197 @@ The provenance trap exploits a common shortcut: if something looks like a record
 
 In local online discussions, that hidden route is often the most important part of the story. A screenshot can show what appears to be an official statement, but it cannot by itself prove who created it, whether it is complete, whether it has been altered, or whether later corrections exist. Critical thinking begins when attention shifts from the screenshot itself to the missing chain behind it.
 
-The key question is therefore not whether a screenshot looks official. It is whether the original source can still be found, examined and independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
+The key question is therefore not whether a screenshot looks official. It is whether the original source can still be found, examined and independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">Full Fact Getting started with the Misinformation Toolkit</span><span class="citation-popover-snippet">Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Screenshots Make Rumours Look Official. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Screenshots Make Rumours Look Official. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Directly supports evaluating evidence and source quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports evaluating evidence and source quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
-        </h4>
-        <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Verified on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
+</h4>
+<p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="screenshots-241b2f-why-screenshots-make-rumours-look-official-critical-thinking-in-the-age-of-so-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ The key question is therefore not whether a screenshot looks official. It is whe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ The key question is therefore not whether a screenshot looks official. It is whe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ The key question is therefore not whether a screenshot looks official. It is whe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ The key question is therefore not whether a screenshot looks official. It is whe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ The key question is therefore not whether a screenshot looks official. It is whe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,108 +804,108 @@ The key question is therefore not whether a screenshot looks official. It is whe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Web Archives for Verifying Attribution in Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
    Published: October 27, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Extracting Information from Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08236</a>  
+   Link:<a href="https://arxiv.org/abs/2306.08236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08236</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
+   Link:<a href="https://arxiv.org/abs/2211.09681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.09681</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gijn.org  
    Title: simple tips for verifying if a tweet screenshot is real or fake  
-   Link: <a href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake tweet screenshots...Read more...</p></details>
+   Link:<a href="https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/simple-tips-for-verifying-if-a-tweet-screenshot-is-real-or-fake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake tweet screenshots...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2102.07849" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.07849</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Misinformation from Website Screenshotsby S Abdali · 2021 · Cited by 23 — In this paper, we propose to use a promising, yet n...</p></details>
+   Link:<a href="https://arxiv.org/abs/2102.07849" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.07849</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Misinformation from Website Screenshotsby S Abdali · 2021 · Cited by 23 — In this paper, we propose to use a promising, yet n...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14703572241255664" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14703572241255664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe legitimation of screenshots as visual evidence in social...by O Inwood · Cited by 13 — This study considers the role of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fullfact.org  
    Title: Full Fact Getting started with the Misinformation Toolkit  
-   Link: <a href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</p></details>
+   Link:<a href="https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/toolkit/getting-started-with-the-misinformation-toolkit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 28 May... Images and videos can be faked. False news stories often contain...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At First...</p></details>
+   Link:<a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At First...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactNot sure what to believe? Full [Fact checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;) the claims you see online and in the news, helping you spot misinformation and get th...</p></details>
+   Link:<a href="https://fullfact.org/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactNot sure what to believe? Full [Fact checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;) the claims you see online and in the news, helping you spot misinformation and get th...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While current deepfake detection tools are imperfect, methods such as examining provenance and context remain reliable. Experts warn of r...</p></details>
+   Link:<a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While current deepfake detection tools are imperfect, methods such as examining provenance and context remain reliable. Experts warn of r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dubawa.org  
-   Link: <a href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/how-to-identify-fake-social-media-screenshots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify fake social media screenshotsMisinformation and Disinformation have become a social menace in recent... fake social medi...</p></details>
+   Link:<a href="https://dubawa.org/how-to-identify-fake-social-media-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/how-to-identify-fake-social-media-screenshots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify fake social media screenshotsMisinformation and Disinformation have become a social menace in recent... fake social medi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40VerifyHQ/how-to-verify-any-screenshot-or-image-online-8d8d0176e4a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40VerifyHQ/how-to-verify-any-screenshot-or-image-online-8d8d0176e4a6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake screenshots often use slightly different fonts than the original platform. Look for: Font size inconsistencies...Read more...</p></details>
+   Link:<a href="https://medium.com/%40VerifyHQ/how-to-verify-any-screenshot-or-image-online-8d8d0176e4a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40VerifyHQ/how-to-verify-any-screenshot-or-image-online-8d8d0176e4a6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake screenshots often use slightly different fonts than the original platform. Look for: Font size inconsistencies...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
    Title: The Screenshot Fallacy: Why Digital “Receipts” Often Mislead It reshapes meaning  
-   Link: <a href="https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In forensic terms, screenshots suffer from context collapse. A single frame cannot reliably represent a behavioral pattern.Read more...</p></details>
+   Link:<a href="https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In forensic terms, screenshots suffer from context collapse. A single frame cannot reliably represent a behavioral pattern.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pbs.org  
    Title: Students will be able to explain why posts that impersonate people or  
-   Link: <a href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson plan: How to spot fake screenshots on social media17 Nov 2022 — Students will learn four clues that help identify fake social medi...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/classroom/lesson-plans/2022/11/lesson-plan-how-to-spot-fake-screenshots-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson plan: How to spot fake screenshots on social media17 Nov 2022 — Students will learn four clues that help identify fake social medi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shots in instances of misinformation and disinformation, highlighting the importance...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384716476_The_legitimation_of_screenshots_as_visual_evidence_in_social_media_YouTube_videos_spreading_misinformation_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shots in instances of misinformation and disinformation, highlighting the importance...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journalistsresource.org  
    Title: 5 takeaways first draft identifying misinformation course  
-   Link: <a href="https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from First Draft&#x27;s identifying misinformation...19 Mar 2018 — A new online course from First Draft introduces cutting-edge t...</p></details>
+   Link:<a href="https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/politics-and-government/5-takeaways-first-draft-identifying-misinformation-course/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from First Draft&#x27;s identifying misinformation...19 Mar 2018 — A new online course from First Draft introduces cutting-edge t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukTypes, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukTypes, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: factcheckhub.com  
    Title: why you should not trust every screenshot  
-   Link: <a href="https://factcheckhub.com/why-you-should-not-trust-every-screenshot/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/why-you-should-not-trust-every-screenshot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Oct 2025 — Tags · Disinformation · Fake Screenshots · information disorder · Manipulated headlines · misinformation · Misinformation an...</p></details>
+   Link:<a href="https://factcheckhub.com/why-you-should-not-trust-every-screenshot/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckhub.com/why-you-should-not-trust-every-screenshot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Oct 2025 — Tags · Disinformation · Fake Screenshots · information disorder · Manipulated headlines · misinformation · Misinformation an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchers-admin.westernsydney.edu.au  
-   Link: <a href="https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It considers their role in YouTube videos that spread.Read more...</p></details>
+   Link:<a href="https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/189854947/The_legitimation_of_screenshots.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It considers their role in YouTube videos that spread.Read more...</p></details>
