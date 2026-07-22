@@ -549,7 +549,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Supports evidence-based checking of digital content.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -566,7 +566,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
         </h4>
         <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
         <p class="fr-book-desc">Explains systems used to verify contested claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -583,7 +583,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
           <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
         </h4>
         <p class="fr-book-author">By Dr. Steven Novella</p>
-        
+
         <p class="fr-book-desc">Encourages corroboration and evidence assessment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -600,7 +600,7 @@ For everyday critical thinking, the safest rule is proportionate doubt. Do not d
           <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital literacy for dummies">Digital literacy for dummies</a>
         </h4>
         <p class="fr-book-author">By Faithe Wempen</p>
-        
+
         <p class="fr-book-desc">Provides foundational verification skills.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

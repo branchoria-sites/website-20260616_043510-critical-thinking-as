@@ -412,7 +412,7 @@ Content Credentials improve transparency about media history, which is a genuine
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Encourages evaluating provenance alongside claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ Content Credentials improve transparency about media history, which is a genuine
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
         </h4>
         <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
         <p class="fr-book-desc">Explains systems that establish credibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ Content Credentials improve transparency about media history, which is a genuine
           <a href="https://www.amazon.com/s?k=The+Information+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Information">The Information</a>
         </h4>
         <p class="fr-book-author">By James Gleick</p>
-        
+
         <p class="fr-book-desc">Provides context on information integrity and transmission.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Information+James+Gleick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ Content Credentials improve transparency about media history, which is a genuine
           <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital literacy for dummies">Digital literacy for dummies</a>
         </h4>
         <p class="fr-book-author">By Faithe Wempen</p>
-        
+
         <p class="fr-book-desc">Helps readers understand authenticity signals online.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+literacy+for+dummies+Faithe+Wempen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

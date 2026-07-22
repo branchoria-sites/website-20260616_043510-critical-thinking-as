@@ -438,7 +438,7 @@ For local claims, the absence of reliable search results should therefore be tre
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
 <p class="fr-book-desc">Shows how weak evidence and repetition can distort judgment.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For local claims, the absence of reliable search results should therefore be tre
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
 <p class="fr-book-desc">Provides the cognitive background behind overconfidence in search results.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ For local claims, the absence of reliable search results should therefore be tre
 <a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fact checker&#x27;s bible">The fact checker&#x27;s bible</a>
 </h4>
 <p class="fr-book-author">By Sarah Harrison Smith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Editing, Nonfiction, Reference, Information retrieval, Research.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fact+checker%27s+bible+Sarah+Harrison+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -489,7 +489,7 @@ For local claims, the absence of reliable search results should therefore be tre
 <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
 </h4>
 <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
-        
+
 <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

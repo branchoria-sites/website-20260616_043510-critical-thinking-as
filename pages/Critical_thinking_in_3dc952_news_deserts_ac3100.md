@@ -541,7 +541,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
         </h4>
         <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-        
+
         <p class="fr-book-desc">Explains why reporting institutions matter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -558,7 +558,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
           <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosting the News">Ghosting the News</a>
         </h4>
         <p class="fr-book-author">By Margaret Sullivan</p>
-        
+
         <p class="fr-book-desc">Directly examines the consequences of local news loss.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -575,7 +575,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
         </h4>
         <p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the role of news in civic life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -592,7 +592,7 @@ The safest habit is to treat local claims as both important and unfinished. Impo
           <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
         </h4>
         <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
-        
+
         <p class="fr-book-desc">Addresses trust and authority when institutions weaken.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

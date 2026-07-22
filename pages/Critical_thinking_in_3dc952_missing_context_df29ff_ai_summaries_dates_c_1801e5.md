@@ -446,7 +446,7 @@ In an environment where social media rewards speed and simplicity, AI-generated 
           <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
         </h4>
         <p class="fr-book-author">By Tim Harford</p>
-        
+
         <p class="fr-book-desc">Highlights the importance of context and uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ In an environment where social media rewards speed and simplicity, AI-generated 
           <a href="https://www.amazon.com/s?k=Co-Intelligence+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
         </h4>
         <p class="fr-book-author">By Ethan Mollick</p>
-        
+
         <p class="fr-book-desc">Discusses strengths and limitations of AI-generated outputs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Co-Intelligence+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -480,7 +480,7 @@ In an environment where social media rewards speed and simplicity, AI-generated 
           <a href="https://www.amazon.com/s?k=AI+Snake+Oil+Arvind+Narayanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Snake Oil">AI Snake Oil</a>
         </h4>
         <p class="fr-book-author">By Arvind Narayanan, Sayash Kapoor</p>
-        
+
         <p class="fr-book-desc">Examines failures, overclaims, and context loss in AI systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=AI+Snake+Oil+Arvind+Narayanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -497,7 +497,7 @@ In an environment where social media rewards speed and simplicity, AI-generated 
           <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
         </h4>
         <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
-        
+
         <p class="fr-book-desc">Reinforces careful interpretation of changing facts and data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ Yet the same technology can undermine critical thinking if it becomes a shortcut
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
 <p class="fr-book-desc">Explains effective learning strategies beyond answer-getting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Yet the same technology can undermine critical thinking if it becomes a shortcut
 <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
 </h4>
 <p class="fr-book-author">By Ethan Mollick</p>
-        
+
 <p class="fr-book-desc">Covers using AI as a collaborator rather than a replacement thinker.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Yet the same technology can undermine critical thinking if it becomes a shortcut
 <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
 </h4>
 <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
-        
+
 <p class="fr-book-desc">Connects tutoring methods to learning science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Yet the same technology can undermine critical thinking if it becomes a shortcut
 <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
 </h4>
 <p class="fr-book-author">By Scott H. Young</p>
-        
+
 <p class="fr-book-desc">Emphasizes active effort and practice.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -471,7 +471,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Encourages readers to pause, verify, and question alarming claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
           <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
         </h4>
         <p class="fr-book-author">By Daniel J. Levitin</p>
-        
+
         <p class="fr-book-desc">Provides practical tools for evaluating evidence quality in urgent situations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -505,7 +505,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
           <a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unspun Finding Facts in a World of Disinformation">Unspun Finding Facts in a World of Disinformation</a>
         </h4>
         <p class="fr-book-author">By Brooks Jackson, Kathleen Hall Jamieson</p>
-        
+
         <p class="fr-book-desc">Helps readers distinguish accountable sources from rumours.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unspun+Finding+Facts+in+a+World+of+Disinformation+Brooks+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -522,7 +522,7 @@ For that reason, independent evidence in public-safety claims is not merely abou
           <a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verification Handbook">Verification Handbook</a>
         </h4>
         <p class="fr-book-author">By Craig Silverman</p>
-        
+
         <p class="fr-book-desc">Directly relevant to checking public-safety claims before sharing them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Verification+Handbook+Craig+Silverman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

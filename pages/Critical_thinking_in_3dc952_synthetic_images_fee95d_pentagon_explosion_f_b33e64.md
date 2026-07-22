@@ -371,7 +371,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Useful for evaluating viral claims during fast-moving events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
           <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
         </h4>
         <p class="fr-book-author">By Peter Pomerantsev</p>
-        
+
         <p class="fr-book-desc">Shows how modern information manipulation gains attention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
           <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
         </h4>
         <p class="fr-book-author">By Lee C. McIntyre</p>
-        
+
         <p class="fr-book-desc">Explores why facts lose influence in public discourse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Within the broader story of [critical thinking]({{ 'critical-thinking-in-the-age
           <a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Survival Guide to the Misinformation Age">A Survival Guide to the Misinformation Age</a>
         </h4>
         <p class="fr-book-author">By David Helfand</p>
-        
+
         <p class="fr-book-desc">Promotes habits of mind useful in breaking-news uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Survival+Guide+to+the+Misinformation+Age+David+Helfand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

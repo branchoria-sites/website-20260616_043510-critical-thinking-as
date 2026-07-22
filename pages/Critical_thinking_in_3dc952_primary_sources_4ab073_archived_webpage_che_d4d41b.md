@@ -403,7 +403,7 @@ Within primary-source verification, an archived page is not merely a copy of a w
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
 <p class="fr-book-desc">Supports evidence-based evaluation of online claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within primary-source verification, an archived page is not merely a copy of a w
 <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We Are Bellingcat">We Are Bellingcat</a>
 </h4>
 <p class="fr-book-author">By Eliot Higgins</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Online journalism, Reporters and reporting, Intelligence service, Virtual reality, Journalism, great brit...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ Within primary-source verification, an archived page is not merely a copy of a w
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
 </h4>
 <p class="fr-book-author">By Tim Harford</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ Within primary-source verification, an archived page is not merely a copy of a w
 <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Verified">Verified</a>
 </h4>
 <p class="fr-book-author">By Mike Caulfield, Sam Wineburg</p>
-        
+
 <p class="fr-book-desc">First published 2023. Subjects: Computer literacy, Internet.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Verified+Mike+Caulfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

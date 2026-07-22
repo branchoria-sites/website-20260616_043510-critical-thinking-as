@@ -385,7 +385,7 @@ The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains cognitive shortcuts that make images feel true.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Shows limits and biases in human perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
           <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ways of Seeing">Ways of Seeing</a>
         </h4>
         <p class="fr-book-author">By John Berger</p>
-        
+
         <p class="fr-book-desc">Explores how visual presentation shapes belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The [critical thinking]({{ 'critical-thinking-in-the-age-of-social/' | relative_
           <a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The undoing project">The undoing project</a>
         </h4>
         <p class="fr-book-author">By Michael Lewis, Dennis Boutsikaris et al.</p>
-        
+
         <p class="fr-book-desc">Provides accessible insight into decision-making biases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

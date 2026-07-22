@@ -384,7 +384,7 @@ As a result, readers must often determine the nature of a message before they ca
 <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
 </h4>
 <p class="fr-book-author">By Ryan Holiday</p>
-        
+
 <p class="fr-book-desc">Shows how commercial incentives shape online messages.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ As a result, readers must often determine the nature of a message before they ca
 <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
 </h4>
 <p class="fr-book-author">By Tim Wu</p>
-        
+
 <p class="fr-book-desc">Connects advertising models with information environments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Attention+Merchants+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ As a result, readers must often determine the nature of a message before they ca
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
 <p class="fr-book-desc">Explains why some promotional messages feel believable.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ As a result, readers must often determine the nature of a message before they ca
 <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
 </h4>
 <p class="fr-book-author">By Robert B. Cialdini</p>
-        
+
 <p class="fr-book-desc">Explains the techniques behind persuasive sponsored content.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

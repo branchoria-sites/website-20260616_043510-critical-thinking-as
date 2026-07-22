@@ -414,7 +414,7 @@ In the broader context of critical thinking and online information, parking fine
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Shows how urgency and intuition can bypass careful evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ In the broader context of critical thinking and online information, parking fine
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
         </h4>
         <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
-        
+
         <p class="fr-book-desc">Explains judgment errors scammers exploit.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ In the broader context of critical thinking and online information, parking fine
           <a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The confidence game">The confidence game</a>
         </h4>
         <p class="fr-book-author">By Maria Konnikova, Maria-Konnikova</p>
-        
+
         <p class="fr-book-desc">Explains manipulation tactics used by fraudsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ In the broader context of critical thinking and online information, parking fine
           <a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scam Me If You Can">Scam Me If You Can</a>
         </h4>
         <p class="fr-book-author">By Frank Abagnale</p>
-        
+
         <p class="fr-book-desc">Covers modern scams, impersonation and verification habits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

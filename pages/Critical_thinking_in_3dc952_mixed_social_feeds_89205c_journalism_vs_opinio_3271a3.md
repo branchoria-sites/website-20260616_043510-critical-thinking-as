@@ -491,7 +491,7 @@ In mixed social feeds, these categories often share the same screen and visual d
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
         </h4>
         <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-        
+
         <p class="fr-book-desc">Directly explains what distinguishes reporting from commentary and opinion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -508,7 +508,7 @@ In mixed social feeds, these categories often share the same screen and visual d
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Supports careful evaluation instead of intuitive reactions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -525,7 +525,7 @@ In mixed social feeds, these categories often share the same screen and visual d
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
         </h4>
         <p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
-        
+
         <p class="fr-book-desc">Helps readers think critically about news consumption.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -542,7 +542,7 @@ In mixed social feeds, these categories often share the same screen and visual d
           <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
         </h4>
         <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
-        
+
         <p class="fr-book-desc">Provides a framework for analysing media claims and perspectives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

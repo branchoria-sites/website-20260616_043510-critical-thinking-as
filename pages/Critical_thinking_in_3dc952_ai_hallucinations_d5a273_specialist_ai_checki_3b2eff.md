@@ -375,7 +375,7 @@ Within the broader challenge of AI hallucinations and fluent wrong answers, spec
           <a href="https://www.amazon.com/s?k=Artificial+Intelligence+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
         </h4>
         <p class="fr-book-author">By Melanie Mitchell</p>
-        
+
         <p class="fr-book-desc">Explains AI strengths, weaknesses and common misconceptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Artificial+Intelligence+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within the broader challenge of AI hallucinations and fluent wrong answers, spec
           <a href="https://www.amazon.com/s?k=Co-Intelligence+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
         </h4>
         <p class="fr-book-author">By Ethan Mollick</p>
-        
+
         <p class="fr-book-desc">Focuses on effective human oversight of AI systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Co-Intelligence+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within the broader challenge of AI hallucinations and fluent wrong answers, spec
           <a href="https://www.amazon.com/s?k=The+Alignment+Problem+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
         </h4>
         <p class="fr-book-author">By Brian Christian</p>
-        
+
         <p class="fr-book-desc">Explores why sophisticated systems can still produce undesirable outputs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Alignment+Problem+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Within the broader challenge of AI hallucinations and fluent wrong answers, spec
           <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
         <p class="fr-book-author">By Stuart Russell</p>
-        
+
         <p class="fr-book-desc">Highlights the need for human supervision and verification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

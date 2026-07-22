@@ -405,7 +405,7 @@ The key lesson for critical thinking is therefore straightforward. In an environ
           <a href="https://www.amazon.com/s?k=On+Photography+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Photography">On Photography</a>
         </h4>
         <p class="fr-book-author">By Susan Sontag</p>
-        
+
         <p class="fr-book-desc">Provides foundational thinking about photographic evidence and interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+Photography+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The key lesson for critical thinking is therefore straightforward. In an environ
           <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fake news, propaganda, and plain old lies">Fake news, propaganda, and plain old lies</a>
         </h4>
         <p class="fr-book-author">By Donald A. Barclay</p>
-        
+
         <p class="fr-book-desc">Focuses on evaluating trustworthiness of information sources.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The key lesson for critical thinking is therefore straightforward. In an environ
           <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ways of Seeing">Ways of Seeing</a>
         </h4>
         <p class="fr-book-author">By John Berger</p>
-        
+
         <p class="fr-book-desc">First published 1972. Subjects: Art, Art appreciation, Technique, Nonfiction, Visual perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ The key lesson for critical thinking is therefore straightforward. In an environ
           <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News literacy">News literacy</a>
         </h4>
         <p class="fr-book-author">By Michelle Luhtala</p>
-        
+
         <p class="fr-book-desc">Explains source evaluation and credibility assessment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

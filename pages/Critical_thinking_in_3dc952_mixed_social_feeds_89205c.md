@@ -547,7 +547,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the cognitive shortcuts used when scrolling mixed feeds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -564,7 +564,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
           <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
         </h4>
         <p class="fr-book-author">By Peter Pomerantsev</p>
-        
+
         <p class="fr-book-desc">Illustrates how persuasion and manipulation operate across digital channels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -581,7 +581,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
           <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
         </h4>
         <p class="fr-book-author">By Chris Bail</p>
-        
+
         <p class="fr-book-desc">Focuses on how platforms shape perception and trust.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -598,7 +598,7 @@ The mixed-feed era rewards people who can hold several judgements at once: this 
           <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
         </h4>
         <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
-        
+
         <p class="fr-book-desc">Explores why judging trustworthy information has become more difficult.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

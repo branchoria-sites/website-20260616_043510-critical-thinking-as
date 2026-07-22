@@ -383,7 +383,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
           <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
         </h4>
         <p class="fr-book-author">By Ryan Holiday</p>
-        
+
         <p class="fr-book-desc">Explains how promotional content can masquerade as independent coverage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
           <a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
         </h4>
         <p class="fr-book-author">By Tim Wu</p>
-        
+
         <p class="fr-book-desc">Explores advertising systems that blur editorial and commercial content.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
           <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
         </h4>
         <p class="fr-book-author">By Dr. Steven Novella</p>
-        
+
         <p class="fr-book-desc">Supports evaluation of persuasive and potentially misleading material.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ As social platforms, recommendation systems and AI tools increasingly mix journa
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
         </h4>
         <p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
-        
+
         <p class="fr-book-desc">Helps distinguish reporting from persuasion and promotion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

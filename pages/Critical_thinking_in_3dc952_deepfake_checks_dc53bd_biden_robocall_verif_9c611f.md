@@ -362,7 +362,7 @@ That distinction is central to credibility checks in the age of AI. The New Hamp
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Encourages tracing evidence chains behind claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ That distinction is central to credibility checks in the age of AI. The New Hamp
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
         </h4>
         <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
         <p class="fr-book-desc">Explains verification institutions and accountability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That distinction is central to credibility checks in the age of AI. The New Hamp
           <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
         </h4>
         <p class="fr-book-author">By michiko kakutani</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That distinction is central to credibility checks in the age of AI. The New Hamp
           <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
         </h4>
         <p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
-        
+
         <p class="fr-book-desc">Explores information ecosystems around political claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

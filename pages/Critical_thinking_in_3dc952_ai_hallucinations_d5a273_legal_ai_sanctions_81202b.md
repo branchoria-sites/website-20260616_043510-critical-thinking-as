@@ -378,7 +378,7 @@ The legal profession therefore provides an unusually clear example of a broader 
           <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence and Legal Analytics">Artificial Intelligence and Legal Analytics</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Ashley</p>
-        
+
         <p class="fr-book-desc">Provides context for how AI is used and evaluated in legal work.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The legal profession therefore provides an unusually clear example of a broader 
           <a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+Frederick+Schauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking Like a Lawyer">Thinking Like a Lawyer</a>
         </h4>
         <p class="fr-book-author">By Frederick Schauer</p>
-        
+
         <p class="fr-book-desc">Explains legal standards of evidence and authority.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+Frederick+Schauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The legal profession therefore provides an unusually clear example of a broader 
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Supports rigorous verification habits before relying on citations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The legal profession therefore provides an unusually clear example of a broader 
           <a href="https://www.amazon.com/s?k=The+Legal+Analyst+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legal Analyst">The Legal Analyst</a>
         </h4>
         <p class="fr-book-author">By Ward Farnsworth</p>
-        
+
         <p class="fr-book-desc">Emphasizes verification, authority and legal argument evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Legal+Analyst+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
