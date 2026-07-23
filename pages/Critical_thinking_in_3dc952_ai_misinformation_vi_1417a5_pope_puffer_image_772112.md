@@ -367,16 +367,16 @@ The deeper lesson is not that every striking image is fake. It is that visual re
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence: A Guide for Thinking Humans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence: A Guide for Thinking Humans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+          <a href="https://www.amazon.com/s?k=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence: A Guide for Thinking Humans">Artificial Intelligence: A Guide for Thinking Humans</a>
         </h4>
         <p class="fr-book-author">By Melanie Mitchell</p>
 
         <p class="fr-book-desc">Provides grounding on what modern AI image systems can and cannot do.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -384,16 +384,16 @@ The deeper lesson is not that every striking image is fake. It is that visual re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data-Driven+World+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit: The Art of Skepticism in a Data-Driven World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data-Driven+World+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
 
         <p class="fr-book-desc">Encourages verification rather than accepting visual authority.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data-Driven+World+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,14 +401,14 @@ The deeper lesson is not that every striking image is fake. It is that visual re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qP1kEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)">Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Less...</a>
         </h4>
         <p class="fr-book-author">By Yuval Noah Harari</p>
 
-        <p class="fr-book-desc">Yuval Noah Harari Collection - Paperback books including: Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus A Brief History of In...</p>
+        <p class="fr-book-desc">Provides broader context on information reliability and AI-era knowledge systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -425,7 +425,7 @@ The deeper lesson is not that every striking image is fake. It is that visual re
         </h4>
         <p class="fr-book-author">By Henry Kissinger</p>
 
-        <p class="fr-book-desc">Traditional Chinese edition of The Age of A.I.: And Our Human Future</p>
+        <p class="fr-book-desc">Explores how AI-generated content changes trust and perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -435,7 +435,7 @@ The deeper lesson is not that every striking image is fake. It is that visual re
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence%3A+A+for+Thinking+Humans+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A for Thinking Humans books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit: The Art of Skepticism in a Data Driven World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yuval+Noah+Harari+Collection+Set+%28Sapiens%2C+Homo+Deus%2C+21+Lessons+for+21st+Century+and+Nexus+a+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yuval Noah Harari Collection Set (Sapiens, Homo Deus, 21 Lessons for 21st Century and Nexus a Brief History of Information Networks from the Stone Age to AI)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
