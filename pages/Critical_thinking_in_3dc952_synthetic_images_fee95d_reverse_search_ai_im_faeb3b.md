@@ -401,89 +401,89 @@ Reverse image search has not become obsolete; its role has become narrower and m
 It remains one of the best tools for exposing recycled photographs, finding prior publications and locating fact-checks. Yet the spread of high-quality generative imagery means that a missing search history no longer tells us much. The practical lesson for critical thinking is that image verification must move beyond the question of whether pixels look real. Reverse search works best when treated as the beginning of an investigation rather than the final verdict. In an environment where entirely new synthetic images can appear instantly, credibility increasingly comes from origin, context and [corroboration]({{ 'corroboration/' | relative_url }}) rather than from visual realism alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When reverse image search helps and fails. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When reverse image search helps and fails. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fake news, propaganda, and plain old lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14649630-M.jpg" alt="Cover for Fake news, propaganda, and plain old lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fake news, propaganda, and plain old lies">Fake news, propaganda, and plain old lies</a>
-        </h4>
-        <p class="fr-book-author">By Donald A. Barclay</p>
-
-        <p class="fr-book-desc">Supports broader source-checking habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fake news, propaganda, and plain old lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14649630-M.jpg" alt="Cover for Fake news, propaganda, and plain old lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fake news, propaganda, and plain old lies">Fake news, propaganda, and plain old lies</a>
+</h4>
+<p class="fr-book-author">By Donald A. Barclay</p>
+        
+<p class="fr-book-desc">Supports broader source-checking habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies+Donald+A.+Barclay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
-
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
+        
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open FAIK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bnEbEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for FAIK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="FAIK">FAIK</a>
-        </h4>
-        <p class="fr-book-author">By Perry Carpenter</p>
-
-        <p class="fr-book-desc">Learn to navigate a world of deepfakes, phishing attacks, and other cybersecurity threats emanating from generative artificial intelligen...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open FAIK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bnEbEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for FAIK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="FAIK">FAIK</a>
+</h4>
+<p class="fr-book-author">By Perry Carpenter</p>
+        
+<p class="fr-book-desc">Learn to navigate a world of deepfakes, phishing attacks, and other cybersecurity threats emanating from generative artificial intelligen...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=FAIK+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News literacy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News literacy">News literacy</a>
-        </h4>
-        <p class="fr-book-author">By Michelle Luhtala</p>
-
-        <p class="fr-book-desc">Emphasizes corroboration and source evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News literacy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News literacy">News literacy</a>
+</h4>
+<p class="fr-book-author">By Michelle Luhtala</p>
+        
+<p class="fr-book-desc">Emphasizes corroboration and source evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=News+literacy+Michelle+Luhtala&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fake news, propaganda, and plain old lies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=FAIK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">FAIK</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fake+news%2C+propaganda%2C+and+plain+old+lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fake news, propaganda, and plain old lies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=FAIK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">FAIK</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

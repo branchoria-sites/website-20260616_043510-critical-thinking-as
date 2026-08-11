@@ -380,7 +380,7 @@ The key question is no longer simply, “Does this look like a doctor?” It is,
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
+        
 <p class="fr-book-desc">Useful for assessing deceptive media and claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The key question is no longer simply, “Does this look like a doctor?” It is,
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-
+        
 <p class="fr-book-desc">Explains why authority cues influence judgment.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The key question is no longer simply, “Does this look like a doctor?” It is,
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
 </h4>
 <p class="fr-book-author">By Ben Goldacre</p>
-
+        
 <p class="fr-book-desc">Helps readers question unsupported medical claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ The key question is no longer simply, “Does this look like a doctor?” It is,
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
 </h4>
 <p class="fr-book-author">By Tim Harford</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

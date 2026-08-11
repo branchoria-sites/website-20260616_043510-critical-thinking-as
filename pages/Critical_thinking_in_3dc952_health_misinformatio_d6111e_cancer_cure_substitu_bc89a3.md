@@ -403,7 +403,7 @@ In an information environment filled with persuasive stories, influencer endorse
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
 </h4>
 <p class="fr-book-author">By Ben Goldacre</p>
-
+        
 <p class="fr-book-desc">Explains how weak evidence becomes persuasive health marketing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ In an information environment filled with persuasive stories, influencer endorse
 <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Emperor of All Maladies">The Emperor of All Maladies</a>
 </h4>
 <p class="fr-book-author">By Siddhartha Mukherjee</p>
-
+        
 <p class="fr-book-desc">Provides context on cancer treatment and evidence-based care.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ In an information environment filled with persuasive stories, influencer endorse
 <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
 </h4>
 <p class="fr-book-author">By Atul Gawande</p>
-
+        
 <p class="fr-book-desc">Encourages informed healthcare decision-making.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ In an information environment filled with persuasive stories, influencer endorse
 <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
 </h4>
 <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

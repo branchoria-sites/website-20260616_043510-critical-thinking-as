@@ -517,7 +517,7 @@ A claim that survives those tests deserves more confidence than one supported on
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-
+        
 <p class="fr-book-desc">Explains why people resist counterevidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -534,7 +534,7 @@ A claim that survives those tests deserves more confidence than one supported on
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
+        
 <p class="fr-book-desc">Encourages testing claims against evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -551,7 +551,7 @@ A claim that survives those tests deserves more confidence than one supported on
 <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
 </h4>
 <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
-
+        
 <p class="fr-book-desc">Models how to update beliefs when confronted with data.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -568,7 +568,7 @@ A claim that survives those tests deserves more confidence than one supported on
 <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
 </h4>
 <p class="fr-book-author">By Julia Galef</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

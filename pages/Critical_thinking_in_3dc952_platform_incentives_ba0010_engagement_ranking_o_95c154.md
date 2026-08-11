@@ -414,89 +414,89 @@ Because outrage generates comments, shares, [corrections]({{ 'corrections/' | re
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why angry posts keep climbing feeds. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why angry posts keep climbing feeds. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
-
-        <p class="fr-book-desc">Explains the business logic behind attention capture and engagement optimisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attention Merchants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNIbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Attention Merchants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attention Merchants">The Attention Merchants</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
+        
+<p class="fr-book-desc">Explains the business logic behind attention capture and engagement optimisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Attention+Merchants+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
-
-        <p class="fr-book-desc">Helps readers understand the human consequences of engagement-focused environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
+        
+<p class="fr-book-desc">Helps readers understand the human consequences of engagement-focused environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
-
-        <p class="fr-book-desc">Provides a broader framework for understanding why emotionally engaging content often dominates public attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
+        
+<p class="fr-book-desc">Provides a broader framework for understanding why emotionally engaging content often dominates public attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
-
-        <p class="fr-book-desc">Directly addresses how engagement-driven ranking can elevate outrage and division.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
+        
+<p class="fr-book-desc">Directly addresses how engagement-driven ranking can elevate outrage and division.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attention+Merchants&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attention Merchants</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

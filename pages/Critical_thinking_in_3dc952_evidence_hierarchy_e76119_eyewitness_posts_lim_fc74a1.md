@@ -422,7 +422,7 @@ The more confidently those questions can be answered, the stronger the evidence 
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
+        
 <p class="fr-book-desc">Helps assess claims attached to images and videos.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The more confidently those questions can be answered, the stronger the evidence 
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Provides foundational sceptical thinking skills.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ The more confidently those questions can be answered, the stronger the evidence 
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
 </h4>
 <p class="fr-book-author">By Nate Silver</p>
-
+        
 <p class="fr-book-desc">Encourages caution when evidence is incomplete.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,7 +473,7 @@ The more confidently those questions can be answered, the stronger the evidence 
 <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We Are Bellingcat">We Are Bellingcat</a>
 </h4>
 <p class="fr-book-author">By Eliot Higgins</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Online journalism, Reporters and reporting, Intelligence service, Virtual reality, Journalism, great brit...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

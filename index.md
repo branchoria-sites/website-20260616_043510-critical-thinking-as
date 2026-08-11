@@ -148,7 +148,23 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -172,6 +188,18 @@ header:
 image: /assets/images/Critical_thinking_in_3dc952-overview-social.jpg
 site_image_description: A person studies a phone feed beside an open laptop showing a chatbot window, with printed notes, a magnifying glass, and...
 ---
+
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">Critical Thinking In The Age Of Social Media And A</h1>
+<p class="home-structure-intro-summary">A practical guide to Critical Thinking In The Age Of Social Media And A, from the main overview to focused routes through the topic.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="/critical-thinking-in-the-age-of-social/">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
+</section>
 
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="overflow" data-home-max-breadth="149" data-home-max-depth="2">
 <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">

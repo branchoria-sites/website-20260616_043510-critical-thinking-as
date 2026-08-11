@@ -6,6 +6,7 @@
   {% assign is_home_page = true %}
   {% endif %}
   {% assign is_search_page = page.search_page | default: false %}
+  {% assign is_tool_page = page.tool_page | default: false %}
   {% assign page_parent_label = page.parent_nav_short_title | default: page.parent_title %}
   <div class="container header-inner">
     <div class="brand-block">
@@ -45,11 +46,11 @@
     </div>
     <nav class="site-nav" aria-label="{{ ui.primary_navigation | default: 'Primary' | escape }}">
       {% unless is_home_page %}
-      <a class="nav-pill" href="{{ '/' | relative_url }}">{{ ui.home | default: 'Home' }}</a>
+      <a class="nav-pill article-header-home" href="{{ '/' | relative_url }}">{{ ui.home | default: 'Home' }}</a>
       {% endunless %}
       {% assign top_topics = site.data.navigation.sidebar_generated %}
       {% if top_topics and top_topics.size > 0 %}
-      {% if is_home_page or is_search_page %}
+      {% if is_home_page or is_search_page or is_tool_page %}
       <details class="topics-menu">
         <summary class="nav-pill nav-pill-button">{{ ui.topics | default: 'Topics' }}</summary>
         <div class="topics-menu-panel">
@@ -64,17 +65,24 @@
         </div>
       </details>
       {% else %}
-      <a class="nav-pill" href="{{ '/#browse-reports' | relative_url }}">{{ ui.topics | default: 'Topics' }}</a>
+      <a class="nav-pill article-header-topics" href="{{ '/#browse-reports' | relative_url }}">{{ ui.topics | default: 'Topics' }}</a>
       {% endif %}
       {% endif %}
-      {% unless is_home_page %}
+      {% assign integration_tools = site.data.site_integrations.tools %}
+      {% if integration_tools %}
+      {% assign primary_integration_tool = integration_tools | first %}
+      {% if primary_integration_tool and current_url != primary_integration_tool.route %}
+      <a class="nav-pill nav-purpose-pill" href="{{ primary_integration_tool.route | relative_url }}">{{ primary_integration_tool.nav_label | escape }}</a>
+      {% endif %}
+      {% endif %}
+      {% unless is_home_page or is_tool_page %}
       <button class="nav-pill nav-pill-button article-header-pill article-header-contents" type="button" data-mobile-sidebar-open aria-expanded="false" aria-controls="page-sidebar">{{ ui.contents | default: 'Contents' }}</button>
       {% if page.parent_permalink and page_parent_label %}
       <a class="nav-pill article-header-pill article-header-parent" href="{{ page.parent_permalink | relative_url }}" title="{{ page.parent_title | default: page_parent_label | escape }}">{{ ui.parent | default: 'Parent' }}</a>
       {% endif %}
       {% endunless %}
       <button class="nav-pill nav-pill-button site-search-nav-button" type="button" data-site-search-open aria-haspopup="dialog" aria-expanded="false">{{ ui.search | default: 'Search' }}</button>
-      {% unless is_home_page %}
+      {% unless is_home_page or is_tool_page %}
       <button class="nav-pill nav-pill-button article-header-pill article-header-outline" type="button" data-mobile-page-tools-toggle>{{ ui.outline | default: 'Outline' }}</button>
       {% endunless %}
       <button class="theme-toggle" type="button" data-theme-toggle aria-label="{{ ui.switch_theme | default: 'Switch theme' | escape }}" title="{{ ui.switch_theme | default: 'Switch theme' | escape }}">

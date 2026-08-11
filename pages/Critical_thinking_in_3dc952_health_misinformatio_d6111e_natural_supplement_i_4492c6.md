@@ -390,7 +390,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
 </h4>
 <p class="fr-book-author">By Ben Goldacre</p>
-
+        
 <p class="fr-book-desc">Addresses misleading health marketing and evidence quality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
 <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
 </h4>
 <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
-
+        
 <p class="fr-book-desc">Promotes evidence-based reasoning over intuition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
 <a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Food rules">Food rules</a>
 </h4>
 <p class="fr-book-author">By Michael Pollan, Laura Manero Jiménez;</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Nutrition, Food habits, food, eating, consumption.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Food+rules+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ St John's wort demonstrates why that distinction matters. A product can be plant
 <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
 </h4>
 <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

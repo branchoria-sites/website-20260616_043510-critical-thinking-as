@@ -470,89 +470,89 @@ Research on misinformation suggests that people frequently fail to focus on accu
 Rewriting vague viral posts into precise, answerable questions creates exactly that shift. It forces attention away from the emotional package and towards the factual proposition. Once the claim is clear, evidence has something concrete to test. Without that step, fact-checking often becomes little more than arguing with a feeling.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How vague posts become checkable claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How vague posts become checkable claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
-        <p class="fr-book-desc">Teaches readers to extract and test claims hidden inside persuasive language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+        
+<p class="fr-book-desc">Teaches readers to extract and test claims hidden inside persuasive language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-
-        <p class="fr-book-desc">Promotes skeptical examination of claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
+        
+<p class="fr-book-desc">Promotes skeptical examination of claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
-
-        <p class="fr-book-desc">Provides tools for unpacking vague or misleading information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
+        
+<p class="fr-book-desc">Provides tools for unpacking vague or misleading information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
-
-        <p class="fr-book-desc">Focuses on turning assertions into questions that evidence can address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
+        
+<p class="fr-book-desc">Focuses on turning assertions into questions that evidence can address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

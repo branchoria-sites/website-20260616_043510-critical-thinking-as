@@ -397,89 +397,89 @@ If a suspicious text is received, UK cyber-security guidance recommends forwardi
 In the broader context of critical thinking and online information, parking fine scams demonstrate how easily authority can be simulated. The appearance of enforcement, a deadline and an official-sounding acronym can create enough pressure to override caution. The most effective defence is not recognising every scam in advance but developing the habit of verifying payment and appeal routes before responding to any demand that claims official authority. [British Parking Association+2Traffic Penalty Tribunal](https://www.britishparking.co.uk/protect-yourself-from-fraud)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Fine Message Borrows Authority. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Fine Message Borrows Authority. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
-
-        <p class="fr-book-desc">Shows how urgency and intuition can bypass careful evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
+        
+<p class="fr-book-desc">Shows how urgency and intuition can bypass careful evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
-
-        <p class="fr-book-desc">Explains judgment errors scammers exploit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+        
+<p class="fr-book-desc">Explains judgment errors scammers exploit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The confidence game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8844382-M.jpg" alt="Cover for The confidence game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The confidence game">The confidence game</a>
-        </h4>
-        <p class="fr-book-author">By Maria Konnikova, Maria-Konnikova</p>
-
-        <p class="fr-book-desc">Explains manipulation tactics used by fraudsters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The confidence game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8844382-M.jpg" alt="Cover for The confidence game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The confidence game">The confidence game</a>
+</h4>
+<p class="fr-book-author">By Maria Konnikova, Maria-Konnikova</p>
+        
+<p class="fr-book-desc">Explains manipulation tactics used by fraudsters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+confidence+game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scam Me If You Can on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8780276-M.jpg" alt="Cover for Scam Me If You Can" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scam Me If You Can">Scam Me If You Can</a>
-        </h4>
-        <p class="fr-book-author">By Frank Abagnale</p>
-
-        <p class="fr-book-desc">Covers modern scams, impersonation and verification habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scam Me If You Can on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8780276-M.jpg" alt="Cover for Scam Me If You Can" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scam Me If You Can">Scam Me If You Can</a>
+</h4>
+<p class="fr-book-author">By Frank Abagnale</p>
+        
+<p class="fr-book-desc">Covers modern scams, impersonation and verification habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scam+Me+If+You+Can+Frank+Abagnale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+confidence+game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The confidence game</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+confidence+game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The confidence game</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -371,89 +371,89 @@ In practical terms, the most effective accuracy prompt may be the one users give
 <img src="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Critical_thinking_in_3dc952_health_misinformatio_d6111e_accuracy_prompts_hea_ba8b2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The pause that stops false health posts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The pause that stops false health posts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
-
-        <p class="fr-book-desc">Explains why people share information without careful evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
+        
+<p class="fr-book-desc">Explains why people share information without careful evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
-        <p class="fr-book-desc">Provides practical techniques for accuracy-focused evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+        
+<p class="fr-book-desc">Provides practical techniques for accuracy-focused evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
-
-        <p class="fr-book-desc">Shows how accuracy improves when intuition is challenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+        
+<p class="fr-book-desc">Shows how accuracy improves when intuition is challenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
-
-        <p class="fr-book-desc">Encourages checking evidence before accepting health claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
+        
+<p class="fr-book-desc">Encourages checking evidence before accepting health claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -31,6 +31,14 @@ endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
+social_cards_enabled: true
+social_infographic_candidates_enabled: true
+social_card_max_level: 0
+social_card_template_version: '2'
+social_preview_audit_enabled: true
+social_preview_contact_sheet_enabled: true
+native_share_enabled: true
+article_schema_enabled: true
 baseurl: ""
 url: "https://think-before-sharing.branchoria.com"
 ui_priority: 'home-first'
@@ -39,7 +47,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1784390045'
+ui_bundle_version: 'build-1786461837'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
@@ -193,7 +201,23 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search

@@ -524,89 +524,89 @@ News deserts make misinformation more likely not because residents are unusually
 The safest habit is to treat local claims as both important and unfinished. Important, because they may affect real neighbours and decisions. Unfinished, because a familiar place name, a confident caption or a community-group share is not the same as evidence. In the age of social media and AI, critical thinking starts with a pause: who knows this, how do they know it, and where is the local record that can be checked?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Local Feeds Replace Local News. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Local Feeds Replace Local News. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-
-        <p class="fr-book-desc">Explains why reporting institutions matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+        
+<p class="fr-book-desc">Explains why reporting institutions matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosting the News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515888-M.jpg" alt="Cover for Ghosting the News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosting the News">Ghosting the News</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Sullivan</p>
-
-        <p class="fr-book-desc">Directly examines the consequences of local news loss.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosting the News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515888-M.jpg" alt="Cover for Ghosting the News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosting the News">Ghosting the News</a>
+</h4>
+<p class="fr-book-author">By Margaret Sullivan</p>
+        
+<p class="fr-book-desc">Directly examines the consequences of local news loss.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosting+the+News+Margaret+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News and How to Use It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12418127-M.jpg" alt="Cover for News and How to Use It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
-        </h4>
-        <p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
-
-        <p class="fr-book-desc">Helps readers understand the role of news in civic life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open News and How to Use It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12418127-M.jpg" alt="Cover for News and How to Use It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="News and How to Use It">News and How to Use It</a>
+</h4>
+<p class="fr-book-author">By Alan Rusbridger, Samuel West</p>
+        
+<p class="fr-book-desc">Helps readers understand the role of news in civic life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=News+and+How+to+Use+It+Alan+Rusbridger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
-
-        <p class="fr-book-desc">Addresses trust and authority when institutions weaken.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+        
+<p class="fr-book-desc">Addresses trust and authority when institutions weaken.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosting+the+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosting the News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=News+and+How+to+Use+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">News and How to Use It</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosting+the+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosting the News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=News+and+How+to+Use+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">News and How to Use It</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
