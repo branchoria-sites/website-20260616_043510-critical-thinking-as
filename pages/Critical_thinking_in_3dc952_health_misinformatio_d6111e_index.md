@@ -14,7 +14,7 @@ parent_nav_short_title: Health Claims
 parent_permalink: /health-claims/
 ---
 
-# Explore Topics in Health Claims
+## Explore Topics in Health Claims
 
 The following pages expand on the main **[Health Claims]({{ '/health-claims/' | relative_url }})** page and cover its key branches in.
 
