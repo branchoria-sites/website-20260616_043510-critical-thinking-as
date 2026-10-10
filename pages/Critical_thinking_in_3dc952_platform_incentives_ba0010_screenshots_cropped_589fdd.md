@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_platform_incentives_ba0010_screenshots_cropped_589fdd
 parent_basename: Critical_thinking_in_3dc952_platform_incentives_ba0010

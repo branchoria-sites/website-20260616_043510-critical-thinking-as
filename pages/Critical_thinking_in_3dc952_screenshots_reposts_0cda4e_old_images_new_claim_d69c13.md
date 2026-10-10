@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_screenshots_reposts_0cda4e_old_images_new_claim_d69c13
 parent_basename: Critical_thinking_in_3dc952_screenshots_reposts_0cda4e

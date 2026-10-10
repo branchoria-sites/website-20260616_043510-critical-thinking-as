@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_claim_naming_ad2b46_image_video_claim_na_6a1314
 parent_basename: Critical_thinking_in_3dc952_claim_naming_ad2b46

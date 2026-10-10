@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_ai_hallucinations_d5a273_fluency_vs_evidence_af7764
 parent_basename: Critical_thinking_in_3dc952_ai_hallucinations_d5a273

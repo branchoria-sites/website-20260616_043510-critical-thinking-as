@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_deepfake_checks_dc53bd_detector_score_limit_aedb14
 parent_basename: Critical_thinking_in_3dc952_deepfake_checks_dc53bd

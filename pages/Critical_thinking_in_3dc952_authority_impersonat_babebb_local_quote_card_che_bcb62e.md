@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_authority_impersonat_babebb_local_quote_card_che_bcb62e
 parent_basename: Critical_thinking_in_3dc952_authority_impersonat_babebb

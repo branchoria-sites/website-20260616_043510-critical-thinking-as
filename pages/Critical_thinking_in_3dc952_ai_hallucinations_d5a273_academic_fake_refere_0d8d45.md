@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_ai_hallucinations_d5a273_academic_fake_refere_0d8d45
 parent_basename: Critical_thinking_in_3dc952_ai_hallucinations_d5a273
