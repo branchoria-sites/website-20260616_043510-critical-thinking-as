@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_own_research_cherry_4b8483_ai_citation_checking_2a0df3
 parent_basename: Critical_thinking_in_3dc952_own_research_cherry_4b8483

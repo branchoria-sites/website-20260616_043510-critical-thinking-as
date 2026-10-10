@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_mixed_social_feeds_89205c_platform_cues_credib_dd8e56
 parent_basename: Critical_thinking_in_3dc952_mixed_social_feeds_89205c

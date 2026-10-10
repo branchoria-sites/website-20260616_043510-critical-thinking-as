@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c_ai_citation_claim_ch_bacf8e
 parent_basename: Critical_thinking_in_3dc952_chatbots_tutors_ed0c7c

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_mixed_social_feeds_89205c_synthetic_media_quic_ed7c8f
 parent_basename: Critical_thinking_in_3dc952_mixed_social_feeds_89205c

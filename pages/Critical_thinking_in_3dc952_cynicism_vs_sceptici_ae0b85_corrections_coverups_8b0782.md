@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85_corrections_coverups_8b0782
 parent_basename: Critical_thinking_in_3dc952_cynicism_vs_sceptici_ae0b85

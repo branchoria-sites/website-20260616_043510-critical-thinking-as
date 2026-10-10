@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 16:26:45'
 level: 3
 basename: Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5_funny_ai_fakes_528d93
 parent_basename: Critical_thinking_in_3dc952_ai_misinformation_vi_1417a5

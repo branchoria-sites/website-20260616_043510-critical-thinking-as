@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 16:56:05'
 title: Critical thinking in the age of social media and A Sub-Topic Index
 title_full: Critical thinking in the age of social media and A Sub-Topic Index
 display_title: Sub-Topic Index
