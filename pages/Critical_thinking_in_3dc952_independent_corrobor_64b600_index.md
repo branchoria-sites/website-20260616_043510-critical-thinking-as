@@ -5,7 +5,7 @@ title_full: Corroboration Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /critical-thinking-in-3dc952/
+permalink: /critical-thinking-in-3dc952-corroboration/
 description: Focused pages that expand on Corroboration.
 date: '2026'
 layout: default
